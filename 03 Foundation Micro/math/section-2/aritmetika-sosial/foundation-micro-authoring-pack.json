@@ -1,0 +1,833 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Aritmetika sosial",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep aritmetika sosial sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "aritmetika_sosial_dasar",
+      "concept_name": "Fondasi Aritmetika sosial",
+      "concept_description": "Penguatan konsep inti aritmetika sosial dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Pemodelan Matematika",
+      "subtopic": "Aritmetika sosial",
+      "target_error_tags": [
+        "numeric_mismatch"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "aritmetika-sosial-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "aritmetika-sosial"
+      ],
+      "question": "Harga Rp80.000 didiskon 25%, harga akhir...",
+      "options": [
+        "Rp50.000",
+        "Rp55.000",
+        "Rp60.000",
+        "Rp65.000"
+      ],
+      "answer": 2,
+      "rationale": "Diskon 20.000, harga akhir 60.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp50.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp60.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Harga Rp80.000 didiskon 25%, harga akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp55.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp60.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Harga Rp80.000 didiskon 25%, harga akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp65.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp60.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Harga Rp80.000 didiskon 25%, harga akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "aritmetika-sosial"
+      ],
+      "question": "Beli Rp50.000, jual Rp60.000. Untung...",
+      "options": [
+        "Rp5.000",
+        "Rp10.000",
+        "Rp15.000",
+        "Rp20.000"
+      ],
+      "answer": 1,
+      "rationale": "$Untung=60$.000-50. $000=10$.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp5.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp10.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Beli Rp50.000, jual Rp60.000. Untung...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp15.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp10.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Beli Rp50.000, jual Rp60.000. Untung...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp20.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp10.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Beli Rp50.000, jual Rp60.000. Untung...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "aritmetika-sosial"
+      ],
+      "question": "3 kg apel seharga Rp45.000. Harga per kg...",
+      "options": [
+        "Rp10.000",
+        "Rp12.000",
+        "Rp15.000",
+        "Rp18.000"
+      ],
+      "answer": 2,
+      "rationale": "45.000 ÷ 3 = 15.000 (rupiah per unit).",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp10.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp15.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «3 kg apel seharga Rp45.000. Harga per kg...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp12.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp15.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «3 kg apel seharga Rp45.000. Harga per kg...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp18.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp15.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «3 kg apel seharga Rp45.000. Harga per kg...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "aritmetika-sosial"
+      ],
+      "question": "Harga setelah diskon 20% dari Rp150.000 adalah...",
+      "options": [
+        "Rp110.000",
+        "Rp120.000",
+        "Rp125.000",
+        "Rp130.000"
+      ],
+      "answer": 1,
+      "rationale": "Diskon 30.000, akhir 120.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp110.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp120.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Harga setelah diskon 20% dari Rp150.000 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp125.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp120.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Harga setelah diskon 20% dari Rp150.000 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp130.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp120.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Harga setelah diskon 20% dari Rp150.000 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "aritmetika-sosial"
+      ],
+      "question": "Beli Rp40.000, jual rugi 10%. Harga jual...",
+      "options": [
+        "Rp34.000",
+        "Rp35.000",
+        "Rp36.000",
+        "Rp37.000"
+      ],
+      "answer": 2,
+      "rationale": "Rugi 10%=4.000, jual 36.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp34.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp36.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Beli Rp40.000, jual rugi 10%. Harga jual...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp35.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp36.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Beli Rp40.000, jual rugi 10%. Harga jual...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp37.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp36.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Beli Rp40.000, jual rugi 10%. Harga jual...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "aritmetika-sosial-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Diskon 10% dari Rp90.000 adalah...",
+      "options": [
+        "Rp8.000",
+        "Rp9.000",
+        "Rp10.000",
+        "Rp11.000"
+      ],
+      "answer": 1,
+      "rationale": "10% dari 90. $000=9$.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "persen_untung_rugi_salah_basis"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Harga akhir setelah diskon Rp6.000 dari Rp40.000...",
+      "options": [
+        "Rp34.000",
+        "Rp36.000",
+        "Rp46.000",
+        "Rp30.000"
+      ],
+      "answer": 0,
+      "rationale": "Kurangi langsung.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "diskon_dihitung_terbalik"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Beli 5 pensil Rp25.000, harga 1 pensil...",
+      "options": [
+        "Rp4.000",
+        "Rp5.000",
+        "Rp6.000",
+        "Rp7.000"
+      ],
+      "answer": 1,
+      "rationale": "25.000 ÷ 5 = 5.000 (rupiah per pensil).",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "harga_satuan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Untung jika beli 30.000 jual 36.000...",
+      "options": [
+        "4.000",
+        "5.000",
+        "6.000",
+        "7.000"
+      ],
+      "answer": 2,
+      "rationale": "Selisih 6.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "persen_untung_rugi_salah_basis"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Rugi jika beli 50.000 jual 45.000...",
+      "options": [
+        "3.000",
+        "4.000",
+        "5.000",
+        "6.000"
+      ],
+      "answer": 2,
+      "rationale": "Selisih 5.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "diskon_dihitung_terbalik"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Diskon 15% dari Rp200.000 adalah...",
+      "options": [
+        "20.000",
+        "25.000",
+        "30.000",
+        "35.000"
+      ],
+      "answer": 2,
+      "rationale": "10%=20.000 dan 5%=10.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "harga_satuan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Harga setelah diskon 5% dari Rp80.000...",
+      "options": [
+        "Rp74.000",
+        "Rp75.000",
+        "Rp76.000",
+        "Rp77.000"
+      ],
+      "answer": 2,
+      "rationale": "Diskon 4.000, sisa 76.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "persen_untung_rugi_salah_basis"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Beli 8 buku Rp64.000, harga per buku...",
+      "options": [
+        "6.000",
+        "7.000",
+        "8.000",
+        "9.000"
+      ],
+      "answer": 2,
+      "rationale": "64.000 ÷ 8 = 8.000 (rupiah per unit).",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "diskon_dihitung_terbalik"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Untung 20% dari modal Rp50.000 bernilai...",
+      "options": [
+        "8.000",
+        "9.000",
+        "10.000",
+        "12.000"
+      ],
+      "answer": 2,
+      "rationale": "20% dari 50. $000=10$.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "harga_satuan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Harga jual jika modal 40.000 untung 25%...",
+      "options": [
+        "45.000",
+        "48.000",
+        "50.000",
+        "52.000"
+      ],
+      "answer": 2,
+      "rationale": "Untung 10.000, jual 50.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "persen_untung_rugi_salah_basis"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Persen rugi jika beli 60.000 jual 54.000...",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "answer": 2,
+      "rationale": "Rugi 6.000 dari 60. $000=10$ %.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "diskon_dihitung_terbalik"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "aritmetika-sosial-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Aritmetika sosial",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "aritmetika_sosial_dasar"
+      ],
+      "question": "Diskon 30% dari 120.000, harga akhir...",
+      "options": [
+        "84.000",
+        "90.000",
+        "96.000",
+        "102.000"
+      ],
+      "answer": 0,
+      "rationale": "Diskon 36.000, akhir 84.000.",
+      "microLoop": {
+        "concept_id": "aritmetika_sosial_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "harga_satuan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

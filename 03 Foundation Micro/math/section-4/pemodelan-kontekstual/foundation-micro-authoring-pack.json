@@ -1,0 +1,830 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Perbandingan dalam konteks",
+    "grade_band": "smp_foundation",
+    "student_goal": "Siswa mampu memodelkan rasio dari soal cerita dan menyelesaikan persamaan sederhana.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "ratio_and_verbal_modeling",
+      "concept_name": "Model rasio dan translasi verbal",
+      "concept_description": "Membuat model matematika dari rasio dan kalimat verbal lalu menyelesaikannya.",
+      "topic": "Pemodelan Matematika",
+      "subtopic": "Perbandingan dalam konteks",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "plsv_off_by_one_kecil",
+        "plsv_off_by_one_besar"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "pm-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "pemodelan_kontekstual",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio umur A: $B=2$ :3 dan jumlah umur 25. Umur A adalah...",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": 1,
+      "rationale": "Total bagian 5, satu bagian 5, $umurA=10$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rasio umur A: B=2 :3 dan jumlah umur 25. Umur A adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 12 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rasio umur A: B=2 :3 dan jumlah umur 25. Umur A adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 15 menghasilkan bilangan yang lebih besar dari jawaban benar (10). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Rasio umur A: B=2 :3 dan jumlah umur 25. Umur A adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pm-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "pemodelan_kontekstual",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "**Jika** $2x-6=10$ ,maka x =...",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 2,
+      "rationale": "$2x=16sehinggax=8$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 2 menghasilkan bilangan yang lebih kecil dari jawaban benar (8). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Jika 2x-6=10 ,maka x =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 4 menghasilkan bilangan yang lebih kecil dari jawaban benar (8). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Jika 2x-6=10 ,maka x =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 16 menghasilkan bilangan yang lebih besar dari jawaban benar (8). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Jika 2x-6=10 ,maka x =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pm-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "pemodelan_kontekstual",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio merah: $biru=4$ :5. Jika total 27 kelereng, banyak biru adalah...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 9, satu bagian 3, biru 15.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 10 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio merah: biru=4 :5. Jika total 27 kelereng, banyak biru adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 12 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio merah: biru=4 :5. Jika total 27 kelereng, banyak biru adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 18 menghasilkan bilangan yang lebih besar dari jawaban benar (15). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Rasio merah: biru=4 :5. Jika total 27 kelereng, banyak biru adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pm-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "pemodelan_kontekstual",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio buku: $pena=3$ :2. Jika total 25 barang, banyak buku adalah...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 5, satu bagian 5, $buku=3x5=15$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 10 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio buku: pena=3 :2. Jika total 25 barang, banyak buku adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 12 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio buku: pena=3 :2. Jika total 25 barang, banyak buku adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 18 menghasilkan bilangan yang lebih besar dari jawaban benar (15). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Rasio buku: pena=3 :2. Jika total 25 barang, banyak buku adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pm-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "pemodelan_kontekstual",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "**Jika** $x+14=31$ , maka nilai x adalah...",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "$x=31-14=17$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 15 hampir sama dengan jawaban benar (17), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jika x+14=31 , maka nilai x adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "plsv_off_by_one_kecil",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 16 satu kurang dari nilai $x$ yang benar (17). Untuk $x+14=31$, seharusnya $x=31-14$; cek lagi pengurangan terakhir.",
+            "micro_lesson": "Setelah memindahkan konstanta, pastikan operasi terakhir di ruas $x$ benar-benar kebalikan dari yang di kiri.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+14=31$ adalah...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "plsv_off_by_one_besar",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 18 satu lebih dari nilai $x$ yang benar (17). Untuk $x+14=31$, hitung lagi $x=31-14$.",
+            "micro_lesson": "Kurangkan konstanta dari ruas kanan sekali saja; hindari mengurangi atau menjumlahkan ganda.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+14=31$ adalah...",
+              "options": [
+                "16",
+                "17",
+                "18",
+                "19"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "pm-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio 3:2 total 25. Bagian pertama adalah...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 5, satu bagian 5, bagian pertama 15.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "ratio_total_parts_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$x+9=15$ ,nilai x =...",
+      "options": [
+        "6",
+        "24",
+        "9",
+        "15"
+      ],
+      "answer": 0,
+      "rationale": "$x=15-9=6$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$3x=21$ ,nilai x =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$x=\\frac{21}{3}=7$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio pensil:pena 3:2 total 20. Banyak pensil...",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 5, satu bagian 4, pensil 12.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "unit_context_ignored"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$x-7=4$ ,nilai x =...",
+      "options": [
+        "-3",
+        "11",
+        "3",
+        "-11"
+      ],
+      "answer": 1,
+      "rationale": "$x=4+7=11$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio 5:3 total 24. Bagian pertama adalah...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 8, satu bagian 3, bagian pertama 15.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "ratio_total_parts_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$x+12=20$ ,nilai x =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=20-12=8$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio merah: $biru=2$ :5, total 28. Banyak biru adalah...",
+      "options": [
+        "8",
+        "10",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 7, satu bagian 4, $biru=5x4=20$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "unit_context_ignored"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$4x=36$ ,nilai x =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 3,
+      "rationale": "$x=\\frac{36}{4}=9$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio A: $B=1$ :4 dan jumlah 35. Nilai B adalah...",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "28"
+      ],
+      "answer": 3,
+      "rationale": "Total bagian 5, satu bagian 7, $B=4x7=28$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "ratio_total_parts_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "$x-15=9$ ,nilai x =...",
+      "options": [
+        "24",
+        "6",
+        "15",
+        "-24"
+      ],
+      "answer": 0,
+      "rationale": "$x=9+15=24$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "equation_translation_error"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "pm-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Perbandingan dalam konteks",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ratio_and_verbal_modeling"
+      ],
+      "question": "Rasio kucing: $burung=3$ :1 total 16 hewan. Jumlah kucing adalah...",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "15"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 4, satu bagian 4, $kucing=3x4=12$.",
+      "microLoop": {
+        "concept_id": "ratio_and_verbal_modeling",
+        "drill_focus": {
+          "source_error_tags": [
+            "unit_context_ignored"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    }
+  ]
+}

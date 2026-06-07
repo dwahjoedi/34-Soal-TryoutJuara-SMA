@@ -1,0 +1,1280 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "ipa",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Materi, perubahan fisika–kimia, gaya, kalor, cahaya, bunyi (Section 3).",
+    "requested_micro_concept_count": 3,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "fisika_vs_kimia",
+      "concept_name": "Perubahan fisika vs kimia",
+      "concept_description": "Ada atau tidaknya zat baru.",
+      "topic": "Materi & Perubahannya",
+      "subtopic": "Perubahan fisika vs kimia",
+      "target_error_tags": [
+        "campur_fisika_kimia",
+        "lupa_zat_baru"
+      ]
+    },
+    {
+      "concept_id": "gaya_dan_efek_benda",
+      "concept_name": "Gaya mengubah gerak atau bentuk",
+      "concept_description": "Gaya sebagai tarik/dorong; dampak pada gerak dan bentuk.",
+      "topic": "Gerak, Gaya & Energi",
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "target_error_tags": [
+        "abaikan_gaya",
+        "gerak_tanpa_gaya"
+      ]
+    },
+    {
+      "concept_id": "perpindahan_panas",
+      "concept_name": "Konduksi, konveksi, radiasi",
+      "concept_description": "Mekanisme perpindahan kalor sederhana.",
+      "topic": "Gerak, Gaya & Energi",
+      "subtopic": "Kalor & perpindahan panas",
+      "target_error_tags": [
+        "campur_mekanisme",
+        "radiasi_dianggap_konduksi"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "ipa-s3-main-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Es mencair menjadi air pada suhu tetap tekanan: peristiwa ini termasuk ...",
+      "options": [
+        "Perubahan fisika (wujud berubah, zat tetap H2O)",
+        "Perubahan kimia (zat baru)",
+        "Reaksi pembakaran",
+        "Fusi inti"
+      ],
+      "answer": 0,
+      "rationale": "Mencair = perubahan wujud, masih air.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «fisika vs kimia», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Besi berkarat membentuk oksida besi. Ini termasuk ...",
+      "options": [
+        "Perubahan kimia (zat baru)",
+        "Perubahan fisika saja",
+        "Pemisahan campuran",
+        "Penguapan saja"
+      ],
+      "answer": 0,
+      "rationale": "Karat = zat baru (oksida).",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «karat», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Gula larut dalam air membentuk larutan. Tanpa reaksi baru yang mengubah identitas molekul gula (model SD sederhana), ini sering diklasifikasikan sebagai ...",
+      "options": [
+        "Perubahan fisika (larutan homogen, mudah dipikirkan sebagai pencampuran)",
+        "Pembakaran",
+        "Karat",
+        "Fotosintesis"
+      ],
+      "answer": 0,
+      "rationale": "Level SD: melarutkan sering dikelompokkan fisika/pencampuran vs kimia yang jelas zat baru.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «larutan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Rem sepeda memperlambat roda karena ada ...",
+      "options": [
+        "Gaya gesek antara rem dan velg/roda",
+        "Gaya magnet pada rantai",
+        "Gaya gravitasi nol",
+        "Gaya archimedes"
+      ],
+      "answer": 0,
+      "rationale": "Gesekan kinetik rem melawan gerak relatif.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «gesek», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Memutar spons basah memeras air keluar: gaya pemain paling relevan adalah ...",
+      "options": [
+        "Gaya tekan/tarik yang mengubah bentuk spons",
+        "Gaya gravitasi bulan",
+        "Gaya Coulomb antar planet",
+        "Gaya buoyancy saja tanpa kontak"
+      ],
+      "answer": 0,
+      "rationale": "Tekanan tangan mengubah bentuk dan mengeluarkan air.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «bentuk», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Benda diam mulai bergerak jika resultan gaya ...",
+      "options": [
+        "Tidak nol (ada gaya neto)",
+        "Selalu nol",
+        "Hanya vertikal",
+        "Tak bergantung massa"
+      ],
+      "answer": 0,
+      "rationale": "Hukum Newton I/II level SD: resultan gaya memengaruhi gerak.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «resultan gaya», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Memanaskan sendok logam ujungnya di api, pegangan tetap lama terasa panas karena ...",
+      "options": [
+        "Konduksi panas sepanjang logam",
+        "Hanya radiasi tanpa kontak",
+        "Konveksi di dalam kayu pegangan",
+        "Pembekuan"
+      ],
+      "answer": 0,
+      "rationale": "Logam konduktor: panas merambat.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «konduksi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Air mendidih di panci, aliran naik-turun membentuk pola arus: ini perpindahan panas utama lewat ...",
+      "options": [
+        "Konveksi pada fluida",
+        "Konduksi saja dalam logam tanpa gerak fluida",
+        "Radiasi vakum",
+        "Hantaran nol"
+      ],
+      "answer": 0,
+      "rationale": "Fluida panas naik, dingin turun: konveksi.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «konveksi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-main-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Merasa hangat pada wajah saat berada di dekat api unggun meski tidak menyentuh api: perpindahan panas dominan adalah ...",
+      "options": [
+        "Radiasi",
+        "Konduksi melalui tongkat jauh",
+        "Konveksi dalam logam wajah",
+        "Pembekuan"
+      ],
+      "answer": 0,
+      "rationale": "Radiasi bisa melintasi ruang udara.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «radiasi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "ipa-s3-drill-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Membakar kertas menghasilkan abu: cenderung ...",
+      "options": [
+        "Fisika",
+        "Kimia",
+        "Tidak berubah",
+        "Hanya penguapan"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Memotong kertas: bentuk berubah, zat kertas tetap → ...",
+      "options": [
+        "Kimia",
+        "Fisika",
+        "Nuklir",
+        "Biologi evolusi"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Tanda perubahan kimia sering termasuk ...",
+      "options": [
+        "Tetap sama warna",
+        "Bau/zat baru",
+        "Suhu tetap selalu",
+        "Tidak ada energi"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Menguapnya air murni umumnya ...",
+      "options": [
+        "Fisika",
+        "Kimia selalu",
+        "Fusi inti",
+        "Korosi"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Perubahan fisika vs kimia",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Karat pada besi menandakan ...",
+      "options": [
+        "Zat baru terbentuk",
+        "Tidak ada reaksi",
+        "Hanya pemuaian",
+        "Hanya perubahan wujud air"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fisika_vs_kimia",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Gaya gravitasi Bumi pada benda arahnya umumnya ...",
+      "options": [
+        "Ke pusat bumi (ke bawah)",
+        "Ke atas",
+        "Mendatar saja",
+        "Acak"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Gaya normal pada benda di meja arahnya ...",
+      "options": [
+        "Tegak lurus permukaan penyangga",
+        "Selalu ke bawah pusat bumi",
+        "Sejajar meja saja",
+        "Nol selalu"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Magnet menarik klip besi: gaya ...",
+      "options": [
+        "Magnetik",
+        "Hanya gravitasi",
+        "Hanya berat nol",
+        "Bunyi"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Gaya bisa mengubah ...",
+      "options": [
+        "Hanya warna cat",
+        "Gerak atau bentuk benda",
+        "Hanya suhu inti bumi",
+        "Hanya massa inti"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-10",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Gaya & pengaruhnya terhadap benda",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Resultan nol pada benda bisa berarti ...",
+      "options": [
+        "Pasti tidak ada gaya sama sekali",
+        "Benda diam atau GLB konstan (model sederhana)",
+        "Selalu dipercepat",
+        "Selalu berputar"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "gaya_dan_efek_benda",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-11",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Logam di kompor cepat panas di ujung: ...",
+      "options": [
+        "Isolator",
+        "Konduktor",
+        "Vakum",
+        "Resistor arus"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-12",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Arus panas pada air mendidih yang naik: ...",
+      "options": [
+        "Konveksi",
+        "Hanya radiasi",
+        "Hanya konduksi vakum",
+        "Listrik"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-13",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Matahari ke bumi melewat ruang hampa: ...",
+      "options": [
+        "Konduksi",
+        "Radiasi",
+        "Konveksi zat padat",
+        "Suara"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-14",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Termos berisi isolator mengurangi ...",
+      "options": [
+        "Perpindahan panas",
+        "Massa air nol",
+        "Gravitasi",
+        "Cahaya selalu"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s3-drill-15",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Gerak, Gaya & Energi",
+      "subtopicId": null,
+      "subtopic": "Kalor & perpindahan panas",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-3/materi-gaya-kalor-cahaya-bunyi"
+      ],
+      "question": "Pemuaian logam dipanaskan: ...",
+      "options": [
+        "Memendek pasti",
+        "Cenderung memanjang/membesar",
+        "Menghilang",
+        "Menjadi cair selalu"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "perpindahan_panas",
+        "drill_focus": {
+          "source_error_tags": [
+            "campur_fisika_kimia"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    }
+  ]
+}

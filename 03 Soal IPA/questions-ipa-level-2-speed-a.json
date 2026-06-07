@@ -1,0 +1,1852 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Pertumbuhan & perkembangan",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "tumbuhan",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Kelas 5 menanam biji kacang hijau pada tiga gelas. Jumlah biji, jenis kapas, dan suhu ruangan dibuat sama.\n\nGelas\tKondisi\tHasil hari ke-4\nA\tKapas basah, terkena cahaya tidak langsung\t8 dari 10 biji berkecambah\nB\tKapas basah, disimpan gelap\t7 dari 10 biji berkecambah, pucuk lebih pucat\nC\tKapas kering, terkena cahaya tidak langsung\t0 dari 10 biji berkecambah\n\nKesimpulan yang paling tepat dari data tersebut adalah ...",
+    "options": [
+      "Cahaya adalah satu-satunya syarat agar biji dapat berkecambah dengan baik, sehingga gelas gelap seharusnya tidak tumbuh sama sekali",
+      "Biji tidak memerlukan air selama masih memiliki cadangan makanan di dalam biji",
+      "Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul",
+      "Semua kondisi menghasilkan pertumbuhan sama karena jenis biji dan suhu ruang dibuat sama"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Bandingkan gelas yang kondisinya mirip. Gelas A dan B sama-sama memiliki kapas basah, sehingga keduanya tetap dapat berkecambah meskipun cahaya berbeda.\nLangkah 2: Perhatikan gelas C. Gelas C mendapat cahaya, tetapi kapasnya kering dan tidak ada biji yang berkecambah. Ini menunjukkan bahwa **air** menjadi syarat penting pada tahap awal perkecambahan.\nLangkah 3: Jangan menyamakan perkecambahan dengan fotosintesis. Biji masih memakai cadangan makanan di dalam biji saat awal tumbuh, sedangkan cahaya lebih jelas memengaruhi warna dan pertumbuhan pucuk setelah kecambah muncul.\nLangkah 4: Jadi kesimpulan terbaik adalah air lebih menentukan munculnya kecambah pada data ini, sementara cahaya memengaruhi kualitas pertumbuhan pucuk.\n\n**Materi terkait:**\n- **Perkecambahan** adalah awal pertumbuhan biji menjadi kecambah. Biji membutuhkan air, udara, dan suhu yang sesuai.\n- **Fotosintesis** mulai penting ketika daun hijau sudah berkembang, karena daun membutuhkan cahaya untuk membuat makanan.\n- Percobaan adil harus menjaga variabel lain tetap sama, misalnya jumlah biji, jenis kapas, dan suhu.\n\nInsight kunci: Data perlu dibaca dengan membandingkan satu faktor pada satu waktu. Pada soal ini, cahaya bukan tidak penting, tetapi data menunjukkan air adalah pembeda utama antara biji yang tumbuh dan tidak tumbuh.\nKenapa opsi lain salah: A terlalu jauh karena gelas B tetap berkecambah dalam gelap; B salah karena gelas C mendapat cahaya tetapi tidak tumbuh; D salah karena data justru menunjukkan perbedaan hasil antar kondisi.\nJawaban akhir: **Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul**.",
+    "content": {
+      "question": "Kelas 5 menanam biji kacang hijau pada tiga gelas. Jumlah biji, jenis kapas, dan suhu ruangan dibuat sama.\n\nGelas\tKondisi\tHasil hari ke-4\nA\tKapas basah, terkena cahaya tidak langsung\t8 dari 10 biji berkecambah\nB\tKapas basah, disimpan gelap\t7 dari 10 biji berkecambah, pucuk lebih pucat\nC\tKapas kering, terkena cahaya tidak langsung\t0 dari 10 biji berkecambah\n\nKesimpulan yang paling tepat dari data tersebut adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kelas 5 menanam biji kacang hijau pada tiga gelas. Jumlah biji, jenis kapas, dan suhu ruangan dibuat sama."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Gelas"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hasil hari ke-4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kapas basah, terkena cahaya tidak langsung"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8 dari 10 biji berkecambah"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kapas basah, disimpan gelap"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "7 dari 10 biji berkecambah, pucuk lebih pucat"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kapas kering, terkena cahaya tidak langsung"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0 dari 10 biji berkecambah"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan yang paling tepat dari data tersebut adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Cahaya adalah satu-satunya syarat agar biji dapat berkecambah dengan baik, sehingga gelas gelap seharusnya tidak tumbuh sama sekali",
+        "Biji tidak memerlukan air selama masih memiliki cadangan makanan di dalam biji",
+        "Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul",
+        "Semua kondisi menghasilkan pertumbuhan sama karena jenis biji dan suhu ruang dibuat sama"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cahaya adalah satu-satunya syarat agar biji dapat berkecambah dengan baik, sehingga gelas gelap seharusnya tidak tumbuh sama sekali"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Biji tidak memerlukan air selama masih memiliki cadangan makanan di dalam biji"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semua kondisi menghasilkan pertumbuhan sama karena jenis biji dan suhu ruang dibuat sama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Bandingkan gelas yang kondisinya mirip. Gelas A dan B sama-sama memiliki kapas basah, sehingga keduanya tetap dapat berkecambah meskipun cahaya berbeda.\nLangkah 2: Perhatikan gelas C. Gelas C mendapat cahaya, tetapi kapasnya kering dan tidak ada biji yang berkecambah. Ini menunjukkan bahwa **air** menjadi syarat penting pada tahap awal perkecambahan.\nLangkah 3: Jangan menyamakan perkecambahan dengan fotosintesis. Biji masih memakai cadangan makanan di dalam biji saat awal tumbuh, sedangkan cahaya lebih jelas memengaruhi warna dan pertumbuhan pucuk setelah kecambah muncul.\nLangkah 4: Jadi kesimpulan terbaik adalah air lebih menentukan munculnya kecambah pada data ini, sementara cahaya memengaruhi kualitas pertumbuhan pucuk.\n\n**Materi terkait:**\n- **Perkecambahan** adalah awal pertumbuhan biji menjadi kecambah. Biji membutuhkan air, udara, dan suhu yang sesuai.\n- **Fotosintesis** mulai penting ketika daun hijau sudah berkembang, karena daun membutuhkan cahaya untuk membuat makanan.\n- Percobaan adil harus menjaga variabel lain tetap sama, misalnya jumlah biji, jenis kapas, dan suhu.\n\nInsight kunci: Data perlu dibaca dengan membandingkan satu faktor pada satu waktu. Pada soal ini, cahaya bukan tidak penting, tetapi data menunjukkan air adalah pembeda utama antara biji yang tumbuh dan tidak tumbuh.\nKenapa opsi lain salah: A terlalu jauh karena gelas B tetap berkecambah dalam gelap; B salah karena gelas C mendapat cahaya tetapi tidak tumbuh; D salah karena data justru menunjukkan perbedaan hasil antar kondisi.\nJawaban akhir: **Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan gelas yang kondisinya mirip. Gelas A dan B sama-sama memiliki kapas basah, sehingga keduanya tetap dapat berkecambah meskipun cahaya berbeda.\nLangkah 2: Perhatikan gelas C. Gelas C mendapat cahaya, tetapi kapasnya kering dan tidak ada biji yang berkecambah. Ini menunjukkan bahwa air menjadi syarat penting pada tahap awal perkecambahan.\nLangkah 3: Jangan menyamakan perkecambahan dengan fotosintesis. Biji masih memakai cadangan makanan di dalam biji saat awal tumbuh, sedangkan cahaya lebih jelas memengaruhi warna dan pertumbuhan pucuk setelah kecambah muncul.\nLangkah 4: Jadi kesimpulan terbaik adalah air lebih menentukan munculnya kecambah pada data ini, sementara cahaya memengaruhi kualitas pertumbuhan pucuk."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Perkecambahan adalah awal pertumbuhan biji menjadi kecambah. Biji membutuhkan air, udara, dan suhu yang sesuai.\n- Fotosintesis mulai penting ketika daun hijau sudah berkembang, karena daun membutuhkan cahaya untuk membuat makanan.\n- Percobaan adil harus menjaga variabel lain tetap sama, misalnya jumlah biji, jenis kapas, dan suhu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data perlu dibaca dengan membandingkan satu faktor pada satu waktu. Pada soal ini, cahaya bukan tidak penting, tetapi data menunjukkan air adalah pembeda utama antara biji yang tumbuh dan tidak tumbuh.\nKenapa opsi lain salah: A terlalu jauh karena gelas B tetap berkecambah dalam gelap; B salah karena gelas C mendapat cahaya tetapi tidak tumbuh; D salah karena data justru menunjukkan perbedaan hasil antar kondisi.\nJawaban akhir: Air diperlukan untuk perkecambahan awal, sedangkan cahaya memengaruhi pertumbuhan pucuk setelah kecambah muncul."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sel & jaringan",
+    "skill_type": "understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "sel",
+      "jaringan"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa tergores ringan di lengan. Beberapa hari kemudian, kulit baru menutup luka kecil itu. Guru menjelaskan bahwa banyak sel kulit yang membelah dan tersusun rapi kembali. Pernyataan yang paling tepat tentang hubungan **sel-jaringan-organ** pada peristiwa ini adalah ...",
+    "options": [
+      "Sel kulit sejenis membentuk jaringan, dan beberapa jaringan menyusun kulit sebagai organ pelindung tubuh",
+      "Kulit disebut jaringan karena hanya terdiri dari satu macam sel yang tidak bekerja sama dengan bagian lain",
+      "Darah yang keluar dari luka adalah organ utama, sedangkan kulit hanya lapisan benda mati",
+      "Luka menutup karena kulit mengeras sendiri tanpa pembelahan sel baru"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Luka kecil pada kulit melibatkan bagian tubuh yang tersusun dari banyak sel. Sel-sel kulit dapat membelah untuk mengganti sel yang rusak.\nLangkah 2: Banyak sel sejenis yang bekerja sama membentuk **jaringan**. Pada kulit, jaringan epitel membantu menutup dan melindungi permukaan tubuh.\nLangkah 3: Kulit sebagai **organ** tersusun dari beberapa jaringan, bukan hanya satu sel. Karena itu penyembuhan luka kecil terjadi lewat kerja banyak sel dan jaringan yang teratur.\n\n**Materi terkait:**\n- Urutan organisasi kehidupan dari kecil ke besar adalah **sel -> jaringan -> organ -> sistem organ -> organisme**.\n- Contoh jaringan: epitel sebagai pelindung, otot untuk gerak, dan darah untuk mengangkut zat.\n- Organ memiliki beberapa jaringan yang bekerja sama, misalnya kulit melindungi tubuh dan membantu merasakan sentuhan.\n\nInsight kunci: Jangan menyebut organ sebagai satu sel besar. Tubuh bekerja bertingkat: sel yang sama tugasnya membentuk jaringan, lalu beberapa jaringan membentuk organ.\nKenapa opsi lain salah: B menukar jaringan dengan organ; C salah karena kulit bukan sekadar cairan darah; D terlalu menyederhanakan karena penyembuhan luka melibatkan pembelahan sel dan penyusunan jaringan.\nJawaban akhir: **Sel kulit sejenis membentuk jaringan, dan beberapa jaringan menyusun kulit sebagai organ pelindung tubuh**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "reasoning",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "pernapasan",
+      "respirasi"
+    ],
+    "is_active": true,
+    "question": "Dalam percobaan aman di kelas, dua siswa meniup pelan ke air kapur jernih melalui sedotan bersih masing-masing. Setelah berjalan cepat di halaman selama 3 menit, mereka meniup lagi dengan lama yang sama. Air kapur setelah aktivitas tampak lebih cepat keruh. Penjelasan paling tepat adalah ...",
+    "options": [
+      "Setelah aktivitas, siswa mengeluarkan lebih banyak oksigen sehingga air kapur kehilangan warna",
+      "Air kapur menjadi keruh karena keringat siswa bercampur dengan udara di sekitar sedotan",
+      "Paru-paru menyimpan udara lebih lama setelah aktivitas sehingga air kapur terkena lebih sedikit gas, padahal frekuensi napas justru naik",
+      "Aktivitas membuat respirasi sel meningkat sehingga karbon dioksida yang dikeluarkan lewat napas lebih banyak"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Air kapur dapat menjadi keruh jika bereaksi dengan **karbon dioksida**. Jadi perubahan keruh memberi petunjuk tentang gas yang dikeluarkan saat bernapas.\nLangkah 2: Setelah berjalan cepat, otot membutuhkan lebih banyak energi. Sel tubuh melakukan respirasi lebih aktif, memakai oksigen dan menghasilkan karbon dioksida lebih banyak.\nLangkah 3: Karbon dioksida yang lebih banyak dibawa darah ke paru-paru, lalu dikeluarkan saat mengembuskan napas. Karena itu air kapur lebih cepat keruh setelah aktivitas.\nLangkah 4: Hubungkan sistemnya: pernapasan memasukkan dan mengeluarkan gas, sedangkan peredaran darah mengangkut gas antara paru-paru dan sel tubuh.\n\n**Materi terkait:**\n- **Pernapasan** adalah proses mengambil oksigen dan mengeluarkan karbon dioksida lewat organ pernapasan.\n- **Respirasi seluler** terjadi di sel untuk menghasilkan energi dari makanan dengan bantuan oksigen.\n- Saat aktivitas meningkat, napas dan denyut jantung dapat meningkat karena tubuh perlu mengangkut oksigen dan karbon dioksida lebih cepat.\n\nInsight kunci: Napas cepat setelah bergerak bukan tanda paru-paru bekerja sendiri tanpa alasan. Itu adalah respons tubuh agar kebutuhan energi sel terpenuhi dan sisa karbon dioksida cepat dibuang.\nKenapa opsi lain salah: A salah karena oksigen justru digunakan tubuh; B salah karena air kapur tidak mengukur keringat; C keliru karena paru-paru tetap melakukan pertukaran gas, bukan menyimpan udara.\nJawaban akhir: **Aktivitas membuat respirasi sel meningkat sehingga karbon dioksida yang dikeluarkan lewat napas lebih banyak**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem organ manusia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "sistem-tubuh",
+      "energi"
+    ],
+    "is_active": true,
+    "question": "Rani sarapan roti dan telur sebelum latihan menari. Satu jam kemudian ia merasa lebih kuat bergerak, tetapi napas dan denyut nadinya juga lebih cepat. Hubungan antar sistem tubuh yang paling tepat adalah ...",
+    "options": [
+      "Makanan dari lambung langsung berubah menjadi gerakan otot tanpa bantuan darah dan oksigen, sehingga sistem tubuh dianggap bekerja sendiri-sendiri",
+      "Pencernaan menyediakan zat makanan, pernapasan menyediakan oksigen, dan darah mengantar keduanya ke otot untuk menghasilkan energi",
+      "Paru-paru mencerna roti dan telur agar otot mendapat bahan bakar lebih cepat",
+      "Denyut nadi meningkat karena darah berhenti membawa oksigen saat tubuh mulai bergerak"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Roti dan telur masuk ke **sistem pencernaan**. Makanan dipecah menjadi zat gizi sederhana yang dapat diserap tubuh.\nLangkah 2: Zat gizi itu dibawa oleh darah ke sel-sel tubuh, termasuk otot kaki dan tangan yang aktif saat menari. Di sini **sistem peredaran darah** berperan sebagai pengangkut.\nLangkah 3: Otot juga membutuhkan oksigen dari **sistem pernapasan** untuk mengubah zat makanan menjadi energi. Karena kebutuhan energi naik saat latihan, napas dan denyut nadi ikut meningkat.\nLangkah 4: Jadi tiga sistem bekerja bersama: pencernaan menyediakan bahan, pernapasan menyediakan oksigen, dan peredaran darah mengantarkan keduanya ke sel.\n\n**Materi terkait:**\n- Sistem tubuh tidak bekerja sendiri-sendiri. Saat bergerak, otot membutuhkan zat makanan dan oksigen.\n- Darah mengangkut oksigen dari paru-paru dan zat makanan dari usus halus menuju sel.\n- Karbon dioksida dari sel dibawa kembali ke paru-paru untuk dikeluarkan.\n\nInsight kunci: Energi gerak berasal dari kerja sama beberapa sistem tubuh. Kalau hanya mengingat nama organ, hubungan sebab-akibatnya mudah terlewat.\nKenapa opsi lain salah: A terlalu sempit karena makanan tidak langsung berubah menjadi gerak tanpa proses sel; C salah karena paru-paru tidak mencerna makanan; D salah karena denyut nadi meningkat untuk mengangkut zat lebih cepat, bukan karena darah berhenti membawa oksigen.\nJawaban akhir: **Pencernaan menyediakan zat makanan, pernapasan menyediakan oksigen, dan darah mengantar keduanya ke otot untuk menghasilkan energi**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "kalor",
+      "table"
+    ],
+    "is_active": true,
+    "question": "Siswa menguji empat bahan untuk melapisi bagian luar botol minum agar air dingin tidak cepat menjadi hangat. Botol diisi air bersuhu sama, lalu diletakkan di tempat teduh selama 30 menit.\n\nBahan pelapis\tKenaikan suhu air\nKain wol\t2 derajat C\nAluminium tipis\t8 derajat C\nPlastik bening tipis\t6 derajat C\nKertas koran berlapis\t3 derajat C\n\nBahan yang paling baik sebagai isolator panas pada percobaan ini adalah ...",
+    "options": [
+      "Kain wol, karena kenaikan suhu air paling kecil",
+      "Aluminium tipis, karena logam tampak kuat dan mengilap",
+      "Plastik bening tipis, karena terlihat menutup permukaan botol",
+      "Kertas koran berlapis, karena kenaikan suhunya lebih kecil dari plastik tetapi bukan yang terkecil"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Tujuan percobaan adalah mencari bahan yang memperlambat perpindahan kalor dari lingkungan ke air dingin. Bahan terbaik membuat kenaikan suhu paling kecil.\nLangkah 2: Bandingkan data: kain wol menaikkan suhu air 2 derajat C, koran 3 derajat C, plastik 6 derajat C, dan aluminium 8 derajat C. Angka terkecil menunjukkan panas paling sedikit masuk ke air.\nLangkah 3: Maka kain wol paling baik sebagai **isolator** pada data ini. Aluminium justru membuat air cepat hangat karena logam umumnya mudah menghantarkan panas.\n\n**Materi terkait:**\n- **Konduktor** adalah bahan yang mudah menghantarkan panas, misalnya logam.\n- **Isolator** adalah bahan yang menghambat perpindahan panas, misalnya kain tebal, gabus, atau udara yang terperangkap.\n- Dalam termos, prinsip isolasi panas dipakai agar suhu minuman berubah lebih lambat.\n\nInsight kunci: Untuk membaca tabel kalor, jangan memilih bahan yang terdengar kuat atau mengilap. Pilih bahan berdasarkan data perubahan suhu dan konsep konduktor-isolator.\nKenapa opsi lain salah: B naik suhunya paling besar sehingga bukan isolator terbaik; C masih lebih banyak menerima panas daripada kain wol; D cukup baik, tetapi datanya masih kalah dari kain wol.\nJawaban akhir: **Kain wol, karena kenaikan suhu air paling kecil**.",
+    "content": {
+      "question": "Siswa menguji empat bahan untuk melapisi bagian luar botol minum agar air dingin tidak cepat menjadi hangat. Botol diisi air bersuhu sama, lalu diletakkan di tempat teduh selama 30 menit.\n\nBahan pelapis\tKenaikan suhu air\nKain wol\t2 derajat C\nAluminium tipis\t8 derajat C\nPlastik bening tipis\t6 derajat C\nKertas koran berlapis\t3 derajat C\n\nBahan yang paling baik sebagai isolator panas pada percobaan ini adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Siswa menguji empat bahan untuk melapisi bagian luar botol minum agar air dingin tidak cepat menjadi hangat. Botol diisi air bersuhu sama, lalu diletakkan di tempat teduh selama 30 menit."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bahan pelapis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kenaikan suhu air"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kain wol"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2 derajat C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Aluminium tipis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8 derajat C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Plastik bening tipis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6 derajat C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kertas koran berlapis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3 derajat C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bahan yang paling baik sebagai isolator panas pada percobaan ini adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Kain wol, karena kenaikan suhu air paling kecil",
+        "Aluminium tipis, karena logam tampak kuat dan mengilap",
+        "Plastik bening tipis, karena terlihat menutup permukaan botol",
+        "Kertas koran berlapis, karena kenaikan suhunya lebih kecil dari plastik tetapi bukan yang terkecil"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kain wol, karena kenaikan suhu air paling kecil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aluminium tipis, karena logam tampak kuat dan mengilap"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Plastik bening tipis, karena terlihat menutup permukaan botol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kertas koran berlapis, karena kenaikan suhunya lebih kecil dari plastik tetapi bukan yang terkecil"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Tujuan percobaan adalah mencari bahan yang memperlambat perpindahan kalor dari lingkungan ke air dingin. Bahan terbaik membuat kenaikan suhu paling kecil.\nLangkah 2: Bandingkan data: kain wol menaikkan suhu air 2 derajat C, koran 3 derajat C, plastik 6 derajat C, dan aluminium 8 derajat C. Angka terkecil menunjukkan panas paling sedikit masuk ke air.\nLangkah 3: Maka kain wol paling baik sebagai **isolator** pada data ini. Aluminium justru membuat air cepat hangat karena logam umumnya mudah menghantarkan panas.\n\n**Materi terkait:**\n- **Konduktor** adalah bahan yang mudah menghantarkan panas, misalnya logam.\n- **Isolator** adalah bahan yang menghambat perpindahan panas, misalnya kain tebal, gabus, atau udara yang terperangkap.\n- Dalam termos, prinsip isolasi panas dipakai agar suhu minuman berubah lebih lambat.\n\nInsight kunci: Untuk membaca tabel kalor, jangan memilih bahan yang terdengar kuat atau mengilap. Pilih bahan berdasarkan data perubahan suhu dan konsep konduktor-isolator.\nKenapa opsi lain salah: B naik suhunya paling besar sehingga bukan isolator terbaik; C masih lebih banyak menerima panas daripada kain wol; D cukup baik, tetapi datanya masih kalah dari kain wol.\nJawaban akhir: **Kain wol, karena kenaikan suhu air paling kecil**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Tujuan percobaan adalah mencari bahan yang memperlambat perpindahan kalor dari lingkungan ke air dingin. Bahan terbaik membuat kenaikan suhu paling kecil.\nLangkah 2: Bandingkan data: kain wol menaikkan suhu air 2 derajat C, koran 3 derajat C, plastik 6 derajat C, dan aluminium 8 derajat C. Angka terkecil menunjukkan panas paling sedikit masuk ke air.\nLangkah 3: Maka kain wol paling baik sebagai isolator pada data ini. Aluminium justru membuat air cepat hangat karena logam umumnya mudah menghantarkan panas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Konduktor adalah bahan yang mudah menghantarkan panas, misalnya logam.\n- Isolator adalah bahan yang menghambat perpindahan panas, misalnya kain tebal, gabus, atau udara yang terperangkap.\n- Dalam termos, prinsip isolasi panas dipakai agar suhu minuman berubah lebih lambat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Untuk membaca tabel kalor, jangan memilih bahan yang terdengar kuat atau mengilap. Pilih bahan berdasarkan data perubahan suhu dan konsep konduktor-isolator.\nKenapa opsi lain salah: B naik suhunya paling besar sehingga bukan isolator terbaik; C masih lebih banyak menerima panas daripada kain wol; D cukup baik, tetapi datanya masih kalah dari kain wol.\nJawaban akhir: Kain wol, karena kenaikan suhu air paling kecil."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "perubahan-zat"
+    ],
+    "is_active": true,
+    "question": "Empat peristiwa diamati di rumah: (1) pisang matang berubah kecokelatan, (2) air membeku menjadi es, (3) lilin meleleh saat dipanaskan, dan (4) kertas dibakar menjadi abu. Pasangan peristiwa yang termasuk **perubahan kimia** adalah ...",
+    "options": [
+      "(1) dan (2)",
+      "(2) dan (3)",
+      "(1) dan (4)",
+      "(3) dan (2)"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Perubahan kimia ditandai terbentuknya zat baru. Tanda yang sering muncul misalnya warna/bau berubah karena reaksi, terbentuk gas, endapan, atau sulit kembali seperti semula.\nLangkah 2: Pisang matang berubah kecokelatan melibatkan perubahan zat dalam buah. Kertas dibakar menjadi abu juga menghasilkan zat baru, yaitu abu dan gas hasil pembakaran.\nLangkah 3: Air membeku dan lilin meleleh adalah perubahan wujud. Zatnya masih air dan lilin, sehingga termasuk **perubahan fisika**.\n\n**Materi terkait:**\n- **Perubahan fisika** mengubah bentuk, ukuran, atau wujud tanpa membentuk zat baru.\n- **Perubahan kimia** membentuk zat baru dan sering sulit dikembalikan dengan cara sederhana.\n- Mencair, membeku, menguap, dan mengembun biasanya perubahan fisika jika zatnya tetap sama.\n\nInsight kunci: Jangan hanya melihat apakah benda berubah rupa. Tanyakan apakah zat baru terbentuk. Itulah pembeda utama fisika dan kimia.\nKenapa opsi lain salah: A memasukkan air membeku yang hanya perubahan wujud; B memasukkan lilin meleleh yang masih lilin; D memuat dua perubahan fisika.\nJawaban akhir: **(1) dan (4)**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "campuran",
+      "pemisahan"
+    ],
+    "is_active": true,
+    "question": "Nina memiliki campuran berisi kerikil kecil, pasir halus, dan air. Ia ingin mendapatkan air yang lebih jernih, bukan memisahkan garam terlarut. Urutan langkah yang paling masuk akal adalah ...",
+    "options": [
+      "Menguapkan seluruh air, lalu mengambil pasir dan kerikil yang tertinggal",
+      "Ambil/saring kerikil lebih dulu, lalu saring pasir halus dari air",
+      "Menyaring pasir halus dulu dengan kain sangat rapat, lalu baru memisahkan kerikil",
+      "Mendekatkan magnet agar kerikil dan pasir tertarik keluar dari air"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi ukuran partikel. Kerikil lebih besar daripada pasir, sedangkan pasir masih berupa padatan yang tidak larut dalam air.\nLangkah 2: Kerikil dapat dipisahkan lebih dulu dengan saringan berlubang agak besar atau diambil dengan alat. Setelah itu, pasir halus dipisahkan dari air menggunakan penyaringan lebih rapat.\nLangkah 3: Karena tidak ada garam terlarut yang ditargetkan, penguapan bukan langkah utama. Penguapan dipakai jika kita ingin mengambil zat terlarut seperti garam dari larutan.\nLangkah 4: Jadi urutan terbaik adalah memisahkan padatan besar dulu, lalu menyaring padatan halus dari air.\n\n**Materi terkait:**\n- **Filtrasi/penyaringan** cocok untuk memisahkan padatan tak larut dari cairan.\n- **Pengendapan** dapat membantu jika partikel padat cukup berat dan dibiarkan turun.\n- **Penguapan** cocok untuk memisahkan zat terlarut dari pelarut, misalnya garam dari air garam.\n\nInsight kunci: Cara pemisahan campuran dipilih berdasarkan sifat komponennya: ukuran partikel, kelarutan, dan perbedaan wujud. Satu metode tidak cocok untuk semua campuran.\nKenapa opsi lain salah: A kurang tepat karena penguapan tidak diperlukan untuk menjernihkan air dari pasir; C membalik urutan sehingga saringan halus cepat tersumbat; D salah karena magnet tidak menarik pasir dan kerikil biasa.\nJawaban akhir: **Ambil/saring kerikil lebih dulu, lalu saring pasir halus dari air**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "lingkungan",
+      "siklus-air"
+    ],
+    "is_active": true,
+    "question": "Warga membandingkan banyaknya air hujan yang meresap pada tiga permukaan halaman dengan luas sama.\n\nPermukaan\tAir hujan yang meresap dari 10 liter\nTanah berumput\t8 liter\nTanah padat tanpa tanaman\t4 liter\nPaving rapat\t1 liter\n\nJika suatu halaman luas diganti menjadi paving rapat tanpa area resapan, dampak yang paling mungkin adalah ...",
+    "options": [
+      "Air hujan makin banyak meresap karena paving memiliki sela kecil di seluruh permukaan",
+      "Halaman menjadi lebih aman dari genangan karena tanaman tidak lagi menghalangi air",
+      "Jumlah udara di halaman turun sehingga hujan berhenti lebih cepat",
+      "Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca pola data. Tanah berumput menyerap 8 liter, tanah padat 4 liter, dan paving rapat hanya 1 liter dari 10 liter air hujan.\nLangkah 2: Jika air tidak meresap, air akan lebih banyak mengalir di permukaan. Aliran permukaan yang besar dapat menambah beban selokan dan sungai kecil.\nLangkah 3: Maka penggantian halaman luas menjadi paving rapat dapat meningkatkan risiko genangan atau banjir lokal, terutama saat hujan deras.\nLangkah 4: Ini bukan hanya soal bahan halaman, tetapi hubungan antara permukaan tanah, infiltrasi, dan siklus air di lingkungan.\nLangkah 5: Solusi ilmiahnya bukan sekadar membersihkan genangan setelah hujan, tetapi menyediakan area resapan, tanah berumput, atau sumur resapan agar sebagian air kembali masuk ke tanah.\n\n**Materi terkait:**\n- **Infiltrasi** adalah proses masuknya air ke dalam tanah.\n- Akar tumbuhan dan tanah gembur membantu air meresap lebih baik.\n- Permukaan kedap seperti beton atau paving rapat mengurangi resapan dan meningkatkan aliran permukaan.\n\nInsight kunci: Banjir lokal tidak selalu karena hujan saja. Cara manusia menutup permukaan tanah dapat mengubah jalur air dari meresap menjadi mengalir cepat di permukaan.\nKenapa opsi lain salah: A bertentangan dengan data karena paving menyerap paling sedikit; B salah karena rumput justru membantu resapan; C terlalu sempit karena udara bukan faktor utama pada data ini.\nJawaban akhir: **Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat**.",
+    "content": {
+      "question": "Warga membandingkan banyaknya air hujan yang meresap pada tiga permukaan halaman dengan luas sama.\n\nPermukaan\tAir hujan yang meresap dari 10 liter\nTanah berumput\t8 liter\nTanah padat tanpa tanaman\t4 liter\nPaving rapat\t1 liter\n\nJika suatu halaman luas diganti menjadi paving rapat tanpa area resapan, dampak yang paling mungkin adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Warga membandingkan banyaknya air hujan yang meresap pada tiga permukaan halaman dengan luas sama."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Permukaan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Air hujan yang meresap dari 10 liter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tanah berumput"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8 liter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tanah padat tanpa tanaman"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "4 liter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Paving rapat"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1 liter"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika suatu halaman luas diganti menjadi paving rapat tanpa area resapan, dampak yang paling mungkin adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Air hujan makin banyak meresap karena paving memiliki sela kecil di seluruh permukaan",
+        "Halaman menjadi lebih aman dari genangan karena tanaman tidak lagi menghalangi air",
+        "Jumlah udara di halaman turun sehingga hujan berhenti lebih cepat",
+        "Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Air hujan makin banyak meresap karena paving memiliki sela kecil di seluruh permukaan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Halaman menjadi lebih aman dari genangan karena tanaman tidak lagi menghalangi air"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah udara di halaman turun sehingga hujan berhenti lebih cepat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Baca pola data. Tanah berumput menyerap 8 liter, tanah padat 4 liter, dan paving rapat hanya 1 liter dari 10 liter air hujan.\nLangkah 2: Jika air tidak meresap, air akan lebih banyak mengalir di permukaan. Aliran permukaan yang besar dapat menambah beban selokan dan sungai kecil.\nLangkah 3: Maka penggantian halaman luas menjadi paving rapat dapat meningkatkan risiko genangan atau banjir lokal, terutama saat hujan deras.\nLangkah 4: Ini bukan hanya soal bahan halaman, tetapi hubungan antara permukaan tanah, infiltrasi, dan siklus air di lingkungan.\nLangkah 5: Solusi ilmiahnya bukan sekadar membersihkan genangan setelah hujan, tetapi menyediakan area resapan, tanah berumput, atau sumur resapan agar sebagian air kembali masuk ke tanah.\n\n**Materi terkait:**\n- **Infiltrasi** adalah proses masuknya air ke dalam tanah.\n- Akar tumbuhan dan tanah gembur membantu air meresap lebih baik.\n- Permukaan kedap seperti beton atau paving rapat mengurangi resapan dan meningkatkan aliran permukaan.\n\nInsight kunci: Banjir lokal tidak selalu karena hujan saja. Cara manusia menutup permukaan tanah dapat mengubah jalur air dari meresap menjadi mengalir cepat di permukaan.\nKenapa opsi lain salah: A bertentangan dengan data karena paving menyerap paling sedikit; B salah karena rumput justru membantu resapan; C terlalu sempit karena udara bukan faktor utama pada data ini.\nJawaban akhir: **Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca pola data. Tanah berumput menyerap 8 liter, tanah padat 4 liter, dan paving rapat hanya 1 liter dari 10 liter air hujan.\nLangkah 2: Jika air tidak meresap, air akan lebih banyak mengalir di permukaan. Aliran permukaan yang besar dapat menambah beban selokan dan sungai kecil.\nLangkah 3: Maka penggantian halaman luas menjadi paving rapat dapat meningkatkan risiko genangan atau banjir lokal, terutama saat hujan deras.\nLangkah 4: Ini bukan hanya soal bahan halaman, tetapi hubungan antara permukaan tanah, infiltrasi, dan siklus air di lingkungan.\nLangkah 5: Solusi ilmiahnya bukan sekadar membersihkan genangan setelah hujan, tetapi menyediakan area resapan, tanah berumput, atau sumur resapan agar sebagian air kembali masuk ke tanah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Infiltrasi adalah proses masuknya air ke dalam tanah.\n- Akar tumbuhan dan tanah gembur membantu air meresap lebih baik.\n- Permukaan kedap seperti beton atau paving rapat mengurangi resapan dan meningkatkan aliran permukaan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Banjir lokal tidak selalu karena hujan saja. Cara manusia menutup permukaan tanah dapat mengubah jalur air dari meresap menjadi mengalir cepat di permukaan.\nKenapa opsi lain salah: A bertentangan dengan data karena paving menyerap paling sedikit; B salah karena rumput justru membantu resapan; C terlalu sempit karena udara bukan faktor utama pada data ini.\nJawaban akhir: Air lebih banyak mengalir di permukaan sehingga risiko genangan meningkat."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "rantai-makanan"
+    ],
+    "is_active": true,
+    "question": "Di sawah, padi dimakan tikus, tikus dimakan ular, dan ular dimakan burung elang. Petani memburu banyak ular karena takut, lalu beberapa minggu kemudian tanaman padi makin banyak rusak. Penjelasan sebab-akibat yang paling tepat adalah ...",
+    "options": [
+      "Ular berkurang, tikus lebih sedikit dimangsa, lalu padi lebih banyak dimakan tikus",
+      "Elang kekurangan ular sehingga mulai memakan tanaman padi di sawah, padahal elang tetap berperan sebagai pemangsa hewan dalam rantai makanan",
+      "Ular yang diburu meninggalkan racun di tanah sehingga padi rusak",
+      "Padi rusak karena semua hewan dalam rantai makanan memakan tumbuhan"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Susun rantai makanan dari informasi: padi -> tikus -> ular -> elang. Tikus memakan padi, sedangkan ular membantu mengendalikan jumlah tikus.\nLangkah 2: Jika ular banyak berkurang, tekanan pemangsa terhadap tikus ikut berkurang. Akibatnya populasi tikus dapat meningkat jika makanan masih tersedia.\nLangkah 3: Tikus yang bertambah akan memakan lebih banyak padi. Inilah hubungan tidak langsung antara memburu ular dan kerusakan tanaman padi.\n\n**Materi terkait:**\n- Dalam **rantai makanan**, perubahan satu populasi dapat memengaruhi populasi lain.\n- Pemangsa tidak hanya mengurangi mangsa, tetapi membantu menjaga keseimbangan ekosistem.\n- Pengendalian hama yang baik perlu mempertimbangkan hubungan antarorganisme, bukan hanya rasa takut terhadap satu hewan.\n\nInsight kunci: Ekosistem bekerja seperti jaringan hubungan. Menghilangkan satu pemangsa dapat membuat mangsa tertentu meningkat dan merusak bagian lain dari ekosistem.\nKenapa opsi lain salah: B salah karena elang tidak langsung memakan padi; C salah karena ular bukan penyebab langsung padi rusak; D terlalu sederhana karena mengabaikan peran tikus sebagai pemakan padi.\nJawaban akhir: **Ular berkurang, tikus lebih sedikit dimangsa, lalu padi lebih banyak dimakan tikus**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "adaptasi",
+      "bakau"
+    ],
+    "is_active": true,
+    "question": "Di pesisir berlumpur, pohon bakau memiliki akar tunjang yang tampak keluar dari tanah. Saat ombak datang, daerah yang banyak bakaunya cenderung lebih sedikit terkikis dibanding daerah terbuka. Fungsi adaptasi akar bakau yang paling tepat adalah ...",
+    "options": [
+      "Menyerap air sebanyak mungkin tanpa berhubungan dengan kondisi ombak",
+      "Menangkap cahaya matahari dari bawah agar daun tidak perlu berfotosintesis",
+      "Memperkuat cengkeraman pada tanah berlumpur dan membantu mengurangi kikisan ombak",
+      "Menolak seluruh air laut sehingga tanah di sekitar bakau menjadi benar-benar kering"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Perhatikan lingkungan bakau: tanah berlumpur, sering terkena air pasang, dan mendapat dorongan ombak. Tumbuhan di tempat seperti ini perlu menancap kuat.\nLangkah 2: Akar tunjang memperluas pegangan pohon pada tanah lunak. Akar juga membantu memecah energi ombak kecil sehingga tanah di sekitarnya tidak mudah terbawa air.\nLangkah 3: Jadi fungsi akar bakau bukan hanya mengambil air, tetapi juga membantu tumbuhan bertahan di lingkungan pesisir dan melindungi garis pantai.\nLangkah 4: Ini contoh **adaptasi struktur**, yaitu bentuk tubuh makhluk hidup yang membantu bertahan di habitatnya.\n\n**Materi terkait:**\n- **Adaptasi** adalah penyesuaian makhluk hidup terhadap lingkungan.\n- Adaptasi tumbuhan bisa berupa akar, batang, daun, atau cara berkembang biak.\n- Bakau penting bagi ekosistem pesisir karena menjadi tempat berlindung hewan kecil dan membantu mengurangi abrasi.\n\nInsight kunci: Bentuk tubuh makhluk hidup biasanya berkaitan dengan masalah di lingkungannya. Pada bakau, masalah utamanya adalah tanah lunak dan ombak, sehingga akar tunjang menjadi sangat berguna.\nKenapa opsi lain salah: A terlalu umum karena semua akar menyerap air, tetapi tidak menjelaskan ombak dan lumpur; B salah karena akar tidak berfungsi menangkap cahaya; D keliru karena bakau bukan menolak semua air laut, melainkan beradaptasi hidup di pesisir.\nJawaban akhir: **Memperkuat cengkeraman pada tanah berlumpur dan membantu mengurangi kikisan ombak**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "listrik",
+      "rangkaian"
+    ],
+    "is_active": true,
+    "question": "Sebuah kipas kecil memakai baterai. Ketika kabel penghubung longgar, kipas kadang berputar lalu berhenti. Setelah kabel dipasang rapat, kipas berputar stabil. Kesimpulan terbaik tentang rangkaian tersebut adalah ...",
+    "options": [
+      "Baterai berubah menjadi kosong setiap kali kipas berhenti sesaat",
+      "Kabel longgar membuat kipas menyimpan listrik sehingga putarannya tertunda",
+      "Udara di sekitar kipas menjadi penghantar utama saat kabel tidak menempel, sehingga arus dianggap bisa melompat melalui ruang terbuka",
+      "Sambungan longgar membuat rangkaian kadang terbuka sehingga arus ke motor kipas terputus"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Kipas membutuhkan arus listrik yang mengalir dari baterai melalui rangkaian tertutup. Jika ada bagian kabel longgar, jalur arus dapat terputus sebentar.\nLangkah 2: Saat jalur terputus, energi listrik tidak sampai ke motor kipas sehingga kipas berhenti. Saat kabel menyentuh lagi, arus mengalir dan kipas berputar kembali.\nLangkah 3: Setelah kabel dipasang rapat, rangkaian menjadi lebih stabil sehingga arus mengalir terus selama baterai masih cukup.\nLangkah 4: Jadi masalah utamanya adalah sambungan rangkaian, bukan perubahan jenis energi atau arah angin.\n\n**Materi terkait:**\n- **Rangkaian tertutup** memungkinkan arus listrik mengalir.\n- **Rangkaian terbuka** membuat arus berhenti karena jalurnya terputus.\n- Motor listrik mengubah energi listrik menjadi energi gerak.\n\nInsight kunci: Alat listrik sederhana tidak cukup hanya punya baterai. Semua bagian harus tersambung membentuk jalur tertutup agar energi listrik dapat sampai ke alat.\nKenapa opsi lain salah: A salah karena baterai tidak otomatis habis saat kabel longgar; B salah karena kabel longgar tidak membuat kipas menyimpan listrik; C keliru karena udara bukan penghubung utama arus pada rangkaian ini.\nJawaban akhir: **Sambungan longgar membuat rangkaian kadang terbuka sehingga arus ke motor kipas terputus**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "magnet",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Siswa membuat elektromagnet sederhana dengan paku besi, baterai, dan kawat berlapis. Jumlah lilitan kawat diubah, sedangkan baterai dan jenis paku tetap sama.\n\nJumlah lilitan\tKlip kertas yang terangkat\n10 lilitan\t3 klip\n20 lilitan\t7 klip\n30 lilitan\t11 klip\n\nKesimpulan yang paling didukung data adalah ...",
+    "options": [
+      "Jumlah lilitan tidak berpengaruh karena semua paku terbuat dari bahan yang sama",
+      "Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk",
+      "Klip terangkat lebih banyak karena baterai diganti menjadi lebih besar pada tiap percobaan, meskipun data menyebut baterai dibuat tetap",
+      "Elektromagnet lebih kuat daripada semua magnet permanen dalam keadaan apa pun"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi variabel yang diubah, yaitu jumlah lilitan kawat. Baterai dan paku dijaga tetap agar perbandingan lebih adil.\nLangkah 2: Baca pola data: 10 lilitan mengangkat 3 klip, 20 lilitan 7 klip, dan 30 lilitan 11 klip. Jumlah klip bertambah saat lilitan bertambah.\nLangkah 3: Elektromagnet bekerja karena arus listrik pada kawat menghasilkan medan magnet. Lebih banyak lilitan dapat memperkuat medan magnet pada paku, selama sumber listrik masih cukup.\nLangkah 4: Maka kesimpulan yang didukung data adalah semakin banyak lilitan, elektromagnet cenderung lebih kuat pada rentang percobaan ini.\nLangkah 5: Kesimpulan ini tetap harus dibatasi pada kondisi yang diuji, yaitu baterai dan paku yang sama. Jika baterai lemah atau kawat terlalu panas, hasil dapat berubah.\n\n**Materi terkait:**\n- **Elektromagnet** adalah magnet sementara yang muncul karena arus listrik.\n- Kekuatan elektromagnet dipengaruhi jumlah lilitan, kuat arus, dan bahan inti.\n- Kesimpulan percobaan harus sesuai data yang diuji, tidak boleh diperluas tanpa bukti.\n\nInsight kunci: Data yang naik teratur menunjukkan hubungan antara variabel bebas dan hasil. Namun, kita tetap membatasi kesimpulan pada kondisi percobaan yang sama.\nKenapa opsi lain salah: A bertentangan dengan pola data; C salah karena baterai dibuat tetap sehingga bukan penyebab perbedaan; D terlalu jauh karena data tidak membahas magnet permanen.\nJawaban akhir: **Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk**.",
+    "content": {
+      "question": "Siswa membuat elektromagnet sederhana dengan paku besi, baterai, dan kawat berlapis. Jumlah lilitan kawat diubah, sedangkan baterai dan jenis paku tetap sama.\n\nJumlah lilitan\tKlip kertas yang terangkat\n10 lilitan\t3 klip\n20 lilitan\t7 klip\n30 lilitan\t11 klip\n\nKesimpulan yang paling didukung data adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Siswa membuat elektromagnet sederhana dengan paku besi, baterai, dan kawat berlapis. Jumlah lilitan kawat diubah, sedangkan baterai dan jenis paku tetap sama."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jumlah lilitan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Klip kertas yang terangkat"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10 lilitan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3 klip"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "20 lilitan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "7 klip"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "30 lilitan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "11 klip"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan yang paling didukung data adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Jumlah lilitan tidak berpengaruh karena semua paku terbuat dari bahan yang sama",
+        "Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk",
+        "Klip terangkat lebih banyak karena baterai diganti menjadi lebih besar pada tiap percobaan, meskipun data menyebut baterai dibuat tetap",
+        "Elektromagnet lebih kuat daripada semua magnet permanen dalam keadaan apa pun"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah lilitan tidak berpengaruh karena semua paku terbuat dari bahan yang sama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klip terangkat lebih banyak karena baterai diganti menjadi lebih besar pada tiap percobaan, meskipun data menyebut baterai dibuat tetap"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Elektromagnet lebih kuat daripada semua magnet permanen dalam keadaan apa pun"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Identifikasi variabel yang diubah, yaitu jumlah lilitan kawat. Baterai dan paku dijaga tetap agar perbandingan lebih adil.\nLangkah 2: Baca pola data: 10 lilitan mengangkat 3 klip, 20 lilitan 7 klip, dan 30 lilitan 11 klip. Jumlah klip bertambah saat lilitan bertambah.\nLangkah 3: Elektromagnet bekerja karena arus listrik pada kawat menghasilkan medan magnet. Lebih banyak lilitan dapat memperkuat medan magnet pada paku, selama sumber listrik masih cukup.\nLangkah 4: Maka kesimpulan yang didukung data adalah semakin banyak lilitan, elektromagnet cenderung lebih kuat pada rentang percobaan ini.\nLangkah 5: Kesimpulan ini tetap harus dibatasi pada kondisi yang diuji, yaitu baterai dan paku yang sama. Jika baterai lemah atau kawat terlalu panas, hasil dapat berubah.\n\n**Materi terkait:**\n- **Elektromagnet** adalah magnet sementara yang muncul karena arus listrik.\n- Kekuatan elektromagnet dipengaruhi jumlah lilitan, kuat arus, dan bahan inti.\n- Kesimpulan percobaan harus sesuai data yang diuji, tidak boleh diperluas tanpa bukti.\n\nInsight kunci: Data yang naik teratur menunjukkan hubungan antara variabel bebas dan hasil. Namun, kita tetap membatasi kesimpulan pada kondisi percobaan yang sama.\nKenapa opsi lain salah: A bertentangan dengan pola data; C salah karena baterai dibuat tetap sehingga bukan penyebab perbedaan; D terlalu jauh karena data tidak membahas magnet permanen.\nJawaban akhir: **Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Identifikasi variabel yang diubah, yaitu jumlah lilitan kawat. Baterai dan paku dijaga tetap agar perbandingan lebih adil.\nLangkah 2: Baca pola data: 10 lilitan mengangkat 3 klip, 20 lilitan 7 klip, dan 30 lilitan 11 klip. Jumlah klip bertambah saat lilitan bertambah.\nLangkah 3: Elektromagnet bekerja karena arus listrik pada kawat menghasilkan medan magnet. Lebih banyak lilitan dapat memperkuat medan magnet pada paku, selama sumber listrik masih cukup.\nLangkah 4: Maka kesimpulan yang didukung data adalah semakin banyak lilitan, elektromagnet cenderung lebih kuat pada rentang percobaan ini.\nLangkah 5: Kesimpulan ini tetap harus dibatasi pada kondisi yang diuji, yaitu baterai dan paku yang sama. Jika baterai lemah atau kawat terlalu panas, hasil dapat berubah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Elektromagnet adalah magnet sementara yang muncul karena arus listrik.\n- Kekuatan elektromagnet dipengaruhi jumlah lilitan, kuat arus, dan bahan inti.\n- Kesimpulan percobaan harus sesuai data yang diuji, tidak boleh diperluas tanpa bukti."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data yang naik teratur menunjukkan hubungan antara variabel bebas dan hasil. Namun, kita tetap membatasi kesimpulan pada kondisi percobaan yang sama.\nKenapa opsi lain salah: A bertentangan dengan pola data; C salah karena baterai dibuat tetap sehingga bukan penyebab perbedaan; D terlalu jauh karena data tidak membahas magnet permanen.\nJawaban akhir: Pada percobaan ini, semakin banyak lilitan kawat, semakin kuat elektromagnet yang terbentuk."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "cahaya",
+      "model"
+    ],
+    "is_active": true,
+    "question": "Siswa membuat kamera lubang jarum dari kotak gelap. Di depan kotak ada lilin menyala, dan pada kertas di belakang lubang tampak bayangan lilin yang terbalik. Sifat cahaya yang paling tepat menjelaskan peristiwa itu adalah ...",
+    "options": [
+      "Bunyi merambat melalui udara lalu berubah menjadi bayangan pada layar",
+      "Cahaya dibelokkan oleh air di dalam kotak sehingga gambar menjadi terbalik",
+      "Cahaya merambat lurus melalui lubang kecil sehingga bayangan terbentuk terbalik",
+      "Cahaya hanya dapat terlihat jika dipantulkan oleh cermin datar di dalam kotak, sehingga lubang kecil dianggap tidak cukup membentuk bayangan"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Kamera lubang jarum bekerja dengan lubang kecil yang hanya membiarkan sebagian sinar masuk. Sinar dari bagian atas benda dan bagian bawah benda melewati lubang dengan jalur berbeda.\nLangkah 2: Karena cahaya merambat lurus, sinar dari atas lilin menuju bagian bawah layar, sedangkan sinar dari bawah lilin menuju bagian atas layar. Inilah sebab bayangan tampak terbalik.\nLangkah 3: Peristiwa ini tidak membutuhkan lensa. Lubang kecil dan ruang gelap sudah cukup untuk menunjukkan arah rambat cahaya.\nLangkah 4: Jadi sifat utama yang diuji adalah **cahaya merambat lurus**.\n\n**Materi terkait:**\n- Cahaya dari sumber atau pantulan benda masuk ke mata atau alat optik.\n- Pada kamera lubang jarum, lubang kecil membantu membentuk bayangan karena hanya sedikit berkas cahaya yang masuk.\n- Bayangan dapat berubah ukuran dan posisi jika jarak benda, lubang, dan layar diubah.\n\nInsight kunci: Bayangan terbalik pada kamera lubang jarum bukan karena lilinnya terbalik. Itu terjadi karena lintasan cahaya dari tiap bagian benda saling menyilang di lubang kecil.\nKenapa opsi lain salah: A salah karena bunyi tidak membentuk bayangan; B membahas pembiasan oleh air atau lensa; D salah karena cahaya tidak harus dipantulkan cermin untuk masuk ke kotak.\nJawaban akhir: **Cahaya merambat lurus melalui lubang kecil sehingga bayangan terbentuk terbalik**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "bunyi"
+    ],
+    "is_active": true,
+    "question": "Ruang musik sekolah yang kosong membuat suara tepuk tangan terdengar memantul cukup lama. Setelah dipasang tirai tebal dan karpet, pantulan suara berkurang. Penjelasan paling tepat adalah ...",
+    "options": [
+      "Tirai dan karpet menyerap sebagian bunyi sehingga pantulan dari permukaan keras berkurang",
+      "Tirai membuat udara berhenti merambatkan bunyi sehingga suara tidak sampai ke telinga, padahal bunyi masih merambat tetapi pantulannya berkurang",
+      "Karpet menghasilkan bunyi lawan yang menutupi semua suara tepuk tangan",
+      "Pantulan suara berkurang karena ruangan menjadi lebih gelap setelah tirai dipasang"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Bunyi dapat dipantulkan oleh permukaan keras seperti dinding polos dan lantai keramik. Pantulan yang kuat membuat suara terdengar menggema.\nLangkah 2: Tirai tebal dan karpet memiliki permukaan lebih lunak dan berpori. Bahan seperti ini menyerap sebagian energi bunyi sehingga pantulan berkurang.\nLangkah 3: Karena itu suara di ruang yang diberi bahan penyerap terdengar lebih jelas dan tidak terlalu menggema.\n\n**Materi terkait:**\n- **Pemantulan bunyi** terjadi saat gelombang bunyi mengenai permukaan lalu kembali.\n- Bahan keras dan licin cenderung memantulkan bunyi lebih kuat.\n- Bahan lunak, tebal, atau berpori dapat membantu menyerap bunyi.\n\nInsight kunci: Mengubah bahan di ruangan dapat mengubah cara bunyi terdengar. Ini sebab studio musik sering memakai bahan penyerap suara.\nKenapa opsi lain salah: B salah karena tirai tidak menghilangkan udara sebagai medium bunyi; C salah karena karpet bukan sumber bunyi baru; D keliru karena cahaya ruangan bukan penyebab utama gema.\nJawaban akhir: **Tirai dan karpet menyerap sebagian bunyi sehingga pantulan dari permukaan keras berkurang**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "energi",
+      "panel-surya"
+    ],
+    "is_active": true,
+    "question": "Panel surya kecil dipasang di atap pos ronda untuk mengisi baterai pada siang hari. Malamnya baterai itu dipakai menyalakan lampu LED. Urutan perubahan energi yang paling tepat adalah ...",
+    "options": [
+      "Cahaya Matahari -> cahaya lampu secara langsung tanpa perubahan bentuk energi lain, sehingga peran panel surya dan baterai diabaikan",
+      "Cahaya lampu -> listrik -> energi kimia -> cahaya Matahari",
+      "Panas Matahari -> bunyi di panel -> listrik -> gerak lampu",
+      "Cahaya Matahari -> listrik di panel -> energi kimia di baterai -> listrik -> cahaya lampu"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Panel surya menerima energi cahaya dari Matahari. Pada panel, energi cahaya diubah menjadi energi listrik.\nLangkah 2: Energi listrik digunakan untuk mengisi baterai. Saat tersimpan, energi tersebut berada dalam bentuk energi kimia di dalam baterai.\nLangkah 3: Malam hari, baterai mengalirkan energi listrik ke lampu LED. Lampu kemudian mengubah energi listrik terutama menjadi cahaya, dengan sedikit panas.\nLangkah 4: Jadi urutannya harus mengikuti alat yang dilalui energi: Matahari -> panel -> baterai -> lampu.\n\n**Materi terkait:**\n- **Transformasi energi** adalah perubahan energi dari satu bentuk ke bentuk lain.\n- Panel surya membantu memanfaatkan sumber energi terbarukan, yaitu cahaya Matahari.\n- Baterai menyimpan energi sehingga alat masih dapat dipakai saat sumber cahaya tidak tersedia.\n\nInsight kunci: Pada sistem energi, ikuti alur alatnya satu per satu. Jangan langsung melompat dari Matahari ke lampu tanpa melihat peran panel dan baterai.\nKenapa opsi lain salah: A melewatkan penyimpanan di baterai; B membalik urutan karena cahaya lampu tidak mengisi panel; C salah karena panel surya tidak mengubah panas menjadi bunyi.\nJawaban akhir: **Cahaya Matahari -> listrik di panel -> energi kimia di baterai -> listrik -> cahaya lampu**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Asam basa & pH",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "asam-basa",
+      "indikator"
+    ],
+    "is_active": true,
+    "question": "Siswa menguji tiga larutan rumah tangga dengan indikator kol ungu. Warna indikator sudah diketahui dari percobaan awal: asam menjadi merah muda, netral tetap ungu, basa menjadi hijau kebiruan.\n\nLarutan\tWarna setelah diberi indikator\nP\tMerah muda\nQ\tUngu\nR\tHijau kebiruan\n\nPernyataan yang paling tepat adalah ...",
+    "options": [
+      "P basa, Q netral, dan R asam",
+      "P asam, Q netral, dan R basa",
+      "P dan R netral karena keduanya berubah warna setelah diberi indikator",
+      "Semua larutan memiliki sifat sama karena diuji dengan indikator yang sama"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Gunakan kunci warna indikator, bukan menebak dari nama larutan. Merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa.\nLangkah 2: Larutan P menjadi merah muda, sehingga P bersifat asam. Larutan Q tetap ungu, sehingga Q netral. Larutan R menjadi hijau kebiruan, sehingga R basa.\nLangkah 3: Kesimpulan ini berasal dari data hasil uji, bukan dari bau, warna awal, atau anggapan bahwa semua larutan rumah tangga sama.\nLangkah 4: Jika soal indikator diberikan, selalu cocokkan hasil pengamatan dengan tabel indikator yang tersedia.\nLangkah 5: Percobaan asam-basa juga harus dilakukan aman: tidak mencicipi larutan dan memakai bahan rumah tangga yang diizinkan guru.\n\n**Materi terkait:**\n- **Asam** memiliki pH kurang dari 7, **netral** sekitar 7, dan **basa** lebih dari 7.\n- Indikator adalah bahan yang berubah warna sesuai sifat larutan.\n- Uji sederhana dengan indikator harus dilakukan aman dan tidak mencicipi larutan.\n\nInsight kunci: Indikator bekerja seperti penerjemah sifat larutan. Warna hasil uji memberi bukti untuk mengelompokkan larutan sebagai asam, netral, atau basa.\nKenapa opsi lain salah: A membalik makna warna P dan R; C salah karena Q tidak menunjukkan warna asam atau basa; D salah karena ketiga larutan memberi warna berbeda.\nJawaban akhir: **P asam, Q netral, dan R basa**.",
+    "content": {
+      "question": "Siswa menguji tiga larutan rumah tangga dengan indikator kol ungu. Warna indikator sudah diketahui dari percobaan awal: asam menjadi merah muda, netral tetap ungu, basa menjadi hijau kebiruan.\n\nLarutan\tWarna setelah diberi indikator\nP\tMerah muda\nQ\tUngu\nR\tHijau kebiruan\n\nPernyataan yang paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Siswa menguji tiga larutan rumah tangga dengan indikator kol ungu. Warna indikator sudah diketahui dari percobaan awal: asam menjadi merah muda, netral tetap ungu, basa menjadi hijau kebiruan."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Warna setelah diberi indikator"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Merah muda"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ungu"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "R"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hijau kebiruan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pernyataan yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "P basa, Q netral, dan R asam",
+        "P asam, Q netral, dan R basa",
+        "P dan R netral karena keduanya berubah warna setelah diberi indikator",
+        "Semua larutan memiliki sifat sama karena diuji dengan indikator yang sama"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P basa, Q netral, dan R asam"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P asam, Q netral, dan R basa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P dan R netral karena keduanya berubah warna setelah diberi indikator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semua larutan memiliki sifat sama karena diuji dengan indikator yang sama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Gunakan kunci warna indikator, bukan menebak dari nama larutan. Merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa.\nLangkah 2: Larutan P menjadi merah muda, sehingga P bersifat asam. Larutan Q tetap ungu, sehingga Q netral. Larutan R menjadi hijau kebiruan, sehingga R basa.\nLangkah 3: Kesimpulan ini berasal dari data hasil uji, bukan dari bau, warna awal, atau anggapan bahwa semua larutan rumah tangga sama.\nLangkah 4: Jika soal indikator diberikan, selalu cocokkan hasil pengamatan dengan tabel indikator yang tersedia.\nLangkah 5: Percobaan asam-basa juga harus dilakukan aman: tidak mencicipi larutan dan memakai bahan rumah tangga yang diizinkan guru.\n\n**Materi terkait:**\n- **Asam** memiliki pH kurang dari 7, **netral** sekitar 7, dan **basa** lebih dari 7.\n- Indikator adalah bahan yang berubah warna sesuai sifat larutan.\n- Uji sederhana dengan indikator harus dilakukan aman dan tidak mencicipi larutan.\n\nInsight kunci: Indikator bekerja seperti penerjemah sifat larutan. Warna hasil uji memberi bukti untuk mengelompokkan larutan sebagai asam, netral, atau basa.\nKenapa opsi lain salah: A membalik makna warna P dan R; C salah karena Q tidak menunjukkan warna asam atau basa; D salah karena ketiga larutan memberi warna berbeda.\nJawaban akhir: **P asam, Q netral, dan R basa**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Gunakan kunci warna indikator, bukan menebak dari nama larutan. Merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa.\nLangkah 2: Larutan P menjadi merah muda, sehingga P bersifat asam. Larutan Q tetap ungu, sehingga Q netral. Larutan R menjadi hijau kebiruan, sehingga R basa.\nLangkah 3: Kesimpulan ini berasal dari data hasil uji, bukan dari bau, warna awal, atau anggapan bahwa semua larutan rumah tangga sama.\nLangkah 4: Jika soal indikator diberikan, selalu cocokkan hasil pengamatan dengan tabel indikator yang tersedia.\nLangkah 5: Percobaan asam-basa juga harus dilakukan aman: tidak mencicipi larutan dan memakai bahan rumah tangga yang diizinkan guru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Asam memiliki pH kurang dari 7, netral sekitar 7, dan basa lebih dari 7.\n- Indikator adalah bahan yang berubah warna sesuai sifat larutan.\n- Uji sederhana dengan indikator harus dilakukan aman dan tidak mencicipi larutan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Indikator bekerja seperti penerjemah sifat larutan. Warna hasil uji memberi bukti untuk mengelompokkan larutan sebagai asam, netral, atau basa.\nKenapa opsi lain salah: A membalik makna warna P dan R; C salah karena Q tidak menunjukkan warna asam atau basa; D salah karena ketiga larutan memberi warna berbeda.\nJawaban akhir: P asam, Q netral, dan R basa."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "gaya",
+      "hambatan-udara"
+    ],
+    "is_active": true,
+    "question": "Dua kertas berukuran sama dijatuhkan dari ketinggian yang sama. Kertas pertama diremas menjadi bola kecil, sedangkan kertas kedua dibentangkan lebar. Kertas yang dibentangkan jatuh lebih lambat. Penjelasan paling tepat adalah ...",
+    "options": [
+      "Kertas lebar mendapat hambatan udara lebih besar sehingga gerak jatuhnya lebih lambat",
+      "Kertas lebar menjadi lebih berat karena menyentuh udara lebih banyak, sehingga bentuk benda dianggap mengubah massa kertas",
+      "Gravitasi berhenti bekerja pada kertas yang dibentangkan",
+      "Warna kertas berubah saat dibentangkan sehingga kecepatannya turun"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Kedua kertas memiliki bahan dan massa hampir sama, tetapi bentuknya berbeda. Bentuk yang berbeda membuat luas permukaan yang menghadap udara berbeda.\nLangkah 2: Kertas yang dibentangkan memiliki luas permukaan lebih besar, sehingga mengalami hambatan udara lebih besar. Hambatan udara bekerja berlawanan arah dengan gerak jatuh.\nLangkah 3: Kertas yang diremas menjadi bola lebih kecil permukaannya terhadap udara, sehingga hambatan udara lebih kecil dan jatuh lebih cepat.\n\n**Materi terkait:**\n- **Gaya hambat udara** adalah gaya dari udara yang melawan gerak benda.\n- Bentuk dan luas permukaan dapat memengaruhi besar hambatan udara.\n- Prinsip ini dipakai pada parasut agar orang atau benda turun lebih lambat dan aman.\n\nInsight kunci: Kecepatan jatuh benda di udara tidak hanya dipengaruhi berat. Bentuk benda dan hambatan udara juga dapat mengubah hasil pengamatan.\nKenapa opsi lain salah: B salah karena kertas dibentangkan tidak berubah menjadi lebih berat; C salah karena gravitasi tetap menarik keduanya ke bawah; D keliru karena warna kertas tidak disebut sebagai variabel.\nJawaban akhir: **Kertas lebar mendapat hambatan udara lebih besar sehingga gerak jatuhnya lebih lambat**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "pesawat-sederhana"
+    ],
+    "is_active": true,
+    "question": "Petugas sumur memakai katrol bergerak sederhana untuk mengangkat ember air. Dibanding menarik ember langsung ke atas, alat itu membuat gaya tarik yang diperlukan lebih kecil, tetapi tali harus ditarik lebih panjang. Prinsip pesawat sederhana yang ditunjukkan adalah ...",
+    "options": [
+      "Katrol menghilangkan berat ember sehingga air tidak lagi ditarik gravitasi",
+      "Gaya tarik dan jarak tarikan sama-sama menjadi lebih kecil tanpa pertukaran, sehingga pesawat sederhana dianggap mengurangi seluruh usaha",
+      "Gaya tarik menjadi lebih kecil, tetapi jarak tali yang ditarik menjadi lebih panjang",
+      "Katrol mengubah energi listrik menjadi gaya angkat pada ember"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pesawat sederhana membantu pekerjaan dengan mengubah besar gaya, arah gaya, atau jarak gerak. Pada katrol bergerak, beban ditopang oleh lebih dari satu bagian tali.\nLangkah 2: Karena beban terbagi pada beberapa bagian tali, gaya tarik yang diperlukan menjadi lebih kecil. Namun sebagai gantinya, tali perlu ditarik lebih panjang.\nLangkah 3: Ini menunjukkan pertukaran antara gaya dan jarak. Alat tidak menghilangkan pekerjaan, tetapi membuat pekerjaan terasa lebih ringan dengan cara mengubah cara gaya diberikan.\nLangkah 4: Maka prinsipnya adalah keuntungan mekanis: gaya diperkecil dengan konsekuensi jarak tarikan bertambah.\n\n**Materi terkait:**\n- **Pesawat sederhana** meliputi tuas, katrol, bidang miring, roda berporos, baji, dan sekrup.\n- Keuntungan mekanis berarti alat membantu mengurangi gaya yang diperlukan.\n- Pada banyak alat, gaya yang lebih kecil dibayar dengan jarak atau waktu gerak yang lebih besar.\n\nInsight kunci: Pesawat sederhana bukan alat ajaib yang membuat energi hilang. Alat membantu manusia dengan menukar besar gaya, arah, dan jarak gerak agar pekerjaan lebih mudah dilakukan.\nKenapa opsi lain salah: A salah karena katrol tidak menghilangkan berat ember; B keliru karena gaya lebih kecil bukan berarti jarak tali lebih pendek; D salah karena katrol bukan sumber energi listrik.\nJawaban akhir: **Gaya tarik menjadi lebih kecil, tetapi jarak tali yang ditarik menjadi lebih panjang**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Konservasi & pelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "konservasi",
+      "habitat"
+    ],
+    "is_active": true,
+    "question": "Di sebuah hutan, jalan baru membelah habitat orangutan menjadi dua bagian kecil. Orangutan sulit berpindah untuk mencari buah dan pasangan. Usulan yang paling tepat untuk membantu pelestarian populasi adalah ...",
+    "options": [
+      "Membuka jalan tambahan agar manusia lebih mudah masuk ke kedua bagian hutan",
+      "Membuat koridor satwa dan menjaga pohon pakan agar dua bagian habitat tetap terhubung",
+      "Memindahkan semua orangutan ke kandang kecil agar mudah diberi makan setiap hari, meskipun masalah utama sebenarnya habitat terpecah",
+      "Memberi makanan di tepi jalan tanpa memperbaiki hubungan antarbagian hutan"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Masalah utama pada skenario adalah **fragmentasi habitat**, yaitu habitat terpecah menjadi bagian-bagian kecil. Akibatnya satwa sulit mencari makanan, tempat aman, dan pasangan.\nLangkah 2: Solusi yang baik harus menghubungkan kembali habitat atau mengurangi gangguan. Koridor satwa berupa jalur pohon atau jembatan tajuk dapat membantu orangutan berpindah lebih aman.\nLangkah 3: Pelestarian tidak cukup hanya memindahkan satu-dua satwa. Populasi membutuhkan habitat yang cukup luas, makanan, dan kesempatan berkembang biak.\nLangkah 4: Karena itu usulan terbaik adalah membuat koridor satwa dan melindungi pohon pakan di kedua sisi hutan.\n\n**Materi terkait:**\n- **Konservasi** bertujuan menjaga makhluk hidup dan habitatnya agar populasi tetap bertahan.\n- Fragmentasi habitat dapat menurunkan peluang berkembang biak karena kelompok satwa terpisah.\n- Koridor satwa membantu menghubungkan habitat yang terpisah tanpa harus menghilangkan seluruh kebutuhan manusia.\n\nInsight kunci: Melindungi hewan berarti juga melindungi ruang hidupnya. Satwa liar memerlukan jalur, makanan, dan tempat berkembang biak, bukan hanya larangan berburu.\nKenapa opsi lain salah: A hanya memperbesar masalah karena habitat makin terpotong; C tidak menyelesaikan kebutuhan habitat; D salah karena memberi makan saja dapat membuat satwa bergantung dan tidak memperbaiki jalur hidupnya.\nJawaban akhir: **Membuat koridor satwa dan menjaga pohon pakan agar dua bagian habitat tetap terhubung**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Fenomena astronomi sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-a",
+      "bulan",
+      "astronomi"
+    ],
+    "is_active": true,
+    "question": "Pada malam tertentu, Bulan tampak seperti sabit. Seorang siswa berkata, 'Itu pasti karena bayangan Bumi menutupi Bulan setiap bulan.' Koreksi ilmiah yang paling tepat adalah ...",
+    "options": [
+      "Bulan sabit terjadi karena Bulan berhenti memantulkan cahaya Matahari pada malam tertentu",
+      "Bulan sabit terjadi karena awan menutupi sebagian Bulan dengan pola yang sama setiap bulan, sehingga fase Bulan dianggap peristiwa cuaca",
+      "Bulan sabit disebabkan rotasi Bumi, sama persis seperti pergantian siang dan malam",
+      "Bulan sabit adalah fase Bulan akibat posisi Matahari-Bumi-Bulan, sedangkan bayangan Bumi terjadi pada gerhana Bulan"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Bentuk Bulan yang tampak berubah-ubah disebut **fase Bulan**. Fase terjadi karena kita melihat bagian Bulan yang terkena cahaya Matahari dari sudut berbeda saat Bulan mengelilingi Bumi.\nLangkah 2: Bayangan Bumi menutupi Bulan terjadi pada **gerhana Bulan**, bukan pada setiap fase sabit. Gerhana Bulan hanya terjadi ketika Matahari, Bumi, dan Bulan berada pada posisi tertentu yang segaris.\nLangkah 3: Bulan sabit berarti hanya sebagian kecil sisi Bulan yang terang terlihat dari Bumi. Bagian lain tidak tampak terang dari sudut pandang kita, bukan berarti selalu tertutup bayangan Bumi.\nLangkah 4: Jadi koreksi terbaik adalah membedakan fase Bulan dari gerhana Bulan.\nLangkah 5: Model sederhana dengan lampu sebagai Matahari, bola sebagai Bulan, dan kepala pengamat sebagai Bumi dapat menunjukkan bahwa bagian terang yang terlihat berubah karena posisi relatif.\n\n**Materi terkait:**\n- Bulan tidak memancarkan cahaya sendiri; Bulan terlihat karena memantulkan cahaya Matahari.\n- **Fase Bulan** berulang kira-kira setiap bulan karena posisi relatif Matahari-Bumi-Bulan berubah.\n- **Gerhana Bulan** adalah peristiwa khusus saat Bulan masuk ke bayangan Bumi.\n\nInsight kunci: Tidak semua bagian gelap pada Bulan berarti tertutup bayangan Bumi. Dalam fase Bulan, yang berubah adalah bagian terang yang terlihat dari posisi kita di Bumi.\nKenapa opsi lain salah: A salah karena Bulan tetap memantulkan cahaya Matahari; B keliru karena awan tidak membentuk fase yang teratur; C salah karena rotasi Bumi menyebabkan siang-malam, bukan fase Bulan.\nJawaban akhir: **Bulan sabit adalah fase Bulan akibat posisi Matahari-Bumi-Bulan, sedangkan bayangan Bumi terjadi pada gerhana Bulan**."
+  }
+]

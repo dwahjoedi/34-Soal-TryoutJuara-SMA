@@ -1,0 +1,837 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Translasi verbal ke model matematika",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep translasi verbal ke model matematika sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "translasi_verbal_model",
+      "concept_name": "Fondasi Translasi verbal ke model matematika",
+      "concept_description": "Penguatan konsep inti translasi verbal ke model matematika dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Pemodelan Matematika",
+      "subtopic": "Translasi verbal ke model matematika",
+      "target_error_tags": [
+        "pilihan_tidak_sesuai_model",
+        "numeric_mismatch",
+        "plsv_pembagian_hampir",
+        "plsv_off_by_one_kecil",
+        "plsv_off_by_one_besar"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "translasi-verbal-ke-model-matematika"
+      ],
+      "question": "Kalimat 'suatu bilangan ditambah 8 sama dengan 15' dimodelkan...",
+      "options": [
+        "$x-8=15$",
+        "$x+8=15$",
+        "$8x=15$",
+        "x: $8=15$"
+      ],
+      "answer": 1,
+      "rationale": "Kata 'ditambah 8' menjadi x+8.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $x-8=15$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($x+8=15$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'suatu bilangan ditambah 8 sama dengan 15' dimodelkan...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $8x=15$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($x+8=15$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'suatu bilangan ditambah 8 sama dengan 15' dimodelkan...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih x: $8=15$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($x+8=15$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'suatu bilangan ditambah 8 sama dengan 15' dimodelkan...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "translasi-verbal-ke-model-matematika"
+      ],
+      "question": "**Dari** $model3x=24$ , nilai x adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=24$ : $3=8$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 6 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Dari model3x=24 , nilai x adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "plsv_pembagian_hampir",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 7 dekat hasil bagi $24/3$ yang benar (8); kemungkinan sisa pembagian atau hitung cepat yang kurang teliti.",
+            "micro_lesson": "Ulangi pembagian $b/a$ dengan tulis tengah: berapa kali $a$ masuk ke $b$ tepat?",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $3x=24$ adalah...",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "3"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "plsv_pembagian_hampir",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 9 dekat hasil bagi $24/3$ yang benar (8); kemungkinan sisa pembagian atau hitung cepat yang kurang teliti.",
+            "micro_lesson": "Ulangi pembagian $b/a$ dengan tulis tengah: berapa kali $a$ masuk ke $b$ tepat?",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $3x=24$ adalah...",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "3"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "translasi-verbal-ke-model-matematika"
+      ],
+      "question": "Kalimat 'dua kali suatu bilangan dikurangi 3 sama dengan 11' model...",
+      "options": [
+        "$2x-3=11$",
+        "$2x+3=11$",
+        "$x-3=11$",
+        "$3x-2=11$"
+      ],
+      "answer": 0,
+      "rationale": "Sesuai susunan kalimat.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $2x+3=11$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($2x-3=11$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'dua kali suatu bilangan dikurangi 3 sama dengan 11' model...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $x-3=11$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($2x-3=11$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'dua kali suatu bilangan dikurangi 3 sama dengan 11' model...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $3x-2=11$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($2x-3=11$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Kalimat 'dua kali suatu bilangan dikurangi 3 sama dengan 11' model...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "translasi-verbal-ke-model-matematika"
+      ],
+      "question": "**Jika** $modelx+12=20$ , maka nilai x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=8$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 6 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jika modelx+12=20 , maka nilai x...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "plsv_off_by_one_kecil",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 7 satu kurang dari nilai $x$ yang benar (8). Untuk $x+12=20$, seharusnya $x=20-12$; cek lagi pengurangan terakhir.",
+            "micro_lesson": "Setelah memindahkan konstanta, pastikan operasi terakhir di ruas $x$ benar-benar kebalikan dari yang di kiri.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+12=20$ adalah...",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "plsv_off_by_one_besar",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 9 satu lebih dari nilai $x$ yang benar (8). Untuk $x+12=20$, hitung lagi $x=20-12$.",
+            "micro_lesson": "Kurangkan konstanta dari ruas kanan sekali saja; hindari mengurangi atau menjumlahkan ganda.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+12=20$ adalah...",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "translasi-verbal-ke-model-matematika"
+      ],
+      "question": "Harga 1 pensil x rupiah. Jika 3 pensil Rp18.000, model yang tepat...",
+      "options": [
+        "$x+3=18000$",
+        "$3x=18000$",
+        "$x/3=18000$",
+        "$x-3=18000$"
+      ],
+      "answer": 1,
+      "rationale": "Tiga kali harga satuan.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $x+3=18000$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($3x=18000$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Harga 1 pensil x rupiah. Jika 3 pensil Rp18.000, model yang tepat...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $x/3=18000$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($3x=18000$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Harga 1 pensil x rupiah. Jika 3 pensil Rp18.000, model yang tepat...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $x-3=18000$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($3x=18000$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Harga 1 pensil x rupiah. Jika 3 pensil Rp18.000, model yang tepat...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "'x dikurangi 4' ditulis...",
+      "options": [
+        "x+4",
+        "x-4",
+        "4-x",
+        "4x"
+      ],
+      "answer": 1,
+      "rationale": "Kata dikurangi.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "kata_kunci_operasi_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "'5 kali suatu bilangan' ditulis...",
+      "options": [
+        "x+5",
+        "5x",
+        "x-5",
+        "x/5"
+      ],
+      "answer": 1,
+      "rationale": "Kali.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "model_persamaan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "Model dari 'suatu bilangan ditambah 9 sama dengan 13'...",
+      "options": [
+        "$x+9=13$",
+        "$x-9=13$",
+        "$9x=13$",
+        "x: $9=13$"
+      ],
+      "answer": 0,
+      "rationale": "Terjemah langsung.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "solusi_model_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "**Jika**$x+5=17$ , maka x...",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 2,
+      "rationale": "$x=12$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "kata_kunci_operasi_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "**Jika**$4x=28$ , x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$x=7$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "model_persamaan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "Kalimat 'tiga lebihnya dari x adalah 12' model...",
+      "options": [
+        "$x+3=12$",
+        "$x-3=12$",
+        "$3x=12$",
+        "$x/3=12$"
+      ],
+      "answer": 0,
+      "rationale": "$Lebihnya=tambah$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "solusi_model_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "**Jika**$2x-1=9$ , maka x...",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "rationale": "$2x=10x=5$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "kata_kunci_operasi_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "Model dari 'setengah dari x adalah 6'...",
+      "options": [
+        "$x/2=6$",
+        "$2x=6$",
+        "$x+2=6$",
+        "$x-2=6$"
+      ],
+      "answer": 0,
+      "rationale": "Setengah dari x.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "model_persamaan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "**Jika**$x/3=5$ , nilai x...",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": 3,
+      "rationale": "$x=15$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "solusi_model_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "Model benar untuk 'harga 2 buku total 30.000'...",
+      "options": [
+        "$x+2=30000$",
+        "$2x=30000$",
+        "$x-2=30000$",
+        "$x/2=30000$"
+      ],
+      "answer": 1,
+      "rationale": "Dua kali harga satu buku.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "kata_kunci_operasi_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "**Jika**$5x+2=27$ , x...",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "rationale": "$5x=25x=5$.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "model_persamaan_tidak_tepat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "translasi-verbal-ke-model-matematika-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Translasi verbal ke model matematika",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "translasi_verbal_model"
+      ],
+      "question": "Kalimat 'x ditambah 2 lalu dikali 3 hasil 18' model...",
+      "options": [
+        "$3x+2=18$",
+        "$3(x+2)=18$",
+        "$(x+3)2=18$",
+        "$x+2=18x3$"
+      ],
+      "answer": 1,
+      "rationale": "Urutan operasi tepat.",
+      "microLoop": {
+        "concept_id": "translasi_verbal_model",
+        "drill_focus": {
+          "source_error_tags": [
+            "solusi_model_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

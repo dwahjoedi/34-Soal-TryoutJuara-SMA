@@ -1,0 +1,833 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep bangun datar sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "geometri_dasar",
+      "concept_name": "Fondasi Bangun datar",
+      "concept_description": "Penguatan konsep inti bangun datar dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Geometri",
+      "subtopic": "Bangun datar",
+      "target_error_tags": [
+        "numeric_mismatch"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "geometri-dasar-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "geometri-dasar"
+      ],
+      "question": "Luas persegi $panjangp=12cm$ , $l=4cm$ adalah...",
+      "options": [
+        "40",
+        "44",
+        "48",
+        "52"
+      ],
+      "answer": 2,
+      "rationale": "$12x4=48$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 40 menghasilkan bilangan yang lebih kecil dari jawaban benar (48). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas persegi panjangp=12cm , l=4cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 44 menghasilkan bilangan yang lebih kecil dari jawaban benar (48). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas persegi panjangp=12cm , l=4cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 52 menghasilkan bilangan yang lebih besar dari jawaban benar (48). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Luas persegi panjangp=12cm , l=4cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "geometri-dasar"
+      ],
+      "question": "Keliling persegi sisi 9 cm adalah...",
+      "options": [
+        "27",
+        "36",
+        "45",
+        "81"
+      ],
+      "answer": 1,
+      "rationale": "$4x9=36$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 27 menghasilkan bilangan yang lebih kecil dari jawaban benar (36). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Keliling persegi sisi 9 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 45 menghasilkan bilangan yang lebih besar dari jawaban benar (36). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Keliling persegi sisi 9 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 81 menghasilkan bilangan yang lebih besar dari jawaban benar (36). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Keliling persegi sisi 9 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "geometri-dasar"
+      ],
+      "question": "Luas segitiga alas 10 cm, tinggi 8 cm adalah...",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": 2,
+      "rationale": "$\\frac{1}{2}$x 10 $x8=40$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 30 menghasilkan bilangan yang lebih kecil dari jawaban benar (40). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas segitiga alas 10 cm, tinggi 8 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 35 menghasilkan bilangan yang lebih kecil dari jawaban benar (40). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas segitiga alas 10 cm, tinggi 8 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 45 menghasilkan bilangan yang lebih besar dari jawaban benar (40). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Luas segitiga alas 10 cm, tinggi 8 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "geometri-dasar"
+      ],
+      "question": "Volume kubus sisi 4 cm adalah...",
+      "options": [
+        "16",
+        "32",
+        "48",
+        "64"
+      ],
+      "answer": 3,
+      "rationale": "$4^{3}=64$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 16 menghasilkan bilangan yang lebih kecil dari jawaban benar (64). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Volume kubus sisi 4 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 32 menghasilkan bilangan yang lebih kecil dari jawaban benar (64). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Volume kubus sisi 4 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 48 menghasilkan bilangan yang lebih kecil dari jawaban benar (64). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Volume kubus sisi 4 cm adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "geometri-dasar"
+      ],
+      "question": "Luas jajar genjang alas 15 cm tinggi 6 cm...",
+      "options": [
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "answer": 3,
+      "rationale": "$15x6=90$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 75 menghasilkan bilangan yang lebih kecil dari jawaban benar (90). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas jajar genjang alas 15 cm tinggi 6 cm...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 80 menghasilkan bilangan yang lebih kecil dari jawaban benar (90). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas jajar genjang alas 15 cm tinggi 6 cm...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 85 menghasilkan bilangan yang lebih kecil dari jawaban benar (90). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Luas jajar genjang alas 15 cm tinggi 6 cm...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "geometri-dasar-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas persegi sisi 7 cm...",
+      "options": [
+        "14",
+        "28",
+        "49",
+        "56"
+      ],
+      "answer": 2,
+      "rationale": "7x7.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "rumus_luas_keliling_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Keliling persegi $panjangp=8$ , $l=3$...",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "answer": 2,
+      "rationale": "$2(8+3)=22$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "satuan_luas_volume_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas segitiga alas 12 tinggi 5...",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{1}{2}x12x5=30$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "langkah_hitung_berurutan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Volume balok 6x4x3...",
+      "options": [
+        "60",
+        "72",
+        "84",
+        "96"
+      ],
+      "answer": 1,
+      "rationale": "$6x4x3=72$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "rumus_luas_keliling_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas trapesium (a+b)/2 x t $dengana=8$ , $b=12$ , $t=5$...",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{20}{2}x5=50$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "satuan_luas_volume_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Keliling segitiga sisi 6,7,8...",
+      "options": [
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "answer": 2,
+      "rationale": "Jumlah sisi.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "langkah_hitung_berurutan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas $lingkaranr=7(pi=\\frac{22}{7})$...",
+      "options": [
+        "132",
+        "144",
+        "154",
+        "176"
+      ],
+      "answer": 2,
+      "rationale": "$\\frac{22}{7}x49=154$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "rumus_luas_keliling_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas jajar $genjanga=9$ , $t=4$...",
+      "options": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "answer": 3,
+      "rationale": "$9x4=36$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "satuan_luas_volume_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Volume kubus sisi 5...",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "125"
+      ],
+      "answer": 3,
+      "rationale": "$5^{3}=125$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "langkah_hitung_berurutan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Luas permukaan kubus sisi 3...",
+      "options": [
+        "27",
+        "36",
+        "45",
+        "54"
+      ],
+      "answer": 3,
+      "rationale": "$6x9=54$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "rumus_luas_keliling_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Satuan volume yang benar...",
+      "options": [
+        "cm",
+        "cm2",
+        "cm3",
+        "m"
+      ],
+      "answer": 2,
+      "rationale": "Volume kubik.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "satuan_luas_volume_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "geometri-dasar-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Bangun datar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "geometri_dasar"
+      ],
+      "question": "Keliling $lingkaranr=7(pi=\\frac{22}{7})$...",
+      "options": [
+        "22",
+        "33",
+        "44",
+        "55"
+      ],
+      "answer": 2,
+      "rationale": "$2x\\frac{22}{7}x7=44$.",
+      "microLoop": {
+        "concept_id": "geometri_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "langkah_hitung_berurutan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

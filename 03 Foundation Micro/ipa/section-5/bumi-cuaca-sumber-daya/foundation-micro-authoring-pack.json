@@ -1,0 +1,1277 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "ipa",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Rotasi–revolusi, siklus air, SDA, dampak lingkungan (Section 5 Study Guide).",
+    "requested_micro_concept_count": 3,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "rotasi_vs_revolusi",
+      "concept_name": "Rotasi vs revolusi Bumi",
+      "concept_description": "Siang-malam vs tahunan musim/rasi.",
+      "topic": "Bumi & Alam Semesta",
+      "subtopic": "Rotasi & revolusi bumi",
+      "target_error_tags": [
+        "menukar_rotasi_revolusi"
+      ]
+    },
+    {
+      "concept_id": "siklus_air_ringkas",
+      "concept_name": "Siklus air (tahapan utama)",
+      "concept_description": "Evaporasi, kondensasi, presipitasi.",
+      "topic": "Bumi & Alam Semesta",
+      "subtopic": "Cuaca & iklim",
+      "target_error_tags": [
+        "urutan_siklus_salah"
+      ]
+    },
+    {
+      "concept_id": "sumber_daya_alam_kelas",
+      "concept_name": "SDA dan kelestarian sederhana",
+      "concept_description": "Contoh SDA dan ide hemat.",
+      "topic": "Bumi & Alam Semesta",
+      "subtopic": "Sumber daya alam & kelestarian",
+      "target_error_tags": [
+        "sda_tidak_terbarukan_salah"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "ipa-s5-main-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Siang bergantian dengan malam disebabkan terutama oleh ...",
+      "options": [
+        "Rotasi bumi pada porosnya",
+        "Revolusi bumi mengelilingi matahari",
+        "Gerhana bulan setiap hari",
+        "Gempa tektonik"
+      ],
+      "answer": 0,
+      "rationale": "Rotasi ~24 jam → siang-malam.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «rotasi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "recall",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Periode revolusi bumi mengelilingi matahari kira-kira ...",
+      "options": [
+        "Satu tahun",
+        "Satu jam",
+        "Satu menit",
+        "Satu hari"
+      ],
+      "answer": 0,
+      "rationale": "Revolusi ~365 hari.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «revolusi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Musim di daerah berlatang sedang terkait erat dengan kemiringan sumbu dan ...",
+      "options": [
+        "Revolusi serta posisi relatif terhadap matahari",
+        "Hanya rotasi harian saja",
+        "Hanya fase bulan",
+        "Hanya pasang surut"
+      ],
+      "answer": 0,
+      "rationale": "Pola musiman tahunan berkaitan revolusi + kemiringan sumbu (model SD).",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «musim», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Uap air naik, membentuk awan, lalu jatuh sebagai hujan. Rangkaian ini melibatkan ...",
+      "options": [
+        "Evaporasi/transpirasi, kondensasi, presipitasi",
+        "Hanya fotosintesis",
+        "Hanya rotasi inti bumi",
+        "Hanya gaya magnet"
+      ],
+      "answer": 0,
+      "rationale": "Siklus air klasik.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «siklus air», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "**Cuaca** berbeda dari **iklim** karena ...",
+      "options": [
+        "Cuaca jangka pendek; iklim pola jangka panjang",
+        "Cuaca sama dengan iklim",
+        "Iklim hanya sejam",
+        "Cuaca tidak bisa diukur"
+      ],
+      "answer": 0,
+      "rationale": "Definisi skala waktu.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «cuaca iklim», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "recall",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Presipitasi mencakup ...",
+      "options": [
+        "Hujan, salju, hujan es (air jatuh ke permukaan)",
+        "Hanya angin kencang",
+        "Hanya radiasi matahari",
+        "Hanya gempa"
+      ],
+      "answer": 0,
+      "rationale": "Presipitasi = air turun dari atmosfer.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «presipitasi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Contoh **SDA terbarukan** yang dipakai untuk listrik adalah ...",
+      "options": [
+        "Angin dan matahari (pembangkit)",
+        "Batu bara murni tanpa batas",
+        "Minyak bumi tak terbatas",
+        "Tembaga bekas tanpa daur"
+      ],
+      "answer": 0,
+      "rationale": "Angin/surya dapat diperbarui aliran energinya.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «terbarukan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Menghemat listrik di rumah berkontribusi pada ...",
+      "options": [
+        "Mengurangi pemakaian energi dan dampak lingkungan terkait pembangkit",
+        "Menambah polusi pasti",
+        "Menghapus hukum termodinamika",
+        "Menghilangkan gravitasi"
+      ],
+      "answer": 0,
+      "rationale": "Hemat energi → kurang pembakaran/emisi (model sederhana).",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «hemat», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-main-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Hutan sebagai sumber daya hayati perlu dikelola agar ...",
+      "options": [
+        "Tetap berfungsi sebagai habitat dan penyangga iklim tanpa tebang liar",
+        "Ditebang semua sekaligus",
+        "Dibuat beton total",
+        "Dihapus dari peta"
+      ],
+      "answer": 0,
+      "rationale": "Pengelolaan berkelanjutan menjaga fungsi ekosistem.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «hutan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "ipa-s5-drill-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Satu putaran bumi pada poros ≈ ...",
+      "options": [
+        "365 hari",
+        "24 jam",
+        "1 jam",
+        "1 tahun sidereal rasi saja"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Revolusi mengubah posisi bumi relatif ...",
+      "options": [
+        "Matahari",
+        "Meja",
+        "Sendok",
+        "Buku saja"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Gerhana melibatkan ...",
+      "options": [
+        "Posisi benda langit",
+        "Hanya rotasi meja",
+        "Hanya warna cat",
+        "Gaya gesek sepatu"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Siang-malam dalam model modern terutama **bukan** disebabkan oleh ...",
+      "options": [
+        "Rotasi bumi pada porosnya",
+        "Hanya gerhana bulan setiap jam",
+        "Bumi berputar dan cahaya matahari",
+        "Perbedaan sisi bumi terhadap sumber cahaya"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Rotasi & revolusi bumi",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Tahun tropis/periode mengitari matahari ≈ ...",
+      "options": [
+        "1 hari",
+        "1 tahun",
+        "1 detik",
+        "1 menit"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rotasi_vs_revolusi",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Uap menjadi tetes awan: ...",
+      "options": [
+        "Kondensasi",
+        "Evaporasi",
+        "Presipitasi langsung",
+        "Erosi"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Hujan turun: ...",
+      "options": [
+        "Presipitasi",
+        "Hanya evaporasi",
+        "Hanya radiasi nuklir",
+        "Konduksi logam"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Iklim = ...",
+      "options": [
+        "Cuaca 1 jam saja",
+        "Pola rata-rata jangka panjang",
+        "Kecepatan angin saat ini saja",
+        "Nol"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Sungai ke laut bagian dari ...",
+      "options": [
+        "Siklus air",
+        "Fotosintesis",
+        "Listrik AC",
+        "Magnet"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-10",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Cuaca & iklim",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Transpirasi berkaitan dengan ...",
+      "options": [
+        "Uap dari tumbuhan",
+        "Hanya es batu",
+        "Hanya gempa",
+        "Rotor listrik"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "siklus_air_ringkas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-11",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Air tawar termasuk ...",
+      "options": [
+        "SDA",
+        "Benda sintetis murni",
+        "Planet",
+        "Gelombang radio"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-12",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Minyak bumi dianggap ...",
+      "options": [
+        "Tak terbarukan skala manusia",
+        "Selalu tak habis tanpa ekstraksi",
+        "Bukan SDA",
+        "Hanya energi kinetik"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-13",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Reboisasi membantu ...",
+      "options": [
+        "Mengurangi erosi dan menjaga air",
+        "Menambah erosi",
+        "Menghapus tanah",
+        "Mematikan fotosintesis"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-14",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Membuang sampah ke selokan dapat ...",
+      "options": [
+        "Memperbaiki drainase",
+        "Memperburuk banjir",
+        "Menghilangkan hujan",
+        "Menambah ozon"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s5-drill-15",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Bumi & Alam Semesta",
+      "subtopicId": null,
+      "subtopic": "Sumber daya alam & kelestarian",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-5/bumi-cuaca-sumber-daya"
+      ],
+      "question": "Panel surya memanfaatkan ...",
+      "options": [
+        "Cahaya matahari",
+        "Gaya gravitasi bulan",
+        "Bunyi ultrasonik",
+        "Hanya minyak"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "sumber_daya_alam_kelas",
+        "drill_focus": {
+          "source_error_tags": [
+            "menukar_rotasi_revolusi"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    }
+  ]
+}

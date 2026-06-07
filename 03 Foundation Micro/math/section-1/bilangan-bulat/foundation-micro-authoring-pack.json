@@ -1,0 +1,834 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan bulat",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep bilangan bulat sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "bilangan_bulat_dasar",
+      "concept_name": "Fondasi Bilangan bulat",
+      "concept_description": "Penguatan konsep inti bilangan bulat untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Bilangan bulat",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "bilangan-bulat-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-bulat"
+      ],
+      "question": "Bilangan yang lebih besar adalah...",
+      "options": [
+        "-7",
+        "-2",
+        "-5",
+        "-9"
+      ],
+      "answer": 1,
+      "rationale": "-2 paling dekat ke nol, jadi paling besar.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -7 menghasilkan bilangan yang lebih kecil dari jawaban benar (-2). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Bilangan yang lebih besar adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih -5 menghasilkan bilangan yang lebih kecil dari jawaban benar (-2). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Bilangan yang lebih besar adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -9 menghasilkan bilangan yang lebih kecil dari jawaban benar (-2). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Bilangan yang lebih besar adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-bulat"
+      ],
+      "question": "**Hasil** -4 + 9 =...",
+      "options": [
+        "3",
+        "5",
+        "-5",
+        "13"
+      ],
+      "answer": 1,
+      "rationale": "-4 $ditambah9=5$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 3 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hasil -4 + 9 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -5 menghasilkan bilangan yang lebih kecil dari jawaban benar (5). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hasil -4 + 9 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 13 menghasilkan bilangan yang lebih besar dari jawaban benar (5). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hasil -4 + 9 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-bulat"
+      ],
+      "question": "**Hasil** 6 - (-3) =...",
+      "options": [
+        "3",
+        "9",
+        "-9",
+        "-3"
+      ],
+      "answer": 1,
+      "rationale": "Kurang negatif jadi tambah: $6+3=9$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 3 menghasilkan bilangan yang lebih kecil dari jawaban benar (9). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hasil 6 - (-3) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -9 menghasilkan bilangan yang lebih kecil dari jawaban benar (9). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hasil 6 - (-3) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -3 menghasilkan bilangan yang lebih kecil dari jawaban benar (9). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hasil 6 - (-3) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-bulat"
+      ],
+      "question": "**Urutan** dari kecil ke besar yang benar adalah...",
+      "options": [
+        "-1, -3, 0",
+        "-3, -1, 0",
+        "0, -1, -3",
+        "-3, 0, -1"
+      ],
+      "answer": 1,
+      "rationale": "-3<-1<0.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -1, -3, 0 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (-3, -1, 0). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Urutan dari kecil ke besar yang benar adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 0, -1, -3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (-3, -1, 0). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Urutan dari kecil ke besar yang benar adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -3, 0, -1 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (-3, -1, 0). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Urutan dari kecil ke besar yang benar adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-bulat"
+      ],
+      "question": "**Hasil** -8 - 5 =...",
+      "options": [
+        "-3",
+        "-13",
+        "13",
+        "3"
+      ],
+      "answer": 1,
+      "rationale": "-8 dikurangi 5 menjadi -13.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -3 menghasilkan bilangan yang lebih besar dari jawaban benar (-13). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hasil -8 - 5 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 13 menghasilkan bilangan yang lebih besar dari jawaban benar (-13). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hasil -8 - 5 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 3 menghasilkan bilangan yang lebih besar dari jawaban benar (-13). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hasil -8 - 5 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "bilangan-bulat-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -2 + 7 =...",
+      "options": [
+        "5",
+        "-5",
+        "9",
+        "-9"
+      ],
+      "answer": 0,
+      "rationale": "-$2+7=5$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "urutan_negatif_terbalik"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** 3 - 9 =...",
+      "options": [
+        "6",
+        "-6",
+        "-12",
+        "12"
+      ],
+      "answer": 1,
+      "rationale": "3 -9=-6.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tanda"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -5 + (-4) =...",
+      "options": [
+        "-1",
+        "-9",
+        "9",
+        "1"
+      ],
+      "answer": 1,
+      "rationale": "Jumlah dua negatif: -9.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "arah_garis_bilangan_salah"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "Manakah yang paling kecil?",
+      "options": [
+        "-2",
+        "-8",
+        "-5",
+        "0"
+      ],
+      "answer": 1,
+      "rationale": "Paling kecil adalah paling kiri: -8.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "urutan_negatif_terbalik"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -10 - (-6) =...",
+      "options": [
+        "-16",
+        "-4",
+        "4",
+        "16"
+      ],
+      "answer": 1,
+      "rationale": "-10 +6=-4.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tanda"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** 0 - (-7) =...",
+      "options": [
+        "-7",
+        "0",
+        "7",
+        "14"
+      ],
+      "answer": 2,
+      "rationale": "$0+7=7$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "arah_garis_bilangan_salah"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -3 x 4 =...",
+      "options": [
+        "-12",
+        "12",
+        "-7",
+        "7"
+      ],
+      "answer": 0,
+      "rationale": "Negatif $xpositif=negatif$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "urutan_negatif_terbalik"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -24 :6 =...",
+      "options": [
+        "4",
+        "-4",
+        "-6",
+        "6"
+      ],
+      "answer": 1,
+      "rationale": "Negatif $dibagipositif=negatif$ : -4.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tanda"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** (-2) x (-5) =...",
+      "options": [
+        "-10",
+        "10",
+        "-7",
+        "7"
+      ],
+      "answer": 1,
+      "rationale": "Negatif $xnegatif=positif$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "arah_garis_bilangan_salah"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** 14 + (-9) =...",
+      "options": [
+        "5",
+        "-5",
+        "23",
+        "-23"
+      ],
+      "answer": 0,
+      "rationale": "$14-9=5$.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "urutan_negatif_terbalik"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Urutan** benar dari terbesar ke terkecil...",
+      "options": [
+        "-9, -4, -1",
+        "-1, -4, -9",
+        "0, -9, -1",
+        "-4, -1, -9"
+      ],
+      "answer": 1,
+      "rationale": "-1>-4>-9.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tanda"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-bulat-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan bulat",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_bulat_dasar"
+      ],
+      "question": "**Hasil** -15 + 6 - (-2) =...",
+      "options": [
+        "-11",
+        "-7",
+        "7",
+        "-23"
+      ],
+      "answer": 1,
+      "rationale": "-15+6=-9 , lalu-9+2=-7.",
+      "microLoop": {
+        "concept_id": "bilangan_bulat_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "arah_garis_bilangan_salah"
+          ],
+          "notes": "Penguatan tanda operasi dan urutan bilangan bulat."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1277 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "ipa",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Membaca desain eksperimen dan inferensi kuantitatif sederhana (Section 6).",
+    "requested_micro_concept_count": 3,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "variabel_dari_tabel_osn",
+      "concept_name": "Variabel dari skenario tabel",
+      "concept_description": "Menyimpulkan variabel bebas/terikat dari deskripsi percobaan.",
+      "topic": "Materi & Perubahannya",
+      "subtopic": "Larutan & pemisahan campuran",
+      "target_error_tags": [
+        "salah_baca_tabel"
+      ]
+    },
+    {
+      "concept_id": "proporsi_sederhana_data",
+      "concept_name": "Perbandingan proporsi dari data",
+      "concept_description": "Membandingkan rasio atau beda dua kelompok kecil.",
+      "topic": "Materi & Perubahannya",
+      "subtopic": "Larutan & pemisahan campuran",
+      "target_error_tags": [
+        "hitung_proporsi_salah"
+      ]
+    },
+    {
+      "concept_id": "konsistensi_satuan_osn",
+      "concept_name": "Konsistensi satuan",
+      "concept_description": "Menolak kesimpulan yang melanggar satuan atau skala.",
+      "topic": "Materi & Perubahannya",
+      "subtopic": "Larutan & pemisahan campuran",
+      "target_error_tags": [
+        "satuan_tidak_konsisten"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "ipa-s6-main-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "experiment_interpretation",
+      "questionType": "experiment_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Percobaan mencatat «massa garam (g) tetap, volume air (mL) diubah, waktu larut (s) diukur». Variabel bebasnya adalah ...",
+      "options": [
+        "Volume air",
+        "Waktu larut",
+        "Massa garam (jika dijaga tetap)",
+        "Suhu ruang yang tidak disebut diubah"
+      ],
+      "answer": 0,
+      "rationale": "Yang diubah = volume air.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «variabel tabel», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "experiment_interpretation",
+      "questionType": "experiment_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Pada percobaan di atas, variabel terikatnya adalah ...",
+      "options": [
+        "Waktu larut",
+        "Volume air",
+        "Merek gelas",
+        "Warna meja"
+      ],
+      "answer": 0,
+      "rationale": "Terikat = yang diukur sebagai hasil.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «terikat tabel», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "experiment_interpretation",
+      "questionType": "experiment_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Agar percobaan di atas adil, massa garam dan pengadukan sebaiknya ...",
+      "options": [
+        "Dijaga sama (kontrol)",
+        "Diubah-ubah bebas",
+        "Tidak dicatat",
+        "Berbeda tiap detik tanpa aturan"
+      ],
+      "answer": 0,
+      "rationale": "Kontrol faktor pengganggu.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «kontrol tabel», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Data: 10 g gula larut dalam 50 mL air dingin 40 s; 10 g dalam 100 mL 20 s (model soal). Air lebih banyak cenderung ...",
+      "options": [
+        "Mempercepat pelarutan pada contoh ini",
+        "Selalu memperlambat tanpa syarat",
+        "Tidak memengaruhi",
+        "Menghilangkan gula"
+      ],
+      "answer": 0,
+      "rationale": "Pada angka contoh, volume lebih besar → waktu lebih pendek (lebih cepat).",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «proporsi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Jika massa tepung yang sama memberikan kekentalan lebih tinggi pada air lebih sedikit, berarti konsentrasi ...",
+      "options": [
+        "Lebih tinggi pada air lebih sedikit",
+        "Lebih rendah pada air lebih sedikit",
+        "Tak bergantung volume",
+        "Selalu nol"
+      ],
+      "answer": 0,
+      "rationale": "Konsentrasi massa per volume.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «konsentrasi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Dua kelompok: A suhu 30°C waktu 12 s; B 40°C waktu 8 s (zat sama). Pola yang wajar ...",
+      "options": [
+        "Lebih panas cenderung mempercepat (waktu lebih pendek)",
+        "Lebih panas selalu memperlambat",
+        "Suhu tidak berpengaruh",
+        "Waktu harus sama"
+      ],
+      "answer": 0,
+      "rationale": "Pemanasan umumnya mempercepat pelarutan/difusi model SD.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «suhu waktu», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "experiment_interpretation",
+      "questionType": "experiment_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Sebuah kesimpulan menyatakan «massa = 20 detik». Kesalahan utamanya adalah ...",
+      "options": [
+        "Satuan tidak konsisten (massa vs waktu)",
+        "Terlalu pendek",
+        "Terlalu panjang",
+        "Tidak ada kesalahan"
+      ],
+      "answer": 0,
+      "rationale": "Massa (g/kg) vs waktu (s) beda besaran.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «satuan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "data_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Grafik sumbu Y «volume (mL)» dan sumbu X «waktu (s)». Kemiringan garis menunjukkan ...",
+      "options": [
+        "Laju perubahan volume terhadap waktu",
+        "Massa dalam gram langsung",
+        "Suhu dalam derajat jam",
+        "Jumlah atom inti"
+      ],
+      "answer": 0,
+      "rationale": "Rasio perubahan volume per waktu.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «kemiringan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-main-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "reasoning",
+      "questionType": "experiment_interpretation",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Data ulangan percobaan tidak boleh dibuang seenaknya hanya karena ...",
+      "options": [
+        "Tidak cocok selera tanpa alasan pengukuran/error",
+        "Selalu harus dibuang jika beda",
+        "Karena berbeda warna pena",
+        "Karena berbeda hari Senin"
+      ],
+      "answer": 0,
+      "rationale": "Data outlier ditinjau ulang metode, bukan sekadar preferensi.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «etika data», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "ipa-s6-drill-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Hasil pengukuran utama pada tabel percobaan biasanya dipasangkan dengan ...",
+      "options": [
+        "Variabel terikat",
+        "Merek sepatu",
+        "Hari libur nasional",
+        "Warna pensil"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Faktor yang sengaja diubah peneliti disebut ...",
+      "options": [
+        "Variabel bebas",
+        "Variabel terikat",
+        "Hipotesis akhir mutlak",
+        "Kesimpulan tanpa data"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Kontrol menjaga ...",
+      "options": [
+        "Perbandingan adil",
+        "Selalu membingungkan",
+        "Tak perlu",
+        "Menghapus data"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Tabel tanpa satuan ...",
+      "options": [
+        "Tetap ilmiah sempurna",
+        "Berisiko ambigu",
+        "Wajib benar",
+        "Tak bisa salah"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Hipotesis diuji lewat ...",
+      "options": [
+        "Data percobaan",
+        "Opini saja",
+        "Warna saja",
+        "Merek sepatu"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "variabel_dari_tabel_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Lebih banyak pelarut dengan massa zat sama → konsentrasi umumnya ...",
+      "options": [
+        "Lebih tinggi",
+        "Lebih rendah",
+        "Tetap tak terdefinisi",
+        "Nol"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "20 mL + 30 mL air (tetap suhu) total volume campuran ideal ...",
+      "options": [
+        "50 mL",
+        "600 mL",
+        "10 mL",
+        "0 mL"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Jika waktu pelarutan turun saat suhu naik, hubungan sederhana ...",
+      "options": [
+        "Suhu naik → lebih cepat",
+        "Suhu naik → selalu lebih lambat",
+        "Tak ada hubungan",
+        "Suhu mematikan zat"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Perbandingan dua rasio perlu ...",
+      "options": [
+        "Satuan sama",
+        "Satuan beda bebas",
+        "Tanpa angka",
+        "Tanpa konteks"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-10",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "10 detik vs 5 detik untuk proses yang sama → yang lebih cepat ...",
+      "options": [
+        "5 detik",
+        "10 detik",
+        "Sama pasti",
+        "Tak bisa ukur"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "proporsi_sederhana_data",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-11",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "mL adalah ...",
+      "options": [
+        "Volume",
+        "Massa",
+        "Suhu",
+        "Kecepatan"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-12",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "g adalah ...",
+      "options": [
+        "Massa",
+        "Volume",
+        "Detik",
+        "Meter"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-13",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "°C untuk ...",
+      "options": [
+        "Suhu",
+        "Volume",
+        "Massa jenis saja",
+        "Arus listrik"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-14",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Kesimpulan harus ...",
+      "options": [
+        "Selaras satuan data",
+        "Campur satuan seenaknya",
+        "Tanpa angka",
+        "Hanya gambar"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s6-drill-15",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Materi & Perubahannya",
+      "subtopicId": null,
+      "subtopic": "Larutan & pemisahan campuran",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-6/pengayaan-osn-eksperimen-data"
+      ],
+      "question": "Menulis «kecepatan = 10 kg» salah karena ...",
+      "options": [
+        "kg bukan satuan kecepatan",
+        "Benar selalu",
+        "Tidak penting",
+        "Hanya gaya"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "konsistensi_satuan_osn",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_tabel"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1509 @@
+[
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Peta & denah",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Pak Guru mengumpulkan empat peta dari perpustakaan:\n\n- **Peta 1**: menampilkan batas wilayah, sungai, gunung, dan kota-kota utama\n- **Peta 2**: menampilkan persebaran curah hujan rata-rata di Indonesia\n- **Peta 3**: menampilkan persebaran lahan perkebunan sawit di Kalimantan\n- **Peta 4**: menampilkan ketinggian tanah menggunakan garis kontur\n\nPeta 2 (curah hujan) dan Peta 3 (perkebunan sawit) termasuk jenis peta yang sama, yaitu peta ...",
+    "options": [
+      "Peta topografi, karena menampilkan kondisi fisik permukaan bumi",
+      "Peta umum (rupabumi), karena menampilkan informasi umum tentang suatu wilayah, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan",
+      "Peta tematik, karena masing-masing menampilkan satu tema atau topik khusus secara mendalam",
+      "Peta kadaster, karena menampilkan batas-batas kepemilikan lahan"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Perhatikan isi Peta 2 dan Peta 3 — masing-masing hanya menampilkan **satu tema tertentu**: curah hujan saja, atau persebaran perkebunan saja. Tidak ada informasi tentang batas wilayah, jalan, atau fitur umum lainnya.\nLangkah 2: Ini adalah ciri khas **peta tematik** — peta yang dirancang untuk menampilkan satu topik khusus secara spesifik dan mendalam. Tujuannya bukan untuk navigasi umum, tetapi untuk analisis topik tertentu.\nLangkah 3: Bandingkan dengan jenis peta lain:\n- **Peta topografi** (Peta 4): menampilkan relief/ketinggian tanah dengan garis kontur\n- **Peta umum/rupabumi** (Peta 1): menampilkan berbagai fitur geografis umum (sungai, gunung, kota, jalan)\n- **Peta kadaster**: menampilkan batas kepemilikan lahan untuk keperluan hukum dan perpajakan\nLangkah 4: Peta tematik bisa menampilkan tema apa saja: cuaca, kepadatan penduduk, persebaran flora-fauna, rawan bencana, distribusi komoditas, dll.\n\n**Materi terkait:**\n- **Contoh peta tematik yang sering digunakan**: peta cuaca (untuk ramalan cuaca), peta risiko bencana (untuk mitigasi), peta komoditas pertanian (untuk perencanaan agraris), peta kepadatan penduduk (untuk kebijakan pembangunan).\n- **Peta topografi vs. peta tematik**: topografi = fitur fisik bumi (ketinggian, relief), tematik = informasi non-fisik yang dipetakan ke wilayah (curah hujan, penghasilan, suhu).\n- **Cara membaca peta tematik**: legenda sangat penting — misalnya warna biru tua = curah hujan tinggi, kuning = curah hujan rendah. Tanpa legenda, peta tematik tidak bisa dibaca.\n\nInsight kunci: Peta bukan hanya alat navigasi — ia adalah **alat visualisasi data spasial** yang sangat kuat. Peta tematik memungkinkan kita melihat pola distribusi suatu fenomena di seluruh wilayah sekaligus, hal yang sulit dipahami dari tabel angka saja.\nJawaban akhir: **Peta tematik** — setiap peta menampilkan satu tema khusus (curah hujan atau perkebunan) secara mendalam."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Lingkungan hidup & sumber daya",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Orangutan Kalimantan (*Pongo pygmaeus*) adalah primata endemik yang **hanya ditemukan di Kalimantan**. Populasinya terus menurun karena hutan habitat mereka dibuka untuk perkebunan dan pemukiman. Fakta biologis yang memperparah situasinya: orangutan betina hanya melahirkan satu anak setiap **7–9 tahun**, dan masa menyusui mencapai 6–7 tahun. Ini menjadikan orangutan sebagai salah satu mamalia dengan laju reproduksi paling lambat di dunia.\"*\n\nFaktor yang paling membuat populasi orangutan **sangat sulit pulih** meskipun perburuan dihentikan adalah ...",
+    "options": [
+      "Orangutan hanya mau memakan satu jenis buah tertentu sehingga mudah kelaparan saat musim kering",
+      "Orangutan tidak bisa berenang sehingga tidak bisa berpindah ke wilayah hutan baru saat habitatnya hilang, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Populasi orangutan sudah sangat kecil akibat perburuan sehingga tidak bisa berkembang biak secara normal",
+      "Hilangnya habitat terjadi sangat cepat sementara laju reproduksi sangat lambat (satu anak per 7–9 tahun), sehingga populasi tidak bisa pulih secepat penurunannya"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi dua tekanan utama dari teks: (1) hilangnya habitat (hutan dibuka), dan (2) laju reproduksi sangat lambat (satu anak per 7–9 tahun).\nLangkah 2: Masalah intinya adalah **ketidakseimbangan laju penurunan vs. laju pemulihan**. Habitat bisa hilang ratusan hektare dalam sebulan (akibat alat berat). Untuk menggantikan satu orangutan yang mati, seekor betina butuh 7–9 tahun. Jika populasinya turun 1.000 ekor per tahun, butuh berapa ratus tahun untuk pulih?\nLangkah 3: Bayangkan analogi sederhana: kalau Anda membobol celengan Rp100.000 setiap hari tetapi hanya bisa menabung Rp10.000 per bulan, celengan pasti habis cepat. Populasi orangutan menghadapi situasi yang persis seperti ini.\nLangkah 4: Jebakan pilihan C: meski populasi kecil memang jadi masalah (*minimum viable population*), pertanyaan menanyakan faktor yang membuat populasi **sulit pulih** — dan jawabannya adalah laju reproduksi yang terlalu lambat.\nLangkah 5: Pilihan A dan B mungkin benar secara parsial, tetapi tidak disebutkan dalam teks dan bukan faktor utama yang dibahas.\n\n**Materi terkait:**\n- **Spesies endemik**: spesies yang hanya ditemukan di satu wilayah geografis tertentu dan tidak ada di tempat lain di dunia. Indonesia adalah megabiodiversitas — memiliki ribuan spesies endemik.\n- **Laju reproduksi dan kerentanan kepunahan**: semakin lambat hewan berkembang biak, semakin rentan terhadap kepunahan. Contoh: panda raksasa juga sangat lambat bereproduksi; kebalikannya, tikus berkembang biak sangat cepat sehingga susah dibasmi.\n- **Solusi konservasi orangutan**: (1) perlindungan hutan (kawasan konservasi), (2) rehabilitasi orangutan korban perambahan, (3) program pelepasliaran orangutan yang sudah direhabilitasi, (4) penegakan hukum anti perburuan.\n- **Habitat kritis**: orangutan membutuhkan hutan hujan tropis yang luas dan tidak terfragmentasi. Fragmentasi hutan (hutan terpisah-pisah oleh jalan atau perkebunan) juga mengancam meski luas total hutan masih sama.\n\nInsight kunci: Kelambatan reproduksi orangutan bukan 'kelemahan' — itu hasil evolusi jutaan tahun di lingkungan yang stabil. Masalahnya adalah manusia **mengubah lingkungan jauh lebih cepat** dari kemampuan evolusi dan reproduksi orangutan untuk menyesuaikan diri. Ini mengajarkan pentingnya bertindak sebelum spesies mencapai titik kritis.\nKenapa opsi lain salah: A dan B adalah fakta yang tidak disebutkan teks dan bukan faktor utama; C menyentuh hal yang benar tapi tidak menjawab 'mengapa sulit pulih' — pertanyaan fokus pada dinamika populasi.\nJawaban akhir: **Habitat hilang cepat (bulan) + reproduksi sangat lambat (7–9 tahun per anak) = populasi tidak bisa pulih secepat penurunannya**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Kondisi geografis Indonesia",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Berdasarkan hukum laut internasional (UNCLOS — *United Nations Convention on the Law of the Sea*), setiap negara pantai memiliki hak eksklusif untuk mengeksplorasi dan memanfaatkan sumber daya alam — termasuk ikan, minyak bumi, dan mineral — di wilayah laut yang berjarak hingga **200 mil laut** dari garis pantainya.\n\nIndonesia memanfaatkan hak ini secara maksimal karena memiliki garis pantai terpanjang ke-2 di dunia. Wilayah laut sejauh 200 mil laut dari pantai yang menjadi hak eksklusif suatu negara ini disebut ...",
+    "options": [
+      "Laut teritorial, yaitu wilayah laut sejauh 12 mil laut dari pantai yang menjadi kedaulatan penuh negara, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan",
+      "Zona Ekonomi Eksklusif (ZEE), yaitu wilayah laut sejauh 200 mil laut tempat negara memiliki hak eksklusif mengelola sumber daya",
+      "Landas kontinen, yaitu dasar laut yang merupakan kelanjutan geologi dari daratan",
+      "Perairan internasional (laut bebas), yang bisa digunakan oleh semua negara"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Soal menyebut 'hak eksklusif untuk mengeksploitasi sumber daya alam hingga 200 mil laut dari pantai'. Ini adalah definisi tepat dari **Zona Ekonomi Eksklusif (ZEE)**.\nLangkah 2: Bedakan istilah hukum laut:\n- **Laut teritorial** (0–12 mil): kedaulatan penuh negara, seperti wilayah daratan. Kapal asing bisa lewat (*innocent passage*) tapi tidak bisa sembarangan.\n- **ZEE** (12–200 mil): negara pantai TIDAK berdaulat penuh (kapal asing bisa berlayar bebas), tetapi punya **hak eksklusif** mengelola sumber daya. Ini yang dimaksud soal.\n- **Landas kontinen**: batas geologis (bukan pasti sama dengan ZEE), hak atas sumber daya dasar laut.\n- **Laut bebas** (di luar 200 mil): milik semua orang, tidak ada yang punya hak eksklusif.\nLangkah 3: Kata kunci dalam soal: '200 mil laut' + 'hak eksklusif sumber daya' → ZEE.\n\n**Materi terkait:**\n- **ZEE Indonesia** adalah yang terbesar ke-2 di dunia — mencakup lebih dari 6 juta km² perairan. Di dalam ZEE ini Indonesia memiliki hak eksklusif atas ikan, minyak bumi, gas alam, dan mineral laut.\n- **Konflik ZEE**: banyak negara memiliki tumpang-tindih klaim ZEE dengan negara tetangga, misalnya Indonesia dengan Malaysia, Vietnam, dan Australia di berbagai titik. Ini diselesaikan melalui perundingan dan hukum internasional.\n- **Illegal fishing**: penangkapan ikan oleh kapal asing di dalam ZEE Indonesia tanpa izin adalah pelanggaran serius. Indonesia sering menenggelamkan kapal asing pelanggar ZEE sebagai efek jera.\n- **Potensi ZEE Indonesia**: diperkirakan mengandung cadangan ikan lebih dari 12 juta ton per tahun dan berbagai sumber daya mineral bawah laut yang belum sepenuhnya dipetakan.\n\nInsight kunci: ZEE adalah **aset geostrategis** terbesar Indonesia setelah daratan. Kemampuan mengelola, mengawasi, dan memanfaatkan ZEE secara berkelanjutan adalah kunci kemakmuran jangka panjang — namun butuh armada laut yang kuat, teknologi perikanan modern, dan hukum yang ditegakkan.\nJawaban akhir: **Zona Ekonomi Eksklusif (ZEE)** — hak eksklusif sumber daya hingga 200 mil laut dari pantai."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Geografi",
+    "subtopic": "Interaksi ruang",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Jalan Tol Trans-Jawa menghubungkan Merak (Banten) hingga Banyuwangi (Jawa Timur). Setelah beroperasi, kendaraan jarak jauh tidak lagi memasuki kota-kota kecil di sepanjang jalur lama. Kota-kota kecil yang dulu ramai oleh truk, bus, dan wisatawan yang singgah kini sepi — warung makan, penginapan, dan bengkel di sana kehilangan pelanggan. Di sisi lain, kawasan industri dan pergudangan di sekitar pintu masuk/keluar tol tumbuh pesat karena akses logistik menjadi sangat cepat dan mudah.\"*\n\nDampak yang paling tepat menggambarkan bahwa pembangunan infrastruktur dapat menciptakan **perbedaan nasib antarwilayah** adalah ...",
+    "options": [
+      "Tol menciptakan pemenang dan yang tertinggal dalam wilayah yang sama: kota-kota tanpa pintu keluar tol kehilangan arus orang dan ekonomi, sementara kawasan dengan pintu keluar tol justru tumbuh pesat — satu infrastruktur, dua nasib yang bertolak belakang",
+      "Semua kota di sepanjang tol mendapat manfaat ekonomi yang sama dan merata karena tol melewati semua wilayah",
+      "Pembangunan tol hanya menguntungkan perusahaan jalan tol dan pemerintah yang mendapat pajak; tidak ada manfaat nyata bagi masyarakat, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Kota-kota yang sepi akibat tol tidak bisa melakukan apapun untuk memperbaiki kondisi ekonominya karena sudah terlambat"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Identifikasi dua kelompok wilayah yang berbeda nasib dari skenario:\n- **Kota kecil tanpa pintu keluar tol**: kehilangan lalu lintas orang dan kendaraan → warung, penginapan, bengkel sepi → ekonomi menurun.\n- **Kawasan di sekitar pintu keluar tol**: akses logistik sangat mudah → industri dan pergudangan tumbuh → ekonomi naik.\nLangkah 2: Keduanya adalah akibat dari infrastruktur yang **sama** — Tol Trans-Jawa. Ini menunjukkan bahwa infrastruktur tidak otomatis meratakan pembangunan — justru bisa mempertajam perbedaan.\nLangkah 3: Konsep kunci: **spread effect vs. backwash effect**. Infrastruktur bisa menyebarkan pertumbuhan (*spread*) ke wilayah yang terhubung langsung dengan pintu keluar, tetapi juga bisa 'menyedot' aktivitas dari kota-kota kecil yang dilewati (*backwash*).\nLangkah 4: Jebakan pilihan B: skenario secara eksplisit menyebut kota-kota kecil yang *sepi* — ini membuktikan manfaat tidak merata.\nLangkah 5: Jebakan pilihan D: ada banyak yang bisa dilakukan — mengembangkan objek wisata baru, industri lokal, agrowisata. Kota-kota 'terlupakan tol' bisa menemukan identitas ekonomi baru.\nLangkah 6: Ini juga terjadi dalam kehidupan nyata: Kota Purwokerto, Kebumen, Klaten menghadapi tantangan serupa setelah Tol Trans-Jawa beroperasi dan arus transit yang dulunya mendukung ekonomi lokal berpindah ke tol.\n\n**Materi terkait:**\n- **Efek samping infrastruktur**: setiap pembangunan infrastruktur besar (tol, bandara, pelabuhan) menciptakan pola konsentrasi ekonomi baru — tidak selalu merata. Perencanaan yang baik mencakup strategi mitigasi untuk wilayah yang berpotensi 'ditinggalkan'.\n- **Interaksi ruang dan infrastruktur**: infrastruktur mengubah pola interaksi antarruang secara fundamental. Yang dulu ramai karena arus transit bisa kehilangan relevansinya saat ada rute bypass.\n- **Pengembangan wilayah kompensasi**: pemerintah dapat menyediakan program untuk membantu kota-kota yang terdampak negatif — pengembangan kawasan wisata, sentra produksi, dan pasar modern.\n\nInsight kunci: **Infrastruktur bukan solusi universal yang merata** — ia menciptakan koridor pertumbuhan baru sekaligus bisa memarginalkan yang berada di luar koridor tersebut. Perencanaan tata ruang yang bijaksana harus mempertimbangkan siapa yang akan diuntungkan dan siapa yang mungkin dirugikan.\nKenapa opsi lain salah: B terbantah oleh skenario yang menyebut kota sepi; C mengabaikan manfaat nyata bagi kawasan industri; D terlalu fatalistik dan tidak mendorong adaptasi.\nJawaban akhir: **Satu tol, dua nasib — kota tanpa pintu keluar sepi, kawasan pintu keluar tol tumbuh pesat**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sejarah",
+    "subtopic": "Sejarah Indonesia",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Di Muara Kaman, Kalimantan Timur, ditemukan tujuh prasasti berbentuk tiang batu yang disebut **yupa**. Prasasti ini ditulis dalam aksara Pallawa (dari India) menggunakan bahasa Sansekerta, dan menyebut nama Raja **Mulawarman** yang memerintah dengan adil dan dermawan. Para ahli menyimpulkan bahwa prasasti ini berasal dari sekitar abad ke-4 Masehi. Ini adalah prasasti tertua yang ditemukan di wilayah Indonesia, dan berasal dari **Kerajaan Kutai**.\"*\n\nPrasasti yupa dari Kerajaan Kutai dianggap penting dalam sejarah Indonesia karena ...",
+    "options": [
+      "Merupakan bukti tertulis tertua tentang peradaban kerajaan di wilayah Indonesia — menunjukkan Indonesia sudah memiliki sistem pemerintahan, agama, dan budaya yang maju sejak abad ke-4",
+      "Merupakan bukti pertama masuknya agama Islam ke wilayah Kalimantan pada abad ke-4 Masehi",
+      "Membuktikan bahwa Kalimantan adalah pulau pertama yang dihuni manusia di wilayah Indonesia",
+      "Menunjukkan bahwa Kerajaan Kutai adalah kerajaan pertama yang memiliki hubungan dagang dengan Eropa, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya, sehingga perubahan sosial dianggap terjadi tiba-tiba tanpa proses panjang dan sebab akibat"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Dari teks, identifikasi dua fakta penting: (1) prasasti ini adalah yang **tertua** di Indonesia, dan (2) prasasti menyebut nama raja dan menggambarkan sistem pemerintahan yang sudah ada.\nLangkah 2: Mengapa ini penting secara historis? Sebelum ditemukannya prasasti yupa, tidak ada bukti tertulis tentang kehidupan kerajaan di Nusantara. Prasasti ini **membuktikan** bahwa pada abad ke-4, sudah ada peradaban yang cukup maju di Kalimantan: punya raja, sistem pemerintahan, pengetahuan tulis-menulis, dan agama terorganisasi (Hindu).\nLangkah 3: Jebakan pilihan A: aksara Pallawa dan bahasa Sansekerta adalah tradisi Hindu dari India — bukan Islam. Islam baru masuk Nusantara sekitar abad ke-13.\nLangkah 4: Jebakan pilihan B: keberadaan prasasti tidak membuktikan pulau pertama yang dihuni — manusia purba jauh lebih tua dari abad ke-4. Jawaban B terlalu luas dan tidak didukung teks.\n\n**Materi terkait:**\n- **Kerajaan Kutai** (±350 M): kerajaan Hindu tertua di Indonesia, berpusat di Muara Kaman, Kalimantan Timur. Peninggalannya adalah tujuh yupa yang ditemukan pada 1879.\n- **Aksara Pallawa dan bahasa Sansekerta**: sistem tulis yang berasal dari India Selatan, dibawa bersama pengaruh Hindu-Buddha ke Asia Tenggara pada abad pertama Masehi. Menunjukkan kontak dagang dan budaya antara India dan Nusantara.\n- **Jalur masuk Hindu-Buddha ke Nusantara**: melalui jalur perdagangan laut yang sudah aktif sejak ribuan tahun lalu. Pedagang, pendeta, dan cendekiawan dari India membawa agama, seni, dan sistem tulis mereka.\n- **Kerajaan-kerajaan Hindu-Buddha lainnya**: Tarumanegara (Jawa Barat, abad ke-4), Sriwijaya (Sumatra, abad ke-7), Mataram Kuno (Jawa, abad ke-8), Majapahit (Jawa Timur, abad ke-13).\n\nInsight kunci: Prasasti yupa adalah **jendela sejarah** yang membuka pemahaman bahwa wilayah yang kini disebut Indonesia sudah memiliki peradaban tinggi jauh sebelum era modern. Setiap arkeolog yang menggali sejarah Nusantara selalu dimulai dari penemuan monumental ini.\nJawaban akhir: **Bukti tertulis tertua tentang kerajaan di Indonesia — menunjukkan peradaban maju sejak abad ke-4**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Tokoh & perubahan sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Pada 20 Mei 1908, Dr. Soetomo bersama sejumlah mahasiswa dari sekolah dokter STOVIA (Jakarta) mendirikan organisasi **Budi Utomo**. Ini adalah organisasi pergerakan nasional yang pertama terstruktur di Indonesia. Meski awalnya hanya untuk masyarakat Jawa dan Madura, organisasi ini menandai dimulainya era baru: perjuangan tidak lagi bersifat kedaerahan dan sporadis, tetapi mulai terorganisasi secara modern. Tanggal 20 Mei kini diperingati sebagai Hari Kebangkitan Nasional.\"*\n\nPendirian Budi Utomo pada 1908 dianggap sebagai **tonggak kebangkitan nasional** karena ...",
+    "options": [
+      "Budi Utomo berhasil mengusir penjajah Belanda dari Jawa dalam 5 tahun pertama berdirinya",
+      "Budi Utomo adalah organisasi formal pertama yang memperjuangkan kemajuan bangsa melalui pendidikan dan kesadaran — menandai dimulainya era perjuangan terorganisasi yang lebih strategis dibanding perlawanan fisik yang terisolasi sebelumnya",
+      "Budi Utomo adalah organisasi pertama yang secara resmi menyebut nama 'Indonesia' sebagai nama negara yang ingin diperjuangkan, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya",
+      "Budi Utomo berhasil menyatukan seluruh suku dan etnis di Nusantara dalam satu wadah organisasi yang solid"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Dari teks, identifikasi dua hal yang ditekankan: (1) Budi Utomo adalah organisasi **terstruktur pertama**, dan (2) menandai dimulainya era perjuangan yang **terorganisasi** (berbeda dari perlawanan fisik kedaerahan sebelumnya).\nLangkah 2: Sebelum 1908, perlawanan terhadap penjajah bersifat lokal dan sporadis — Perang Diponegoro (1825-1830, terbatas di Jawa Tengah), Perang Padri (Sumatra Barat), Perang Aceh — masing-masing berdiri sendiri tanpa koordinasi. Saat satu perlawanan berhasil ditumpas, tidak ada kelanjutan terorganisir.\nLangkah 3: Budi Utomo mengubah paradigma: menggunakan pendidikan dan organisasi sebagai senjata — bukan pedang. Ini jauh lebih sulit 'ditumpas' oleh penjajah karena tidak berbentuk fisik.\nLangkah 4: Jebakan pilihan B: Budi Utomo tidak pernah mengangkat senjata — fokusnya pendidikan. Belanda masih berkuasa hingga 1945.\nLangkah 5: Jebakan pilihan C: nama 'Indonesia' mulai digunakan secara luas sekitar 1920-an, bukan sejak 1908. Sumpah Pemuda (1928) yang pertama kali secara formal memproklamasikan 'berbangsa satu, bangsa Indonesia'.\nLangkah 6: Jebakan pilihan D: Budi Utomo awalnya hanya untuk Jawa dan Madura — tidak menyatukan semua suku.\n\n**Materi terkait:**\n- **STOVIA** (*School tot Opleiding van Inlandsche Artsen*): sekolah dokter Hindia Belanda di Batavia. Ironis, penjajah mendirikan sekolah untuk melatih dokter pribumi, tetapi para dokter muda inilah yang menjadi pelopor pergerakan nasional.\n- **Pergerakan nasional**: periode 1908-1945 saat orang Indonesia mulai berjuang melalui organisasi, pers, dan pendidikan. Organisasi penting lainnya: Sarekat Islam (1912), PKI (1920), PNI (1927).\n- **Hari Kebangkitan Nasional** (20 Mei): diperingati setiap tahun sebagai refleksi semangat kebangkitan bangsa melalui organisasi dan pendidikan — bukan hanya perlawanan fisik.\n\nInsight kunci: Budi Utomo mengajarkan bahwa **perubahan besar dimulai dari kesadaran dan organisasi**. Sekelompok mahasiswa muda yang terorganisasi dengan visi yang jelas bisa menciptakan momentum yang jauh lebih besar dari ribuan orang yang berjuang sendiri-sendiri tanpa koordinasi.\nKenapa opsi lain salah: B tidak berdasar fakta; C salah secara historis; D terlalu luas dan bertentangan dengan fakta awal terbatas Jawa-Madura.\nJawaban akhir: **Budi Utomo menandai dimulainya era perjuangan terorganisasi — lebih strategis dan berkelanjutan dari perlawanan fisik yang terisolasi**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Warisan budaya & nasionalisme",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"**Gamelan** adalah seperangkat alat musik tradisional Jawa dan Bali yang terdiri dari gong, kendang, saron, bonang, dan berbagai instrumen lain yang dimainkan bersama-sama secara harmonis. UNESCO mengakui Gamelan sebagai Warisan Budaya Tak Benda pada Desember 2021. Uniknya, gamelan kini tidak hanya dimainkan di Indonesia — ia dipelajari dan dimainkan di lebih dari 40 universitas di Amerika Serikat, Eropa, dan Australia. Beberapa komposer dunia juga terinspirasi oleh harmoni gamelan dalam karya musik mereka.\"*\n\nFakta bahwa gamelan kini dipelajari di universitas-universitas di luar negeri paling tepat menunjukkan ...",
+    "options": [
+      "Orang Indonesia sudah tidak tertarik dengan gamelan sehingga harus 'dilestarikan' oleh orang asing",
+      "Gamelan lebih cocok dimainkan oleh orang asing karena membutuhkan teknik musik yang sangat tinggi",
+      "Hak cipta gamelan sudah dipindahtangankan kepada universitas luar negeri yang pertama kali mempelajarinya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya",
+      "Gamelan memiliki nilai estetika dan filosofi yang universal, melampaui batas budaya dan geografi — sekaligus menjadi 'duta budaya' Indonesia yang hidup di seluruh dunia"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Fakta kunci: gamelan dipelajari di 40+ universitas di Amerika, Eropa, Australia. Komposer dunia terinspirasi olehnya. UNESCO mengakuinya sebagai warisan dunia.\nLangkah 2: Apa yang menyebabkan orang asing tertarik mempelajari gamelan?\n- Keunikan sistem nada (pentatonis, berbeda dari sistem Barat yang diatonik)\n- Filosofi bermain bersama secara harmonis tanpa satu 'bintang' — mencerminkan kebersamaan dan gotong royong\n- Suara yang meditatif dan kaya tekstur, yang jarang ditemukan dalam musik Barat\nSemua ini adalah nilai universal yang bisa dinikmati semua orang tanpa harus berasal dari Jawa atau Bali.\nLangkah 3: Dampak bagi Indonesia: setiap orang asing yang bermain gamelan secara otomatis belajar tentang budaya Indonesia, menyebarkan pengetahuan tentang Indonesia kepada lingkungan sekitarnya. Ini adalah 'diplomasi budaya' yang sangat efektif.\nLangkah 4: Jebakan pilihan A: orang Indonesia masih banyak yang memainkan gamelan — bahkan semakin banyak orang muda yang belajar. Orang asing belajar gamelan bukan karena Indonesia meninggalkannya, tetapi karena tertarik oleh keindahannya.\nLangkah 5: Jebakan pilihan D: warisan budaya tidak memiliki 'hak cipta' dalam arti biasa — tidak bisa dipindahtangankan. Justru pengakuan UNESCO melindungi gamelan sebagai milik budaya Indonesia dan dunia.\n\n**Materi terkait:**\n- **Gamelan dan filosofi Jawa**: dalam gamelan, tidak ada satu instrumen yang paling menonjol — semua saling melengkapi dan menghormati. Ini mencerminkan nilai kebersamaan (*gotong royong*) dan keselarasan (*laras*) yang mendalam dalam budaya Jawa.\n- **Claude Debussy dan gamelan**: komposer Perancis Claude Debussy terinspirasi oleh gamelan yang ia dengar di Pameran Dunia Paris 1889. Pengaruhnya terasa dalam karya-karyanya yang inovatif.\n- **Soft power** (kekuatan lunak): kemampuan suatu negara mempengaruhi negara lain melalui budaya, seni, dan nilai — bukan militer atau ekonomi. Gamelan, wayang, dan batik adalah instrumen *soft power* Indonesia yang sangat kuat.\n\nInsight kunci: Ketika kesenian suatu bangsa dipelajari dan dinikmati oleh orang di seluruh dunia, itu adalah **pengakuan tertinggi atas nilai universal** yang terkandung di dalamnya. Gamelan tidak hanya milik Jawa-Bali — ia adalah kontribusi Indonesia kepada kekayaan budaya dunia.\nKenapa opsi lain salah: A membalikkan fakta; B adalah miskonsepsi — siapapun bisa belajar gamelan; D salah secara hukum — warisan budaya tidak dipindahtangankan dengan hak cipta.\nJawaban akhir: **Gamelan memiliki nilai universal yang melampaui batas budaya — sekaligus menjadi duta budaya Indonesia di dunia**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sejarah",
+    "subtopic": "Kronologi peristiwa",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel kronologi pergerakan nasional Indonesia:\n\n| Tahun | Peristiwa |\n|---|---|\n| 1908 | **Budi Utomo** didirikan — organisasi pergerakan terstruktur pertama, awalnya untuk kalangan terdidik Jawa |\n| 1912 | **Sarekat Islam** didirikan — menjangkau pedagang dan rakyat luas di berbagai daerah |\n| 1928 | **Sumpah Pemuda** — pemuda dari berbagai suku berikrar satu bangsa, satu tanah air, satu bahasa: Indonesia |\n| 1945 | **Proklamasi Kemerdekaan** 17 Agustus 1945 |\n\nBerdasarkan kronologi, pola perkembangan pergerakan nasional yang paling tepat disimpulkan adalah ...",
+    "options": [
+      "Semua peristiwa terjadi secara kebetulan dan tidak ada pola yang bermakna antara satu peristiwa dengan peristiwa lainnya, karena bukti sejarah dianggap cukup dilihat dari satu sisi tanpa membandingkan konteks zamannya, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya",
+      "Proklamasi Kemerdekaan terjadi tanpa persiapan karena tidak ada perjuangan yang berarti sebelum 1945",
+      "Pergerakan dimulai dari kalangan terdidik (Budi Utomo) → meluas ke rakyat umum (Sarekat Islam) → membangun identitas nasional bersama (Sumpah Pemuda) → mencapai kemerdekaan — suatu tahapan yang sistematis dari kesadaran hingga kemerdekaan",
+      "Sumpah Pemuda 1928 langsung memaksa Belanda menyerahkan kemerdekaan kepada Indonesia saat itu juga"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Analisis setiap peristiwa dalam konteks 'siapa yang terlibat' dan 'apa yang dicapai':\n- **Budi Utomo (1908)**: mahasiswa dan kaum terdidik Jawa → **memulai kesadaran** melalui pendidikan dan organisasi.\n- **Sarekat Islam (1912)**: pedagang dan rakyat umum dari berbagai daerah → **memperluas basis** perjuangan melampaui kalangan elit.\n- **Sumpah Pemuda (1928)**: pemuda dari berbagai suku (Jawa, Sunda, Batak, Ambon, dll.) → **membangun identitas nasional** bersama ('Indonesia'), mengatasi kesukuan.\n- **Proklamasi (1945)**: hasil dari 37 tahun proses kesadaran, perluasan basis, dan pembangunan identitas.\nLangkah 2: Ada pola yang jelas: dari kecil dan terbatas → meluas → bersatu → merdeka. Ini bukan kebetulan — setiap tahap mempersiapkan tahap berikutnya.\nLangkah 3: Logika tahapan:\n- Tanpa kesadaran dan organisasi (1908) → tidak ada kelompok yang punya visi kemerdekaan.\n- Tanpa menjangkau rakyat luas (1912) → gerakan tetap terbatas pada elit.\n- Tanpa identitas nasional bersama (1928) → tidak ada 'Indonesia' sebagai bangsa yang bisa merdeka.\n- Tanpa semua itu → proklamasi 1945 tidak akan punya dukungan dan legitimasi.\nLangkah 4: Jebakan pilihan A: keempat peristiwa jelas saling terhubung — membangun di atas fondasi peristiwa sebelumnya.\nLangkah 5: Jebakan pilihan D: Sumpah Pemuda 1928 tidak langsung menyebabkan kemerdekaan. Masih butuh 17 tahun lagi, termasuk masa pendudukan Jepang.\n\n**Materi terkait:**\n- **Tahapan perjuangan pergerakan nasional**: para sejarawan membagi menjadi fase awal (1908-1920-an, fokus pendidikan), fase radikal (1920-an-1930-an, mulai berbicara tentang kemerdekaan), dan fase pendudukan Jepang (1942-1945, persiapan kemerdekaan).\n- **Peran Sarekat Islam**: menjadi organisasi pertama yang berhasil merekrut jutaan anggota dari rakyat biasa — membuktikan bahwa perjuangan tidak hanya urusan kaum terdidik.\n- **Makna Sumpah Pemuda**: bukan hanya sumpah — ini adalah keputusan politis yang berani, menyatakan bahwa keberagaman suku dan budaya Nusantara bisa bersatu dalam satu identitas 'Indonesia'.\n\nInsight kunci: Pergerakan nasional Indonesia tidak terjadi dalam semalam — ia adalah proses **bertahap selama puluhan tahun** yang membangun fondasi kesadaran, organisasi, dan identitas. Kemerdekaan 1945 adalah panen dari benih yang ditanam pada 1908. Ini mengajarkan bahwa perubahan besar butuh visi jangka panjang dan ketekunan.\nKenapa opsi lain salah: A mengabaikan hubungan logis yang jelas; C tidak berdasar (37 tahun persiapan adalah perjuangan yang panjang); D secara historis tidak benar.\nJawaban akhir: **Pola bertahap: elit terdidik → rakyat luas → identitas nasional → kemerdekaan — sistematis dan saling membangun**.",
+    "content": {
+      "question": "Perhatikan tabel kronologi pergerakan nasional Indonesia:\n\n| Tahun | Peristiwa |\n|---|---|\n| 1908 | **Budi Utomo** didirikan — organisasi pergerakan terstruktur pertama, awalnya untuk kalangan terdidik Jawa |\n| 1912 | **Sarekat Islam** didirikan — menjangkau pedagang dan rakyat luas di berbagai daerah |\n| 1928 | **Sumpah Pemuda** — pemuda dari berbagai suku berikrar satu bangsa, satu tanah air, satu bahasa: Indonesia |\n| 1945 | **Proklamasi Kemerdekaan** 17 Agustus 1945 |\n\nBerdasarkan kronologi, pola perkembangan pergerakan nasional yang paling tepat disimpulkan adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel kronologi pergerakan nasional Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Peristiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1908"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Budi Utomo didirikan — organisasi pergerakan terstruktur pertama, awalnya untuk kalangan terdidik Jawa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1912"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sarekat Islam didirikan — menjangkau pedagang dan rakyat luas di berbagai daerah"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1928"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sumpah Pemuda — pemuda dari berbagai suku berikrar satu bangsa, satu tanah air, satu bahasa: Indonesia"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1945"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Proklamasi Kemerdekaan 17 Agustus 1945"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan kronologi, pola perkembangan pergerakan nasional yang paling tepat disimpulkan adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Semua peristiwa terjadi secara kebetulan dan tidak ada pola yang bermakna antara satu peristiwa dengan peristiwa lainnya, karena bukti sejarah dianggap cukup dilihat dari satu sisi tanpa membandingkan konteks zamannya, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya",
+        "Proklamasi Kemerdekaan terjadi tanpa persiapan karena tidak ada perjuangan yang berarti sebelum 1945",
+        "Pergerakan dimulai dari kalangan terdidik (Budi Utomo) → meluas ke rakyat umum (Sarekat Islam) → membangun identitas nasional bersama (Sumpah Pemuda) → mencapai kemerdekaan — suatu tahapan yang sistematis dari kesadaran hingga kemerdekaan",
+        "Sumpah Pemuda 1928 langsung memaksa Belanda menyerahkan kemerdekaan kepada Indonesia saat itu juga"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semua peristiwa terjadi secara kebetulan dan tidak ada pola yang bermakna antara satu peristiwa dengan peristiwa lainnya, karena bukti sejarah dianggap cukup dilihat dari satu sisi tanpa membandingkan konteks zamannya, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Proklamasi Kemerdekaan terjadi tanpa persiapan karena tidak ada perjuangan yang berarti sebelum 1945"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pergerakan dimulai dari kalangan terdidik (Budi Utomo) → meluas ke rakyat umum (Sarekat Islam) → membangun identitas nasional bersama (Sumpah Pemuda) → mencapai kemerdekaan — suatu tahapan yang sistematis dari kesadaran hingga kemerdekaan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sumpah Pemuda 1928 langsung memaksa Belanda menyerahkan kemerdekaan kepada Indonesia saat itu juga"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Analisis setiap peristiwa dalam konteks 'siapa yang terlibat' dan 'apa yang dicapai':\n- **Budi Utomo (1908)**: mahasiswa dan kaum terdidik Jawa → **memulai kesadaran** melalui pendidikan dan organisasi.\n- **Sarekat Islam (1912)**: pedagang dan rakyat umum dari berbagai daerah → **memperluas basis** perjuangan melampaui kalangan elit.\n- **Sumpah Pemuda (1928)**: pemuda dari berbagai suku (Jawa, Sunda, Batak, Ambon, dll.) → **membangun identitas nasional** bersama ('Indonesia'), mengatasi kesukuan.\n- **Proklamasi (1945)**: hasil dari 37 tahun proses kesadaran, perluasan basis, dan pembangunan identitas.\nLangkah 2: Ada pola yang jelas: dari kecil dan terbatas → meluas → bersatu → merdeka. Ini bukan kebetulan — setiap tahap mempersiapkan tahap berikutnya.\nLangkah 3: Logika tahapan:\n- Tanpa kesadaran dan organisasi (1908) → tidak ada kelompok yang punya visi kemerdekaan.\n- Tanpa menjangkau rakyat luas (1912) → gerakan tetap terbatas pada elit.\n- Tanpa identitas nasional bersama (1928) → tidak ada 'Indonesia' sebagai bangsa yang bisa merdeka.\n- Tanpa semua itu → proklamasi 1945 tidak akan punya dukungan dan legitimasi.\nLangkah 4: Jebakan pilihan A: keempat peristiwa jelas saling terhubung — membangun di atas fondasi peristiwa sebelumnya.\nLangkah 5: Jebakan pilihan D: Sumpah Pemuda 1928 tidak langsung menyebabkan kemerdekaan. Masih butuh 17 tahun lagi, termasuk masa pendudukan Jepang.\n\n**Materi terkait:**\n- **Tahapan perjuangan pergerakan nasional**: para sejarawan membagi menjadi fase awal (1908-1920-an, fokus pendidikan), fase radikal (1920-an-1930-an, mulai berbicara tentang kemerdekaan), dan fase pendudukan Jepang (1942-1945, persiapan kemerdekaan).\n- **Peran Sarekat Islam**: menjadi organisasi pertama yang berhasil merekrut jutaan anggota dari rakyat biasa — membuktikan bahwa perjuangan tidak hanya urusan kaum terdidik.\n- **Makna Sumpah Pemuda**: bukan hanya sumpah — ini adalah keputusan politis yang berani, menyatakan bahwa keberagaman suku dan budaya Nusantara bisa bersatu dalam satu identitas 'Indonesia'.\n\nInsight kunci: Pergerakan nasional Indonesia tidak terjadi dalam semalam — ia adalah proses **bertahap selama puluhan tahun** yang membangun fondasi kesadaran, organisasi, dan identitas. Kemerdekaan 1945 adalah panen dari benih yang ditanam pada 1908. Ini mengajarkan bahwa perubahan besar butuh visi jangka panjang dan ketekunan.\nKenapa opsi lain salah: A mengabaikan hubungan logis yang jelas; C tidak berdasar (37 tahun persiapan adalah perjuangan yang panjang); D secara historis tidak benar.\nJawaban akhir: **Pola bertahap: elit terdidik → rakyat luas → identitas nasional → kemerdekaan — sistematis dan saling membangun**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Analisis setiap peristiwa dalam konteks 'siapa yang terlibat' dan 'apa yang dicapai':\n- Budi Utomo (1908): mahasiswa dan kaum terdidik Jawa → memulai kesadaran melalui pendidikan dan organisasi.\n- Sarekat Islam (1912): pedagang dan rakyat umum dari berbagai daerah → memperluas basis perjuangan melampaui kalangan elit.\n- Sumpah Pemuda (1928): pemuda dari berbagai suku (Jawa, Sunda, Batak, Ambon, dll.) → membangun identitas nasional bersama ('Indonesia'), mengatasi kesukuan.\n- Proklamasi (1945): hasil dari 37 tahun proses kesadaran, perluasan basis, dan pembangunan identitas.\nLangkah 2: Ada pola yang jelas: dari kecil dan terbatas → meluas → bersatu → merdeka. Ini bukan kebetulan — setiap tahap mempersiapkan tahap berikutnya.\nLangkah 3: Logika tahapan:\n- Tanpa kesadaran dan organisasi (1908) → tidak ada kelompok yang punya visi kemerdekaan.\n- Tanpa menjangkau rakyat luas (1912) → gerakan tetap terbatas pada elit.\n- Tanpa identitas nasional bersama (1928) → tidak ada 'Indonesia' sebagai bangsa yang bisa merdeka.\n- Tanpa semua itu → proklamasi 1945 tidak akan punya dukungan dan legitimasi.\nLangkah 4: Jebakan pilihan A: keempat peristiwa jelas saling terhubung — membangun di atas fondasi peristiwa sebelumnya.\nLangkah 5: Jebakan pilihan D: Sumpah Pemuda 1928 tidak langsung menyebabkan kemerdekaan. Masih butuh 17 tahun lagi, termasuk masa pendudukan Jepang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Tahapan perjuangan pergerakan nasional: para sejarawan membagi menjadi fase awal (1908-1920-an, fokus pendidikan), fase radikal (1920-an-1930-an, mulai berbicara tentang kemerdekaan), dan fase pendudukan Jepang (1942-1945, persiapan kemerdekaan).\n- Peran Sarekat Islam: menjadi organisasi pertama yang berhasil merekrut jutaan anggota dari rakyat biasa — membuktikan bahwa perjuangan tidak hanya urusan kaum terdidik.\n- Makna Sumpah Pemuda: bukan hanya sumpah — ini adalah keputusan politis yang berani, menyatakan bahwa keberagaman suku dan budaya Nusantara bisa bersatu dalam satu identitas 'Indonesia'."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pergerakan nasional Indonesia tidak terjadi dalam semalam — ia adalah proses bertahap selama puluhan tahun yang membangun fondasi kesadaran, organisasi, dan identitas. Kemerdekaan 1945 adalah panen dari benih yang ditanam pada 1908. Ini mengajarkan bahwa perubahan besar butuh visi jangka panjang dan ketekunan.\nKenapa opsi lain salah: A mengabaikan hubungan logis yang jelas; C tidak berdasar (37 tahun persiapan adalah perjuangan yang panjang); D secara historis tidak benar.\nJawaban akhir: Pola bertahap: elit terdidik → rakyat luas → identitas nasional → kemerdekaan — sistematis dan saling membangun."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Ekonomi",
+    "subtopic": "Permintaan & penawaran",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Durian adalah buah musiman yang berbuah setahun sekali, biasanya pada bulan November–Januari. Di luar musim panen, harga satu durian bisa mencapai Rp50.000–Rp100.000. Namun saat musim panen tiba dan durian melimpah di pasar, harganya bisa turun hingga Rp10.000–Rp15.000 per buah.\n\nPenurunan harga durian saat musim panen **sesuai** dengan prinsip ekonomi bahwa ...",
+    "options": [
+      "Durian saat musim panen lebih cepat busuk sehingga pedagang harus menurunkan harga agar cepat habis",
+      "Ketika penawaran (jumlah durian di pasar) meningkat sementara permintaan relatif tetap, harga akan turun",
+      "Pemerintah menetapkan harga durian lebih murah saat musim panen untuk membantu masyarakat kurang mampu",
+      "Pembeli bersedia membayar lebih mahal saat musim panen karena kualitas durian lebih baik dibanding luar musim"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi perubahan yang terjadi saat musim panen: **jumlah durian di pasar meningkat** sangat banyak (penawaran naik). Jumlah orang yang ingin membeli durian relatif sama (permintaan tetap).\nLangkah 2: Terapkan prinsip hukum penawaran-permintaan:\n- Penawaran (stok) naik + permintaan tetap → **kelebihan penawaran** → pedagang bersaing menurunkan harga agar dagangannya terjual sebelum busuk → harga turun.\n- Sebaliknya: luar musim panen, penawaran sangat sedikit + permintaan tetap → **kekurangan penawaran** → pembeli bersaing mendapatkan barang → harga naik.\nLangkah 3: Ini adalah aplikasi langsung **hukum penawaran**: ketika penawaran meningkat (ceteris paribus — faktor lain tetap), harga cenderung turun.\nLangkah 4: Jebakan pilihan B: meski ada benarnya (pedagang terdorong menjual cepat), faktor busuk bukan prinsip ekonomi utama di balik penurunan harga. Mekanisme utamanya adalah kelebihan penawaran.\nLangkah 5: Pilihan C salah — pemerintah tidak mengatur harga durian. Pilihan D salah dan terbalik — kualitas durian musiman tidak lebih buruk dari luar musim.\n\n**Materi terkait:**\n- **Hukum penawaran**: ketika harga naik, penjual terdorong menyediakan lebih banyak (dan sebaliknya). Saat musim panen, petani memanen semua yang ada → penawaran membludak → harga turun otomatis.\n- **Hukum permintaan**: ketika harga turun, konsumen terdorong membeli lebih banyak. Saat harga durian murah di musim panen, banyak keluarga yang biasanya tidak beli pun akhirnya membeli.\n- **Keseimbangan pasar**: harga terbentuk di titik di mana jumlah yang ingin dijual = jumlah yang ingin dibeli. Perubahan penawaran atau permintaan menggeser titik keseimbangan ini.\n- **Contoh lain**: harga ikan tuna saat cuaca buruk (nelayan tidak bisa melaut → penawaran turun → harga naik); harga mangga saat musim (penawaran naik → harga turun).\n\nInsight kunci: Prinsip penawaran-permintaan adalah mekanisme **penyeimbang pasar yang otomatis** — tanpa diatur siapapun, harga bergerak mengikuti keseimbangan antara stok dan kebutuhan. Memahami prinsip ini membantu kita memprediksi kapan harga akan naik atau turun.\nJawaban akhir: **Penawaran naik (panen melimpah) + permintaan tetap → harga turun secara otomatis**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Sebuah kemeja batik yang ada di toko busana Jakarta melewati perjalanan panjang sebelum sampai ke tangan konsumen: kapas ditanam di NTT → dipintal menjadi benang di pabrik Jawa Tengah → ditenun menjadi kain → kain dikirim ke pengrajin batik di Yogyakarta → batik dijahit menjadi kemeja → kemeja dikirim ke distributor Jakarta → dijual di toko kepada konsumen akhir.\"*\n\nIstilah yang paling tepat untuk menggambarkan seluruh rangkaian pihak yang terlibat — dari kapas hingga kemeja sampai ke tangan konsumen — adalah ...",
+    "options": [
+      "Rantai makanan, karena setiap pelaku 'memakan' nilai yang dibuat oleh pelaku sebelumnya",
+      "Siklus produksi, karena proses ini berputar terus tanpa pernah berhenti",
+      "Sistem barter, karena setiap pelaku menukarkan karyanya dengan pelaku berikutnya secara langsung, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat",
+      "Rantai pasok (*supply chain*) — rangkaian seluruh pihak yang berperan mengubah bahan baku menjadi produk jadi hingga sampai ke tangan konsumen akhir"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Perhatikan struktur skenario: ada banyak pihak yang berbeda, masing-masing melakukan satu tahap, dan produk 'mengalir' dari satu pihak ke pihak berikutnya hingga sampai ke konsumen. Ini adalah struktur yang khas dari sebuah **rantai pasok**.\nLangkah 2: **Rantai pasok** (*supply chain*) adalah jaringan semua entitas (petani, pabrik, pengrajin, distributor, toko) yang terlibat dalam menghasilkan dan mengantarkan produk kepada konsumen akhir. Kata kunci: 'rantai' (ada urutan) dan 'pasok' (memasok bahan/produk ke tahap berikutnya).\nLangkah 3: Setiap mata rantai menambahkan nilai: kapas → benang (nilai tambah proses pintal), benang → kain (proses tenun), kain → batik (nilai tambah seni), batik → kemeja (nilai tambah jahit), kemeja → di toko (nilai tambah distribusi dan aksesibilitas). Konsumen membayar untuk semua nilai tambah ini.\nLangkah 4: Jebakan pilihan A: 'rantai makanan' adalah istilah ekologi tentang hubungan makan-dimakan antar makhluk hidup. Ini tidak tepat untuk konteks ekonomi.\nLangkah 5: Jebakan pilihan B: 'siklus produksi' tidak menggambarkan dengan tepat karena proses ini tidak benar-benar melingkar (produk tidak kembali ke kapas setelah dibeli konsumen, kecuali dalam konsep *circular economy*).\n\n**Materi terkait:**\n- **Manajemen rantai pasok** (*Supply Chain Management*): ilmu tentang cara mengoptimalkan seluruh rantai dari bahan baku hingga konsumen agar efisien, cepat, dan menguntungkan semua pihak.\n- **Gangguan rantai pasok**: pandemi COVID-19 menunjukkan betapa pentingnya rantai pasok global. Ketika pabrik di satu negara tutup, kekurangan produk bisa terjadi di seluruh dunia.\n- **Rantai pasok lokal vs. global**: rantai pasok kemeja batik dalam skenario ini adalah lokal (semua di Indonesia). Tapi banyak produk memiliki rantai pasok global — ponsel pintarmu mungkin menggunakan chip dari Taiwan, layar dari Korea, dan dirakit di Tiongkok.\n- **Rantai nilai (*value chain*)**: konsep serupa yang lebih fokus pada di mana nilai tambah terbesar diciptakan dalam rantai pasok.\n\nInsight kunci: Ketika kamu membeli produk, kamu tidak hanya membeli benda itu — kamu juga **membayar kerja keras semua orang di sepanjang rantai pasok**: petani kapas di NTT, pekerja pabrik benang, pengrajin batik, penjahit, driver logistik, dan penjual toko. Memahami rantai pasok membantu kita menghargai nilai di balik setiap produk.\nKenapa opsi lain salah: A salah konteks (ekologi vs. ekonomi); B tidak menggambarkan dengan tepat; C (barter) tidak ada hubungannya dengan skenario.\nJawaban akhir: **Rantai pasok (*supply chain*) — rangkaian semua pihak dari bahan baku hingga produk jadi ke konsumen**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Andi punya tabungan Rp1.000.000 dan mempertimbangkan tiga pilihan: (1) Disimpan di **celengan di rumah** — aman secara fisik, tidak ada bunga; (2) Ditabung di **rekening bank** — mendapat bunga 3% per tahun, uang dijamin oleh Lembaga Penjamin Simpanan (LPS) pemerintah; (3) Diinvestasikan di **reksa dana** — potensi tumbuh 8% per tahun, tetapi nilai bisa turun jika pasar sedang buruk.\"*\n\nDari ketiga pilihan tersebut, pilihan yang paling **aman namun tetap menghasilkan pertumbuhan nilai** adalah ...",
+    "options": [
+      "Menabung di bank, karena uang terjamin aman oleh pemerintah dan mendapat bunga yang membantu menjaga nilai dari inflasi",
+      "Menyimpan di celengan, karena uang pasti masih ada dan tidak kemana-mana",
+      "Berinvestasi di reksa dana, karena potensi keuntungannya paling besar di antara tiga pilihan, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan",
+      "Tidak ada pilihan yang benar-benar aman, lebih baik langsung digunakan saja"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Evaluasi tiga pilihan berdasarkan dua kriteria: **keamanan** dan **pertumbuhan nilai**.\nLangkah 2: **Celengan di rumah**:\n- Keamanan: ada risiko fisik (kebakaran, pencurian), dan yang lebih sering diabaikan: **inflasi** — jika inflasi 4% per tahun, uang Rp1.000.000 tahun ini sama nilainya dengan sekitar Rp960.000 tahun depan. Uang disimpan di celengan tidak tumbuh, justru *menurun* nilainya secara riil.\n- Pertumbuhan nilai: tidak ada sama sekali.\nLangkah 3: **Rekening bank**:\n- Keamanan: sangat tinggi — dijamin Lembaga Penjamin Simpanan (LPS) pemerintah Indonesia hingga Rp2 miliar. Praktis tidak ada risiko kehilangan uang.\n- Pertumbuhan nilai: ada bunga 3% per tahun. Meski kecil, membantu mengurangi dampak inflasi.\nLangkah 4: **Reksa dana**:\n- Keamanan: ada risiko nyata — nilai bisa turun jika pasar buruk. Ini bukan pilihan 'paling aman'.\n- Pertumbuhan nilai: paling besar (8%), tetapi dengan risiko yang setara.\nLangkah 5: Kesimpulan: bank adalah pilihan yang **paling aman SEKALIGUS menghasilkan pertumbuhan** — menjawab kedua kriteria. Celengan aman secara fisik tapi tidak tumbuh (bahkan menyusut). Reksa dana bertumbuh tapi tidak paling aman.\n\n**Materi terkait:**\n- **LPS (Lembaga Penjamin Simpanan)**: lembaga pemerintah yang menjamin simpanan nasabah di bank hingga Rp2 miliar per nasabah per bank. Jika bank bangkrut, uang nasabah tetap aman dijamin LPS.\n- **Inflasi dan daya beli uang**: uang Rp1.000.000 hari ini tidak sama nilainya dengan Rp1.000.000 tahun depan. Inflasi sekitar 3-4% per tahun berarti daya beli uang berkurang sekitar 3-4% per tahun. Menabung di bank (bunga 3%) membantu menjaga daya beli.\n- **Reksa dana**: instrumen investasi yang menggabungkan dana dari banyak investor untuk diinvestasikan di saham, obligasi, atau pasar uang oleh manajer investasi profesional. Lebih terjangkau dari investasi langsung, tetapi tetap memiliki risiko pasar.\n- **Prinsip investasi**: *high risk, high return* — semakin tinggi potensi keuntungan, semakin tinggi risikonya. Bank = rendah risiko, rendah return. Reksa dana = risiko lebih tinggi, return lebih tinggi.\n\nInsight kunci: Menabung di bank adalah pilihan **bijak pertama** bagi yang baru belajar mengelola keuangan — aman, mudah, dan masih tumbuh. Setelah ada dana darurat yang cukup (3-6 bulan pengeluaran), barulah sebagian bisa diinvestasikan di instrumen yang lebih berisiko untuk keuntungan lebih besar.\nKenapa opsi lain salah: A aman secara fisik tapi tidak tumbuh (bahkan menyusut akibat inflasi); C tumbuh paling besar tapi bukan yang paling aman; D tidak logis — uang harus dikelola, bukan langsung dihabiskan.\nJawaban akhir: **Menabung di bank — aman dijamin pemerintah dan mendapat bunga yang membantu menjaga nilai uang**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Ekonomi",
+    "subtopic": "Peran konsumen & produsen",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Pemerintah memberikan subsidi pupuk kepada petani: pemerintah menanggung sebagian harga pupuk agar petani bisa membeli dengan harga lebih murah. Anggaran subsidi pupuk mencapai puluhan triliun rupiah per tahun. Beberapa permasalahan muncul: (1) sebagian subsidi dinikmati oleh petani besar/kaya yang sebenarnya mampu membeli tanpa subsidi; (2) produsen pupuk terbiasa bergantung pada kontrak subsidi sehingga kurang inovatif; (3) petani kecil di daerah terpencil sering tidak bisa mengakses subsidi karena hambatan distribusi.\"*\n\nDari perspektif ekonomi, argumen yang paling kuat untuk **tetap mempertahankan** subsidi pupuk yang **disempurnakan** (tepat sasaran hanya untuk petani kecil) adalah ...",
+    "options": [
+      "Subsidi pupuk tidak perlu dipertahankan karena petani sudah mendapat keuntungan besar dari menjual hasil panen",
+      "Subsidi harus diberikan sama rata kepada semua petani tanpa pengecualian agar tidak ada yang merasa diperlakukan tidak adil",
+      "Petani kecil seringkali tidak memiliki modal untuk membeli pupuk dengan harga pasar penuh — tanpa subsidi tepat sasaran, mereka tidak bisa berproduksi secara optimal dan ini mengancam ketahanan pangan nasional",
+      "Subsidi sebaiknya dihapus sepenuhnya dan digantikan dengan mekanisme pasar bebas agar produsen pupuk menjadi lebih efisien dan inovatif, karena peran produsen, distributor, dan konsumen dianggap tidak saling memengaruhi dalam kegiatan ekonomi"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi masalah inti. Permasalahan yang disebutkan bukan tentang apakah subsidi itu baik atau buruk secara prinsip, melainkan tentang bagaimana penerapannya: (1) tidak tepat sasaran (kaya juga dapat), (2) produsen bergantung, (3) petani kecil terpencil justru tidak bisa akses. Ini adalah masalah desain dan pelaksanaan, bukan bukti bahwa subsidi harus dihapus.\nLangkah 2: Argumen untuk mempertahankan subsidi (yang tepat sasaran):\n- Petani kecil seringkali tidak punya akses kredit untuk membeli pupuk harga penuh. Tanpa pupuk yang cukup, produktivitas rendah → pendapatan rendah → tidak bisa naik kelas → lingkaran kemiskinan.\n- Pupuk adalah input produksi penting. Jika petani kecil tidak bisa membeli pupuk → produksi padi/pangan turun → ketersediaan pangan nasional terancam. Ini bukan hanya masalah petani individual, tetapi ketahanan pangan seluruh bangsa.\n- Solusinya bukan menghapus subsidi, tetapi memperbaikinya: pastikan subsidi hanya untuk petani kecil yang betul-betul membutuhkan.\nLangkah 3: Evaluasi pilihan D (hapus subsidi, pasar bebas): ada kebenaran dalam argumen efisiensi pasar, namun petani kecil yang tidak punya akses kredit tidak bisa menunggu mekanisme pasar. Dalam jangka pendek, mereka akan bangkrut sebelum pasar 'menyesuaikan diri'.\nLangkah 4: Evaluasi pilihan B (rata semua): justru inefisien — petani kaya mendapat subsidi yang tidak dibutuhkan, menyedot anggaran dari petani yang betul-betul butuh.\nLangkah 5: Kesimpulan: subsidi yang **tepat sasaran** (hanya untuk petani kecil) adalah investasi yang justru efisien — mengurangi kemiskinan, menjaga produksi pangan, dan memutus lingkaran ketidakberdayaan.\n\n**Materi terkait:**\n- **Subsidi** adalah bantuan pemerintah kepada produsen atau konsumen untuk menurunkan harga pasar suatu barang/jasa. Tujuannya: (1) meningkatkan aksesibilitas bagi yang kurang mampu, (2) mendorong produksi barang yang dianggap penting.\n- **Ketahanan pangan** (*food security*): kondisi semua orang dapat mengakses pangan bergizi yang cukup setiap saat. Indonesia dengan penduduk 270 juta jiwa sangat bergantung pada produksi pangan domestik.\n- **Subsidi tepat sasaran vs. universal**: subsidi tepat sasaran (hanya untuk yang berhak) lebih efisien secara anggaran tapi lebih sulit secara administrasi (perlu data yang akurat tentang siapa yang layak menerima).\n- **Contoh program subsidi yang berhasil**: kartu tani elektronik untuk memastikan subsidi pupuk hanya diterima petani kecil yang terdaftar — mengurangi kebocoran ke petani besar.\n\nInsight kunci: Kebijakan subsidi yang buruk bukan berarti **subsidi itu buruk** — melainkan penerapannya yang perlu diperbaiki. Perbedaan antara 'subsidi yang buruk' dan 'tidak ada subsidi' bisa berarti ribuan petani kecil yang gagal panen. Ekonomi yang baik harus mempertimbangkan siapa yang paling membutuhkan perlindungan.\nKenapa opsi lain salah: A mengabaikan realitas bahwa petani kecil sering rugi atau impas, bukan untung besar; B inefisien karena tidak membedakan yang butuh dan tidak butuh; D realistis dalam jangka panjang tapi berbahaya bagi petani kecil dalam jangka pendek.\nJawaban akhir: **Petani kecil butuh subsidi tepat sasaran untuk bisa berproduksi optimal — tanpanya ketahanan pangan nasional terancam**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Di sebuah kota kecil dengan 5 keluarga, data penghasilan per bulan adalah: Keluarga A (Rp50.000.000), Keluarga B (Rp5.000.000), Keluarga C (Rp3.000.000), Keluarga D (Rp2.000.000), dan Keluarga E (Rp1.000.000). Total penghasilan kota = Rp61.000.000 per bulan. Keluarga A saja menguasai 82% dari total penghasilan, sementara empat keluarga lainnya berbagi 18% sisanya.\"*\n\nKondisi yang digambarkan data tersebut paling tepat mencerminkan masalah ...",
+    "options": [
+      "Hal yang normal dan adil dalam masyarakat, karena keluarga A pasti bekerja lebih keras dan lebih cerdas dari keluarga E, karena peran produsen, distributor, dan konsumen dianggap tidak saling memengaruhi dalam kegiatan ekonomi, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat",
+      "Masalah yang hanya terjadi di kota kecil dan tidak relevan dengan kondisi kota atau negara besar manapun",
+      "Tidak ada masalah karena semua keluarga masih memiliki penghasilan dan tidak ada yang benar-benar nol",
+      "Ketimpangan ekonomi yang tinggi — perbedaan penghasilan 50 kali lipat (A = Rp50 juta vs E = Rp1 juta) menunjukkan akses terhadap pendidikan, kesehatan, dan kesempatan yang tidak setara, dan berpotensi menciptakan ketegangan sosial"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Hitung kesenjangan: Keluarga A (Rp50 juta) vs Keluarga E (Rp1 juta). Selisihnya = 50 kali lipat. Satu keluarga menguasai 82% dari seluruh kekayaan yang ada. Empat keluarga lainnya berbagi hanya 18%.\nLangkah 2: Apa dampak ketimpangan yang tinggi ini?\n- **Akses tidak setara**: keluarga A bisa menyekolahkan anaknya di universitas terbaik, membeli vitamin terbaik, punya koneksi sosial yang luas. Keluarga E mungkin tidak bisa membeli buku sekolah.\n- **Lingkaran kemiskinan**: anak keluarga E dengan sumber daya terbatas akan lebih sulit keluar dari lingkaran kemiskinan, sementara anak keluarga A sudah punya keuntungan besar sejak lahir.\n- **Ketegangan sosial**: ketika kesenjangan terlalu besar dan terlihat, rasa ketidakadilan dan ketidakpuasan sosial meningkat.\nLangkah 3: Jebakan pilihan B: 'bekerja lebih keras' adalah salah satu faktor penghasilan tinggi, tetapi bukan satu-satunya. Warisan, koneksi, keberuntungan, akses pendidikan, dan kondisi awal juga sangat menentukan. Menyederhanakan ke 'kerja keras' mengabaikan realitas kompleksitas ketimpangan.\nLangkah 4: Jebakan pilihan D: meski tidak ada yang berpenghasilan nol, penghasilan Rp1 juta untuk satu keluarga di Indonesia sangat jauh dari standar hidup layak.\n\n**Materi terkait:**\n- **Koefisien Gini** (*Gini coefficient*): ukuran ketimpangan pendapatan dalam suatu masyarakat. Nilai 0 = sempurna merata (semua orang punya penghasilan sama); nilai 1 = satu orang menguasai semua kekayaan. Indonesia memiliki Gini sekitar 0,38-0,40 — cukup tinggi.\n- **Ketimpangan horizontal vs. vertikal**: ketimpangan bisa terjadi antara individu (vertikal) atau antara kelompok (horizontal — misal antara daerah perkotaan dan pedesaan).\n- **Dampak ketimpangan tinggi**: penelitian ekonomi menunjukkan bahwa ketimpangan yang sangat tinggi menghambat pertumbuhan ekonomi jangka panjang dan melemahkan kepercayaan sosial.\n- **Cara mengurangi ketimpangan**: pajak progresif (yang kaya bayar lebih tinggi), subsidi pendidikan dan kesehatan untuk yang kurang mampu, program pemberdayaan UMKM.\n\nInsight kunci: Ketimpangan bukan hanya masalah moral (tidak adil) — ia juga masalah **ekonomi dan sosial** yang nyata. Masyarakat dengan ketimpangan rendah cenderung lebih inovatif, lebih sehat, dan lebih stabil secara politik. Inilah mengapa kebijakan redistribusi (pajak progresif, subsidi tepat sasaran) adalah bagian penting dari pembangunan yang berkelanjutan.\nKenapa opsi lain salah: B terlalu menyederhanakan penyebab penghasilan; C salah — ketimpangan adalah masalah universal; D mengabaikan dampak nyata dari perbedaan 50 kali lipat.\nJawaban akhir: **Ketimpangan ekonomi tinggi — perbedaan 50x lipat menciptakan akses tidak setara dan berpotensi memicu ketegangan sosial**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sosiologi",
+    "subtopic": "Lembaga sosial",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Di Kampung Damai, berbagai kegiatan keagamaan berjalan rutin: pengajian mingguan, sekolah minggu, peringatan hari raya bersama lintas agama, dan forum tokoh agama yang membahas masalah lingkungan. Pak RT mencatat bahwa konflik antar warga sangat jarang terjadi dan warga saling menghormati satu sama lain, meski berbeda agama.\n\nFungsi **lembaga agama** yang paling tampak dalam kehidupan Kampung Damai adalah ...",
+    "options": [
+      "Lembaga agama membimbing nilai moral dan etika, mempererat ikatan sosial antar warga, dan menjadi forum bersama untuk membahas dan menyelesaikan masalah komunitas",
+      "Lembaga agama berfungsi sebagai bank yang mengelola tabungan dan pinjaman keuangan warga secara islami atau sesuai nilai agama, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga",
+      "Lembaga agama bertugas mengatur pemilihan ketua RT dan kepala desa sesuai nilai keagamaan masing-masing",
+      "Lembaga agama bertugas memungut pajak atau sumbangan wajib dari warga untuk disetor ke pemerintah daerah"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Dari skenario, identifikasi kegiatan lembaga agama yang menghasilkan dampak: (1) pengajian dan sekolah minggu → membimbing nilai moral, (2) peringatan hari raya bersama lintas agama → mempererat hubungan sosial, (3) forum tokoh agama bahas masalah lingkungan → menyelesaikan masalah bersama. Hasilnya: konflik jarang, warga saling hormati.\nLangkah 2: Ini menggambarkan tiga fungsi utama lembaga agama yang semuanya tercakup dalam pilihan D:\n- **Fungsi moral**: mengajarkan nilai-nilai baik dan buruk berdasarkan ajaran agama\n- **Fungsi sosial**: mempererat ikatan antar anggota komunitas melalui ritual dan perayaan bersama\n- **Fungsi problem solving**: tokoh agama sering menjadi penengah dan penasihat dalam masalah komunitas\nLangkah 3: Jebakan pilihan A: fungsi keuangan (bank) memang ada dalam beberapa lembaga keagamaan (koperasi syariah, badan amal), tetapi ini bukan fungsi utama lembaga agama secara sosiologis.\nLangkah 4: Jebakan pilihan B: lembaga agama di Indonesia umumnya tidak mengatur pemilihan kepala desa secara formal — itu adalah fungsi lembaga pemerintahan.\n\n**Materi terkait:**\n- **Fungsi lembaga agama** menurut sosiologi: (1) fungsi spiritual/ritual (ibadah), (2) fungsi sosial (mempererat komunitas), (3) fungsi moral (panduan etika perilaku), (4) fungsi pendidikan (sekolah agama, pengajian), (5) fungsi sosial-politik (menjadi kekuatan moral dalam masyarakat).\n- **Kerukunan umat beragama di Indonesia**: Indonesia memiliki 6 agama resmi yang diakui negara. Forum Kerukunan Umat Beragama (FKUB) di setiap kabupaten/kota berperan menjaga harmoni antar agama.\n- **Lembaga agama dan modal sosial**: komunitas dengan lembaga agama yang aktif cenderung memiliki modal sosial lebih tinggi — kepercayaan, jaringan, dan norma yang kuat antar anggota.\n\nInsight kunci: Lembaga agama yang sehat tidak hanya mengurus ritual ibadah, tetapi juga berfungsi sebagai **perekat sosial** yang membangun kepercayaan dan kebersamaan antar warga. Inilah mengapa komunitas dengan lembaga agama aktif cenderung lebih harmonis dan tangguh menghadapi masalah.\nJawaban akhir: **Membimbing nilai moral, mempererat ikatan sosial, dan menjadi forum penyelesaian masalah bersama**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Mobilitas sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Sejak tahun 1950-an, pemerintah Indonesia menjalankan program **transmigrasi**: memindahkan keluarga secara sukarela dari pulau yang padat penduduk (Jawa, Bali) ke pulau yang masih jarang penduduknya (Sumatra, Kalimantan, Papua). Setiap keluarga transmigran mendapat lahan pertanian baru, alat pertanian, dan bantuan biaya hidup awal. Sebagian keluarga transmigran berhasil membangun kehidupan yang jauh lebih baik dibanding kondisi mereka di Jawa — dari buruh tani tak berlahan menjadi pemilik kebun dengan lahan luas.\"*\n\nProgram transmigrasi berpotensi menciptakan **mobilitas sosial vertikal ke atas** bagi peserta karena ...",
+    "options": [
+      "Semua peserta transmigrasi dijamin oleh pemerintah untuk langsung masuk ke kelas ekonomi menengah atas dalam 2 tahun",
+      "Transmigrasi adalah contoh mobilitas sosial horizontal karena peserta hanya berpindah pulau tanpa mengubah profesi atau status sosial mereka secara fundamental, sehingga perubahan status sosial dianggap terjadi tanpa pengaruh pendidikan, pekerjaan, atau jaringan sosial",
+      "Kepemilikan lahan yang sebelumnya tidak ada di Jawa yang sempit membuka peluang peningkatan pendapatan dan status ekonomi yang signifikan bagi petani kecil atau buruh tani yang mau bekerja keras",
+      "Pemerintah menjanjikan gaji tetap dan jabatan resmi kepada semua peserta transmigrasi sehingga status sosialnya langsung naik"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi perubahan yang memungkinkan mobilitas ke atas. Di Jawa yang padat: buruh tani tidak punya lahan sendiri, bekerja di ladang orang lain dengan upah terbatas. Setelah transmigrasi: mendapat lahan sendiri yang bisa digarap → menjadi **pemilik kebun** (dari buruh menjadi tuan tanah kecil). Ini adalah perubahan status ekonomi yang nyata.\nLangkah 2: Mengapa kepemilikan lahan bisa menciptakan mobilitas ke atas?\n- Pemilik lahan punya **aset produktif** — sesuatu yang menghasilkan pendapatan berulang. Berbeda dari buruh yang hanya punya tenaga.\n- Dengan lahan luas, bisa memperluas produksi, mempekerjakan orang lain, atau menjual lahan dengan harga menguntungkan.\n- Dalam sosiologi, kepemilikan aset produktif adalah salah satu penentu kelas sosial yang paling kuat.\nLangkah 3: Jebakan pilihan C: transmigrasi memang melibatkan perpindahan fisik (horizontal secara geografis), tetapi **dampak sosio-ekonominya bisa vertikal** (naik dari buruh ke pemilik lahan). Mobilitas sosial dan mobilitas geografis adalah dua hal berbeda yang bisa terjadi bersamaan.\nLangkah 4: Jebakan pilihan A dan D: tidak ada jaminan otomatis dari pemerintah seperti itu — keberhasilan bergantung pada kerja keras, kondisi lahan, dan kemampuan adaptasi.\n\n**Materi terkait:**\n- **Sejarah transmigrasi Indonesia**: program transmigrasi sudah berjalan sejak masa penjajahan Belanda (disebut 'kolonisasi'), dilanjutkan pemerintah Indonesia. Jutaan keluarga telah bertransmigrasi ke Sumatra (perkebunan karet, sawit), Kalimantan (pertanian), dan Papua.\n- **Kritik terhadap transmigrasi**: selain dampak positif bagi transmigran, ada dampak negatif yang dikritik: (1) memindahkan tekanan populasi dari Jawa ke daerah lain, (2) potensi konflik dengan penduduk asli, (3) pembukaan lahan hutan yang merusak lingkungan.\n- **Kepemilikan tanah dan kelas sosial**: dalam teori Marxis, kepemilikan alat produksi (termasuk lahan) adalah penentu utama kelas sosial. Transmigrasi mengubah status dari 'proletariat agraria' (tidak punya lahan) ke 'petani kecil' (punya lahan).\n\nInsight kunci: Transmigrasi adalah contoh kebijakan yang menggunakan **mobilitas geografis sebagai alat mobilitas sosial** — memberi akses pada sumber daya (lahan) yang tidak tersedia di tempat asal. Ini menunjukkan bahwa pemerintah bisa aktif menciptakan peluang mobilitas sosial melalui kebijakan, tidak hanya menyerahkan sepenuhnya pada individu.\nKenapa opsi lain salah: A dan D berlebihan dan tidak akurat; C salah dalam mengkategorikan — mobilitas geografis ≠ mobilitas sosial, dan transmigrasi dapat menciptakan keduanya.\nJawaban akhir: **Kepemilikan lahan baru membuka peluang nyata dari buruh tani tak berlahan menjadi pemilik kebun — mobilitas vertikal ke atas**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Norma & nilai sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Di Desa Adat Tenganan, Bali, masyarakat masih memegang teguh hukum adat. Warga yang melanggar aturan adat — misalnya menikah dengan orang dari luar desa adat tanpa mengikuti prosedur adat — bisa dikenai sanksi **kasepekang**: dikeluarkan sementara atau permanen dari komunitas desa adat. Ini berarti kehilangan hak atas fasilitas desa, tidak bisa ikut upacara, dan dijauhi tetangga. Bagi orang Bali yang hidupnya sangat terikat pada komunitas dan upacara adat, sanksi ini dirasakan sangat berat.\"*\n\nSanksi *kasepekang* termasuk jenis sanksi ...",
+    "options": [
+      "Sanksi hukum formal dari pemerintah negara, karena ditetapkan oleh pemimpin desa adat yang memiliki kewenangan resmi, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga",
+      "Sanksi sosial dari norma adat — pengucilan dari komunitas menciptakan tekanan sosial yang sangat berat dan efektif karena identitas dan kehidupan seseorang sangat terikat pada komunitas",
+      "Sanksi ekonomi, karena kehilangan akses komunitas berarti kehilangan sumber-sumber penghasilan di desa",
+      "Sanksi agama formal, karena adat Bali seluruhnya bersumber dari ajaran agama Hindu yang tertulis"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi ciri-ciri sanksi kasepekang: (1) bukan ditetapkan oleh aparat negara (polisi/pengadilan), (2) berupa pengucilan dari komunitas, (3) tidak berbentuk denda atau penjara, (4) efektif karena identitas seseorang sangat terikat pada komunitas adat.\nLangkah 2: Ini adalah ciri khas **sanksi sosial** dari norma adat. Sanksi sosial bekerja melalui tekanan komunal — rasa malu, dijauhi, kehilangan pengakuan dari kelompok. Efektivitasnya bergantung pada seberapa kuat seseorang mengikatkan identitasnya pada komunitas.\nLangkah 3: Di Bali khususnya, komunitas adat (banjar, desa adat) adalah inti kehidupan sosial — upacara, gotong royong, dukungan sosial semua mengalir melalui komunitas adat. Dikeluarkan dari komunitas ini berarti kehilangan seluruh jaringan sosial kehidupan sehari-hari.\nLangkah 4: Jebakan pilihan A: kasepekang bukan bagian dari sistem hukum formal Indonesia (KUHP, UU). Ini adalah norma adat yang berlaku di komunitas tertentu, berbeda dari hukum negara.\nLangkah 5: Jebakan pilihan D: meski adat Bali dan agama Hindu saling terkait erat, kasepekang adalah mekanisme sosial-adat, bukan sanksi agama formal yang diputuskan oleh otoritas keagamaan.\n\n**Materi terkait:**\n- **Hukum adat di Indonesia**: hukum adat adalah sistem norma yang berlaku di komunitas tertentu berdasarkan tradisi turun-temurun. Di Indonesia, hukum adat diakui dalam sistem hukum nasional namun tidak menggantikan hukum negara.\n- **Kekuatan sanksi sosial**: sanksi sosial (dikecam, dijauhi, dipermalukan) sering lebih efektif dari sanksi hukum formal dalam komunitas yang kohesif, karena manusia pada dasarnya adalah makhluk sosial yang sangat butuh pengakuan dari kelompoknya.\n- **Desa Adat Tenganan**: salah satu desa Bali Aga (Bali asli, sebelum pengaruh Hindu Majapahit) yang mempertahankan adat istiadat sangat ketat. Terkenal karena tenun double ikat (gringsing) dan upacara adat yang unik.\n\nInsight kunci: Sanksi sosial menunjukkan bahwa kontrol perilaku manusia tidak selalu membutuhkan polisi atau penjara — **komunitas yang kuat dapat mengatur perilaku anggotanya** melalui mekanisme pengakuan dan pengucilan. Semakin kuat ikatan seseorang dengan komunitasnya, semakin efektif sanksi sosial bekerja.\nKenapa opsi lain salah: A salah karena ini bukan hukum negara; B ada benarnya secara efek samping tapi bukan jenis sanksinya; D menyamakan adat dengan agama yang merupakan dua sistem yang berbeda meski terkait.\nJawaban akhir: **Sanksi sosial dari norma adat — pengucilan yang efektif karena identitas sangat terikat pada komunitas**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sosiologi",
+    "subtopic": "Interaksi sosial",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Di Desa Harapan Maju, terjadi sengketa antara penduduk asli dan warga pendatang mengenai batas ladang yang diperebutkan. Ketegangan semakin meningkat setelah insiden kecil. Kepala desa kemudian mengundang tokoh kedua pihak untuk musyawarah bersama. Dalam musyawarah, seorang mediator: (1) mendengarkan keluhan dan kepentingan kedua pihak secara bergantian tanpa memihak, (2) membantu mengidentifikasi kepentingan bersama yang sebenarnya (keduanya ingin tanah yang produktif dan kedamaian desa), dan (3) mengusulkan pembagian pemanfaatan yang adil. Kedua pihak akhirnya menyepakati solusi bersama.\"*\n\nProses penyelesaian sengketa yang digambarkan skenario ini, dalam sosiologi disebut ...",
+    "options": [
+      "Segregasi — memisahkan kedua kelompok secara permanen agar tidak pernah berinteraksi dan mencegah konflik terulang, sehingga perubahan status sosial dianggap terjadi tanpa pengaruh pendidikan, pekerjaan, atau jaringan sosial",
+      "Kompetisi — kedua pihak bersaing secara terbuka untuk memenangkan klaim atas ladang yang disengketakan",
+      "Mediasi dan akomodasi — proses di mana pihak ketiga yang netral membantu dua pihak berkonflik menemukan kesepakatan yang dapat diterima keduanya, tanpa ada pihak yang merasa sepenuhnya kalah",
+      "Dominasi — satu pihak yang lebih kuat berhasil memaksakan kehendaknya kepada pihak yang lebih lemah"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi ciri-ciri proses dari skenario: (1) ada pihak ketiga (mediator/kepala desa) yang netral, (2) mediator mendengarkan kedua pihak tanpa memihak, (3) mencari kepentingan bersama, (4) mengusulkan solusi yang adil, (5) kedua pihak menyepakati. Tidak ada yang kalah sepenuhnya.\nLangkah 2: Dua konsep yang relevan:\n- **Mediasi**: proses di mana pihak ketiga yang netral memfasilitasi komunikasi dan negosiasi antara dua pihak yang berkonflik. Mediator tidak memutuskan — hanya membantu menemukan solusi.\n- **Akomodasi**: proses sosial di mana dua pihak yang berkonflik menemukan cara untuk hidup berdampingan secara damai, masing-masing mengalah sebagian untuk kepentingan kebersamaan.\nLangkah 3: Bedakan dengan pilihan lain:\n- **Segregasi**: pemisahan permanen — tidak ada penyelesaian, hanya menghindari pertemuan.\n- **Kompetisi**: bersaing untuk menang — ada yang menang, ada yang kalah.\n- **Dominasi**: pemaksaan kehendak — tidak ada kesepakatan, hanya ketundukan.\nLangkah 4: Kunci pembeda pilihan D: skenario secara eksplisit menyebut 'kedua pihak **menyepakati** solusi bersama' — ini adalah ciri khas akomodasi, bukan dominasi atau kompetisi.\nLangkah 5: Kenapa mediasi penting?\n- Dibanding pengadilan, mediasi lebih murah, lebih cepat, dan menghasilkan solusi yang lebih diterima kedua pihak.\n- Dalam musyawarah adat Indonesia, mediasi adalah tradisi yang sangat kuat.\n\n**Materi terkait:**\n- **Bentuk-bentuk akomodasi**: (1) kompromi (keduanya saling mengalah), (2) arbitrasi (pihak ketiga yang memutuskan), (3) mediasi (pihak ketiga yang memfasilitasi), (4) konsiliasi (mempertemukan dan mendamaikan), (5) adjudikasi (melalui pengadilan).\n- **Musyawarah mufakat**: nilai budaya Indonesia yang menekankan pengambilan keputusan bersama melalui diskusi hingga tercapai kesepakatan yang diterima semua pihak — mirip dengan konsep mediasi dan akomodasi.\n- **Konflik fungsional vs. disfungsional**: konflik yang diselesaikan dengan baik (seperti skenario ini) bisa menjadi fungsional — menghasilkan pemahaman lebih baik dan hubungan yang lebih kuat setelah selesai.\n\nInsight kunci: Konflik adalah hal yang wajar dalam masyarakat — yang terpenting adalah bagaimana cara menyelesaikannya. Mediasi mengajarkan bahwa **menang-menang (*win-win*) lebih baik dari menang-kalah (*win-lose*)** — karena dalam komunitas kecil, yang kalah akan tetap menjadi tetangga dan ketidakpuasannya bisa memicu konflik lagi di masa depan.\nKenapa opsi lain salah: A (segregasi) hanya menghindar, tidak menyelesaikan; B (kompetisi) menciptakan pemenang-pecundang, bukan kesepakatan; C (dominasi) bertentangan dengan fakta bahwa kedua pihak sepakat.\nJawaban akhir: **Mediasi dan akomodasi — pihak ketiga netral membantu menemukan kesepakatan yang diterima kedua pihak**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Grafik sosial ekonomi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data Indeks Pembangunan Manusia (IPM) beberapa provinsi di Indonesia:\n\n| Provinsi | IPM (skala 0–100) | Peringkat nasional |\n|---|---|---|\n| DKI Jakarta | 82,46 | 1 |\n| DI Yogyakarta | 80,22 | 2 |\n| Jawa Timur | 72,14 | 10 |\n| Sulawesi Barat | 66,34 | 33 |\n| Papua | 61,39 | 34 (terendah) |\n\n*IPM mengukur tiga dimensi pembangunan manusia: harapan hidup (kesehatan), rata-rata lama sekolah (pendidikan), dan pengeluaran per kapita (ekonomi).*\n\nBerdasarkan data, pernyataan yang **paling tepat** adalah ...",
+    "options": [
+      "Perbedaan IPM yang signifikan (DKI Jakarta 82,46 vs Papua 61,39) mencerminkan ketimpangan pembangunan manusia antarwilayah — antara daerah maju di barat/perkotaan dan daerah terpencil di timur/pedesaan",
+      "Seluruh provinsi di Indonesia memiliki IPM yang hampir sama karena pembangunan dilakukan secara merata oleh pemerintah, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+      "IPM tertinggi (DKI Jakarta) berarti penduduk Jakarta adalah yang paling bahagia dan paling puas hidupnya di Indonesia",
+      "IPM Papua yang rendah membuktikan bahwa penduduk Papua memiliki kemampuan intelektual yang lebih rendah secara alami"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Baca tabel. Selisih IPM antara DKI Jakarta (82,46) dan Papua (61,39) = 21,07 poin. Papua menempati peringkat 34 (terendah) sementara DKI di peringkat 1 (tertinggi).\nLangkah 2: Apa yang diukur IPM? Tiga dimensi: (1) kesehatan (harapan hidup), (2) pendidikan (lama sekolah), (3) ekonomi (pengeluaran per kapita). IPM rendah berarti pada rata-rata, penduduk di provinsi itu memiliki harapan hidup lebih pendek, lebih sedikit tahun bersekolah, dan pengeluaran lebih rendah.\nLangkah 3: Perbedaan ini mencerminkan **ketimpangan pembangunan**: DKI Jakarta memiliki rumah sakit canggih, sekolah terbaik, dan lapangan kerja dengan gaji tinggi. Papua memiliki akses terbatas ke semua itu akibat geografis yang sulit dan pembangunan yang belum merata.\nLangkah 4: Jebakan pilihan B: tabel dengan jelas menunjukkan perbedaan besar (82,46 vs 61,39) — klaim 'hampir sama' langsung terbantah.\nLangkah 5: Jebakan pilihan C: IPM mengukur rata-rata kemampuan dan kesempatan, bukan kebahagiaan subjektif. Orang bisa bahagia di mana saja terlepas dari IPM.\nLangkah 6: Jebakan pilihan D: IPM rendah bukan karena kemampuan intelektual alami yang berbeda — ini adalah salah kaprah berbahaya. IPM rendah mencerminkan kurangnya **akses** ke pendidikan dan kesehatan, bukan kapasitas alami manusianya.\n\n**Materi terkait:**\n- **Indeks Pembangunan Manusia (IPM/HDI)**: dikembangkan oleh UNDP (Badan PBB untuk Pembangunan). Mengukur kualitas pembangunan manusia di luar sekadar pendapatan/PDB. Negara dengan IPM tertinggi: Norwegia, Swiss, Islandia.\n- **Kesenjangan IPM antar wilayah**: di Indonesia, ada korelasi kuat antara posisi geografis (barat vs. timur), urbanisasi (kota vs. desa), dan IPM. Ini bukan takdir — ini hasil dari akumulasi investasi pembangunan selama puluhan tahun.\n- **Kebijakan pemberdayaan wilayah tertinggal**: Otonomi Khusus Papua, Dana Otsus, program beasiswa untuk mahasiswa Papua, dan percepatan pembangunan infrastruktur di wilayah timur adalah upaya mengurangi ketimpangan IPM.\n\nInsight kunci: IPM adalah cermin dari **kualitas investasi pembangunan manusia** di suatu wilayah. Perbedaan besar antar provinsi bukan cerminan perbedaan manusianya, melainkan perbedaan dalam akses dan peluang yang tersedia. Ini adalah tanggung jawab bersama — baik pemerintah maupun masyarakat — untuk terus mempersempit jurang tersebut.\nJawaban akhir: **Perbedaan signifikan DKI-Papua mencerminkan ketimpangan pembangunan antarwilayah yang perlu diatasi**.",
+    "content": {
+      "question": "Perhatikan data Indeks Pembangunan Manusia (IPM) beberapa provinsi di Indonesia:\n\n| Provinsi | IPM (skala 0–100) | Peringkat nasional |\n|---|---|---|\n| DKI Jakarta | 82,46 | 1 |\n| DI Yogyakarta | 80,22 | 2 |\n| Jawa Timur | 72,14 | 10 |\n| Sulawesi Barat | 66,34 | 33 |\n| Papua | 61,39 | 34 (terendah) |\n\n*IPM mengukur tiga dimensi pembangunan manusia: harapan hidup (kesehatan), rata-rata lama sekolah (pendidikan), dan pengeluaran per kapita (ekonomi).*\n\nBerdasarkan data, pernyataan yang **paling tepat** adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data Indeks Pembangunan Manusia (IPM) beberapa provinsi di Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Provinsi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "IPM (skala 0–100)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Peringkat nasional"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "DKI Jakarta"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "82,46"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "DI Yogyakarta"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "80,22"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jawa Timur"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "72,14"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sulawesi Barat"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "66,34"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "33"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Papua"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "61,39"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "34 (terendah)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "IPM mengukur tiga dimensi pembangunan manusia: harapan hidup (kesehatan), rata-rata lama sekolah (pendidikan), dan pengeluaran per kapita (ekonomi)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data, pernyataan yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Perbedaan IPM yang signifikan (DKI Jakarta 82,46 vs Papua 61,39) mencerminkan ketimpangan pembangunan manusia antarwilayah — antara daerah maju di barat/perkotaan dan daerah terpencil di timur/pedesaan",
+        "Seluruh provinsi di Indonesia memiliki IPM yang hampir sama karena pembangunan dilakukan secara merata oleh pemerintah, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+        "IPM tertinggi (DKI Jakarta) berarti penduduk Jakarta adalah yang paling bahagia dan paling puas hidupnya di Indonesia",
+        "IPM Papua yang rendah membuktikan bahwa penduduk Papua memiliki kemampuan intelektual yang lebih rendah secara alami"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Perbedaan IPM yang signifikan (DKI Jakarta 82,46 vs Papua 61,39) mencerminkan ketimpangan pembangunan manusia antarwilayah — antara daerah maju di barat/perkotaan dan daerah terpencil di timur/pedesaan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seluruh provinsi di Indonesia memiliki IPM yang hampir sama karena pembangunan dilakukan secara merata oleh pemerintah, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPM tertinggi (DKI Jakarta) berarti penduduk Jakarta adalah yang paling bahagia dan paling puas hidupnya di Indonesia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPM Papua yang rendah membuktikan bahwa penduduk Papua memiliki kemampuan intelektual yang lebih rendah secara alami"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Baca tabel. Selisih IPM antara DKI Jakarta (82,46) dan Papua (61,39) = 21,07 poin. Papua menempati peringkat 34 (terendah) sementara DKI di peringkat 1 (tertinggi).\nLangkah 2: Apa yang diukur IPM? Tiga dimensi: (1) kesehatan (harapan hidup), (2) pendidikan (lama sekolah), (3) ekonomi (pengeluaran per kapita). IPM rendah berarti pada rata-rata, penduduk di provinsi itu memiliki harapan hidup lebih pendek, lebih sedikit tahun bersekolah, dan pengeluaran lebih rendah.\nLangkah 3: Perbedaan ini mencerminkan **ketimpangan pembangunan**: DKI Jakarta memiliki rumah sakit canggih, sekolah terbaik, dan lapangan kerja dengan gaji tinggi. Papua memiliki akses terbatas ke semua itu akibat geografis yang sulit dan pembangunan yang belum merata.\nLangkah 4: Jebakan pilihan B: tabel dengan jelas menunjukkan perbedaan besar (82,46 vs 61,39) — klaim 'hampir sama' langsung terbantah.\nLangkah 5: Jebakan pilihan C: IPM mengukur rata-rata kemampuan dan kesempatan, bukan kebahagiaan subjektif. Orang bisa bahagia di mana saja terlepas dari IPM.\nLangkah 6: Jebakan pilihan D: IPM rendah bukan karena kemampuan intelektual alami yang berbeda — ini adalah salah kaprah berbahaya. IPM rendah mencerminkan kurangnya **akses** ke pendidikan dan kesehatan, bukan kapasitas alami manusianya.\n\n**Materi terkait:**\n- **Indeks Pembangunan Manusia (IPM/HDI)**: dikembangkan oleh UNDP (Badan PBB untuk Pembangunan). Mengukur kualitas pembangunan manusia di luar sekadar pendapatan/PDB. Negara dengan IPM tertinggi: Norwegia, Swiss, Islandia.\n- **Kesenjangan IPM antar wilayah**: di Indonesia, ada korelasi kuat antara posisi geografis (barat vs. timur), urbanisasi (kota vs. desa), dan IPM. Ini bukan takdir — ini hasil dari akumulasi investasi pembangunan selama puluhan tahun.\n- **Kebijakan pemberdayaan wilayah tertinggal**: Otonomi Khusus Papua, Dana Otsus, program beasiswa untuk mahasiswa Papua, dan percepatan pembangunan infrastruktur di wilayah timur adalah upaya mengurangi ketimpangan IPM.\n\nInsight kunci: IPM adalah cermin dari **kualitas investasi pembangunan manusia** di suatu wilayah. Perbedaan besar antar provinsi bukan cerminan perbedaan manusianya, melainkan perbedaan dalam akses dan peluang yang tersedia. Ini adalah tanggung jawab bersama — baik pemerintah maupun masyarakat — untuk terus mempersempit jurang tersebut.\nJawaban akhir: **Perbedaan signifikan DKI-Papua mencerminkan ketimpangan pembangunan antarwilayah yang perlu diatasi**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca tabel. Selisih IPM antara DKI Jakarta (82,46) dan Papua (61,39) = 21,07 poin. Papua menempati peringkat 34 (terendah) sementara DKI di peringkat 1 (tertinggi).\nLangkah 2: Apa yang diukur IPM? Tiga dimensi: (1) kesehatan (harapan hidup), (2) pendidikan (lama sekolah), (3) ekonomi (pengeluaran per kapita). IPM rendah berarti pada rata-rata, penduduk di provinsi itu memiliki harapan hidup lebih pendek, lebih sedikit tahun bersekolah, dan pengeluaran lebih rendah.\nLangkah 3: Perbedaan ini mencerminkan ketimpangan pembangunan: DKI Jakarta memiliki rumah sakit canggih, sekolah terbaik, dan lapangan kerja dengan gaji tinggi. Papua memiliki akses terbatas ke semua itu akibat geografis yang sulit dan pembangunan yang belum merata.\nLangkah 4: Jebakan pilihan B: tabel dengan jelas menunjukkan perbedaan besar (82,46 vs 61,39) — klaim 'hampir sama' langsung terbantah.\nLangkah 5: Jebakan pilihan C: IPM mengukur rata-rata kemampuan dan kesempatan, bukan kebahagiaan subjektif. Orang bisa bahagia di mana saja terlepas dari IPM.\nLangkah 6: Jebakan pilihan D: IPM rendah bukan karena kemampuan intelektual alami yang berbeda — ini adalah salah kaprah berbahaya. IPM rendah mencerminkan kurangnya akses ke pendidikan dan kesehatan, bukan kapasitas alami manusianya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Indeks Pembangunan Manusia (IPM/HDI): dikembangkan oleh UNDP (Badan PBB untuk Pembangunan). Mengukur kualitas pembangunan manusia di luar sekadar pendapatan/PDB. Negara dengan IPM tertinggi: Norwegia, Swiss, Islandia.\n- Kesenjangan IPM antar wilayah: di Indonesia, ada korelasi kuat antara posisi geografis (barat vs. timur), urbanisasi (kota vs. desa), dan IPM. Ini bukan takdir — ini hasil dari akumulasi investasi pembangunan selama puluhan tahun.\n- Kebijakan pemberdayaan wilayah tertinggal: Otonomi Khusus Papua, Dana Otsus, program beasiswa untuk mahasiswa Papua, dan percepatan pembangunan infrastruktur di wilayah timur adalah upaya mengurangi ketimpangan IPM."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: IPM adalah cermin dari kualitas investasi pembangunan manusia di suatu wilayah. Perbedaan besar antar provinsi bukan cerminan perbedaan manusianya, melainkan perbedaan dalam akses dan peluang yang tersedia. Ini adalah tanggung jawab bersama — baik pemerintah maupun masyarakat — untuk terus mempersempit jurang tersebut.\nJawaban akhir: Perbedaan signifikan DKI-Papua mencerminkan ketimpangan pembangunan antarwilayah yang perlu diatasi."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Kependudukan",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data perubahan komposisi penduduk Kota Besar Mandiri selama 20 tahun:\n\n| Kelompok penduduk | Tahun 2000 | Tahun 2020 | Perubahan |\n|---|---|---|---|\n| Penduduk asli kota | 800.000 (80%) | 600.000 (30%) | -200.000 |\n| Pendatang dari luar kota | 200.000 (20%) | 1.400.000 (70%) | +1.200.000 |\n| **Total** | **1.000.000** | **2.000.000** | **+1.000.000** |\n\nKesimpulan yang **paling tepat** tentang perubahan komposisi penduduk kota ini adalah ...",
+    "options": [
+      "Penduduk asli kota bertumbuh pesat sehingga sekarang mendominasi komposisi demografis kota",
+      "Kota mengalami stagnasi penduduk selama 20 tahun karena jumlah tidak berubah secara signifikan",
+      "Penduduk asli kota berkurang jumlahnya karena mereka banyak yang pindah ke desa setelah kota semakin padat, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+      "Pertumbuhan kota sepenuhnya didominasi oleh pendatang — jumlah pendatang bertambah 7 kali lipat dan kini merupakan 70% penduduk, mengubah karakter demografis kota secara mendasar"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca data dengan cermat. Pendatang: dari 200.000 (2000) menjadi 1.400.000 (2020) = naik **7 kali lipat** (×7). Penduduk asli: dari 800.000 turun menjadi 600.000 = turun 200.000 orang.\nLangkah 2: Hitung persentase tahun 2020: Pendatang = 1.400.000 / 2.000.000 = **70%**. Penduduk asli = 600.000 / 2.000.000 = **30%**. Data ini konsisten dengan tabel.\nLangkah 3: Apa artinya? Kota yang dulu mayoritas (80%) penduduk asli kini hanya berisi 30% penduduk asli. Pendatang yang dulu minoritas (20%) kini menjadi mayoritas (70%). Ini adalah transformasi demografis yang sangat besar.\nLangkah 4: Apa dampaknya? Karakter budaya, bahasa sehari-hari, kebutuhan layanan publik, pola konsumsi, dan identitas kota bisa berubah secara fundamental ketika komposisi demografis berubah sebesar ini.\nLangkah 5: Jebakan pilihan A: data menunjukkan sebaliknya — penduduk asli justru turun dari 80% ke 30% → tidak dominan.\nLangkah 6: Jebakan pilihan B: total penduduk dua kali lipat (dari 1 juta ke 2 juta) — ini bukan stagnasi sama sekali.\nLangkah 7: Pilihan D mungkin ada benarnya (200.000 penduduk asli berkurang), tetapi klaim 'pindah ke desa' tidak didukung data. Penurunan bisa juga karena kematian alami yang tidak digantikan kelahiran yang cukup, atau memang ada yang pindah ke pinggir kota.\n\n**Materi terkait:**\n- **Migrasi masuk (*in-migration*)**: perpindahan masuk ke suatu kota dari daerah lain. Di Indonesia, Jakarta dan kota-kota besar lainnya mengalami in-migration sangat besar akibat urbanisasi.\n- **Komposisi demografis**: proporsi berbagai kelompok dalam populasi. Perubahan komposisi demografis mempengaruhi kebijakan: perumahan, transportasi, pendidikan, layanan kesehatan, dan bahkan politik lokal.\n- **Tantangan kota dengan pendatang masif**: (1) penyediaan permukiman yang layak, (2) integrasi sosial antara pendatang dan penduduk asli, (3) tekanan pada infrastruktur, (4) perubahan karakter budaya kota.\n- **Transisi demografis kota**: fase yang dialami hampir semua kota berkembang — dari didominasi penduduk asli ke campuran dengan pendatang, lalu ke kota kosmopolitan yang identitasnya beragam.\n\nInsight kunci: Data demografis mengajarkan bahwa **kota adalah organisme yang terus berubah**. Kota yang berkembang pesat tidak selalu berarti warganya yang asli makin sejahtera — bisa jadi justru mereka yang tertinggal secara proporsi. Memahami perubahan komposisi penduduk sangat penting untuk merencanakan pembangunan kota yang inklusif.\nKenapa opsi lain salah: A terbalik dari data; B salah (penduduk dua kali lipat); D tidak didukung data dan berlebihan.\nJawaban akhir: **Pendatang bertambah 7× lipat dan kini 70% penduduk — transformasi demografis yang mengubah karakter kota secara mendasar**.",
+    "content": {
+      "question": "Perhatikan data perubahan komposisi penduduk Kota Besar Mandiri selama 20 tahun:\n\n| Kelompok penduduk | Tahun 2000 | Tahun 2020 | Perubahan |\n|---|---|---|---|\n| Penduduk asli kota | 800.000 (80%) | 600.000 (30%) | -200.000 |\n| Pendatang dari luar kota | 200.000 (20%) | 1.400.000 (70%) | +1.200.000 |\n| **Total** | **1.000.000** | **2.000.000** | **+1.000.000** |\n\nKesimpulan yang **paling tepat** tentang perubahan komposisi penduduk kota ini adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data perubahan komposisi penduduk Kota Besar Mandiri selama 20 tahun:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok penduduk"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tahun 2000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tahun 2020"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Perubahan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Penduduk asli kota"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "800.000 (80%)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "600.000 (30%)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "-200.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pendatang dari luar kota"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "200.000 (20%)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.400.000 (70%)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "+1.200.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Total"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.000.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2.000.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "+1.000.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan yang paling tepat tentang perubahan komposisi penduduk kota ini adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Penduduk asli kota bertumbuh pesat sehingga sekarang mendominasi komposisi demografis kota",
+        "Kota mengalami stagnasi penduduk selama 20 tahun karena jumlah tidak berubah secara signifikan",
+        "Penduduk asli kota berkurang jumlahnya karena mereka banyak yang pindah ke desa setelah kota semakin padat, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+        "Pertumbuhan kota sepenuhnya didominasi oleh pendatang — jumlah pendatang bertambah 7 kali lipat dan kini merupakan 70% penduduk, mengubah karakter demografis kota secara mendasar"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Penduduk asli kota bertumbuh pesat sehingga sekarang mendominasi komposisi demografis kota"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kota mengalami stagnasi penduduk selama 20 tahun karena jumlah tidak berubah secara signifikan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Penduduk asli kota berkurang jumlahnya karena mereka banyak yang pindah ke desa setelah kota semakin padat, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pertumbuhan kota sepenuhnya didominasi oleh pendatang — jumlah pendatang bertambah 7 kali lipat dan kini merupakan 70% penduduk, mengubah karakter demografis kota secara mendasar"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Baca data dengan cermat. Pendatang: dari 200.000 (2000) menjadi 1.400.000 (2020) = naik **7 kali lipat** (×7). Penduduk asli: dari 800.000 turun menjadi 600.000 = turun 200.000 orang.\nLangkah 2: Hitung persentase tahun 2020: Pendatang = 1.400.000 / 2.000.000 = **70%**. Penduduk asli = 600.000 / 2.000.000 = **30%**. Data ini konsisten dengan tabel.\nLangkah 3: Apa artinya? Kota yang dulu mayoritas (80%) penduduk asli kini hanya berisi 30% penduduk asli. Pendatang yang dulu minoritas (20%) kini menjadi mayoritas (70%). Ini adalah transformasi demografis yang sangat besar.\nLangkah 4: Apa dampaknya? Karakter budaya, bahasa sehari-hari, kebutuhan layanan publik, pola konsumsi, dan identitas kota bisa berubah secara fundamental ketika komposisi demografis berubah sebesar ini.\nLangkah 5: Jebakan pilihan A: data menunjukkan sebaliknya — penduduk asli justru turun dari 80% ke 30% → tidak dominan.\nLangkah 6: Jebakan pilihan B: total penduduk dua kali lipat (dari 1 juta ke 2 juta) — ini bukan stagnasi sama sekali.\nLangkah 7: Pilihan D mungkin ada benarnya (200.000 penduduk asli berkurang), tetapi klaim 'pindah ke desa' tidak didukung data. Penurunan bisa juga karena kematian alami yang tidak digantikan kelahiran yang cukup, atau memang ada yang pindah ke pinggir kota.\n\n**Materi terkait:**\n- **Migrasi masuk (*in-migration*)**: perpindahan masuk ke suatu kota dari daerah lain. Di Indonesia, Jakarta dan kota-kota besar lainnya mengalami in-migration sangat besar akibat urbanisasi.\n- **Komposisi demografis**: proporsi berbagai kelompok dalam populasi. Perubahan komposisi demografis mempengaruhi kebijakan: perumahan, transportasi, pendidikan, layanan kesehatan, dan bahkan politik lokal.\n- **Tantangan kota dengan pendatang masif**: (1) penyediaan permukiman yang layak, (2) integrasi sosial antara pendatang dan penduduk asli, (3) tekanan pada infrastruktur, (4) perubahan karakter budaya kota.\n- **Transisi demografis kota**: fase yang dialami hampir semua kota berkembang — dari didominasi penduduk asli ke campuran dengan pendatang, lalu ke kota kosmopolitan yang identitasnya beragam.\n\nInsight kunci: Data demografis mengajarkan bahwa **kota adalah organisme yang terus berubah**. Kota yang berkembang pesat tidak selalu berarti warganya yang asli makin sejahtera — bisa jadi justru mereka yang tertinggal secara proporsi. Memahami perubahan komposisi penduduk sangat penting untuk merencanakan pembangunan kota yang inklusif.\nKenapa opsi lain salah: A terbalik dari data; B salah (penduduk dua kali lipat); D tidak didukung data dan berlebihan.\nJawaban akhir: **Pendatang bertambah 7× lipat dan kini 70% penduduk — transformasi demografis yang mengubah karakter kota secara mendasar**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca data dengan cermat. Pendatang: dari 200.000 (2000) menjadi 1.400.000 (2020) = naik 7 kali lipat (×7). Penduduk asli: dari 800.000 turun menjadi 600.000 = turun 200.000 orang.\nLangkah 2: Hitung persentase tahun 2020: Pendatang = 1.400.000 / 2.000.000 = 70%. Penduduk asli = 600.000 / 2.000.000 = 30%. Data ini konsisten dengan tabel.\nLangkah 3: Apa artinya? Kota yang dulu mayoritas (80%) penduduk asli kini hanya berisi 30% penduduk asli. Pendatang yang dulu minoritas (20%) kini menjadi mayoritas (70%). Ini adalah transformasi demografis yang sangat besar.\nLangkah 4: Apa dampaknya? Karakter budaya, bahasa sehari-hari, kebutuhan layanan publik, pola konsumsi, dan identitas kota bisa berubah secara fundamental ketika komposisi demografis berubah sebesar ini.\nLangkah 5: Jebakan pilihan A: data menunjukkan sebaliknya — penduduk asli justru turun dari 80% ke 30% → tidak dominan.\nLangkah 6: Jebakan pilihan B: total penduduk dua kali lipat (dari 1 juta ke 2 juta) — ini bukan stagnasi sama sekali.\nLangkah 7: Pilihan D mungkin ada benarnya (200.000 penduduk asli berkurang), tetapi klaim 'pindah ke desa' tidak didukung data. Penurunan bisa juga karena kematian alami yang tidak digantikan kelahiran yang cukup, atau memang ada yang pindah ke pinggir kota."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- **Migrasi masuk (in-migration): perpindahan masuk ke suatu kota dari daerah lain. Di Indonesia, Jakarta dan kota-kota besar lainnya mengalami in-migration sangat besar akibat urbanisasi.\n- Komposisi demografis: proporsi berbagai kelompok dalam populasi. Perubahan komposisi demografis mempengaruhi kebijakan: perumahan, transportasi, pendidikan, layanan kesehatan, dan bahkan politik lokal.\n- Tantangan kota dengan pendatang masif: (1) penyediaan permukiman yang layak, (2) integrasi sosial antara pendatang dan penduduk asli, (3) tekanan pada infrastruktur, (4) perubahan karakter budaya kota.\n- Transisi demografis kota**: fase yang dialami hampir semua kota berkembang — dari didominasi penduduk asli ke campuran dengan pendatang, lalu ke kota kosmopolitan yang identitasnya beragam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data demografis mengajarkan bahwa kota adalah organisme yang terus berubah. Kota yang berkembang pesat tidak selalu berarti warganya yang asli makin sejahtera — bisa jadi justru mereka yang tertinggal secara proporsi. Memahami perubahan komposisi penduduk sangat penting untuk merencanakan pembangunan kota yang inklusif.\nKenapa opsi lain salah: A terbalik dari data; B salah (penduduk dua kali lipat); D tidak didukung data dan berlebihan.\nJawaban akhir: Pendatang bertambah 7× lipat dan kini 70% penduduk — transformasi demografis yang mengubah karakter kota secara mendasar."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Studi kasus",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-e"
+    ],
+    "is_active": true,
+    "question": "Bacalah studi kasus berikut:\n\n*\"Kampung Wisata Ceroboh dulunya adalah desa adat tenang dengan kehidupan tradisional yang otentik. Setelah viral di media sosial, ribuan wisatawan datang setiap hari. Dalam 3 tahun: (1) rumah-rumah warga beralih fungsi menjadi penginapan; (2) kerajinan tangan tradisional diproduksi secara massal dengan kualitas rendah untuk dijual sebagai oleh-oleh murah; (3) pertunjukan adat diadakan setiap hari sesuai jadwal wisatawan, bukan berdasarkan kalender dan makna ritual aslinya; (4) generasi muda lebih tertarik bekerja di sektor pariwisata daripada belajar membuat kerajinan tangan tradisional.\"*\n\nDampak yang paling **serius** dari pariwisata massal terhadap budaya lokal berdasarkan studi kasus ini adalah ...",
+    "options": [
+      "Warga desa menjadi kaya sehingga tidak lagi memerlukan tradisi yang sudah ketinggalan zaman",
+      "Budaya lokal yang semula autentik berubah menjadi komoditas pertunjukan untuk wisatawan, dan pengetahuan tradisional terancam terputus karena generasi muda tidak lagi meneruskan keahlian leluhur secara mendalam",
+      "Pariwisata selalu berdampak positif pada budaya lokal karena mendorong pelestarian tradisi agar terus ditampilkan, sehingga hubungan antarvariabel dianggap sama tanpa melihat kecenderungan naik turun pada data, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+      "Masalahnya semata-mata adalah kemalasan generasi muda yang tidak mau belajar dari orang tua mereka"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi empat dampak dari skenario:\n1. Fungsi rumah berubah → **perubahan fisik lingkungan**\n2. Kerajinan diproduksi massal kualitas rendah → **komodifikasi budaya** (budaya diubah menjadi barang jualan murah)\n3. Upacara adat sesuai jadwal wisatawan, bukan kalender ritual → **kehilangan makna sakral/autentik**\n4. Generasi muda tidak belajar kerajinan tradisional → **pemutusan rantai pewarisan pengetahuan**\nLangkah 2: Dampak mana yang paling serius? Semua buruk, tetapi dampak #3 dan #4 adalah yang paling fundamental:\n- **Komodifikasi** mengubah ritual yang bermakna mendalam menjadi pertunjukan dangkal tanpa makna aslinya\n- **Pemutusan rantai pewarisan** adalah ancaman eksistensial — ketika generasi muda tidak belajar, pengetahuan itu **punah selamanya** ketika generasi tua wafat\nLangkah 3: Mengapa ini lebih serius dari dampak ekonomi positif? Karena kerusakan budaya lebih sulit (bahkan tidak mungkin) dipulihkan dibanding kerusakan ekonomi. Jika bisnis pariwisata tiba-tiba tutup, ekonomi bisa pulih. Tapi jika pengetahuan membuat kerajinan tradisional sudah punah, tidak ada cara untuk mendapatkannya kembali.\nLangkah 4: Jebakan pilihan C: pariwisata tidak selalu baik bagi budaya — justru skenario ini adalah contoh nyata bagaimana pariwisata bisa merusak autentisitas budaya.\nLangkah 5: Jebakan pilihan D: menyalahkan 'kemalasan generasi muda' mengabaikan faktor struktural — insentif ekonomi saat ini jauh lebih menguntungkan bekerja di pariwisata daripada belajar kerajinan.\n\n**Materi terkait:**\n- **Overtourism**: kondisi ketika jumlah wisatawan melebihi kapasitas daya tampung suatu destinasi, menyebabkan kerusakan lingkungan, budaya, dan kualitas hidup warga lokal. Contoh: Venesia (Italia), Bali (beberapa lokasi).\n- **Komodifikasi budaya** (*cultural commodification*): proses mengubah elemen budaya (ritual, kesenian, adat) menjadi produk komersial. Ini dapat mengurangi makna dan nilai spiritual/sosial budaya tersebut.\n- **Pariwisata berkelanjutan** (*sustainable tourism*): pariwisata yang meminimalkan dampak negatif dan memastikan manfaat bagi komunitas lokal, termasuk pelestarian budaya dan lingkungan.\n- **Solusi**: batas jumlah wisatawan per hari (*carrying capacity*), zona wisata terpisah dari zona ritual adat, program regenerasi pengrajin tradisional, dan pendidikan wisatawan tentang penghormatan budaya.\n\nInsight kunci: Budaya adalah **warisan hidup** yang hanya bisa bertahan jika terus dipelajari dan dipraktikkan secara autentik oleh generasi berikutnya. Ketika budaya diubah menjadi 'pertunjukan untuk turis', ia kehilangan nyawanya — seperti museum yang memajang artefak tanpa ada yang bisa menggunakannya lagi. Pariwisata yang bijak harus menghormati batas ini.\nKenapa opsi lain salah: A mengabaikan nilai budaya dan menormalisasi kepunahan tradisi; C terlalu optimis dan bertentangan dengan fakta skenario; D menyalahkan individu padahal masalahnya struktural.\nJawaban akhir: **Komodifikasi budaya dan pemutusan rantai pewarisan pengetahuan tradisional ke generasi muda**."
+  }
+]

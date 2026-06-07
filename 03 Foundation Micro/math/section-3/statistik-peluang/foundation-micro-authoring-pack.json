@@ -1,0 +1,829 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Penyajian & interpretasi data",
+    "grade_band": "smp_foundation",
+    "student_goal": "Siswa mampu membaca dan menafsirkan data serta menghitung mean, median, dan modus.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "data_reading_and_basic_statistics",
+      "concept_name": "Membaca data dan statistik dasar",
+      "concept_description": "Menentukan mean/median/modus dan memahami data tabel sederhana.",
+      "topic": "Statistik & Peluang",
+      "subtopic": "Penyajian & interpretasi data",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "sta-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "statistik_peluang",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Rata-rata dari 8, 6, 10, 12 adalah...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "rationale": "Jumlah 36 $dibagi4=9$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (9), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 8, 6, 10, 12 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (9), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 8, 6, 10, 12 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 11 hampir sama dengan jawaban benar (9), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 8, 6, 10, 12 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "sta-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "statistik_peluang",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Median dari 3, 9, 5, 7, 1 adalah...",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "Urutkan: 1,3,5,7,9; median 5.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 3 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Median dari 3, 9, 5, 7, 1 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 7 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Median dari 3, 9, 5, 7, 1 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 9 menghasilkan bilangan yang lebih besar dari jawaban benar (5). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Median dari 3, 9, 5, 7, 1 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "sta-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "statistik_peluang",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Data: $Merah=12$ , $Biru=9$ , $Hijau=6$. Kategori terbanyak adalah...",
+      "options": [
+        "Biru",
+        "Hijau",
+        "Merah",
+        "Tidak dapat ditentukan"
+      ],
+      "answer": 2,
+      "rationale": "Frekuensi terbesar 12 pada Merah.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Biru tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Merah). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Data: Merah=12 , Biru=9 , Hijau=6. Kategori terbanyak adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Hijau tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Merah). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Data: Merah=12 , Biru=9 , Hijau=6. Kategori terbanyak adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Tidak dapat ditentukan tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Merah). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Data: Merah=12 , Biru=9 , Hijau=6. Kategori terbanyak adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "sta-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "statistik_peluang",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Modus dari 5, 7, 5, 8, 9 adalah...",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 0,
+      "rationale": "Nilai yang paling sering muncul adalah 5.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 7 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Modus dari 5, 7, 5, 8, 9 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 menghasilkan bilangan yang lebih besar dari jawaban benar (5). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Modus dari 5, 7, 5, 8, 9 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 9 menghasilkan bilangan yang lebih besar dari jawaban benar (5). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Modus dari 5, 7, 5, 8, 9 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "sta-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "statistik_peluang",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Rata-rata dari 12, 10, 8, 6, 4 adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "Jumlah 40 $dibagi5=8$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 6 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 12, 10, 8, 6, 4 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 7 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 12, 10, 8, 6, 4 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 9 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Rata-rata dari 12, 10, 8, 6, 4 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "sta-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Modus dari 2,3,3,4,5 adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "rationale": "Angka paling sering muncul adalah 3.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "mode_vs_largest_confusion"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Median dari 8,2,6 adalah...",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": 1,
+      "rationale": "Urutkan 2,6,8 sehingga median 6.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "median_not_sorted"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Selisih frekuensi 18 dan 14 adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "rationale": "$18-14=4$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "frequency_misread"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Rata-rata dari 5 dan 9 adalah...",
+      "options": [
+        "7",
+        "14",
+        "4",
+        "9"
+      ],
+      "answer": 0,
+      "rationale": "$(5+9)/2=7$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "median_not_sorted"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Pernyataan tepat dari grafik naik 2 bulan adalah...",
+      "options": [
+        "Pasti naik selamanya",
+        "Sedang meningkat pada data ini",
+        "Pasti turun bulan depan",
+        "Data tidak berguna"
+      ],
+      "answer": 1,
+      "rationale": "Kesimpulan harus sesuai data yang tersedia.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "frequency_misread"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Median dari 4, 1, 9, 6, 3 adalah...",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "Urutkan data: 1,3,4,6,9 sehingga median 4.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "median_not_sorted"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Modus dari 2,2,2,5,6 adalah...",
+      "options": [
+        "2",
+        "5",
+        "6",
+        "Tidak ada"
+      ],
+      "answer": 0,
+      "rationale": "Nilai paling sering muncul adalah 2.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "mode_vs_largest_confusion"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "**Jika** jumlah nilai 5 siswa adalah 350, rata-rata nilainya...",
+      "options": [
+        "65",
+        "70",
+        "75",
+        "80"
+      ],
+      "answer": 1,
+      "rationale": "$Rata-rata=total/banyakdata$=$\\frac{350}{5}=70$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "frequency_misread"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Data buah: apel 9, jeruk 12, mangga 7. Buah paling sedikit adalah...",
+      "options": [
+        "apel",
+        "jeruk",
+        "mangga",
+        "tidak bisa ditentukan"
+      ],
+      "answer": 2,
+      "rationale": "Angka terkecil adalah 7 (mangga).",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "frequency_misread"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Median dari 10, 8, 6, 4 adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "Urutkan 4,6,8,10 lalu ambil rata-rata dua tengah: $(6+8)/2=7$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "median_not_sorted"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Modus dari 1,3,3,4,4,4,5 adalah...",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "1"
+      ],
+      "answer": 1,
+      "rationale": "Yang paling sering muncul adalah 4.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "mode_vs_largest_confusion"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    },
+    {
+      "questionId": "sta-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Statistik & Peluang",
+      "subtopicId": null,
+      "subtopic": "Penyajian & interpretasi data",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "data_reading_and_basic_statistics"
+      ],
+      "question": "Selisih jumlah siswa laki-laki 28 dan perempuan 24 adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "rationale": "$Selisih28-24=4$.",
+      "microLoop": {
+        "concept_id": "data_reading_and_basic_statistics",
+        "drill_focus": {
+          "source_error_tags": [
+            "frequency_misread"
+          ],
+          "notes": "Drill penguatan konsep."
+        }
+      }
+    }
+  ]
+}

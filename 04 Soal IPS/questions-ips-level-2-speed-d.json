@@ -1,0 +1,1519 @@
+[
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Peta & denah",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Pak Guru menunjukkan peta Indonesia kepada murid-muridnya. Ia menjelaskan bahwa setiap titik di permukaan bumi dapat ditentukan lokasinya secara tepat menggunakan dua angka:\n\n- **Garis lintang**: mengukur jarak utara atau selatan dari khatulistiwa (0°), dinyatakan dalam derajat Lintang Utara (LU) atau Lintang Selatan (LS).\n- **Garis bujur**: mengukur jarak timur atau barat dari garis nol di Greenwich, Inggris, dinyatakan dalam derajat Bujur Timur (BT) atau Bujur Barat (BB).\n\nSistem penentuan lokasi tepat di permukaan bumi menggunakan dua angka ini disebut ...",
+    "options": [
+      "Koordinat geografis",
+      "Skala peta",
+      "Legenda peta",
+      "Proyeksi peta"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Perhatikan yang dimaksud: sistem dua angka (garis lintang + garis bujur) yang menentukan lokasi tepat suatu titik di bumi.\nLangkah 2: Sistem gabungan garis lintang dan garis bujur inilah yang disebut **koordinat geografis**. Dengan koordinat geografis, setiap titik di bumi memiliki 'alamat unik' yang tidak bisa dimiliki titik lain.\nLangkah 3: Bedakan dengan komponen peta lain:\n- **Skala peta**: perbandingan jarak di peta dan di lapangan (misal 1:500.000)\n- **Legenda**: daftar simbol dan artinya\n- **Proyeksi peta**: cara memindahkan permukaan bumi yang bulat ke bidang datar\nLangkah 4: Contoh koordinat geografis Indonesia: Jakarta berada di sekitar 6°11' LS dan 106°49' BT.\n\n**Materi terkait:**\n- **Garis lintang** (paralel): garis horizontal yang sejajar dengan khatulistiwa. Khatulistiwa = 0°, Kutub Utara = 90°LU, Kutub Selatan = 90°LS. Indonesia berada di 6°LU – 11°LS.\n- **Garis bujur** (meridian): garis vertikal dari Kutub Utara ke Kutub Selatan. Garis bujur 0° melewati Greenwich, Inggris. Indonesia berada di 95°BT – 141°BT.\n- **Zona waktu** ditentukan oleh garis bujur. Setiap 15° bujur = 1 jam perbedaan waktu. Indonesia memiliki tiga zona waktu: WIB (105°BT), WITA (120°BT), dan WIT (135°BT).\n- **GPS** (Global Positioning System) menggunakan koordinat geografis yang sama untuk menentukan lokasi tepat.\n\nInsight kunci: Koordinat geografis adalah **bahasa universal lokasi** — dua orang di belahan dunia mana pun yang menyebut koordinat yang sama pasti menunjuk titik yang sama persis di bumi. Ini menjadi dasar semua sistem navigasi modern termasuk Google Maps.\nJawaban akhir: **Koordinat geografis** — sistem dua angka (lintang + bujur) untuk menentukan lokasi tepat."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Kondisi geografis Indonesia",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Indonesia terletak di pertemuan tiga lempeng tektonik besar: Lempeng Eurasia, Lempeng Indo-Australia, dan Lempeng Pasifik. Pertemuan lempeng ini menempatkan Indonesia di 'Cincin Api Pasifik' (Ring of Fire). Indonesia memiliki lebih dari 120 gunung berapi aktif — terbanyak di dunia. Letusan gunung berapi menghasilkan abu vulkanik yang kaya mineral. Pulau Jawa dan Bali, yang memiliki banyak gunung berapi, adalah pulau-pulau dengan tanah paling subur di Indonesia dan menjadi lumbung pangan nasional.\"*\n\nDari informasi tersebut, **keuntungan** yang dapat diperoleh Indonesia dari kondisi geologi sebagai negara 'Ring of Fire' adalah ...",
+    "options": [
+      "Tidak ada keuntungan sama sekali dari kondisi Ring of Fire — letusan gunung berapi dan gempa bumi hanya mendatangkan bencana dan kerugian, karena faktor lokasi, akses, dan kondisi lingkungan dianggap memberi dampak yang sama di semua wilayah",
+      "Tanah di sekitar gunung berapi sangat subur karena kaya abu vulkanik dan mineral — menjadikan pulau-pulau bergunung berapi seperti Jawa dan Bali sebagai daerah pertanian paling produktif",
+      "Gempa bumi yang sering terjadi membuat struktur tanah Indonesia menjadi lebih keras dan tahan lama dari tanah di negara lain",
+      "Keberadaan ratusan gunung berapi aktif membuat suhu udara di seluruh Indonesia lebih sejuk dan nyaman sepanjang tahun"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi pernyataan penting dalam teks: abu vulkanik kaya mineral → tanah subur → Jawa dan Bali jadi lumbung pangan. Ini adalah hubungan sebab-akibat yang jelas.\nLangkah 2: Hubungan abu vulkanik dengan kesuburan tanah. Abu vulkanik mengandung unsur hara penting (fosfor, kalium, kalsium) yang dibutuhkan tanaman. Setelah letusan, abu yang mengendap di tanah secara bertahap terurai dan memperkaya lapisan tanah.\nLangkah 3: Konteks Indonesia. Pulau Jawa dihuni 56% populasi Indonesia dan menghasilkan sebagian besar beras nasional — salah satunya karena kesuburan tanah vulkanik. Bali juga dikenal dengan sawah teraseringnya yang subur (Subak UNESCO).\nLangkah 4: Jebakan pilihan B: meski benar bahwa Ring of Fire membawa bencana, menyimpulkan 'tidak ada keuntungan sama sekali' mengabaikan fakta kesuburan tanah yang jelas disebutkan dalam teks.\nLangkah 5: Pilihan C dan D adalah miskonsepsi — gempa tidak membuat tanah 'lebih keras' untuk tujuan produktif, dan gunung berapi tidak otomatis mendinginkan suhu.\n\n**Materi terkait:**\n- **Lempeng tektonik**: lapisan keras permukaan bumi yang bergerak perlahan. Pertemuan lempeng bisa menghasilkan: zona subduksi (satu lempeng menyusup ke bawah) → gunung berapi dan palung laut, dan zona sesar → gempa bumi.\n- **Ring of Fire**: sabuk gunung berapi dan zona gempa bumi yang mengelilingi Samudra Pasifik, meliputi Jepang, Filipina, Indonesia, Amerika Selatan, dan Amerika Utara.\n- **Manfaat gunung berapi**: selain tanah subur, gunung berapi menghasilkan: sumber energi panas bumi (*geothermal*), material bangunan (batu, pasir, besi), dan wisata alam (Rinjani, Bromo, Krakatau).\n- **Mitigasi bencana**: sistem deteksi dini (seismograf, pengukur ketinggian gunung), jalur evakuasi, dan latihan simulasi bencana adalah cara masyarakat hidup berdampingan dengan risiko gunung berapi.\n\nInsight kunci: Kondisi geografis yang 'berbahaya' sering memiliki **dua sisi**: gunung berapi membawa risiko letusan sekaligus menghadiahkan tanah yang sangat subur. Kemampuan melihat **keuntungan dan risiko sekaligus** adalah ciri berpikir geografis yang matang.\nKenapa opsi lain salah: B terlalu mutlak dan mengabaikan manfaat yang disebutkan teks; C dan D adalah miskonsepsi tentang efek fisik geologi.\nJawaban akhir: **Tanah vulkanik yang kaya mineral menjadikan Jawa dan Bali sebagai daerah pertanian paling produktif**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Wilayah & lokasi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Di kawasan ASEAN, hampir semua negara memiliki akses ke laut. Namun Laos adalah satu-satunya negara yang sepenuhnya terkurung oleh daratan negara-negara tetangga (Vietnam, Kamboja, Thailand, Myanmar, Tiongkok) — tidak memiliki garis pantai sama sekali. Kondisi ini disebut 'landlocked'. Untuk mengekspor barang, Laos harus melewati wilayah negara tetangga dan menggunakan pelabuhan mereka. Laos mengandalkan Sungai Mekong sebagai jalur transportasi utama dalam negeri.\"*\n\nTantangan **utama** yang dihadapi Laos sebagai negara landlocked di ASEAN adalah ...",
+    "options": [
+      "Laos tidak boleh bergabung dengan organisasi ASEAN karena tidak memiliki batas laut",
+      "Laos wajib membangun angkatan laut yang kuat untuk bisa bersaing dengan negara-negara tetangga, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Laos sangat bergantung pada negara-negara tetangga untuk akses perdagangan laut, sehingga biaya ekspor-impor lebih tinggi dan pilihan rute perdagangannya lebih terbatas",
+      "Laos otomatis menjadi negara termiskin di ASEAN karena tidak memiliki akses langsung ke laut"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi fakta kunci: Laos tidak punya akses laut, harus melalui negara tetangga untuk ekspor. Sungai Mekong hanya untuk transportasi dalam negeri.\nLangkah 2: Konsekuensi praktis tidak punya akses laut:\n- Untuk mengekspor barang, Laos harus: melewati wilayah darat negara tetangga (biaya transit/izin) → lalu menggunakan pelabuhan mereka (biaya pelabuhan) → baru ke kapal. Ini menambah biaya, waktu, dan risiko.\n- Ketergantungan pada tetangga menciptakan kerentanan — jika hubungan politik memburuk, akses perdagangan bisa terganggu.\n- Pilihan rute terbatas — tidak bisa memilih pelabuhan mana yang paling efisien secara bebas.\nLangkah 3: Jebakan pilihan D: tidak semua landlocked country termiskin. Swiss (landlocked) adalah salah satu negara terkaya di dunia. Status landlocked memang jadi tantangan, tetapi bukan otomatis menyebabkan kemiskinan — faktor lain seperti tata kelola, sumber daya, dan hubungan diplomatik juga penting.\nLangkah 4: Pilihan A salah — status landlocked tidak menghalangi negara bergabung ASEAN. Laos resmi menjadi anggota ASEAN sejak 1997.\n\n**Materi terkait:**\n- **Negara landlocked** di dunia: ada sekitar 44 negara landlocked di dunia, termasuk Swiss, Austria, Nepal, Mongolia, Bolivia, dan lainnya. Di Asia Tenggara, hanya Laos.\n- **Hukum Laut Internasional** (UNCLOS): negara landlocked memiliki hak akses ke laut melalui negara transit — negara transit wajib memberikan akses dengan syarat yang wajar.\n- **Sungai Mekong**: sungai terpanjang ke-12 di dunia, mengalir dari Tibet melalui Tiongkok, Myanmar, Laos, Thailand, Kamboja, Vietnam. Sangat vital bagi transportasi, pertanian, dan perikanan jutaan orang di kawasan.\n- **Solusi Laos**: membangun rel kereta api Laos-Tiongkok (dibuka 2021) untuk mengurangi ketergantungan pada jalan darat dan meningkatkan konektivitas ekspor.\n\nInsight kunci: Tantangan landlocked mengajarkan bahwa **letak geografis adalah faktor penting dalam pembangunan ekonomi** — tetapi bukan satu-satunya. Negara yang cerdas menemukan solusi kreatif (rel kereta, perjanjian transit, hilirisasi produk lokal) untuk mengatasi keterbatasan geografis.\nKenapa opsi lain salah: A salah karena Laos adalah anggota ASEAN sejak 1997; B tidak masuk akal karena Laos tidak punya laut untuk berlayar; D terlalu mutlak — banyak negara landlocked yang sukses.\nJawaban akhir: **Ketergantungan pada negara tetangga untuk akses laut → biaya perdagangan lebih tinggi, pilihan rute lebih terbatas**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Geografi",
+    "subtopic": "Interaksi ruang",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Gempa bumi dan tsunami pada 2018 menghancurkan sebagian besar wilayah Kota Palu, Sulawesi Tengah. Lebih dari 200.000 warga terpaksa mengungsi ke berbagai kota lain. Sebagian mengungsi ke Makassar, Gorontalo, dan kota-kota lain di Sulawesi. Kota-kota yang menerima pengungsi kemudian mengalami beberapa perubahan: (1) permintaan rumah kontrakan dan sewa naik tajam; (2) kebutuhan pangan dan kebutuhan dasar meningkat; (3) fasilitas kesehatan dan sekolah mengalami tekanan; (4) sejumlah pengungsi membuka usaha kecil (warung, jasa laundry) yang sebelumnya tidak ada.\"*\n\nDari skenario, dampak kedatangan pengungsi yang paling mencerminkan karakter **interaksi ruang yang kompleks** adalah ...",
+    "options": [
+      "Kota-kota tujuan sama sekali tidak terpengaruh karena pengungsi hanya tinggal sementara dan akan segera kembali ke Palu, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan",
+      "Pengungsi selalu menjadi beban ekonomi murni bagi kota tujuan tanpa memberi kontribusi positif apapun",
+      "Hanya fasilitas publik (sekolah dan rumah sakit) yang terdampak, sedangkan ekonomi kota tujuan tidak terpengaruh",
+      "Kedatangan pengungsi menciptakan dampak berlapis: meningkatkan tekanan pada infrastruktur dan fasilitas, sekaligus menghadirkan tambahan permintaan yang mendorong ekonomi lokal dan pelaku usaha baru"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca skenario dan catat keempat perubahan yang terjadi di kota tujuan: (1) sewa rumah naik, (2) permintaan pangan naik, (3) fasilitas publik tertekan, (4) usaha baru muncul. Perubahan 1-3 adalah dampak negatif/tekanan, perubahan 4 adalah dampak positif/peluang.\nLangkah 2: Apa yang dimaksud 'interaksi ruang yang kompleks'? Interaksi ruang adalah hubungan saling memengaruhi antara satu wilayah dengan wilayah lain. Dikatakan 'kompleks' karena dampaknya bukan satu arah atau satu jenis — ada yang negatif sekaligus ada yang positif.\nLangkah 3: Analisis pilihan D. Ini menangkap dua sisi sekaligus: tekanan infrastruktur (dampak negatif) AND tumbuhnya permintaan dan usaha baru (dampak positif). Ini menggambarkan realitas interaksi ruang yang sesungguhnya — selalu berlapis, tidak hitam-putih.\nLangkah 4: Jebakan pilihan B: skenario secara eksplisit menyebut pengungsi membuka usaha baru — ini adalah kontribusi positif nyata yang membantah klaim 'tidak ada kontribusi'.\nLangkah 5: Jebakan pilihan A: skenario tidak menyebut pengungsi 'hanya sementara' dan empat perubahan yang disebutkan cukup signifikan untuk mengatakan kota tujuan terpengaruh.\nLangkah 6: Merangkum rantai interaksi: bencana di Palu → warga mengungsi → tekanan di kota tujuan (infrastruktur, fasilitas) SEKALIGUS peluang (permintaan meningkat, wirausaha baru) → kota tujuan harus mengelola keduanya.\n\n**Materi terkait:**\n- **Interaksi antarruang** terjadi ketika satu wilayah tidak dapat memenuhi semua kebutuhannya sendiri dan harus berinteraksi dengan wilayah lain. Bencana alam adalah salah satu 'pemaksa' interaksi ruang yang tiba-tiba dan besar.\n- **Dampak berlapis bencana**: bencana tidak hanya merusak daerah yang terdampak langsung, tetapi juga 'memindahkan' masalah dan potensi ke wilayah lain. Pengelolaan pengungsi membutuhkan koordinasi antardaerah.\n- **Resiliensi komunitas**: kemampuan komunitas untuk beradaptasi dan bangkit pasca bencana, termasuk kemampuan pengungsi membuka usaha baru di tempat baru — ini adalah bukti resiliensi ekonomi.\n- **Rekonstruksi Palu pasca 2018**: pemerintah membangun hunian tetap, memulihkan infrastruktur, dan mendorong kembalinya warga. Proses rekonstruksi membutuhkan waktu bertahun-tahun dan dana yang besar.\n\nInsight kunci: Setiap peristiwa perpindahan penduduk — baik karena bencana, konflik, atau pekerjaan — **selalu menciptakan dampak ganda** di tempat tujuan. Memahami kompleksitas ini penting agar kebijakan penerimaan pengungsi tidak hanya melihat beban, tetapi juga peluang yang datang bersamaan.\nKenapa opsi lain salah: A mengabaikan fakta perubahan yang disebutkan teks; B bertentangan dengan fakta butir ke-4 (usaha baru); C terlalu sempit — sewa rumah dan permintaan pangan juga terpengaruh.\nJawaban akhir: **Dampak berlapis: tekanan infrastruktur sekaligus peluang ekonomi dari meningkatnya permintaan dan usaha baru**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sejarah",
+    "subtopic": "Warisan budaya & nasionalisme",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Wayang kulit adalah seni pertunjukan tradisional dari Jawa dan Bali yang dimainkan oleh seorang dalang menggunakan boneka dari kulit kerbau yang dipahat. Dalang memainkan boneka di balik layar putih yang diterangi lampu, sehingga penonton melihat bayangan. Setiap lakon menceritakan kisah dari epos Ramayana atau Mahabharata, tetapi mengandung ajaran moral yang disesuaikan dengan nilai Jawa: kesetiaan, keberanian, kejujuran, dan keadilan. UNESCO mengakui wayang kulit sebagai Masterpiece of Oral and Intangible Cultural Heritage pada tahun 2003.\"*\n\nMengapa wayang kulit dianggap sebagai warisan budaya yang bernilai tinggi bagi bangsa Indonesia?",
+    "options": [
+      "Karena wayang kulit adalah pertunjukan hiburan mahal yang dulunya hanya ditonton oleh kalangan bangsawan dan keluarga kerajaan",
+      "Karena wayang kulit mengandung nilai moral dan filosofi yang mendalam — kejujuran, keberanian, keadilan — serta menjadi media pewarisan kearifan lokal yang telah bertahan selama ratusan tahun",
+      "Karena wayang kulit menggunakan cerita dari India (Ramayana-Mahabharata), sehingga membuktikan hubungan budaya antara Indonesia dan India sejak zaman kuno, karena bukti sejarah dianggap cukup dilihat dari satu sisi tanpa membandingkan konteks zamannya",
+      "Karena wayang kulit adalah satu-satunya kesenian Indonesia yang pernah mendapat pengakuan resmi dari UNESCO"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Perhatikan dua hal yang ditonjolkan teks tentang wayang kulit: (1) cerita dari Ramayana/Mahabharata yang disesuaikan dengan nilai Jawa (kesetiaan, keberanian, kejujuran, keadilan), dan (2) pengakuan UNESCO.\nLangkah 2: Mengapa nilai moral dan filosofi menjadi alasan utama? Karena wayang bukan sekadar hiburan — ia adalah **media pendidikan nilai** yang bertahan selama ratusan tahun. Anak-anak yang menonton wayang belajar tentang apa yang benar dan salah melalui karakter-karakternya (Arjuna = kesatria berbudi, Rahwana = kekuasaan yang jahat).\nLangkah 3: Jebakan pilihan A: meski dulu wayang lebih sering ditampilkan di keraton, saat ini wayang bisa dinikmati semua lapisan masyarakat. 'Nilai tinggi' bukan berarti 'mahal' atau 'eksklusif'.\nLangkah 4: Jebakan pilihan D: banyak kesenian Indonesia lain yang juga diakui UNESCO — Batik (2009), Tari Saman (2011), Angklung (2010), dll. Wayang bukan satu-satunya.\n\n**Materi terkait:**\n- **Dalang** bukan sekadar pemain boneka — ia harus menguasai: cerita (ratusan lakon), seni suara (menyanyi, dialog berbeda tiap karakter), seni musik (memimpin gamelan), dan filosofi. Latihan menjadi dalang butuh belasan tahun.\n- **Wayang dan Islam**: ketika Islam masuk Jawa, para wali (Wali Songo) menggunakan wayang sebagai media dakwah — mengintegrasikan nilai Islam ke dalam cerita wayang tanpa menghapus tradisi yang sudah ada. Ini contoh akulturasi budaya yang indah.\n- **Jenis wayang**: wayang kulit (paling terkenal), wayang golek (boneka kayu dari Sunda), wayang orang (dimainkan manusia), wayang beber (gulungan gambar).\n- **Gamelan**: musik pengiring wayang, juga telah diakui sebagai warisan budaya UNESCO (2021).\n\nInsight kunci: Wayang mengajarkan bahwa **nilai-nilai luhur bisa disampaikan melalui seni** — lebih mudah diterima dan diingat daripada ceramah langsung. Ini kearifan pedagogi yang luar biasa dari leluhur: mengajarkan kebaikan melalui keindahan.\nJawaban akhir: **Wayang mengandung nilai moral dan filosofi mendalam serta menjadi media pewarisan kearifan lokal yang bertahan ratusan tahun**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Sejarah Indonesia",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Pada tahun 1830, Gubernur Jenderal Belanda van den Bosch menerapkan sistem Tanam Paksa (*Cultuurstelsel*) di Jawa. Petani wajib menyerahkan 20% lahan mereka untuk ditanami tanaman ekspor (kopi, tebu, nila, teh) yang hasilnya diserahkan ke pemerintah Belanda, atau bekerja wajib 66 hari per tahun untuk pemerintah. Akibatnya, banyak lahan yang seharusnya ditanami padi (bahan pangan pokok) diganti tanaman ekspor. Sistem ini berlangsung sekitar 40 tahun dan menghasilkan keuntungan sangat besar bagi Belanda.\"*\n\nDampak yang **paling serius** dari sistem Tanam Paksa bagi rakyat Indonesia adalah ...",
+    "options": [
+      "Berkurangnya lahan untuk tanaman pangan menyebabkan produksi padi menurun, berujung pada kelaparan dan kemiskinan yang meluas di Jawa",
+      "Tidak ada dampak negatif karena petani tetap boleh menanam padi di sisa 80% lahan mereka",
+      "Tanam Paksa justru menguntungkan petani karena tanaman ekspor seperti kopi dan tebu harganya jauh lebih mahal dari padi, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya",
+      "Dampak terbesar dirasakan oleh pedagang Belanda yang harus bersaing dengan produk murah dari Indonesia"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Identifikasi mekanisme tanam paksa dari teks: 20% lahan harus ditanami tanaman ekspor (bukan padi). Hasil tanaman ekspor bukan untuk dimakan, melainkan diserahkan ke Belanda.\nLangkah 2: Rantai dampak: 20% lahan dialihkan dari padi → produksi padi berkurang → namun jumlah penduduk tidak berkurang → kebutuhan pangan tidak terpenuhi → kelaparan dan kemiskinan meluas.\nLangkah 3: Catatan historis nyata: antara tahun 1840–1850, terjadi kelaparan besar di beberapa daerah Jawa (termasuk Grobogan, Demak) yang menewaskan ratusan ribu orang. Ini langsung berkaitan dengan berkurangnya produksi pangan akibat Tanam Paksa.\nLangkah 4: Jebakan pilihan A: 80% lahan tersisa tidak cukup untuk memenuhi kebutuhan pangan semua penduduk, terutama di daerah yang padat. Selain itu, 66 hari kerja wajib mengurangi waktu petani untuk menggarap sisa lahannya.\nLangkah 5: Jebakan pilihan C: benar bahwa tanaman ekspor harganya lebih tinggi, tetapi hasilnya tidak dinikmati petani — diserahkan ke Belanda. Petani tidak mendapat keuntungan finansial dari tanaman ekspor tersebut.\nLangkah 6: Kritis melihat D: tidak logis — produk ekspor dari Indonesia justru menguntungkan pedagang/pemerintah Belanda.\n\n**Materi terkait:**\n- **Cultuurstelsel** (Tanam Paksa, 1830–1870): sistem yang dirancang oleh Van den Bosch untuk memulihkan keuangan Belanda yang bangkrut akibat Perang Napoleon. Sistem ini berhasil mengisi kas Belanda dan bahkan melunasi utang negara Belanda — tetapi dengan biaya yang sangat mahal bagi rakyat Indonesia.\n- **Kritik dari Belanda sendiri**: Eduard Douwes Dekker (pena: Multatuli) menulis novel *Max Havelaar* (1860) yang mengkritik keras kekejaman Tanam Paksa. Novel ini akhirnya menjadi salah satu pendorong penghapusan Tanam Paksa pada 1870.\n- **Setelah Tanam Paksa**: digantikan oleh *Politik Pintu Terbuka* (1870) yang mengizinkan modal swasta masuk Indonesia — namun eksploitasi terhadap rakyat Indonesia terus berlanjut dalam bentuk yang berbeda.\n\nInsight kunci: Tanam Paksa mengajarkan bahwa **kebijakan ekonomi yang hanya menguntungkan satu pihak** sambil memaksa pihak lain menanggung beban, pada akhirnya selalu menimbulkan penderitaan yang luar biasa. Sejarah ini juga mengajarkan pentingnya **ketahanan pangan** — menjaga produksi pangan pokok adalah tanggung jawab dasar suatu negara terhadap rakyatnya.\nKenapa opsi lain salah: A mengabaikan fakta kelaparan historis; C salah karena petani tidak menerima harga tanaman ekspor; D tidak logis.\nJawaban akhir: **Lahan pangan berkurang → produksi padi turun → kelaparan dan kemiskinan meluas**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Tokoh & perubahan sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Mohammad Hatta (1902–1980) adalah Wakil Presiden pertama Indonesia dan dikenal sebagai 'Bapak Koperasi Indonesia'. Hatta percaya bahwa bentuk usaha yang paling sesuai dengan jiwa bangsa Indonesia adalah koperasi — karena koperasi berdasarkan asas gotong royong, kebersamaan, dan demokrasi ekonomi. Dalam koperasi, setiap anggota memiliki hak suara yang sama tanpa memandang besar kecil modal yang disetor. Gagasan ini ia perjuangkan hingga masuk dalam Pasal 33 UUD 1945 yang menyatakan bahwa perekonomian disusun atas asas kekeluargaan.\"*\n\nMengapa Hatta memperjuangkan koperasi sebagai pilar ekonomi Indonesia, dibandingkan bentuk usaha perusahaan swasta biasa?",
+    "options": [
+      "Karena Hatta tidak percaya pada kemampuan pengusaha pribumi Indonesia untuk mengelola perusahaan swasta yang besar dan modern, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya",
+      "Karena koperasi tidak membutuhkan modal sama sekali, sehingga jauh lebih mudah dan murah didirikan oleh siapapun",
+      "Karena koperasi terbukti secara statistik menghasilkan keuntungan 10 kali lebih besar dari perusahaan swasta biasa",
+      "Karena dalam koperasi setiap anggota memiliki suara yang setara, mencegah penumpukan kekayaan di tangan segelintir orang, dan mencerminkan nilai gotong royong yang menjadi jiwa bangsa Indonesia"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi dua prinsip koperasi dari teks: (1) asas gotong royong dan kebersamaan, dan (2) setiap anggota punya hak suara sama tanpa memandang besar modal.\nLangkah 2: Bandingkan dengan perusahaan swasta biasa (PT). Di perusahaan swasta: pemilik saham terbesar punya suara terbanyak (*one share, one vote*). Di koperasi: setiap anggota punya satu suara (*one member, one vote*), tidak peduli berapa besar modalnya. Perbedaan ini fundamental dalam hal distribusi kekuasaan ekonomi.\nLangkah 3: Visi Hatta. Ia melihat bahwa sistem kapitalis murni cenderung menciptakan kesenjangan — kekayaan terkonsentrasi di tangan segelintir pemilik modal. Koperasi adalah antitesisnya: distribusi kekuasaan dan manfaat yang lebih merata, sesuai nilai Indonesia.\nLangkah 4: Konteks UUD 1945 Pasal 33: 'perekonomian disusun atas asas kekeluargaan' — ini adalah formulasi konstitusional gagasan Hatta tentang ekonomi yang berbasis kebersamaan.\nLangkah 5: Jebakan pilihan A: Hatta justru sangat percaya pada kemampuan bangsa sendiri. Ia bukan memandang rendah pengusaha pribumi, melainkan ingin sistem ekonomi yang lebih adil dan merata.\nLangkah 6: Jebakan pilihan B: koperasi tetap membutuhkan modal (simpanan anggota) — hanya saja modal ini berasal dari banyak anggota kecil, bukan dari satu pemodal besar.\n\n**Materi terkait:**\n- **Prinsip koperasi Rochdale**: tujuh prinsip koperasi internasional yang ditetapkan sejak 1844 meliputi: keanggotaan sukarela, demokrasi anggota (satu anggota satu suara), pendidikan anggota, kerja sama antarkoperasi, dan kepedulian masyarakat.\n- **Koperasi Indonesia hari ini**: ada lebih dari 127.000 koperasi aktif di Indonesia. Namun tidak semua berjalan ideal — banyak yang kurang profesional atau tidak sesuai prinsip. Revitalisasi koperasi adalah tantangan berkelanjutan.\n- **Perbedaan koperasi dan PT**: Koperasi = tujuan utama meningkatkan kesejahteraan anggota; PT = tujuan utama menghasilkan keuntungan bagi pemegang saham.\n- **Tanggal 12 Juli** diperingati sebagai Hari Koperasi Nasional Indonesia.\n\nInsight kunci: Pilihan Hatta untuk koperasi adalah pilihan **ideologis tentang keadilan ekonomi** — ia ingin membangun sistem di mana kesuksesan ekonomi bisa dinikmati banyak orang, bukan hanya segelintir pemilik modal. Gagasan ini relevan bahkan di abad ke-21 ketika kesenjangan ekonomi global semakin melebar.\nKenapa opsi lain salah: A merendahkan kapasitas bangsa sendiri yang bukan pemikiran Hatta; B salah karena koperasi butuh modal dari anggota; C tidak berdasar fakta.\nJawaban akhir: **Koperasi menjamin suara setara bagi semua anggota, mencegah penumpukan kekayaan, dan mencerminkan gotong royong**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sejarah",
+    "subtopic": "Kronologi peristiwa",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel kronologi perjuangan kemerdekaan Indonesia:\n\n| Tahun | Peristiwa |\n|---|---|\n| Agustus 1945 | Proklamasi Kemerdekaan — Indonesia menyatakan diri merdeka |\n| 1946 | Perjanjian Linggarjati: Belanda mengakui RI secara de facto hanya atas Jawa, Madura, dan Sumatra |\n| Juli 1947 | Agresi Militer Belanda I: Belanda menyerang wilayah RI |\n| Januari 1948 | Perjanjian Renville: RI terpaksa menyerahkan lebih banyak wilayah kepada Belanda |\n| Desember 1948 | Agresi Militer Belanda II: Belanda merebut Yogyakarta, menangkap Soekarno dan Hatta |\n| 1949 | Konferensi Meja Bundar (KMB): Belanda akhirnya mengakui kedaulatan penuh RI |\n\nBerdasarkan kronologi, kesimpulan yang **paling tepat** tentang proses pengakuan kemerdekaan Indonesia adalah ...",
+    "options": [
+      "Indonesia langsung diakui oleh seluruh dunia sejak hari Proklamasi 17 Agustus 1945",
+      "Belanda dengan sukarela menyerahkan kemerdekaan kepada Indonesia karena merasa bertanggung jawab atas penjajahan yang panjang, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+      "Meski diproklamasikan pada Agustus 1945, pengakuan kedaulatan penuh baru diperoleh pada 1949 setelah perjuangan diplomatik dan militer selama 4 tahun — menunjukkan kemerdekaan bukan sekadar proklamasi, tetapi harus dipertahankan",
+      "Semua perjanjian antara Indonesia dan Belanda (Linggarjati, Renville, KMB) selalu menguntungkan dan adil bagi kedua pihak"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Baca tabel secara menyeluruh. Ada jarak 4 tahun antara proklamasi (1945) dan pengakuan kedaulatan penuh (1949). Di antaranya terjadi: dua perjanjian yang menguntungkan Belanda (Linggarjati, Renville) dan dua agresi militer (serangan Belanda ke wilayah RI).\nLangkah 2: Apa yang menyebabkan Belanda akhirnya mau mengakui kedaulatan RI pada 1949? Tiga faktor besar:\n- **Perlawanan militer RI** yang terus berlanjut meski ibu kota (Yogyakarta) diduduki — Serangan Umum 1 Maret 1949 membuktikan RI tidak menyerah.\n- **Tekanan internasional**, terutama dari Amerika Serikat yang mengancam menghentikan bantuan Marshall Plan ke Belanda jika agresi militer tidak dihentikan.\n- **Resolusi Dewan Keamanan PBB** yang mendesak Belanda menarik diri.\nLangkah 3: Kesimpulan: kemerdekaan tidak otomatis diakui hanya dengan proklamasi — butuh perjuangan panjang secara militer dan diplomasi. Ini adalah makna pilihan A.\nLangkah 4: Jebakan pilihan B: tidak benar — banyak negara (termasuk sebagian besar Eropa) belum mengakui RI secara formal segera pada 1945. Pengakuan datang bertahap.\nLangkah 5: Jebakan pilihan C: Agresi Militer I dan II justru membuktikan Belanda tidak sukarela menyerahkan kemerdekaan — mereka menyerang RI dua kali setelah proklamasi.\nLangkah 6: Jebakan pilihan D: Perjanjian Linggarjati dan Renville merugikan RI (RI dipaksa menyerahkan wilayah) sebelum akhirnya KMB lebih adil.\n\n**Materi terkait:**\n- **Perjanjian Linggarjati** (1947): Belanda hanya mengakui RI atas Jawa, Madura, dan Sumatra (bukan seluruh bekas Hindia Belanda). Bagi Indonesia ini merugikan, tapi merupakan pengakuan de facto pertama.\n- **Perjanjian Renville** (1948): lebih merugikan RI — batas 'Garis van Mook' semakin mengecilkan wilayah RI. Perjanjian ini ditentang keras oleh banyak pihak di Indonesia.\n- **Serangan Umum 1 Maret 1949**: operasi TNI merebut kembali Yogyakarta selama 6 jam sebagai bukti kepada dunia bahwa RI masih eksis dan mampu berjuang, menghasilkan tekanan diplomatik yang akhirnya memaksa KMB.\n- **KMB (Konferensi Meja Bundar)**: berlangsung di Den Haag, Belanda, menghasilkan pengakuan kedaulatan pada 27 Desember 1949.\n\nInsight kunci: Sejarah kemerdekaan Indonesia mengajarkan bahwa **kemerdekaan sejati bukan hanya deklarasi, melainkan proses perjuangan yang panjang**. Proklamasi adalah pernyataan, tetapi kedaulatan harus dimenangkan melalui diplomasi dan pengorbanan. Ini memberi makna mendalam pada setiap peringatan 17 Agustus.\nKenapa opsi lain salah: B langsung dibantah oleh fakta agresi militer Belanda 1947 dan 1948; C berlawanan dengan fakta agresi militer; D bertentangan dengan kenyataan Linggarjati dan Renville yang merugikan RI.\nJawaban akhir: **Kemerdekaan 1945 baru diakui penuh pada 1949 — butuh 4 tahun perjuangan militer dan diplomasi yang berat**.",
+    "content": {
+      "question": "Perhatikan tabel kronologi perjuangan kemerdekaan Indonesia:\n\n| Tahun | Peristiwa |\n|---|---|\n| Agustus 1945 | Proklamasi Kemerdekaan — Indonesia menyatakan diri merdeka |\n| 1946 | Perjanjian Linggarjati: Belanda mengakui RI secara de facto hanya atas Jawa, Madura, dan Sumatra |\n| Juli 1947 | Agresi Militer Belanda I: Belanda menyerang wilayah RI |\n| Januari 1948 | Perjanjian Renville: RI terpaksa menyerahkan lebih banyak wilayah kepada Belanda |\n| Desember 1948 | Agresi Militer Belanda II: Belanda merebut Yogyakarta, menangkap Soekarno dan Hatta |\n| 1949 | Konferensi Meja Bundar (KMB): Belanda akhirnya mengakui kedaulatan penuh RI |\n\nBerdasarkan kronologi, kesimpulan yang **paling tepat** tentang proses pengakuan kemerdekaan Indonesia adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel kronologi perjuangan kemerdekaan Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Peristiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Agustus 1945"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Proklamasi Kemerdekaan — Indonesia menyatakan diri merdeka"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1946"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Perjanjian Linggarjati: Belanda mengakui RI secara de facto hanya atas Jawa, Madura, dan Sumatra"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Juli 1947"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Agresi Militer Belanda I: Belanda menyerang wilayah RI"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Januari 1948"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Perjanjian Renville: RI terpaksa menyerahkan lebih banyak wilayah kepada Belanda"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Desember 1948"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Agresi Militer Belanda II: Belanda merebut Yogyakarta, menangkap Soekarno dan Hatta"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1949"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Konferensi Meja Bundar (KMB): Belanda akhirnya mengakui kedaulatan penuh RI"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan kronologi, kesimpulan yang paling tepat tentang proses pengakuan kemerdekaan Indonesia adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Indonesia langsung diakui oleh seluruh dunia sejak hari Proklamasi 17 Agustus 1945",
+        "Belanda dengan sukarela menyerahkan kemerdekaan kepada Indonesia karena merasa bertanggung jawab atas penjajahan yang panjang, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+        "Meski diproklamasikan pada Agustus 1945, pengakuan kedaulatan penuh baru diperoleh pada 1949 setelah perjuangan diplomatik dan militer selama 4 tahun — menunjukkan kemerdekaan bukan sekadar proklamasi, tetapi harus dipertahankan",
+        "Semua perjanjian antara Indonesia dan Belanda (Linggarjati, Renville, KMB) selalu menguntungkan dan adil bagi kedua pihak"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Indonesia langsung diakui oleh seluruh dunia sejak hari Proklamasi 17 Agustus 1945"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Belanda dengan sukarela menyerahkan kemerdekaan kepada Indonesia karena merasa bertanggung jawab atas penjajahan yang panjang, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Meski diproklamasikan pada Agustus 1945, pengakuan kedaulatan penuh baru diperoleh pada 1949 setelah perjuangan diplomatik dan militer selama 4 tahun — menunjukkan kemerdekaan bukan sekadar proklamasi, tetapi harus dipertahankan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semua perjanjian antara Indonesia dan Belanda (Linggarjati, Renville, KMB) selalu menguntungkan dan adil bagi kedua pihak"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Baca tabel secara menyeluruh. Ada jarak 4 tahun antara proklamasi (1945) dan pengakuan kedaulatan penuh (1949). Di antaranya terjadi: dua perjanjian yang menguntungkan Belanda (Linggarjati, Renville) dan dua agresi militer (serangan Belanda ke wilayah RI).\nLangkah 2: Apa yang menyebabkan Belanda akhirnya mau mengakui kedaulatan RI pada 1949? Tiga faktor besar:\n- **Perlawanan militer RI** yang terus berlanjut meski ibu kota (Yogyakarta) diduduki — Serangan Umum 1 Maret 1949 membuktikan RI tidak menyerah.\n- **Tekanan internasional**, terutama dari Amerika Serikat yang mengancam menghentikan bantuan Marshall Plan ke Belanda jika agresi militer tidak dihentikan.\n- **Resolusi Dewan Keamanan PBB** yang mendesak Belanda menarik diri.\nLangkah 3: Kesimpulan: kemerdekaan tidak otomatis diakui hanya dengan proklamasi — butuh perjuangan panjang secara militer dan diplomasi. Ini adalah makna pilihan A.\nLangkah 4: Jebakan pilihan B: tidak benar — banyak negara (termasuk sebagian besar Eropa) belum mengakui RI secara formal segera pada 1945. Pengakuan datang bertahap.\nLangkah 5: Jebakan pilihan C: Agresi Militer I dan II justru membuktikan Belanda tidak sukarela menyerahkan kemerdekaan — mereka menyerang RI dua kali setelah proklamasi.\nLangkah 6: Jebakan pilihan D: Perjanjian Linggarjati dan Renville merugikan RI (RI dipaksa menyerahkan wilayah) sebelum akhirnya KMB lebih adil.\n\n**Materi terkait:**\n- **Perjanjian Linggarjati** (1947): Belanda hanya mengakui RI atas Jawa, Madura, dan Sumatra (bukan seluruh bekas Hindia Belanda). Bagi Indonesia ini merugikan, tapi merupakan pengakuan de facto pertama.\n- **Perjanjian Renville** (1948): lebih merugikan RI — batas 'Garis van Mook' semakin mengecilkan wilayah RI. Perjanjian ini ditentang keras oleh banyak pihak di Indonesia.\n- **Serangan Umum 1 Maret 1949**: operasi TNI merebut kembali Yogyakarta selama 6 jam sebagai bukti kepada dunia bahwa RI masih eksis dan mampu berjuang, menghasilkan tekanan diplomatik yang akhirnya memaksa KMB.\n- **KMB (Konferensi Meja Bundar)**: berlangsung di Den Haag, Belanda, menghasilkan pengakuan kedaulatan pada 27 Desember 1949.\n\nInsight kunci: Sejarah kemerdekaan Indonesia mengajarkan bahwa **kemerdekaan sejati bukan hanya deklarasi, melainkan proses perjuangan yang panjang**. Proklamasi adalah pernyataan, tetapi kedaulatan harus dimenangkan melalui diplomasi dan pengorbanan. Ini memberi makna mendalam pada setiap peringatan 17 Agustus.\nKenapa opsi lain salah: B langsung dibantah oleh fakta agresi militer Belanda 1947 dan 1948; C berlawanan dengan fakta agresi militer; D bertentangan dengan kenyataan Linggarjati dan Renville yang merugikan RI.\nJawaban akhir: **Kemerdekaan 1945 baru diakui penuh pada 1949 — butuh 4 tahun perjuangan militer dan diplomasi yang berat**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca tabel secara menyeluruh. Ada jarak 4 tahun antara proklamasi (1945) dan pengakuan kedaulatan penuh (1949). Di antaranya terjadi: dua perjanjian yang menguntungkan Belanda (Linggarjati, Renville) dan dua agresi militer (serangan Belanda ke wilayah RI).\nLangkah 2: Apa yang menyebabkan Belanda akhirnya mau mengakui kedaulatan RI pada 1949? Tiga faktor besar:\n- Perlawanan militer RI yang terus berlanjut meski ibu kota (Yogyakarta) diduduki — Serangan Umum 1 Maret 1949 membuktikan RI tidak menyerah.\n- Tekanan internasional, terutama dari Amerika Serikat yang mengancam menghentikan bantuan Marshall Plan ke Belanda jika agresi militer tidak dihentikan.\n- Resolusi Dewan Keamanan PBB yang mendesak Belanda menarik diri.\nLangkah 3: Kesimpulan: kemerdekaan tidak otomatis diakui hanya dengan proklamasi — butuh perjuangan panjang secara militer dan diplomasi. Ini adalah makna pilihan A.\nLangkah 4: Jebakan pilihan B: tidak benar — banyak negara (termasuk sebagian besar Eropa) belum mengakui RI secara formal segera pada 1945. Pengakuan datang bertahap.\nLangkah 5: Jebakan pilihan C: Agresi Militer I dan II justru membuktikan Belanda tidak sukarela menyerahkan kemerdekaan — mereka menyerang RI dua kali setelah proklamasi.\nLangkah 6: Jebakan pilihan D: Perjanjian Linggarjati dan Renville merugikan RI (RI dipaksa menyerahkan wilayah) sebelum akhirnya KMB lebih adil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Perjanjian Linggarjati (1947): Belanda hanya mengakui RI atas Jawa, Madura, dan Sumatra (bukan seluruh bekas Hindia Belanda). Bagi Indonesia ini merugikan, tapi merupakan pengakuan de facto pertama.\n- Perjanjian Renville (1948): lebih merugikan RI — batas 'Garis van Mook' semakin mengecilkan wilayah RI. Perjanjian ini ditentang keras oleh banyak pihak di Indonesia.\n- Serangan Umum 1 Maret 1949: operasi TNI merebut kembali Yogyakarta selama 6 jam sebagai bukti kepada dunia bahwa RI masih eksis dan mampu berjuang, menghasilkan tekanan diplomatik yang akhirnya memaksa KMB.\n- KMB (Konferensi Meja Bundar): berlangsung di Den Haag, Belanda, menghasilkan pengakuan kedaulatan pada 27 Desember 1949."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Sejarah kemerdekaan Indonesia mengajarkan bahwa kemerdekaan sejati bukan hanya deklarasi, melainkan proses perjuangan yang panjang. Proklamasi adalah pernyataan, tetapi kedaulatan harus dimenangkan melalui diplomasi dan pengorbanan. Ini memberi makna mendalam pada setiap peringatan 17 Agustus.\nKenapa opsi lain salah: B langsung dibantah oleh fakta agresi militer Belanda 1947 dan 1948; C berlawanan dengan fakta agresi militer; D bertentangan dengan kenyataan Linggarjati dan Renville yang merugikan RI.\nJawaban akhir: Kemerdekaan 1945 baru diakui penuh pada 1949 — butuh 4 tahun perjuangan militer dan diplomasi yang berat."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Sebelum ada uang, manusia menggunakan sistem **barter** — menukar barang langsung dengan barang lain. Contoh: petani menukar 5 kg beras dengan 1 meter kain milik penenun. Namun sistem barter sulit karena petani harus menemukan penenun yang *kebetulan* sedang butuh beras — tidak mudah!\n\nDi antara fungsi uang berikut ini, fungsi yang paling menjelaskan mengapa uang **jauh lebih praktis** dibanding sistem barter adalah ...",
+    "options": [
+      "Uang sebagai alat penyimpan kekayaan jangka panjang",
+      "Uang sebagai standar pembayaran yang ditangguhkan",
+      "Uang sebagai alat tukar yang diterima semua pihak sehingga tidak perlu mencari orang yang ingin ditukar barangnya secara langsung",
+      "Uang sebagai satuan hitung untuk mengukur nilai semua jenis barang dengan standar yang sama, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Ingat masalah utama barter: harus menemukan pihak yang tepat secara bersamaan — petani butuh kain dan penenun butuh beras secara bersamaan. Ini disebut 'double coincidence of wants' yang sangat sulit dipenuhi.\nLangkah 2: Uang menyelesaikan masalah ini melalui fungsinya sebagai **alat tukar** (*medium of exchange*): uang diterima oleh semua pihak dalam transaksi. Petani tidak perlu mencari penenun yang kebetulan butuh beras — cukup jual beras ke siapapun, dapat uang, lalu beli kain dari penenun manapun.\nLangkah 3: Ini adalah fungsi paling fundamental uang yang membedakannya dari barter. Tanpa fungsi alat tukar, uang tidak berfungsi.\nLangkah 4: Bedakan tiga fungsi uang:\n- **Alat tukar** (C): mengganti barter, menghilangkan masalah double coincidence of wants → ini yang paling relevan untuk pertanyaan\n- **Alat penyimpan nilai** (A): uang bisa disimpan dan digunakan nanti\n- **Satuan hitung** (D): uang memudahkan membandingkan nilai berbagai barang (1 kg beras = Rp10.000, 1 m kain = Rp50.000)\n- **Standar pembayaran tertangguh** (B): uang memungkinkan hutang-piutang (bayar nanti)\n\n**Materi terkait:**\n- **Sejarah uang**: manusia pernah menggunakan berbagai benda sebagai uang — kerang, garam, logam mulia (emas, perak). 'Uang garam' inilah asal kata bahasa Inggris *salary* (dari Latin *salarium* = garam).\n- **Syarat benda jadi uang**: diterima umum, nilai stabil, mudah dibawa, tahan lama, dapat dibagi (pecahan), jumlah terbatas. Uang kertas dan logam modern memenuhi semua syarat ini.\n- **Uang digital** (e-wallet, QRIS): bentuk uang paling baru yang semakin menggantikan uang fisik. Prinsipnya sama — alat tukar yang diterima semua pihak — hanya medianya yang berubah dari kertas/logam menjadi data digital.\n\nInsight kunci: Fungsi uang sebagai **alat tukar** adalah inovasi terpenting dalam sejarah ekonomi manusia. Tanpanya, perdagangan hanya mungkin terjadi dalam skala kecil di komunitas yang saling kenal. Dengan uang, pasar bisa tumbuh tanpa batas.\nJawaban akhir: **Uang sebagai alat tukar yang diterima semua pihak — menghilangkan keharusan mencari pasangan tukar yang kebetulan cocok**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Bu Ratna memiliki usaha keripik singkong rumahan. Ia memproduksi 50 bungkus per hari dan menjualnya di warung-warung sekitar dengan harga Rp5.000 per bungkus. Suatu hari, sebuah supermarket besar tertarik memesan 500 bungkus per hari dengan harga Rp4.500 per bungkus. Namun supermarket mensyaratkan: merek dagang terdaftar, label komposisi dan gizi resmi, izin edar dari BPOM (Badan Pengawas Obat dan Makanan), dan kemasan standar yang seragam. Bu Ratna belum memiliki satupun dari persyaratan tersebut.\"*\n\nHambatan **utama** yang menghalangi Bu Ratna mengembangkan usahanya adalah ...",
+    "options": [
+      "Harga yang ditawarkan supermarket (Rp4.500) lebih rendah dari harga warung (Rp5.000), sehingga Bu Ratna pasti merugi jika menerima pesanan tersebut, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat",
+      "Bu Ratna tidak memiliki bahan baku singkong yang cukup untuk memenuhi pesanan 10 kali lipat dari kapasitas saat ini",
+      "Supermarket tidak mau membeli produk UMKM dan selalu lebih memilih produk dari perusahaan besar dan ternama",
+      "Bu Ratna belum memiliki legalitas usaha dan sertifikasi produk yang disyaratkan — hambatan regulasi dan kapasitas yang sering menjadi penghalang bagi UMKM untuk naik kelas ke pasar yang lebih besar"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca persyaratan supermarket yang disebutkan teks: merek terdaftar, label gizi resmi, izin BPOM, dan kemasan standar. Bu Ratna 'belum memiliki satupun dari persyaratan tersebut'. Hambatan utama dengan demikian adalah ketiadaan persyaratan legal dan standar ini.\nLangkah 2: Mengapa supermarket mensyaratkan ini? Supermarket bertanggung jawab atas keamanan produk yang dijualnya. Izin BPOM menjamin produk aman dikonsumsi. Label gizi memberikan informasi kepada konsumen. Ini adalah standar perlindungan konsumen yang wajar dan diperlukan.\nLangkah 3: Apakah hambatan ini bisa diatasi? Ya — Bu Ratna bisa secara bertahap: (1) daftarkan merek dagang, (2) urus izin PIRT (Pangan Industri Rumah Tangga) atau BPOM, (3) desain kemasan standar, (4) buat label gizi. Ini membutuhkan waktu dan biaya, tetapi bisa dilakukan — biasanya dibantu pemerintah atau lembaga keuangan.\nLangkah 4: Jebakan pilihan A: meski harga turun dari Rp5.000 ke Rp4.500 (turun 10%), volume naik dari 50 ke 500 bungkus (naik 10 kali). Total pendapatan: 500 × Rp4.500 = Rp2.250.000/hari vs. 50 × Rp5.000 = Rp250.000/hari. Bu Ratna justru bisa mendapat pendapatan 9 kali lebih besar!\nLangkah 5: Jebakan pilihan C: justru supermarket sangat aktif mencari produk UMKM lokal yang menarik — terbukti dengan ketertarikan supermarket dalam skenario ini.\n\n**Materi terkait:**\n- **UMKM** (Usaha Mikro, Kecil, dan Menengah) menyumbang sekitar 60% PDB Indonesia dan menyerap 97% tenaga kerja — tulang punggung ekonomi Indonesia. Namun banyak yang kesulitan naik kelas karena hambatan legalitas dan kapasitas.\n- **Izin BPOM vs PIRT**: untuk usaha rumahan kecil, izin cukup dengan PIRT (lebih mudah dan murah). Izin BPOM penuh diperlukan untuk produk yang ingin beredar lebih luas. Ini adalah tangga bertahap yang bisa dilalui UMKM.\n- **Program pemerintah untuk UMKM**: KUR (Kredit Usaha Rakyat), program sertifikasi halal gratis, pendampingan BPOM untuk UMKM pangan, dan program inkubator bisnis di berbagai kota.\n- **Online vs. offline**: banyak UMKM yang berhasil naik kelas justru melalui e-commerce dulu (Tokopedia, Shopee) yang persyaratannya lebih sederhana, lalu beralih ke supermarket setelah memiliki semua legalitas.\n\nInsight kunci: **Hambatan regulasi adalah hambatan yang bisa diatasi** — berbeda dari hambatan seperti kekurangan bahan baku atau tidak ada permintaan. Dengan pendampingan yang tepat, Bu Ratna bisa memenuhi semua persyaratan dan melipatgandakan penghasilannya. Ini mengajarkan pentingnya memahami 'aturan main' pasar sebelum bisa bermain di level yang lebih tinggi.\nKenapa opsi lain salah: A salah karena total pendapatan justru jauh lebih tinggi; B tidak disebutkan dalam skenario; C berlawanan dengan fakta skenario (supermarket justru tertarik).\nJawaban akhir: **Ketiadaan legalitas usaha dan sertifikasi produk — hambatan regulasi yang sering menghalangi UMKM naik kelas**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Permintaan & penawaran",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Sejak platform belanja online (e-commerce) populer di Indonesia, pola belanja masyarakat berubah besar. Pengrajin tas kulit dari Garut yang dulu hanya menjual di pasar lokal, kini bisa mendapat pesanan dari seluruh Indonesia bahkan luar negeri melalui marketplace. Di sisi lain, beberapa toko pakaian fisik di pusat perbelanjaan besar mengalami penurunan pengunjung hingga 40% karena konsumen beralih berbelanja secara online.\"*\n\nDampak e-commerce yang paling tepat menggambarkan perubahan **pola permintaan** dalam ekonomi adalah ...",
+    "options": [
+      "E-commerce memperluas jangkauan pasar bagi penjual kecil ke seluruh Indonesia, sekaligus menggeser permintaan dari toko fisik ke platform online — menciptakan peluang bagi sebagian pihak dan tantangan bagi pihak lain",
+      "E-commerce tidak mengubah pola permintaan; hanya mengubah cara barang dikirim dari penjual ke pembeli",
+      "E-commerce hanya menguntungkan pembeli karena harga lebih murah; semua penjual pasti mengalami kerugian akibat persaingan yang semakin ketat, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat",
+      "E-commerce tidak berdampak pada UMKM karena platform digital hanya bisa digunakan oleh perusahaan besar yang memiliki tim IT khusus"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Dari skenario, identifikasi dua dampak yang berlawanan: (1) pengrajin Garut mendapat pasar lebih luas dan pesanan dari seluruh Indonesia (dampak positif pada penjual kecil), dan (2) toko fisik kehilangan 40% pengunjung (dampak negatif pada toko konvensional).\nLangkah 2: Apa yang berubah dalam hal permintaan? Permintaan tidak hilang — konsumen tetap membeli pakaian, tas, dan barang lainnya. Yang berubah adalah **saluran di mana permintaan itu dipenuhi**: bergeser dari toko fisik ke platform online. Ini disebut **pergeseran saluran permintaan** (*channel shift*).\nLangkah 3: Dampak pada UMKM: E-commerce memungkinkan UMKM menjangkau konsumen yang jauh secara geografis — tanpa perlu toko fisik yang mahal. Ini adalah **demokratisasi akses pasar** yang sangat penting.\nLangkah 4: Dampak pada toko fisik: mereka menghadapi tekanan untuk beradaptasi — menawarkan pengalaman yang tidak bisa didapat secara online (coba produk langsung, konsultasi, dsb.) atau ikut masuk ke platform online.\nLangkah 5: Jebakan pilihan A: e-commerce jelas mengubah pola permintaan (di mana dan bagaimana orang membeli) — tidak hanya cara pengiriman.\nLangkah 6: Jebakan pilihan C: skenario membuktikan pengrajin Garut justru diuntungkan — tidak semua penjual merugi.\n\n**Materi terkait:**\n- **E-commerce di Indonesia**: Indonesia adalah salah satu pasar e-commerce terbesar di Asia Tenggara. Platform besar: Tokopedia, Shopee, Lazada, Bukalapak. Nilai transaksi e-commerce Indonesia mencapai ratusan triliun rupiah per tahun.\n- **Pergeseran digital** (*digital disruption*): ketika teknologi baru mengubah cara industri bekerja secara fundamental. Taksi konvensional vs. ojek online adalah contoh lain yang serupa.\n- **Omnichannel**: strategi bisnis modern yang menggabungkan toko fisik dan online — konsumen bisa lihat di toko, pesan online, atau sebaliknya. Ini adalah cara adaptasi toko fisik menghadapi e-commerce.\n- **Biaya logistik**: hambatan utama e-commerce di Indonesia adalah ongkos kirim yang tinggi ke daerah terpencil. Perbaikan infrastruktur logistik sangat penting untuk meratakan manfaat e-commerce.\n\nInsight kunci: E-commerce tidak menciptakan atau menghilangkan permintaan — ia **memindahkan** permintaan ke saluran baru. Yang 'menang' adalah mereka yang berhasil berada di saluran baru ini; yang 'kalah' adalah mereka yang tidak berhasil beradaptasi. Ini adalah pola perubahan ekonomi yang berulang sepanjang sejarah — selalu ada yang memanfaatkan perubahan dan ada yang tertinggal.\nKenapa opsi lain salah: A meremehkan dampak besar pada pola permintaan; C terlalu mutlak dan bertentangan dengan contoh pengrajin Garut; D salah karena UMKM justru adalah pengguna paling aktif marketplace.\nJawaban akhir: **Permintaan bergeser dari toko fisik ke platform online — menguntungkan UMKM yang memanfaatkannya, menantang toko fisik yang tidak beradaptasi**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Ekonomi",
+    "subtopic": "Peran konsumen & produsen",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Di Kecamatan Terpencil, hanya ada satu toko bahan bangunan — milik Pak Budi. Warga yang ingin membangun atau merenovasi rumah tidak punya pilihan lain selain membeli dari toko Pak Budi. Toko terdekat ada di kota, berjarak 4 jam perjalanan. Pak Budi menjual semen dengan harga 40% di atas harga kota. Warga mengeluh keras, tetapi tidak bisa berbuat banyak. Beberapa warga ingin mendirikan toko saingan, tetapi Pak Budi sudah punya perjanjian eksklusif dengan distributor utama — tidak ada yang bisa memesan dari distributor yang sama.\"*\n\nSituasi ekonomi yang dialami warga Kecamatan Terpencil paling tepat digambarkan sebagai ...",
+    "options": [
+      "Inflasi, karena harga semen di kecamatan itu 40% lebih tinggi dari harga rata-rata di kota",
+      "Monopoli — Pak Budi menguasai pasar sepenuhnya tanpa pesaing, memungkinkannya menetapkan harga jauh di atas harga wajar karena warga tidak punya pilihan lain, dan hambatan masuk (perjanjian eksklusif distributor) mencegah munculnya pesaing",
+      "Koperasi, karena seharusnya warga membentuk koperasi bersama untuk membeli langsung dari distributor dan menghindari harga tinggi Pak Budi",
+      "Hukum permintaan-penawaran yang normal, karena lokasi terpencil memang secara alami membuat harga lebih tinggi dan itu adalah hal yang wajar, sehingga keputusan ekonomi dianggap tidak perlu mempertimbangkan prioritas, risiko, dan keterbatasan sumber daya"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi ciri-ciri kondisi Pak Budi: (1) satu-satunya penjual di wilayah itu, (2) tidak ada pesaing, (3) warga tidak punya pilihan lain, (4) harga jauh di atas wajar, (5) ada hambatan masuk pasar (perjanjian eksklusif distributor yang mencegah pesaing).\nLangkah 2: Ini adalah definisi **monopoli**: kondisi di mana hanya ada satu penjual untuk suatu produk atau layanan dalam suatu pasar, tanpa pesaing, dan dengan hambatan masuk yang mencegah kompetitor baru.\nLangkah 3: Dua elemen monopoli dalam skenario:\n- **Kekuatan harga** (*pricing power*): Pak Budi bisa menetapkan harga 40% lebih tinggi karena warga tidak punya pilihan. Dalam pasar kompetitif, ini tidak mungkin — pesaing akan masuk dan menawarkan harga lebih murah.\n- **Hambatan masuk** (*barrier to entry*): perjanjian eksklusif dengan distributor mencegah pesaing mendapatkan pasokan. Ini adalah praktik anti-persaingan yang nyata.\nLangkah 4: Jebakan pilihan B: inflasi adalah kenaikan harga umum di seluruh ekonomi akibat faktor makroekonomi (bukan karena satu pedagang menetapkan harga tinggi). Harga semen 40% lebih mahal karena monopoli, bukan inflasi.\nLangkah 5: Jebakan pilihan D: ada kebenaran bahwa lokasi terpencil memang menambah biaya pengiriman. Namun perjanjian eksklusif dengan distributor yang mencegah kompetisi adalah praktik anti-persaingan yang melampaui faktor geografis alami. Ini bukan sekadar 'biaya logistik' — ini manipulasi pasar.\nLangkah 6: Pilihan C (koperasi) adalah solusi yang baik, tetapi bukan nama untuk situasi yang sedang terjadi — pertanyaan bertanya tentang gambaran situasi ekonominya, bukan solusinya.\n\n**Materi terkait:**\n- **Monopoli** dalam hukum persaingan usaha: diatur dalam UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat. Komisi Pengawas Persaingan Usaha (KPPU) bertugas menindak praktik monopoli.\n- **Dampak monopoli bagi konsumen**: harga lebih tinggi, kualitas produk bisa lebih rendah (tidak ada tekanan bersaing), inovasi terhambat, konsumen tidak punya pilihan.\n- **Oligopoli**: kondisi di mana hanya ada beberapa penjual besar yang menguasai pasar. Antara monopoli dan persaingan sempurna.\n- **Hambatan masuk** (*barriers to entry*): lisensi eksklusif, paten, skala ekonomi yang besar, kontrol atas sumber daya kunci — semua ini bisa menciptakan atau mempertahankan monopoli.\n\nInsight kunci: Monopoli adalah masalah serius karena ia **menghilangkan mekanisme pasar yang seharusnya melindungi konsumen** melalui persaingan. Ketika tidak ada pesaing, tidak ada insentif untuk memberikan harga yang adil atau layanan yang baik. Inilah alasan mengapa hukum anti-monopoli penting dalam ekonomi pasar yang sehat.\nKenapa opsi lain salah: B salah karena inflasi adalah fenomena makroekonomi yang berbeda; C adalah saran solusi, bukan gambaran kondisi; D mengabaikan elemen perjanjian eksklusif yang aktif mencegah persaingan.\nJawaban akhir: **Monopoli — satu penjual tanpa pesaing dengan hambatan masuk yang mencegah kompetisi, sehingga bisa menetapkan harga semena-mena**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Setiap warga negara yang berpenghasilan di atas batas tertentu wajib membayar Pajak Penghasilan (PPh). Setiap kali membeli barang di toko, konsumen juga membayar Pajak Pertambahan Nilai (PPN) 11% yang sudah termasuk dalam harga. Uang pajak yang terkumpul digunakan pemerintah untuk: membangun jalan raya dan jembatan, membayar gaji guru PNS dan dokter puskesmas, menyediakan beasiswa bagi siswa kurang mampu, dan menjalankan berbagai layanan publik lainnya.\"*\n\nKesimpulan yang paling tepat tentang fungsi **pajak** dalam kehidupan masyarakat adalah ...",
+    "options": [
+      "Pajak adalah hukuman finansial yang dikenakan pemerintah khusus kepada warga yang memiliki penghasilan di atas rata-rata",
+      "Pajak hanya menguntungkan pemerintah dan para pejabat negara; tidak ada manfaatnya yang bisa dirasakan oleh rakyat biasa",
+      "Pajak hanya wajib dibayar oleh orang yang sangat kaya; orang yang berpenghasilan menengah ke bawah bebas dari semua jenis pajak, karena harga, biaya, kebutuhan, dan kelangkaan dianggap selalu bergerak sama pada semua keadaan",
+      "Pajak adalah kontribusi wajib warga negara yang dikumpulkan pemerintah untuk membiayai layanan publik dan pembangunan yang dinikmati oleh seluruh lapisan masyarakat"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Dari teks, identifikasi dua hal: (1) siapa yang membayar pajak — semua pembeli barang (PPN), dan yang berpenghasilan di atas batas (PPh); (2) untuk apa pajak digunakan — jalan, gaji guru, gaji dokter puskesmas, beasiswa. Semua penggunaan ini adalah layanan yang dinikmati masyarakat.\nLangkah 2: Definisi pajak yang paling tepat: kontribusi wajib warga negara → dikumpulkan pemerintah → digunakan untuk layanan publik dan pembangunan. Kata kunci: 'kontribusi wajib', bukan hukuman; 'untuk layanan publik', bukan keuntungan pejabat saja.\nLangkah 3: Hubungkan dengan manfaat nyata yang disebutkan: jalan raya digunakan semua orang; guru dan dokter puskesmas melayani masyarakat luas (terutama menengah ke bawah); beasiswa untuk siswa kurang mampu. Ini adalah bukti pajak bermanfaat bagi rakyat biasa.\nLangkah 4: Jebakan pilihan B: skenario secara eksplisit menyebut pajak digunakan untuk gaji guru dan dokter puskesmas, serta beasiswa — manfaat yang langsung dirasakan rakyat biasa. Pilihan B terbantah langsung oleh teks.\nLangkah 5: Jebakan pilihan C: PPN 11% dibayar semua orang setiap kali membeli barang — termasuk yang berpenghasilan rendah saat membeli kebutuhan sehari-hari. Namun PPh memang memiliki ambang batas penghasilan tidak kena pajak (PTKP) untuk melindungi yang berpenghasilan sangat rendah.\n\n**Materi terkait:**\n- **Jenis pajak** di Indonesia: PPh (Pajak Penghasilan), PPN (Pajak Pertambahan Nilai), PBB (Pajak Bumi dan Bangunan), pajak kendaraan bermotor, dll. Masing-masing memiliki aturan berbeda tentang siapa yang membayar dan berapa.\n- **Pajak Penghasilan Tidak Kena Pajak (PTKP)**: penghasilan di bawah sekitar Rp54 juta/tahun (Rp4,5 juta/bulan) tidak dikenai PPh — untuk melindungi kelompok berpenghasilan rendah.\n- **Kepatuhan pajak** (*tax compliance*): salah satu tantangan besar perpajakan Indonesia. Rasio pajak terhadap PDB Indonesia (~10%) masih lebih rendah dari rata-rata negara ASEAN (~15%), menunjukkan masih banyak potensi penerimaan pajak yang belum optimal.\n- **Pajak dan keadilan sosial**: sistem pajak progresif (semakin tinggi penghasilan, semakin tinggi tarif) dirancang untuk mengurangi kesenjangan dengan mendistribusikan ulang kekayaan melalui layanan publik.\n\nInsight kunci: Pajak adalah **perjanjian sosial** antara warga dan negara: warga membayar sebagian penghasilannya, negara menyediakan infrastruktur, keamanan, pendidikan, dan kesehatan untuk semua. Sistem ini hanya bekerja jika semua pihak memenuhi kewajibannya — inilah mengapa kepatuhan pajak adalah tanggung jawab moral, bukan sekadar kewajiban hukum.\nKenapa opsi lain salah: A salah karena pajak bukan hukuman — ada logika manfaat yang jelas; B dibantah oleh fakta penggunaan pajak untuk layanan publik; C salah karena PPN dibayar semua orang.\nJawaban akhir: **Pajak adalah kontribusi wajib untuk membiayai layanan publik dan pembangunan yang dinikmati seluruh masyarakat**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sosiologi",
+    "subtopic": "Interaksi sosial",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Kelas 5B mendapat tugas proyek sains membuat miniatur ekosistem. Mereka bekerja dalam kelompok berisi 5 orang. Kelompok Adi membagi pekerjaan: Adi mencari data di buku, Budi menggambar diagram, Clara menulis laporan, Dewi menyiapkan bahan-bahan, dan Eka mengatur jadwal dan memastikan semua bagian tersambung. Semua mengerjakan tugasnya masing-masing dan saling membantu jika ada yang kesulitan.\n\nBentuk interaksi sosial yang terjadi dalam kelompok Adi ini paling tepat disebut ...",
+    "options": [
+      "Kompetisi — setiap anggota bersaing agar tugasnya dinilai lebih baik dari anggota lain, karena konflik sosial dianggap selesai sendiri tanpa komunikasi, aturan, atau pihak penengah",
+      "Kerja sama (*cooperation*) — setiap orang berkontribusi sesuai kemampuannya untuk mencapai tujuan bersama",
+      "Konflik sosial — pembagian tugas pasti menimbulkan ketidakadilan dan pertentangan",
+      "Akomodasi — anggota kelompok saling menahan diri agar tidak terjadi pertengkaran"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Perhatikan ciri-ciri interaksi dalam kelompok Adi: (1) tugas dibagi sesuai kemampuan, (2) setiap orang mengerjakan bagiannya, (3) saling membantu, (4) ada tujuan bersama (menyelesaikan proyek miniatur ekosistem). Ini adalah ciri khas kerja sama.\nLangkah 2: **Kerja sama** (*cooperation*) adalah bentuk interaksi sosial di mana dua orang atau lebih bekerja bersama untuk mencapai tujuan yang sama dengan cara pembagian peran dan saling mendukung.\nLangkah 3: Bandingkan dengan bentuk lain:\n- **Kompetisi**: saling bersaing untuk memenangkan sesuatu — berlawanan dengan kerja sama.\n- **Konflik**: pertentangan yang tidak diselesaikan — skenario tidak menunjukkan pertentangan.\n- **Akomodasi**: proses penyelesaian konflik — tidak relevan karena tidak ada konflik.\nLangkah 4: Inti kerja sama: *tujuan yang sama* + *pembagian tugas* + *saling mendukung* = efisiensi dan hasil yang lebih baik dari bekerja sendiri-sendiri.\n\n**Materi terkait:**\n- **Bentuk interaksi sosial asosiatif** (membangun keharmonisan): kerja sama, akomodasi, asimilasi, akulturasi.\n- **Bentuk interaksi sosial disosiatif** (memperlemah keharmonisan): persaingan (*competition*), kontravensi (*contravention*), dan konflik (*conflict*).\n- **Manfaat kerja sama dalam kelompok**: pembagian beban kerja (tidak ada yang menanggung segalanya), pemanfaatan keahlian berbeda-beda (Adi lebih suka riset, Budi lebih suka menggambar), dan hasil yang lebih baik dari gabungan kemampuan.\n- **Gotong royong** adalah bentuk kerja sama khas Indonesia yang sudah ada sejak leluhur — serupa dengan prinsip kelompok Adi, tetapi dalam konteks komunitas yang lebih luas.\n\nInsight kunci: Kerja sama yang efektif bukan tentang semua orang mengerjakan hal yang sama — tetapi tentang **setiap orang mengerjakan apa yang paling baik ia lakukan**, saling melengkapi kekurangan satu sama lain. Inilah dasar dari tim yang kuat, baik dalam kelompok belajar maupun dalam organisasi besar.\nJawaban akhir: **Kerja sama — berkontribusi sesuai kemampuan untuk mencapai tujuan bersama**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Norma & nilai sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Perhatikan empat situasi berikut:\n\n1. **Pak Rudi** menerobos antrean di kasir — orang-orang sekitar menatap kesal, tetapi tidak ada polisi yang datang menangkap.\n2. **Pak Dedi** berkendara tanpa helm di jalan raya — ditilang polisi lalu lintas dan didenda Rp250.000 berdasarkan UU No. 22 Tahun 2009.\n3. **Pak Eko** membuang sampah di sungai — didenda Rp500.000 berdasarkan Peraturan Daerah setempat.\n4. **Bu Ayu** makan sambil berdiri di resepsi formal — tamu lain berbisik dan merasa tidak sopan, tetapi tidak ada konsekuensi hukum.\n\nPerbedaan **utama** antara norma hukum dan norma kesopanan berdasarkan keempat situasi tersebut adalah ...",
+    "options": [
+      "Norma hukum hanya berlaku di pengadilan dan kantor polisi, sedangkan norma kesopanan berlaku di semua tempat sehari-hari",
+      "Norma kesopanan selalu lebih penting dari norma hukum karena norma kesopanan lahir dari hati nurani dan perasaan masyarakat",
+      "Norma hukum ditetapkan secara tertulis oleh lembaga berwenang dan pelanggarnya mendapat sanksi tegas (denda atau hukuman resmi), sedangkan norma kesopanan adalah aturan tidak tertulis yang sanksinya berupa teguran sosial atau rasa malu",
+      "Tidak ada perbedaan berarti antara keduanya karena semua norma pada dasarnya hanyalah aturan perilaku yang harus diikuti oleh semua orang, karena tindakan individu dianggap tidak berkaitan dengan tanggung jawab sosial di lingkungan bersama, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Analisis keempat situasi:\n- Pak Dedi (no helm) dan Pak Eko (buang sampah): ada UU/Perda yang tertulis → polisi yang menindak → sanksi berupa denda resmi. Ini = **norma hukum**.\n- Pak Rudi (terobos antrean) dan Bu Ayu (makan berdiri di resepsi): tidak ada undang-undang yang dilanggar → tidak ada polisi yang datang → hanya tatapan kesal atau bisikan. Ini = **norma kesopanan**.\nLangkah 2: Kesimpulan perbedaan: norma hukum = tertulis, ada lembaga penegak (polisi, pengadilan), sanksi tegas dan resmi. Norma kesopanan = tidak tertulis, sanksi berupa tekanan sosial (malu, dikecam, dikucilkan).\nLangkah 3: Jebakan pilihan B: norma hukum tidak hanya berlaku 'di pengadilan' — ia berlaku di mana saja (di jalan, di pasar, di rumah). Pelanggaran bisa terjadi dan ditindak di mana saja.\nLangkah 4: Jebakan pilihan C: tingkat kepentingan norma tidak bisa disimplifikasi dengan klaim salah satu 'selalu lebih penting'. Norma hukum dan kesopanan memiliki peran yang berbeda dan keduanya penting. Membunuh orang (melanggar norma hukum) jelas lebih serius dari makan sambil berdiri (norma kesopanan).\nLangkah 5: Jebakan pilihan D: perbedaan ini sangat nyata dan penting dalam kehidupan bermasyarakat — mengabaikannya berarti tidak memahami sistem norma sosial.\n\n**Materi terkait:**\n- **Klasifikasi norma** berdasarkan kekuatan sanksi:\n  1. *Usage* (cara): kebiasaan ringan, misal cara bersalaman.\n  2. *Folkways* (adat): norma yang cukup kuat, sanksi: dikecam/dikucilkan.\n  3. *Mores* (tata kelakuan): norma lebih kuat, sanksi: pengucilan sosial.\n  4. *Laws* (hukum): paling kuat, sanksi: denda/penjara oleh negara.\n- **Mengapa norma hukum tertulis penting?** Kepastian hukum — semua orang tahu aturannya dan konsekuensinya. Tidak bergantung pada 'selera' individu.\n- **Mengapa norma kesopanan juga penting?** Tidak semua perilaku yang merusak masyarakat bisa diatur dengan undang-undang. Norma kesopanan menjaga kualitas hubungan sosial yang tidak bisa dicapai hanya dengan ancaman hukum.\n\nInsight kunci: Masyarakat yang sehat membutuhkan **keduanya** — hukum untuk mengatur perilaku yang paling merusak, dan norma kesopanan untuk menjaga kualitas hubungan sosial sehari-hari. Orang yang patuh hukum tetapi tidak sopan akan tetap menjadi tetangga yang tidak menyenangkan.\nKenapa opsi lain salah: B mempersempit jangkauan norma hukum secara tidak tepat; C membuat perbandingan yang tidak valid; D mengabaikan perbedaan nyata yang sangat penting.\nJawaban akhir: **Norma hukum = tertulis, sanksi resmi oleh negara; norma kesopanan = tidak tertulis, sanksi berupa tekanan sosial**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Lembaga sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Di Desa Harapan, ada sebuah Puskesmas (Pusat Kesehatan Masyarakat) yang melayani lima desa sekitarnya. Selain mengobati yang sakit, Puskesmas juga rutin: (1) melakukan imunisasi bayi, (2) memantau tumbuh kembang balita dan menangani gizi buruk, (3) memberikan penyuluhan kesehatan ibu dan anak, (4) mengampanyekan cuci tangan dan sanitasi. Dalam 5 tahun terakhir, angka kematian bayi di wilayah itu turun 40% dan kasus gizi buruk berkurang separuhnya.\"*\n\nPeran Puskesmas yang paling mencerminkan fungsinya sebagai **lembaga sosial** adalah ...",
+    "options": [
+      "Puskesmas menjalankan fungsi preventif (mencegah penyakit sebelum terjadi) dan kuratif (mengobati yang sudah sakit) untuk meningkatkan kualitas hidup seluruh masyarakat secara sistematis",
+      "Puskesmas berfungsi sebagai toko obat pemerintah yang menjual obat dengan harga lebih murah dari apotek swasta",
+      "Puskesmas adalah perusahaan milik pemerintah yang bertujuan menghasilkan keuntungan dari layanan kesehatan berbayar",
+      "Puskesmas hanya berfungsi mengobati orang yang sudah sakit dan tidak memiliki fungsi sosial di luar kegiatan pengobatan, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Dari skenario, identifikasi semua aktivitas Puskesmas: mengobati sakit (kuratif) + imunisasi + pantau gizi balita + penyuluhan + promosi cuci tangan (preventif). Ada dua fungsi besar: mengobati dan mencegah.\nLangkah 2: Mengapa ini mencerminkan lembaga sosial? Lembaga sosial adalah sistem yang terorganisasi untuk memenuhi kebutuhan dasar masyarakat. Puskesmas memiliki: (1) struktur (dokter, bidan, perawat, tenaga gizi), (2) aturan (SOP pelayanan, protokol medis), (3) fungsi sosial yang luas (menurunkan angka kematian bayi, memberantas gizi buruk).\nLangkah 3: Fungsi preventif adalah yang paling khas lembaga sosial — bukan hanya menunggu orang datang sakit, tetapi secara aktif mencegah penyakit sebelum terjadi. Ini adalah bentuk pelayanan proaktif untuk kepentingan masyarakat luas, bukan hanya pasien individual.\nLangkah 4: Data hasilnya membuktikan fungsi sosialnya: angka kematian bayi turun 40%, kasus gizi buruk berkurang 50% — dampak yang memengaruhi kualitas hidup seluruh komunitas, bukan hanya individu yang datang berobat.\nLangkah 5: Jebakan pilihan B: Puskesmas adalah lembaga pelayanan publik, bukan perusahaan. Tujuannya bukan mencari keuntungan, melainkan meningkatkan derajat kesehatan masyarakat.\n\n**Materi terkait:**\n- **Lembaga kesehatan** sebagai lembaga sosial: termasuk Puskesmas, rumah sakit, posyandu, klinik, dan BPJS Kesehatan. Semuanya bertujuan memenuhi kebutuhan dasar masyarakat akan kesehatan.\n- **Puskesmas** (*Pusat Kesehatan Masyarakat*): fasilitas kesehatan tingkat pertama milik pemerintah yang ada di setiap kecamatan. Melayani sekitar 30.000 penduduk per Puskesmas.\n- **Konsep promotif-preventif-kuratif-rehabilitatif**: empat pendekatan dalam kesehatan masyarakat. Puskesmas idealnya menjalankan keempatnya, tidak hanya kuratif.\n- **Posyandu**: unit pelayanan kesehatan di tingkat dusun/RW yang merupakan perpanjangan tangan Puskesmas untuk pemantauan gizi balita dan imunisasi — contoh lembaga kesehatan berbasis komunitas.\n\nInsight kunci: Lembaga sosial yang efektif adalah yang **proaktif, bukan reaktif** — tidak hanya menunggu masalah terjadi baru bertindak, tetapi mencegah masalah sebelum muncul. Penurunan 40% angka kematian bayi bukan kebetulan — itu hasil kerja sistematis lembaga yang memenuhi fungsi sosialnya dengan baik.\nKenapa opsi lain salah: A hanya melihat satu fungsi kecil (penjualan obat) dan melewatkan fungsi preventif yang jauh lebih luas; B salah secara faktual — Puskesmas bukan perusahaan profit; D mengabaikan seluruh fungsi preventif yang disebutkan teks.\nJawaban akhir: **Fungsi preventif dan kuratif yang sistematis untuk meningkatkan kualitas hidup seluruh masyarakat**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sosiologi",
+    "subtopic": "Mobilitas sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tiga skenario kehidupan berikut:\n\n- **Sari**: anak seorang petani sederhana. Setelah menikah dengan Rudi (anak pengusaha sukses), kondisi ekonomi Sari berubah drastis — ia kini hidup dalam keluarga kelas atas dengan aset dan jaringan sosial yang luas.\n- **Anton**: anak seorang dokter spesialis. Setelah lulus kedokteran, Anton berpraktik di kota yang sama dengan ayahnya sebagai dokter umum, dengan gaji dan status sosial yang mirip ayahnya.\n- **Dony**: mantan manajer perusahaan teknologi dengan gaji tinggi. Setelah perusahaannya bangkrut di masa pandemi, Dony kehilangan pekerjaan dan kini menjadi pedagang kaki lima dengan penghasilan jauh lebih rendah.\n\nUrutan yang **paling tepat** menggambarkan jenis mobilitas sosial yang dialami ketiga orang tersebut adalah ...",
+    "options": [
+      "Sari (vertikal ke atas melalui pernikahan), Anton (tidak ada mobilitas sosial yang signifikan), Dony (vertikal ke bawah)",
+      "Sari (tidak ada mobilitas), Anton (vertikal ke atas), Dony (vertikal ke bawah), karena konflik sosial dianggap selesai sendiri tanpa komunikasi, aturan, atau pihak penengah",
+      "Sari (horizontal), Anton (vertikal ke atas), Dony (horizontal)",
+      "Sari (vertikal ke bawah), Anton (horizontal), Dony (tidak ada mobilitas)"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Analisis **Sari**. Asal: keluarga petani sederhana (kelas bawah-menengah). Setelah menikah: keluarga kelas atas (kondisi ekonomi berubah drastis, aset dan jaringan luas). Ada perubahan status ke atas yang signifikan melalui ikatan pernikahan. Ini disebut **mobilitas vertikal ke atas melalui pernikahan** (*marriage mobility*).\nLangkah 2: Analisis **Anton**. Ayahnya dokter spesialis, Anton menjadi dokter umum di kota yang sama dengan status sosial 'mirip'. Meski ada perbedaan spesialisasi (spesialis vs. umum), status sosial secara umum tetap di tingkat yang sama atau hanya berbeda kecil. Tidak ada perpindahan lapisan sosial yang signifikan → **tidak ada mobilitas sosial yang berarti** (atau reproduksi sosial).\nLangkah 3: Analisis **Dony**. Dulu manajer dengan gaji tinggi (kelas menengah-atas), sekarang pedagang kaki lima dengan penghasilan jauh lebih rendah (kelas menengah-bawah). Ada perpindahan ke lapisan yang lebih rendah secara signifikan → **mobilitas vertikal ke bawah**.\nLangkah 4: Jebakan pilihan A: klaim Sari 'tidak ada mobilitas' jelas salah — ada perubahan besar dalam kondisi ekonomi, aset, dan jaringan sosial setelah pernikahan.\nLangkah 5: Jebakan pilihan C: Sari bukan 'horizontal' (horizontal = pindah tanpa naik/turun, misal dokter pindah kota). Sari berpindah dari status lebih rendah ke lebih tinggi → vertikal ke atas.\nLangkah 6: Jebakan pilihan D: semuanya terbalik — Sari naik bukan turun; Anton tidak berubah bukan horizontal.\n\n**Materi terkait:**\n- **Mobilitas sosial melalui pernikahan** adalah salah satu saluran mobilitas sosial selain pendidikan, pekerjaan, dan kekayaan. Dalam sosiologi disebut *matrimonial mobility*.\n- **Saluran mobilitas sosial** (*channels of social mobility*): (1) pendidikan — cara paling umum dan meritokratis; (2) karir/pekerjaan — promosi jabatan; (3) pernikahan — bergabung dengan keluarga yang berbeda status; (4) kekayaan — mendapat warisan atau keberuntungan; (5) organisasi sosial-politik.\n- **Mobilitas intragenerasi**: perubahan status dalam satu kehidupan seseorang (Dony: dari manajer ke pedagang kaki lima). Mobilitas intergenerasi: perubahan status dibanding orang tua (Sari: dari anak petani ke keluarga kelas atas).\n- **Mobilitas turun akibat krisis ekonomi**: pandemi 2020 menyebabkan jutaan orang di seluruh dunia mengalami mobilitas vertikal ke bawah — kehilangan pekerjaan formal dan beralih ke sektor informal.\n\nInsight kunci: **Mobilitas sosial bisa terjadi ke atas ATAU ke bawah**, dan melalui berbagai saluran yang berbeda. Tidak ada jaminan permanen di satu lapisan sosial — bahkan orang yang sudah berhasil naik bisa turun lagi akibat krisis, sakit, atau kegagalan bisnis. Ini mengajarkan pentingnya ketangguhan dan persiapan menghadapi perubahan.\nKenapa opsi lain salah: A salah karena Sari jelas mengalami mobilitas ke atas melalui pernikahan; C salah karena Sari tidak horizontal; D membalik semua ketiganya.\nJawaban akhir: **Sari = vertikal ke atas (pernikahan), Anton = tidak ada mobilitas signifikan, Dony = vertikal ke bawah**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Kependudukan",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel data kependudukan dua kabupaten:\n\n| Kabupaten | Angka kelahiran per 1.000 penduduk | Angka kematian per 1.000 penduduk |\n|---|---|---|\n| Makmur Jaya | 28 | 8 |\n| Damai Sejahtera | 15 | 12 |\n\nRumus **pertumbuhan penduduk alami** = Angka Kelahiran − Angka Kematian.\n\nBerdasarkan data dan rumus tersebut, kabupaten mana yang memiliki pertumbuhan penduduk alami **lebih tinggi**, dan berapa nilainya?",
+    "options": [
+      "Damai Sejahtera, dengan pertumbuhan alami 3 per 1.000 penduduk",
+      "Keduanya sama karena total angka kelahiran dan kematian masing-masing berjumlah sama",
+      "Makmur Jaya, dengan pertumbuhan alami 36 per 1.000 penduduk",
+      "Makmur Jaya, dengan pertumbuhan alami 20 per 1.000 penduduk"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Terapkan rumus untuk masing-masing kabupaten:\n- **Makmur Jaya**: 28 − 8 = **20** per 1.000 penduduk\n- **Damai Sejahtera**: 15 − 12 = **3** per 1.000 penduduk\nLangkah 2: Bandingkan: Makmur Jaya (20) > Damai Sejahtera (3). Makmur Jaya memiliki pertumbuhan penduduk alami yang lebih tinggi.\nLangkah 3: Jebakan pilihan C: angka 36 diperoleh dari 28 + 8 = 36 (penjumlahan, bukan pengurangan). Ini salah operasi hitung.\nLangkah 4: Jebakan pilihan A: Damai Sejahtera memang punya pertumbuhan alami = 3, tetapi itu lebih rendah dari Makmur Jaya = 20, bukan lebih tinggi.\nLangkah 5: Pilihan D benar — Makmur Jaya dengan pertumbuhan 20 per 1.000 penduduk.\n\n**Materi terkait:**\n- **Pertumbuhan penduduk alami** hanya memperhitungkan kelahiran dan kematian — belum termasuk migrasi (orang masuk-keluar wilayah). Rumus lengkap pertumbuhan penduduk: (Kelahiran − Kematian) + (Imigrasi − Emigrasi).\n- **Angka kelahiran kasar** (*Crude Birth Rate*): jumlah kelahiran per 1.000 penduduk dalam setahun. Semakin tinggi = semakin banyak bayi lahir relatif terhadap jumlah penduduk.\n- **Angka kematian kasar** (*Crude Death Rate*): jumlah kematian per 1.000 penduduk dalam setahun.\n- **Pertumbuhan penduduk positif vs. negatif**: jika kelahiran > kematian → pertumbuhan positif (penduduk bertambah). Jika kematian > kelahiran → pertumbuhan negatif (populasi menyusut). Beberapa negara Eropa sudah mengalami pertumbuhan negatif.\n- **Dampak pertumbuhan tinggi** (Makmur Jaya, +20): tekanan pada layanan publik, kebutuhan lapangan kerja yang besar, tekanan pada sumber daya alam. **Dampak pertumbuhan rendah** (Damai Sejahtera, +3): populasi stabil, bisa fokus pada kualitas hidup.\n\nInsight kunci: Memahami data demografi adalah keterampilan penting dalam ilmu sosial. Angka kelahiran dan kematian bukan sekadar statistik — mereka mencerminkan kondisi kesehatan, ekonomi, dan budaya suatu masyarakat. Kemampuan **membaca dan menghitung data sederhana** ini adalah dasar dari analisis kebijakan publik.\nJawaban akhir: **Makmur Jaya, dengan pertumbuhan penduduk alami 20 per 1.000 penduduk** (28 − 8 = 20).",
+    "content": {
+      "question": "Perhatikan tabel data kependudukan dua kabupaten:\n\n| Kabupaten | Angka kelahiran per 1.000 penduduk | Angka kematian per 1.000 penduduk |\n|---|---|---|\n| Makmur Jaya | 28 | 8 |\n| Damai Sejahtera | 15 | 12 |\n\nRumus **pertumbuhan penduduk alami** = Angka Kelahiran − Angka Kematian.\n\nBerdasarkan data dan rumus tersebut, kabupaten mana yang memiliki pertumbuhan penduduk alami **lebih tinggi**, dan berapa nilainya?",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel data kependudukan dua kabupaten:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kabupaten"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Angka kelahiran per 1.000 penduduk"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Angka kematian per 1.000 penduduk"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Makmur Jaya"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "28"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Damai Sejahtera"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "12"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Rumus pertumbuhan penduduk alami = Angka Kelahiran − Angka Kematian."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data dan rumus tersebut, kabupaten mana yang memiliki pertumbuhan penduduk alami lebih tinggi, dan berapa nilainya?"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Damai Sejahtera, dengan pertumbuhan alami 3 per 1.000 penduduk",
+        "Keduanya sama karena total angka kelahiran dan kematian masing-masing berjumlah sama",
+        "Makmur Jaya, dengan pertumbuhan alami 36 per 1.000 penduduk",
+        "Makmur Jaya, dengan pertumbuhan alami 20 per 1.000 penduduk"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Damai Sejahtera, dengan pertumbuhan alami 3 per 1.000 penduduk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Keduanya sama karena total angka kelahiran dan kematian masing-masing berjumlah sama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Makmur Jaya, dengan pertumbuhan alami 36 per 1.000 penduduk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Makmur Jaya, dengan pertumbuhan alami 20 per 1.000 penduduk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Terapkan rumus untuk masing-masing kabupaten:\n- **Makmur Jaya**: 28 − 8 = **20** per 1.000 penduduk\n- **Damai Sejahtera**: 15 − 12 = **3** per 1.000 penduduk\nLangkah 2: Bandingkan: Makmur Jaya (20) > Damai Sejahtera (3). Makmur Jaya memiliki pertumbuhan penduduk alami yang lebih tinggi.\nLangkah 3: Jebakan pilihan C: angka 36 diperoleh dari 28 + 8 = 36 (penjumlahan, bukan pengurangan). Ini salah operasi hitung.\nLangkah 4: Jebakan pilihan A: Damai Sejahtera memang punya pertumbuhan alami = 3, tetapi itu lebih rendah dari Makmur Jaya = 20, bukan lebih tinggi.\nLangkah 5: Pilihan D benar — Makmur Jaya dengan pertumbuhan 20 per 1.000 penduduk.\n\n**Materi terkait:**\n- **Pertumbuhan penduduk alami** hanya memperhitungkan kelahiran dan kematian — belum termasuk migrasi (orang masuk-keluar wilayah). Rumus lengkap pertumbuhan penduduk: (Kelahiran − Kematian) + (Imigrasi − Emigrasi).\n- **Angka kelahiran kasar** (*Crude Birth Rate*): jumlah kelahiran per 1.000 penduduk dalam setahun. Semakin tinggi = semakin banyak bayi lahir relatif terhadap jumlah penduduk.\n- **Angka kematian kasar** (*Crude Death Rate*): jumlah kematian per 1.000 penduduk dalam setahun.\n- **Pertumbuhan penduduk positif vs. negatif**: jika kelahiran > kematian → pertumbuhan positif (penduduk bertambah). Jika kematian > kelahiran → pertumbuhan negatif (populasi menyusut). Beberapa negara Eropa sudah mengalami pertumbuhan negatif.\n- **Dampak pertumbuhan tinggi** (Makmur Jaya, +20): tekanan pada layanan publik, kebutuhan lapangan kerja yang besar, tekanan pada sumber daya alam. **Dampak pertumbuhan rendah** (Damai Sejahtera, +3): populasi stabil, bisa fokus pada kualitas hidup.\n\nInsight kunci: Memahami data demografi adalah keterampilan penting dalam ilmu sosial. Angka kelahiran dan kematian bukan sekadar statistik — mereka mencerminkan kondisi kesehatan, ekonomi, dan budaya suatu masyarakat. Kemampuan **membaca dan menghitung data sederhana** ini adalah dasar dari analisis kebijakan publik.\nJawaban akhir: **Makmur Jaya, dengan pertumbuhan penduduk alami 20 per 1.000 penduduk** (28 − 8 = 20).",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Terapkan rumus untuk masing-masing kabupaten:\n- Makmur Jaya: 28 − 8 = 20 per 1.000 penduduk\n- Damai Sejahtera: 15 − 12 = 3 per 1.000 penduduk\nLangkah 2: Bandingkan: Makmur Jaya (20) > Damai Sejahtera (3). Makmur Jaya memiliki pertumbuhan penduduk alami yang lebih tinggi.\nLangkah 3: Jebakan pilihan C: angka 36 diperoleh dari 28 + 8 = 36 (penjumlahan, bukan pengurangan). Ini salah operasi hitung.\nLangkah 4: Jebakan pilihan A: Damai Sejahtera memang punya pertumbuhan alami = 3, tetapi itu lebih rendah dari Makmur Jaya = 20, bukan lebih tinggi.\nLangkah 5: Pilihan D benar — Makmur Jaya dengan pertumbuhan 20 per 1.000 penduduk."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Pertumbuhan penduduk alami hanya memperhitungkan kelahiran dan kematian — belum termasuk migrasi (orang masuk-keluar wilayah). Rumus lengkap pertumbuhan penduduk: (Kelahiran − Kematian) + (Imigrasi − Emigrasi).\n- Angka kelahiran kasar (Crude Birth Rate): jumlah kelahiran per 1.000 penduduk dalam setahun. Semakin tinggi = semakin banyak bayi lahir relatif terhadap jumlah penduduk.\n- Angka kematian kasar (Crude Death Rate): jumlah kematian per 1.000 penduduk dalam setahun.\n- Pertumbuhan penduduk positif vs. negatif: jika kelahiran > kematian → pertumbuhan positif (penduduk bertambah). Jika kematian > kelahiran → pertumbuhan negatif (populasi menyusut). Beberapa negara Eropa sudah mengalami pertumbuhan negatif.\n- Dampak pertumbuhan tinggi (Makmur Jaya, +20): tekanan pada layanan publik, kebutuhan lapangan kerja yang besar, tekanan pada sumber daya alam. Dampak pertumbuhan rendah (Damai Sejahtera, +3): populasi stabil, bisa fokus pada kualitas hidup."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Memahami data demografi adalah keterampilan penting dalam ilmu sosial. Angka kelahiran dan kematian bukan sekadar statistik — mereka mencerminkan kondisi kesehatan, ekonomi, dan budaya suatu masyarakat. Kemampuan membaca dan menghitung data sederhana ini adalah dasar dari analisis kebijakan publik.\nJawaban akhir: Makmur Jaya, dengan pertumbuhan penduduk alami 20 per 1.000 penduduk (28 − 8 = 20)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Grafik sosial ekonomi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel penggunaan internet berdasarkan kelompok usia di Indonesia:\n\n| Kelompok usia | % pengguna internet aktif | Platform yang paling sering digunakan |\n|---|---|---|\n| 10–17 tahun | 87% | TikTok, YouTube, Game online |\n| 18–24 tahun | 93% | Instagram, YouTube, E-commerce |\n| 25–34 tahun | 79% | WhatsApp, E-commerce, Berita online |\n| 35–50 tahun | 52% | WhatsApp, Berita online, Email |\n| 51–65 tahun | 28% | WhatsApp, Berita online |\n| 65+ tahun | 9% | WhatsApp |\n\nBerdasarkan tabel, kesimpulan yang **paling tepat** adalah ...",
+    "options": [
+      "Semua kelompok usia menggunakan internet dengan cara yang sama persis; hanya berbeda intensitas dan frekuensinya, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+      "Penggunaan internet cenderung menurun seiring bertambahnya usia, dan platform yang digunakan bergeser dari hiburan dan media sosial (usia muda) menuju komunikasi dan informasi (usia lebih tua)",
+      "Kelompok lansia (65+) adalah pengguna internet paling aktif karena mereka memiliki lebih banyak waktu luang",
+      "Penggunaan internet tidak dipengaruhi oleh usia, hanya dipengaruhi oleh tingkat pendidikan seseorang"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Baca kolom '% pengguna internet aktif' dari atas ke bawah: 87% → 93% → 79% → 52% → 28% → 9%. Polanya: sempat naik sedikit (18-24 = 93%), kemudian **turun terus** seiring bertambahnya usia.\nLangkah 2: Baca kolom 'platform yang sering digunakan':\n- Usia muda (10-24): TikTok, YouTube, Instagram, Game — dominasi **hiburan dan media sosial**\n- Usia tengah (25-34): E-commerce dan berita mulai masuk — lebih **produktif dan informatif**\n- Usia lebih tua (35+): WhatsApp, berita, email — dominasi **komunikasi dan informasi**\n- Lansia (65+): hanya WhatsApp — sesederhana mungkin\nLangkah 3: Dua pola terbaca: (1) persentase pengguna turun seiring usia (kecuali sedikit naik di 18-24), dan (2) jenis platform bergeser dari hiburan/sosial ke komunikasi/informasi. Ini adalah kesimpulan yang didukung data.\nLangkah 4: Jebakan pilihan C: data menunjukkan 65+ adalah kelompok dengan persentase paling rendah (9%) — justru paling tidak aktif, bukan paling aktif.\nLangkah 5: Jebakan pilihan D: data menunjukkan usia memang berpengaruh (87% vs 9%) — klaim 'tidak dipengaruhi usia' langsung terbantah.\n\n**Materi terkait:**\n- **Kesenjangan digital** (*digital divide*): ketimpangan akses dan kemampuan menggunakan teknologi digital antara generasi tua dan muda, kota dan desa, kaya dan miskin. Data ini mencerminkan salah satu bentuk kesenjangan digital — berdasarkan usia.\n- **Literasi digital lansia**: banyak program pemerintah dan NGO yang berusaha meningkatkan kemampuan digital lansia untuk mencegah isolasi sosial dan membantu mereka tetap terhubung.\n- **Generasi digital native vs. digital immigrant**: generasi yang lahir dan besar bersama teknologi digital (Z, Alpha) disebut *digital native* — teknologi adalah bahasa alami mereka. Generasi sebelumnya (*digital immigrant*) harus mempelajarinya belakangan.\n\nInsight kunci: Data ini menunjukkan bahwa **perilaku digital sangat dipengaruhi oleh generasi** — bukan hanya preferensi pribadi. Ini penting untuk pemasaran, kebijakan pendidikan, dan layanan publik: cara menyampaikan informasi kepada remaja (TikTok) berbeda dari cara menyampaikan kepada lansia (WhatsApp).\nJawaban akhir: **Penggunaan internet menurun seiring usia; platform bergeser dari hiburan/sosial (muda) ke komunikasi/informasi (tua)**.",
+    "content": {
+      "question": "Perhatikan tabel penggunaan internet berdasarkan kelompok usia di Indonesia:\n\n| Kelompok usia | % pengguna internet aktif | Platform yang paling sering digunakan |\n|---|---|---|\n| 10–17 tahun | 87% | TikTok, YouTube, Game online |\n| 18–24 tahun | 93% | Instagram, YouTube, E-commerce |\n| 25–34 tahun | 79% | WhatsApp, E-commerce, Berita online |\n| 35–50 tahun | 52% | WhatsApp, Berita online, Email |\n| 51–65 tahun | 28% | WhatsApp, Berita online |\n| 65+ tahun | 9% | WhatsApp |\n\nBerdasarkan tabel, kesimpulan yang **paling tepat** adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel penggunaan internet berdasarkan kelompok usia di Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok usia"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "% pengguna internet aktif"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Platform yang paling sering digunakan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10–17 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "87%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "TikTok, YouTube, Game online"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "18–24 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "93%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Instagram, YouTube, E-commerce"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "25–34 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "79%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "WhatsApp, E-commerce, Berita online"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "35–50 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "52%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "WhatsApp, Berita online, Email"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "51–65 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "28%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "WhatsApp, Berita online"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "65+ tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "9%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "WhatsApp"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan tabel, kesimpulan yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Semua kelompok usia menggunakan internet dengan cara yang sama persis; hanya berbeda intensitas dan frekuensinya, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+        "Penggunaan internet cenderung menurun seiring bertambahnya usia, dan platform yang digunakan bergeser dari hiburan dan media sosial (usia muda) menuju komunikasi dan informasi (usia lebih tua)",
+        "Kelompok lansia (65+) adalah pengguna internet paling aktif karena mereka memiliki lebih banyak waktu luang",
+        "Penggunaan internet tidak dipengaruhi oleh usia, hanya dipengaruhi oleh tingkat pendidikan seseorang"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semua kelompok usia menggunakan internet dengan cara yang sama persis; hanya berbeda intensitas dan frekuensinya, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Penggunaan internet cenderung menurun seiring bertambahnya usia, dan platform yang digunakan bergeser dari hiburan dan media sosial (usia muda) menuju komunikasi dan informasi (usia lebih tua)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kelompok lansia (65+) adalah pengguna internet paling aktif karena mereka memiliki lebih banyak waktu luang"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Penggunaan internet tidak dipengaruhi oleh usia, hanya dipengaruhi oleh tingkat pendidikan seseorang"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca kolom '% pengguna internet aktif' dari atas ke bawah: 87% → 93% → 79% → 52% → 28% → 9%. Polanya: sempat naik sedikit (18-24 = 93%), kemudian **turun terus** seiring bertambahnya usia.\nLangkah 2: Baca kolom 'platform yang sering digunakan':\n- Usia muda (10-24): TikTok, YouTube, Instagram, Game — dominasi **hiburan dan media sosial**\n- Usia tengah (25-34): E-commerce dan berita mulai masuk — lebih **produktif dan informatif**\n- Usia lebih tua (35+): WhatsApp, berita, email — dominasi **komunikasi dan informasi**\n- Lansia (65+): hanya WhatsApp — sesederhana mungkin\nLangkah 3: Dua pola terbaca: (1) persentase pengguna turun seiring usia (kecuali sedikit naik di 18-24), dan (2) jenis platform bergeser dari hiburan/sosial ke komunikasi/informasi. Ini adalah kesimpulan yang didukung data.\nLangkah 4: Jebakan pilihan C: data menunjukkan 65+ adalah kelompok dengan persentase paling rendah (9%) — justru paling tidak aktif, bukan paling aktif.\nLangkah 5: Jebakan pilihan D: data menunjukkan usia memang berpengaruh (87% vs 9%) — klaim 'tidak dipengaruhi usia' langsung terbantah.\n\n**Materi terkait:**\n- **Kesenjangan digital** (*digital divide*): ketimpangan akses dan kemampuan menggunakan teknologi digital antara generasi tua dan muda, kota dan desa, kaya dan miskin. Data ini mencerminkan salah satu bentuk kesenjangan digital — berdasarkan usia.\n- **Literasi digital lansia**: banyak program pemerintah dan NGO yang berusaha meningkatkan kemampuan digital lansia untuk mencegah isolasi sosial dan membantu mereka tetap terhubung.\n- **Generasi digital native vs. digital immigrant**: generasi yang lahir dan besar bersama teknologi digital (Z, Alpha) disebut *digital native* — teknologi adalah bahasa alami mereka. Generasi sebelumnya (*digital immigrant*) harus mempelajarinya belakangan.\n\nInsight kunci: Data ini menunjukkan bahwa **perilaku digital sangat dipengaruhi oleh generasi** — bukan hanya preferensi pribadi. Ini penting untuk pemasaran, kebijakan pendidikan, dan layanan publik: cara menyampaikan informasi kepada remaja (TikTok) berbeda dari cara menyampaikan kepada lansia (WhatsApp).\nJawaban akhir: **Penggunaan internet menurun seiring usia; platform bergeser dari hiburan/sosial (muda) ke komunikasi/informasi (tua)**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca kolom '% pengguna internet aktif' dari atas ke bawah: 87% → 93% → 79% → 52% → 28% → 9%. Polanya: sempat naik sedikit (18-24 = 93%), kemudian turun terus seiring bertambahnya usia.\nLangkah 2: Baca kolom 'platform yang sering digunakan':\n- Usia muda (10-24): TikTok, YouTube, Instagram, Game — dominasi hiburan dan media sosial\n- Usia tengah (25-34): E-commerce dan berita mulai masuk — lebih produktif dan informatif\n- Usia lebih tua (35+): WhatsApp, berita, email — dominasi komunikasi dan informasi\n- Lansia (65+): hanya WhatsApp — sesederhana mungkin\nLangkah 3: Dua pola terbaca: (1) persentase pengguna turun seiring usia (kecuali sedikit naik di 18-24), dan (2) jenis platform bergeser dari hiburan/sosial ke komunikasi/informasi. Ini adalah kesimpulan yang didukung data.\nLangkah 4: Jebakan pilihan C: data menunjukkan 65+ adalah kelompok dengan persentase paling rendah (9%) — justru paling tidak aktif, bukan paling aktif.\nLangkah 5: Jebakan pilihan D: data menunjukkan usia memang berpengaruh (87% vs 9%) — klaim 'tidak dipengaruhi usia' langsung terbantah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Kesenjangan digital (digital divide): ketimpangan akses dan kemampuan menggunakan teknologi digital antara generasi tua dan muda, kota dan desa, kaya dan miskin. Data ini mencerminkan salah satu bentuk kesenjangan digital — berdasarkan usia.\n- Literasi digital lansia: banyak program pemerintah dan NGO yang berusaha meningkatkan kemampuan digital lansia untuk mencegah isolasi sosial dan membantu mereka tetap terhubung.\n- Generasi digital native vs. digital immigrant: generasi yang lahir dan besar bersama teknologi digital (Z, Alpha) disebut digital native — teknologi adalah bahasa alami mereka. Generasi sebelumnya (digital immigrant) harus mempelajarinya belakangan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data ini menunjukkan bahwa perilaku digital sangat dipengaruhi oleh generasi — bukan hanya preferensi pribadi. Ini penting untuk pemasaran, kebijakan pendidikan, dan layanan publik: cara menyampaikan informasi kepada remaja (TikTok) berbeda dari cara menyampaikan kepada lansia (WhatsApp).\nJawaban akhir: Penggunaan internet menurun seiring usia; platform bergeser dari hiburan/sosial (muda) ke komunikasi/informasi (tua)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Studi kasus",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-d"
+    ],
+    "is_active": true,
+    "question": "Bacalah studi kasus berikut:\n\n*\"Di Desa Nelayan Berjaya, para nelayan mencatat perubahan yang mengkhawatirkan dalam 10 tahun terakhir: (1) musim tangkap ikan menjadi tidak menentu dan sulit diprediksi; (2) badai mendadak lebih sering terjadi; (3) ikan yang biasanya ditangkap di perairan dangkal semakin langka karena terumbu karang rusak akibat suhu laut yang meningkat. Pendapatan rata-rata nelayan turun 35% dibandingkan 10 tahun lalu. Beberapa nelayan muda sudah meninggalkan desa untuk mencari kerja di kota.\"*\n\nLangkah adaptasi yang paling **komprehensif dan berkelanjutan** bagi komunitas nelayan Desa Berjaya menghadapi perubahan ini adalah ...",
+    "options": [
+      "Seluruh nelayan harus segera berhenti menjadi nelayan dan beralih ke profesi pertanian atau perdagangan di darat",
+      "Tidak ada yang bisa dilakukan karena perubahan iklim adalah masalah global yang jauh di luar kemampuan satu desa untuk diatasi",
+      "Menangkap ikan sebanyak-banyaknya sekarang sebelum kondisi semakin memburuk dan ikan benar-benar habis",
+      "Kombinasi adaptasi: belajar membaca pola cuaca baru, mengembangkan budidaya ikan (akuakultur) sebagai cadangan penghasilan, merehabilitasi terumbu karang, dan mendiversifikasi sumber pendapatan agar tidak bergantung sepenuhnya pada tangkap laut"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi tiga masalah utama dari studi kasus: (1) cuaca tidak menentu, (2) ikan langka karena terumbu karang rusak, (3) pendapatan turun dan nelayan muda pergi. Solusi yang baik harus menjawab ketiga masalah sekaligus.\nLangkah 2: Evaluasi pilihan D (jawaban benar):\n- 'Belajar membaca pola cuaca baru' → menjawab masalah cuaca tidak menentu (adaptasi informasi)\n- 'Budidaya ikan (akuakultur)' → menjawab kelangkaan ikan tangkap (diversifikasi sumber produksi)\n- 'Rehabilitasi terumbu karang' → menjawab kerusakan ekosistem yang menyebabkan ikan langka (pemulihan habitat)\n- 'Diversifikasi pendapatan' → menjawab ketergantungan pada satu sumber yang makin tidak pasti (ketangguhan ekonomi)\nIni adalah pendekatan **komprehensif** — menangani semua akar masalah.\nLangkah 3: Evaluasi pilihan A: 'berhenti jadi nelayan' adalah perubahan ekstrem yang menghilangkan identitas dan keahlian komunitas. Selain itu, berpindah ke pertanian atau perdagangan tidak mudah dan tidak tentu berhasil. Ini bukan solusi adaptif, ini pelarian.\nLangkah 4: Evaluasi pilihan B: 'tidak ada yang bisa dilakukan' adalah sikap pasif yang tidak membantu. Meski perubahan iklim adalah masalah global, banyak tindakan lokal yang bisa dilakukan untuk mengurangi dampak dan meningkatkan ketangguhan.\nLangkah 5: Evaluasi pilihan C: menangkap ikan berlebihan justru akan mempercepat kepunahan ikan — ini memperparah masalah, bukan menyelesaikannya. Ini adalah 'tragedy of the commons' — mengeksploitasi sumber daya bersama secara berlebihan hingga habis.\n\n**Materi terkait:**\n- **Perubahan iklim dan perikanan**: suhu laut meningkat menyebabkan coral bleaching (pemutihan karang) yang merusak ekosistem terumbu karang — habitat dan tempat bertelur banyak jenis ikan. Ini mengancam kehidupan sekitar 500 juta orang yang bergantung pada ikan sebagai sumber protein dan penghasilan.\n- **Akuakultur** (budidaya perairan): pembesaran ikan, udang, atau rumput laut secara terkontrol. Indonesia adalah produsen akuakultur terbesar ke-2 di dunia. Ini bisa menjadi pelengkap yang penting bagi nelayan tangkap.\n- **Diversifikasi pendapatan**: tidak bergantung pada satu sumber penghasilan. Nelayan bisa menambah: pengolahan hasil laut (bakso ikan, abon tuna), wisata bahari, budidaya rumput laut, dll.\n- **Ketangguhan komunitas** (*community resilience*): kemampuan komunitas untuk bertahan, beradaptasi, dan berkembang meski menghadapi tekanan dan perubahan besar.\n\nInsight kunci: Menghadapi perubahan besar (termasuk perubahan iklim), solusi terbaik adalah **kombinasi adaptasi** — bukan satu tindakan tunggal. Seperti kaki kursi yang lebih dari satu membuat kursi lebih kuat, diversifikasi strategi membuat komunitas lebih tangguh menghadapi ketidakpastian.\nKenapa opsi lain salah: A terlalu ekstrem dan membuang keahlian yang ada; B adalah keputusasaan yang tidak membantu; C justru mempercepat kerusakan ekosistem.\nJawaban akhir: **Kombinasi adaptasi: baca cuaca baru, akuakultur, rehabilitasi karang, diversifikasi pendapatan**."
+  }
+]

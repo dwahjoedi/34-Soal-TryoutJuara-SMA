@@ -1,0 +1,1551 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem organ manusia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "indra",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Mira masuk dari halaman yang sangat terang ke ruang aula yang lebih gelap. Pada awalnya ia sulit melihat kursi di dalam aula, tetapi setelah beberapa saat penglihatannya menjadi lebih jelas.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Kursi tampak lebih jelas karena Mira mulai mengingat letak benda di aula, bukan karena mata menyesuaikan cahaya yang masuk.",
+      "Mata membutuhkan waktu untuk menyesuaikan jumlah cahaya yang masuk agar benda di tempat redup dapat terlihat lebih jelas",
+      "Kursi tampak muncul karena Mira mengingat letak kursi setelah berdiri beberapa menit di aula.",
+      "Kesulitan melihat hanya terjadi karena Mira belum fokus memperhatikan benda di sekitarnya."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Mata melihat benda karena ada cahaya dari sumber cahaya yang mengenai benda, lalu pantulannya masuk ke mata. Di ruangan redup, cahaya yang masuk lebih sedikit dibanding halaman terang.\n\nLangkah 2: Saat berpindah dari terang ke gelap, mata perlu menyesuaikan diri. Pupil dapat melebar agar lebih banyak cahaya masuk ke mata.\n\nLangkah 3: Setelah beberapa saat, jumlah cahaya yang masuk menjadi lebih sesuai dengan kondisi ruangan. Karena itu Mira mulai melihat kursi dengan lebih jelas.\n\nLangkah 4: Jadi perubahan penglihatan Mira terjadi karena penyesuaian mata terhadap cahaya, bukan karena mata memancarkan cahaya.\n\n**Materi terkait:**\n- **Mata** adalah indra penglihatan yang membutuhkan cahaya.\n- Pupil mengatur banyak sedikitnya cahaya yang masuk ke mata.\n- Di tempat terang, pupil mengecil; di tempat redup, pupil melebar.\n\nInsight kunci: Mata bukan senter. Mata bekerja dengan menerima cahaya yang dipantulkan benda, lalu otak menafsirkan informasi itu.\n\nKenapa opsi lain salah: B salah karena mata tidak memancarkan cahaya. C tidak masuk akal karena kursi sudah ada. D salah karena tanpa cahaya, mata tidak dapat melihat benda dengan jelas."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "fotosintesis",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa menutup sebagian daun tanaman dengan kertas gelap selama dua hari. Bagian daun yang tertutup tidak mendapat cahaya, sedangkan bagian lain tetap terkena cahaya. Setelah diuji, bagian daun yang terkena cahaya menunjukkan lebih banyak cadangan makanan dibanding bagian yang tertutup.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Cahaya diperlukan daun untuk membuat makanan melalui fotosintesis",
+      "Daun hanya membuat makanan pada malam hari.",
+      "Kertas gelap menyimpan makanan sementara sehingga bagian daun tertutup tetap mendapat cadangan.",
+      "Tumbuhan tidak membutuhkan daun untuk membuat makanan."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Dalam percobaan ini, bagian daun pada tanaman yang sama dibandingkan. Faktor yang berbeda adalah ada bagian yang mendapat cahaya dan ada bagian yang tertutup.\n\nLangkah 2: Bagian yang terkena cahaya memiliki lebih banyak cadangan makanan. Ini menunjukkan cahaya membantu proses pembuatan makanan pada daun.\n\nLangkah 3: Proses tumbuhan membuat makanan dengan bantuan cahaya disebut **fotosintesis**. Daun menjadi tempat utama fotosintesis karena mengandung klorofil.\n\nLangkah 4: Karena bagian tertutup cahaya menghasilkan lebih sedikit cadangan makanan, kesimpulan terbaik adalah cahaya diperlukan dalam fotosintesis.\n\n**Materi terkait:**\n- Fotosintesis membutuhkan cahaya, air, karbon dioksida, dan klorofil.\n- Hasil fotosintesis adalah makanan bagi tumbuhan dan oksigen.\n- Percobaan yang baik membandingkan kondisi yang berbeda pada satu faktor utama.\n\nInsight kunci: Bukti percobaan lebih kuat daripada tebakan. Jika bagian daun yang mendapat cahaya menghasilkan lebih banyak makanan, maka cahaya memang berperan penting.\n\nKenapa opsi lain salah: B salah karena data menunjukkan cahaya membantu. C tidak ilmiah. D salah karena daun adalah tempat utama fotosintesis."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "pernapasan",
+      "data",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Dua siswa menghitung jumlah napas per menit sebelum dan sesudah naik tangga selama 2 menit.\n\nData pengamatan:\n- Rino: sebelum naik tangga 18 kali/menit, sesudah naik tangga 30 kali/menit.\n- Sari: sebelum naik tangga 20 kali/menit, sesudah naik tangga 34 kali/menit.\n\nKesimpulan paling tepat dari data tersebut adalah ...",
+    "options": [
+      "Naik tangga membuat paru-paru bekerja lebih lambat sehingga napas tidak diperlukan.",
+      "Jumlah napas cenderung cenderung sama pada sebagian besar orang sebelum dan sesudah aktivitas, karena bagian tubuh yang paling terlihat dipilih sebagai penyebab utama gejala.",
+      "Frekuensi napas turun setelah aktivitas berat.",
+      "Aktivitas naik tangga meningkatkan frekuensi napas karena tubuh membutuhkan lebih banyak oksigen"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan data Rino. Frekuensi napasnya naik dari 18 menjadi 30 kali per menit setelah naik tangga.\n\nLangkah 2: Bandingkan data Sari. Frekuensi napasnya juga naik dari 20 menjadi 34 kali per menit setelah aktivitas yang sama.\n\nLangkah 3: Pola kedua siswa sama, yaitu napas menjadi lebih cepat setelah aktivitas. Ini menunjukkan tubuh membutuhkan lebih banyak oksigen ketika otot bekerja lebih keras.\n\nLangkah 4: Pernapasan juga membantu membuang karbon dioksida yang lebih banyak dihasilkan saat sel tubuh aktif menghasilkan energi.\n\nLangkah 5: Kesimpulan yang tepat harus mengikuti data dan konsep kebutuhan oksigen saat aktivitas.\n\n**Materi terkait:**\n- **Frekuensi napas** adalah jumlah napas dalam satu menit.\n- Saat aktivitas meningkat, otot membutuhkan lebih banyak energi.\n- Oksigen membantu proses pelepasan energi dalam sel, sedangkan karbon dioksida perlu dikeluarkan.\n\nInsight kunci: Data dua siswa menunjukkan pola yang sama, sehingga kesimpulannya lebih kuat. Napas cepat setelah aktivitas adalah respons tubuh untuk memenuhi kebutuhan energi.\n\nKenapa opsi lain salah: B salah karena paru-paru justru bekerja lebih aktif. C salah karena data tiap orang bisa berbeda. D berlawanan dengan data.",
+    "content": {
+      "question": "Dua siswa menghitung jumlah napas per menit sebelum dan sesudah naik tangga selama 2 menit.\n\nData pengamatan:\n\nKesimpulan paling tepat dari data tersebut adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dua siswa menghitung jumlah napas per menit sebelum dan sesudah naik tangga selama 2 menit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rino"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum naik tangga 18 kali/menit, sesudah naik tangga 30 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sari"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum naik tangga 20 kali/menit, sesudah naik tangga 34 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat dari data tersebut adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Naik tangga membuat paru-paru bekerja lebih lambat sehingga napas tidak diperlukan.",
+        "Jumlah napas cenderung cenderung sama pada sebagian besar orang sebelum dan sesudah aktivitas, karena bagian tubuh yang paling terlihat dipilih sebagai penyebab utama gejala.",
+        "Frekuensi napas turun setelah aktivitas berat.",
+        "Aktivitas naik tangga meningkatkan frekuensi napas karena tubuh membutuhkan lebih banyak oksigen"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Naik tangga membuat paru-paru bekerja lebih lambat sehingga napas tidak diperlukan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah napas cenderung cenderung sama pada sebagian besar orang sebelum dan sesudah aktivitas, karena bagian tubuh yang paling terlihat dipilih sebagai penyebab utama gejala."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Frekuensi napas turun setelah aktivitas berat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aktivitas naik tangga meningkatkan frekuensi napas karena tubuh membutuhkan lebih banyak oksigen"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan data Rino. Frekuensi napasnya naik dari 18 menjadi 30 kali per menit setelah naik tangga.\n\nLangkah 2: Bandingkan data Sari. Frekuensi napasnya juga naik dari 20 menjadi 34 kali per menit setelah aktivitas yang sama.\n\nLangkah 3: Pola kedua siswa sama, yaitu napas menjadi lebih cepat setelah aktivitas. Ini menunjukkan tubuh membutuhkan lebih banyak oksigen ketika otot bekerja lebih keras.\n\nLangkah 4: Pernapasan juga membantu membuang karbon dioksida yang lebih banyak dihasilkan saat sel tubuh aktif menghasilkan energi.\n\nLangkah 5: Kesimpulan yang tepat harus mengikuti data dan konsep kebutuhan oksigen saat aktivitas.\n\n**Materi terkait:**\n- **Frekuensi napas** adalah jumlah napas dalam satu menit.\n- Saat aktivitas meningkat, otot membutuhkan lebih banyak energi.\n- Oksigen membantu proses pelepasan energi dalam sel, sedangkan karbon dioksida perlu dikeluarkan.\n\nInsight kunci: Data dua siswa menunjukkan pola yang sama, sehingga kesimpulannya lebih kuat. Napas cepat setelah aktivitas adalah respons tubuh untuk memenuhi kebutuhan energi.\n\nKenapa opsi lain salah: B salah karena paru-paru justru bekerja lebih aktif. C salah karena data tiap orang bisa berbeda. D berlawanan dengan data.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan data Rino. Frekuensi napasnya naik dari 18 menjadi 30 kali per menit setelah naik tangga."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Bandingkan data Sari. Frekuensi napasnya juga naik dari 20 menjadi 34 kali per menit setelah aktivitas yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pola kedua siswa sama, yaitu napas menjadi lebih cepat setelah aktivitas. Ini menunjukkan tubuh membutuhkan lebih banyak oksigen ketika otot bekerja lebih keras."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Pernapasan juga membantu membuang karbon dioksida yang lebih banyak dihasilkan saat sel tubuh aktif menghasilkan energi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Kesimpulan yang tepat harus mengikuti data dan konsep kebutuhan oksigen saat aktivitas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Frekuensi napas",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah jumlah napas dalam satu menit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Saat aktivitas meningkat, otot membutuhkan lebih banyak energi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Oksigen membantu proses pelepasan energi dalam sel, sedangkan karbon dioksida perlu dikeluarkan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data dua siswa menunjukkan pola yang sama, sehingga kesimpulannya lebih kuat. Napas cepat setelah aktivitas adalah respons tubuh untuk memenuhi kebutuhan energi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B salah karena paru-paru justru bekerja lebih aktif. C salah karena data tiap orang bisa berbeda. D berlawanan dengan data."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Kesehatan & gaya hidup sehat",
+    "skill_type": "concept_understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "kesehatan"
+    ],
+    "is_active": true,
+    "question": "Setelah bermain bola, Beni berkeringat banyak. Kebiasaan yang paling tepat untuk membantu tubuhnya tetap sehat adalah ...",
+    "options": [
+      "Tidak minum secara langsung agar keringat berhenti.",
+      "Langsung memakai jaket tebal di bawah matahari agar semakin berkeringat.",
+      "Minum air yang cukup dan beristirahat agar cairan tubuh terganti",
+      "Mengganti air minum dengan banyak permen."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat bermain bola, tubuh Beni menghasilkan panas dan mengeluarkan keringat. Keringat membantu mendinginkan tubuh.\n\nLangkah 2: Karena keringat mengandung air, tubuh perlu mengganti cairan yang keluar. Minum air yang cukup membantu mencegah dehidrasi.\n\nLangkah 3: Istirahat membantu denyut jantung, napas, dan suhu tubuh kembali lebih normal setelah aktivitas.\n\n**Materi terkait:**\n- Tubuh membutuhkan air untuk membantu peredaran darah, pengaturan suhu, dan kerja organ.\n- Dehidrasi terjadi saat tubuh kekurangan cairan.\n- Setelah olahraga, kebiasaan sehat adalah minum, istirahat, dan menjaga kebersihan tubuh.\n\nInsight kunci: Berkeringat adalah respons tubuh yang normal, tetapi cairan yang hilang perlu diganti. Kesehatan tubuh dijaga dengan kebiasaan sederhana yang dilakukan tepat waktu.\n\nKenapa opsi lain salah: B dapat menyebabkan kekurangan cairan. C dapat membuat tubuh terlalu panas. D tidak menggantikan kebutuhan air dengan baik."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "rantai-makanan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di kebun terdapat rantai makanan:\n\nDaun sawi -> ulat -> burung kecil -> elang\n\nJika pestisida digunakan berlebihan hingga jumlah ulat sangat sedikit, dampak yang paling mungkin terjadi adalah ...",
+    "options": [
+      "Burung kecil dapat kekurangan makanan karena sumber makanannya berkurang",
+      "Daun sawi cenderung langsung habis karena ulat berkurang.",
+      "Elang cenderung bertambah banyak karena ulat sedikit.",
+      "Rantai makanan tidak mungkin berubah karena hanya ulat yang terdampak, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Dalam rantai makanan, ulat memakan daun sawi, sedangkan burung kecil memakan ulat. Jadi ulat menjadi sumber makanan bagi burung kecil.\n\nLangkah 2: Jika jumlah ulat sangat sedikit, burung kecil dapat kesulitan mendapatkan makanan. Populasi burung kecil bisa menurun atau berpindah mencari makanan lain.\n\nLangkah 3: Perubahan jumlah ulat juga dapat memengaruhi elang secara tidak langsung karena elang memakan burung kecil.\n\nLangkah 4: Jadi dampak yang paling dekat adalah burung kecil kekurangan makanan.\n\n**Materi terkait:**\n- Rantai makanan menunjukkan hubungan makan-dimakan.\n- Energi mengalir dari produsen ke konsumen.\n- Gangguan pada satu tingkat dapat memengaruhi tingkat lain dalam ekosistem.\n\nInsight kunci: Mengurangi hama secara berlebihan dapat memengaruhi makhluk hidup lain. Dalam ekosistem, tindakan terhadap satu organisme sering punya dampak lanjutan.\n\nKenapa opsi lain salah: B salah karena ulat berkurang justru tekanan pada sawi menurun. C tidak langsung tepat karena elang bergantung pada burung kecil. D salah karena rantai makanan saling terhubung."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "adaptasi",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Di halaman sekolah yang kering, tumbuhan lidah buaya tetap tumbuh baik meskipun tidak disiram setiap hari. Daunnya tebal dan berisi banyak air.\n\nCiri tersebut paling tepat dipahami sebagai ...",
+    "options": [
+      "Tanda bahwa tumbuhan tidak membutuhkan air secara langsung.",
+      "Bukti bahwa sebagian besar tumbuhan harus memiliki daun tebal, karena perubahan populasi dikaitkan terutama dengan cuaca setempat.",
+      "Adaptasi untuk menyimpan air agar dapat bertahan di tempat yang kering",
+      "Cara tumbuhan menghasilkan bunyi saat terkena angin."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lingkungan kering membuat air lebih sulit tersedia. Tumbuhan yang hidup di tempat seperti ini perlu cara untuk menghemat atau menyimpan air.\n\nLangkah 2: Daun lidah buaya tebal dan berisi air. Ciri ini membantu tumbuhan menyimpan cadangan air.\n\nLangkah 3: Ciri yang membantu makhluk hidup bertahan di lingkungannya disebut **adaptasi**.\n\nLangkah 4: Jadi daun tebal pada lidah buaya merupakan adaptasi terhadap lingkungan yang relatif kering.\n\n**Materi terkait:**\n- Adaptasi dapat berupa bentuk tubuh, fungsi bagian tubuh, atau perilaku.\n- Tumbuhan di tempat kering sering memiliki daun tebal, lapisan lilin, atau akar yang membantu mendapatkan air.\n- Adaptasi berbeda sesuai tantangan lingkungan.\n\nInsight kunci: Ciri khusus makhluk hidup biasanya memiliki hubungan dengan tempat hidupnya. Daun tebal bukan sekadar bentuk, tetapi membantu menyimpan air.\n\nKenapa opsi lain salah: B salah karena lidah buaya tetap membutuhkan air. C terlalu umum. D tidak berhubungan dengan fungsi daun tebal."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Konservasi & pelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "konservasi",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi sebuah hutan kecil, burung pemakan buah membantu menyebarkan biji tanaman. Setelah banyak pohon buah ditebang untuk lahan parkir, jumlah burung menurun. Beberapa bulan kemudian, anakan pohon baru juga semakin jarang ditemukan.\n\nLangkah pelestarian yang paling tepat adalah ...",
+    "options": [
+      "Menebang pohon tersisa agar lahan parkir lebih luas.",
+      "Memberi makan burung sekali saja lalu membiarkan habitatnya hilang, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain.",
+      "Memindahkan sebagian besar burung ke sangkar sekolah.",
+      "Menanam kembali pohon buah lokal dan menjaga sebagian hutan sebagai habitat burung"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Burung pemakan buah membantu menyebarkan biji. Ini berarti burung berperan dalam regenerasi atau pertumbuhan tanaman baru.\n\nLangkah 2: Ketika pohon buah ditebang, sumber makanan dan tempat hidup burung berkurang. Akibatnya jumlah burung menurun.\n\nLangkah 3: Jika burung berkurang, penyebaran biji juga berkurang. Ini menjelaskan mengapa anakan pohon baru semakin jarang ditemukan.\n\nLangkah 4: Solusi harus mengembalikan sumber makanan dan habitat. Menanam pohon buah lokal dan menjaga hutan membantu burung serta tanaman.\n\nLangkah 5: Opsi A paling tepat karena memulihkan hubungan ekosistem, bukan hanya menyelamatkan satu jenis makhluk hidup secara terpisah.\n\n**Materi terkait:**\n- **Konservasi** menjaga makhluk hidup dan habitatnya.\n- Banyak hewan membantu tumbuhan, misalnya penyerbukan atau penyebaran biji.\n- Habitat yang rusak dapat memutus hubungan saling bergantung dalam ekosistem.\n\nInsight kunci: Pelestarian bukan hanya melindungi hewan dari perburuan. Menjaga makanan, tempat berlindung, dan hubungan antarorganisme juga sangat penting.\n\nKenapa opsi lain salah: B memperparah hilangnya habitat. C hanya sementara dan tidak menyelesaikan penyebab. D menghilangkan burung dari peran alaminya."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "gaya"
+    ],
+    "is_active": true,
+    "question": "Dua anak menarik sebuah kotak dengan tali dari arah berlawanan. Anak pertama menarik ke kanan dengan gaya lebih besar, sedangkan anak kedua menarik ke kiri dengan gaya lebih kecil. Kotak bergerak perlahan ke kanan.\n\nPenjelasan yang paling tepat adalah ...",
+    "options": [
+      "Kotak bergerak ke kanan karena gaya yang lebih kecil cenderung menang, karena permukaan benda dikira memberi dorongan tambahan saat benda bergerak.",
+      "Gaya total mengarah ke kanan karena gaya ke kanan lebih besar daripada gaya ke kiri",
+      "Gaya berlawanan cenderung membuat benda bergerak ke atas.",
+      "Kotak tidak mungkin bergerak jika ada dua gaya berlawanan."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Dua gaya bekerja pada kotak dari arah berlawanan. Satu gaya menarik ke kanan dan satu gaya menarik ke kiri.\n\nLangkah 2: Jika dua gaya berlawanan tidak sama besar, gaya total mengarah ke sisi yang lebih besar. Dalam soal, gaya ke kanan lebih besar.\n\nLangkah 3: Karena gaya total ke kanan, kotak bergerak perlahan ke kanan. Geraknya perlahan karena sebagian gaya ke kanan dikurangi oleh gaya ke kiri.\n\nLangkah 4: Jadi arah gerak dipengaruhi oleh resultan atau gabungan gaya yang bekerja pada benda.\n\n**Materi terkait:**\n- Gaya dapat mengubah gerak benda.\n- Gaya searah saling menambah, sedangkan gaya berlawanan saling mengurangi.\n- Resultan gaya adalah gabungan semua gaya yang bekerja pada benda.\n\nInsight kunci: Saat ada beberapa gaya, jangan melihat satu gaya saja. Bandingkan besar dan arahnya untuk menentukan pengaruh akhirnya.\n\nKenapa opsi lain salah: B terbalik. C tidak ada hubungannya. D salah karena benda tetap dapat bergerak jika gaya berlawanan tidak seimbang."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "pesawat-sederhana",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Tiga susunan katrol diuji untuk mengangkat beban yang sama.\n\nData pengamatan:\n- Susunan P: tali ditarik 1 m, beban naik 1 m, gaya terasa paling besar.\n- Susunan Q: tali ditarik 2 m, beban naik 1 m, gaya terasa lebih kecil.\n- Susunan R: tali ditarik 3 m, beban naik 1 m, gaya terasa paling kecil.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Katrol R membuat beban terasa jauh lebih ringan karena seluruh usaha berpindah ke tali.",
+      "Susunan P paling ringan karena tali ditarik paling pendek.",
+      "Panjang tarikan tali kurang diperhatikan karena siswa hanya membandingkan tinggi beban yang terangkat.",
+      "Semakin besar keuntungan gaya, jarak tali yang harus ditarik cenderung semakin panjang"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Semua susunan mengangkat beban yang sama setinggi 1 m. Yang berbeda adalah jarak tali yang harus ditarik dan gaya yang terasa.\n\nLangkah 2: Pada P, tali ditarik paling pendek tetapi gaya terasa paling besar. Pada R, tali ditarik paling panjang tetapi gaya terasa paling kecil.\n\nLangkah 3: Ini menunjukkan pesawat sederhana dapat memperkecil gaya dengan konsekuensi jarak tarikan menjadi lebih panjang.\n\nLangkah 4: Katrol tidak menghilangkan usaha. Katrol hanya membantu mengatur gaya dan jarak agar pekerjaan lebih mudah dilakukan.\n\nLangkah 5: Kesimpulan paling tepat adalah semakin besar keuntungan gaya, semakin panjang jarak tali yang ditarik.\n\n**Materi terkait:**\n- Katrol adalah pesawat sederhana yang membantu mengangkat beban.\n- Katrol tetap terutama mengubah arah gaya.\n- Sistem katrol tertentu dapat memperkecil gaya, tetapi biasanya membuat tali harus ditarik lebih panjang.\n\nInsight kunci: Pesawat sederhana tidak membuat pekerjaan menjadi tanpa energi. Ia menukar gaya dengan jarak atau mengubah arah gaya agar lebih mudah dilakukan.\n\nKenapa opsi lain salah: B salah karena tetap perlu energi. C bertentangan dengan data. D salah karena data jelas menunjukkan hubungan jarak tarikan dan gaya.",
+    "content": {
+      "question": "Tiga susunan katrol diuji untuk mengangkat beban yang sama.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga susunan katrol diuji untuk mengangkat beban yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Susunan P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tali ditarik 1 m, beban naik 1 m, gaya terasa paling besar."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Susunan Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tali ditarik 2 m, beban naik 1 m, gaya terasa lebih kecil."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Susunan R"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tali ditarik 3 m, beban naik 1 m, gaya terasa paling kecil."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Katrol R membuat beban terasa jauh lebih ringan karena seluruh usaha berpindah ke tali.",
+        "Susunan P paling ringan karena tali ditarik paling pendek.",
+        "Panjang tarikan tali kurang diperhatikan karena siswa hanya membandingkan tinggi beban yang terangkat.",
+        "Semakin besar keuntungan gaya, jarak tali yang harus ditarik cenderung semakin panjang"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Katrol R membuat beban terasa jauh lebih ringan karena seluruh usaha berpindah ke tali."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Susunan P paling ringan karena tali ditarik paling pendek."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Panjang tarikan tali kurang diperhatikan karena siswa hanya membandingkan tinggi beban yang terangkat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin besar keuntungan gaya, jarak tali yang harus ditarik cenderung semakin panjang"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Semua susunan mengangkat beban yang sama setinggi 1 m. Yang berbeda adalah jarak tali yang harus ditarik dan gaya yang terasa.\n\nLangkah 2: Pada P, tali ditarik paling pendek tetapi gaya terasa paling besar. Pada R, tali ditarik paling panjang tetapi gaya terasa paling kecil.\n\nLangkah 3: Ini menunjukkan pesawat sederhana dapat memperkecil gaya dengan konsekuensi jarak tarikan menjadi lebih panjang.\n\nLangkah 4: Katrol tidak menghilangkan usaha. Katrol hanya membantu mengatur gaya dan jarak agar pekerjaan lebih mudah dilakukan.\n\nLangkah 5: Kesimpulan paling tepat adalah semakin besar keuntungan gaya, semakin panjang jarak tali yang ditarik.\n\n**Materi terkait:**\n- Katrol adalah pesawat sederhana yang membantu mengangkat beban.\n- Katrol tetap terutama mengubah arah gaya.\n- Sistem katrol tertentu dapat memperkecil gaya, tetapi biasanya membuat tali harus ditarik lebih panjang.\n\nInsight kunci: Pesawat sederhana tidak membuat pekerjaan menjadi tanpa energi. Ia menukar gaya dengan jarak atau mengubah arah gaya agar lebih mudah dilakukan.\n\nKenapa opsi lain salah: B salah karena tetap perlu energi. C bertentangan dengan data. D salah karena data jelas menunjukkan hubungan jarak tarikan dan gaya.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Semua susunan mengangkat beban yang sama setinggi 1 m. Yang berbeda adalah jarak tali yang harus ditarik dan gaya yang terasa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Pada P, tali ditarik paling pendek tetapi gaya terasa paling besar. Pada R, tali ditarik paling panjang tetapi gaya terasa paling kecil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Ini menunjukkan pesawat sederhana dapat memperkecil gaya dengan konsekuensi jarak tarikan menjadi lebih panjang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Katrol tidak menghilangkan usaha. Katrol hanya membantu mengatur gaya dan jarak agar pekerjaan lebih mudah dilakukan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Kesimpulan paling tepat adalah semakin besar keuntungan gaya, semakin panjang jarak tali yang ditarik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Katrol adalah pesawat sederhana yang membantu mengangkat beban."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Katrol tetap terutama mengubah arah gaya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Sistem katrol tertentu dapat memperkecil gaya, tetapi biasanya membuat tali harus ditarik lebih panjang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pesawat sederhana tidak membuat pekerjaan menjadi tanpa energi. Ia menukar gaya dengan jarak atau mengubah arah gaya agar lebih mudah dilakukan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B salah karena tetap perlu energi. C bertentangan dengan data. D salah karena data jelas menunjukkan hubungan jarak tarikan dan gaya."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "kalor"
+    ],
+    "is_active": true,
+    "question": "Ibu memasak sup di panci logam. Setelah beberapa menit, gagang logam panci terasa panas, sedangkan sendok kayu yang diletakkan di dekat panci tidak sepanas gagang logam.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Kayu terasa lebih dingin karena menyerap panas dari tangan lebih cepat daripada logam.",
+      "Panas lebih mudah berpindah melalui udara di sekitar panci daripada melalui bahan gagang.",
+      "Logam menghantarkan panas lebih baik daripada kayu, sehingga panas lebih cepat sampai ke gagang logam",
+      "Gagang logam panas karena terkena uap panas dari sup, bukan karena panas merambat melalui logam."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Panci logam menerima panas dari kompor. Panas dapat merambat melalui bahan panci.\n\nLangkah 2: Logam adalah **konduktor panas** yang baik. Karena itu panas dapat cepat merambat dari bagian panci ke gagangnya.\n\nLangkah 3: Kayu lebih sulit menghantarkan panas dibanding logam. Karena itu sendok kayu tidak sepanas gagang logam dalam kondisi yang sama.\n\nLangkah 4: Peristiwa ini termasuk perpindahan panas secara konduksi melalui benda padat.\n\n**Materi terkait:**\n- **Konduksi** adalah perpindahan panas melalui kontak langsung, terutama pada benda padat.\n- Logam umumnya konduktor panas yang baik.\n- Kayu dan plastik sering dipakai sebagai gagang alat masak karena lebih bersifat isolator.\n\nInsight kunci: Pemilihan bahan alat dapur memanfaatkan sifat penghantaran panas. Bagian yang perlu cepat panas memakai logam, sedangkan bagian yang dipegang sebaiknya isolator.\n\nKenapa opsi lain salah: B salah karena kayu tidak menghasilkan dingin sendiri. C salah karena panas bisa berpindah melalui benda padat. D tidak ilmiah karena logam tidak berubah menjadi api."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "energi"
+    ],
+    "is_active": true,
+    "question": "Sebuah radio kecil menggunakan baterai. Saat dinyalakan, radio mengeluarkan suara dan sedikit hangat setelah dipakai lama.\n\nPerubahan energi yang paling tepat adalah ...",
+    "options": [
+      "Energi kimia dalam baterai -> energi listrik -> energi bunyi dan panas",
+      "Energi bunyi -> energi kimia -> energi listrik.",
+      "Energi panas -> energi cahaya -> energi kimia.",
+      "Energi listrik hanya tersimpan di dalam radio, sedangkan bunyi berasal dari getaran baterai."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Baterai menyimpan energi dalam bentuk energi kimia. Saat radio dinyalakan, energi kimia diubah menjadi energi listrik.\n\nLangkah 2: Energi listrik digunakan oleh komponen radio untuk menghasilkan bunyi. Karena alat menjadi sedikit hangat, sebagian energi juga berubah menjadi panas.\n\nLangkah 3: Jadi perubahan energi utamanya adalah energi kimia menjadi listrik, lalu menjadi bunyi dan panas.\n\nLangkah 4: Perubahan panas kecil pada alat listrik sering terjadi karena tidak semua energi berubah menjadi hasil utama.\n\n**Materi terkait:**\n- Energi dapat berubah bentuk, misalnya kimia, listrik, bunyi, cahaya, panas, dan gerak.\n- Baterai adalah penyimpan energi kimia.\n- Alat elektronik sering menghasilkan energi panas sebagai efek samping.\n\nInsight kunci: Perubahan energi dapat menghasilkan lebih dari satu bentuk energi. Pada radio, hasil utama adalah bunyi, tetapi panas juga muncul sebagai energi samping.\n\nKenapa opsi lain salah: B membalik urutan. C tidak sesuai radio baterai. D salah karena energi berubah bentuk, bukan hilang begitu saja."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "rangkaian-listrik"
+    ],
+    "is_active": true,
+    "question": "Tiga lampu di maket rumah dipasang paralel. Lampu kamar, lampu dapur, dan lampu teras masing-masing memiliki saklar sendiri. Jika saklar lampu dapur dimatikan, yang paling mungkin terjadi adalah ...",
+    "options": [
+      "Sebagian besar lampu padam karena satu saklar dimatikan, karena susunan alat dikira kurang mengubah arah rambat atau aliran energi.",
+      "Lampu dapur padam, sedangkan lampu kamar dan teras tetap dapat menyala",
+      "Lampu dapur semakin terang karena saklarnya dimatikan.",
+      "Lampu kamar hanya menyala jika lampu dapur putus."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pada rangkaian paralel, setiap lampu memiliki cabang atau jalur sendiri. Karena itu tiap lampu dapat dikendalikan lebih mandiri.\n\nLangkah 2: Jika saklar lampu dapur dimatikan, arus pada cabang lampu dapur terputus. Lampu dapur padam.\n\nLangkah 3: Cabang lampu kamar dan teras masih terhubung dengan sumber listrik jika saklarnya menyala. Maka keduanya tetap dapat menyala.\n\nLangkah 4: Inilah alasan instalasi listrik rumah menggunakan prinsip paralel.\n\n**Materi terkait:**\n- Rangkaian **paralel** memiliki lebih dari satu jalur arus.\n- Pada paralel, satu cabang mati tidak selalu mematikan cabang lain.\n- Rangkaian **seri** berbeda karena komponen berada dalam satu jalur.\n\nInsight kunci: Kunci memahami paralel adalah melihat cabang. Jika satu cabang diputus, cabang lain masih punya jalur sendiri.\n\nKenapa opsi lain salah: B lebih cocok untuk seri. C tidak logis karena saklar mati memutus arus. D salah karena lampu kamar tidak bergantung pada lampu dapur dalam paralel."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "cahaya",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Sebuah periskop sederhana dibuat dari dua cermin datar yang dipasang miring. Siswa dapat melihat benda yang berada di balik pagar rendah dengan melihat melalui lubang bawah periskop.\n\nPrinsip cahaya yang paling tepat menjelaskan kerja periskop adalah ...",
+    "options": [
+      "Cermin memperkecil bayangan benda sehingga bayangan dapat melewati ruang sempit di dalam periskop.",
+      "Cahaya dipantulkan oleh cermin datar sehingga arah berkas cahaya dapat dibelokkan menuju mata",
+      "Cahaya lebih banyak diserap cermin, tetapi sebagian kecil tetap sampai ke mata.",
+      "Periskop bekerja karena cahaya dapat mengikuti bentuk tabung jika cerminnya dipasang miring."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Benda di balik pagar memantulkan cahaya. Cahaya dari benda masuk ke cermin pertama pada periskop.\n\nLangkah 2: Cermin datar pertama memantulkan cahaya ke cermin kedua. Cermin kedua kemudian memantulkan cahaya menuju mata pengamat.\n\nLangkah 3: Dengan dua pantulan, arah cahaya dibelokkan sehingga mata dapat melihat benda yang tidak segaris langsung dengan mata.\n\nLangkah 4: Periskop memanfaatkan **pemantulan cahaya** pada cermin datar, bukan mengubah cahaya menjadi suara.\n\nLangkah 5: Model sinar lurus dan pantulan membantu menjelaskan jalur cahaya di dalam periskop.\n\n**Materi terkait:**\n- Cahaya merambat lurus dalam medium yang sama.\n- Cermin datar memantulkan cahaya secara teratur.\n- Pada pemantulan, sudut datang sama dengan sudut pantul.\n- Periskop sederhana memakai dua cermin untuk mengubah arah jalur cahaya.\n\nInsight kunci: Kita melihat benda karena cahaya dari benda masuk ke mata. Alat optik seperti periskop mengatur jalur cahaya agar mata dapat menerima cahaya dari arah yang sulit dilihat langsung.\n\nKenapa opsi lain salah: B tidak sesuai prinsip cahaya. C salah karena cermin memantulkan cahaya. D salah karena cahaya tidak selalu bergerak melingkar."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Keselamatan listrik",
+    "skill_type": "concept_understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "keselamatan-listrik"
+    ],
+    "is_active": true,
+    "question": "Di ruang komputer sekolah, air dari botol minum tumpah di lantai dekat kabel perpanjangan yang masih terhubung ke listrik. Beberapa siswa ingin segera memindahkan kabel agar lantai cepat dibersihkan.\n\nLangkah pertama yang paling aman dilakukan adalah ...",
+    "options": [
+      "Menjauhkan siswa dari area basah dan meminta guru atau petugas memutus aliran listrik dari sumber yang aman",
+      "Mengangkat kabel perpanjangan dengan tangan kosong agar cepat kering.",
+      "Menyalakan kipas di dekat genangan air agar kabel cepat kering.",
+      "Mendorong genangan air ke arah kabel agar sebagian besar bagian basah terlihat, karena bahan alat dikira selalu memberi hasil yang sama jika ukurannya mirip."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Air di lantai dekat kabel listrik adalah tanda bahaya. Air, terutama yang mengandung mineral, dapat membantu arus listrik mengalir dan meningkatkan risiko sengatan.\n\nLangkah 2: Siswa tidak boleh langsung memegang kabel perpanjangan yang berada dekat genangan. Walaupun niatnya membersihkan, menyentuh kabel sebelum listrik diputus dapat berbahaya.\n\nLangkah 3: Langkah pertama adalah menjauhkan orang dari area berisiko. Setelah itu, guru atau petugas dewasa perlu memutus aliran listrik dari sumber yang aman.\n\nLangkah 4: Setelah listrik dipastikan mati, area dapat dikeringkan dan kabel diperiksa. Urutan ini penting agar pembersihan tidak berubah menjadi kecelakaan.\n\n**Materi terkait:**\n- Listrik dan air harus dijauhkan karena dapat menyebabkan sengatan atau korsleting.\n- Kabel perpanjangan tidak boleh digunakan di tempat basah.\n- Dalam keadaan darurat listrik, anak sebaiknya menjauh dan memanggil orang dewasa.\n\nInsight kunci: Pada bahaya listrik, tindakan cepat tidak selalu aman. Urutan yang benar adalah menjauh, matikan listrik dari sumber aman, lalu baru membersihkan atau memeriksa alat.\n\nKenapa opsi lain salah: B berbahaya karena menyentuh kabel sebelum listrik diputus. C menambah risiko karena kipas juga memakai listrik. D memperluas area basah di dekat kabel."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "perubahan-zat"
+    ],
+    "is_active": true,
+    "question": "Empat peristiwa diamati:\n\n1. Kapur barus mengecil karena menyublim.\n2. Kayu dibakar menjadi arang dan asap.\n3. Air jeruk dicampur soda kue lalu muncul gelembung gas.\n4. Lilin meleleh saat dipanaskan.\n\nPeristiwa yang menunjukkan **terbentuknya zat baru** adalah ...",
+    "options": [
+      "1 dan 4.",
+      "1, 2, dan 3, karena kapur barus yang mengecil sering dikira hilang membentuk zat baru.",
+      "Sebagian besar hanya perubahan wujud.",
+      "2 dan 3"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Terbentuknya zat baru adalah ciri utama **perubahan kimia**. Contohnya muncul gas baru, abu, asap, bau baru, atau warna baru yang sulit dikembalikan.\n\nLangkah 2: Kayu dibakar menghasilkan arang, asap, dan gas. Ini menunjukkan zat baru terbentuk.\n\nLangkah 3: Air jeruk bercampur soda kue menghasilkan gelembung gas. Gelembung menunjukkan ada gas baru dari reaksi kimia.\n\nLangkah 4: Kapur barus menyublim dan lilin meleleh adalah perubahan wujud. Zatnya tidak berubah menjadi zat baru dalam peristiwa sederhana itu.\n\n**Materi terkait:**\n- **Perubahan fisika** mengubah wujud, bentuk, atau ukuran tanpa menghasilkan zat baru.\n- **Perubahan kimia** menghasilkan zat baru dengan sifat berbeda.\n- Pembakaran dan reaksi yang menghasilkan gas adalah contoh perubahan kimia.\n\nInsight kunci: Perubahan wujud bisa tampak mencolok, tetapi belum tentu kimia. Pertanyaan pentingnya: apakah ada zat baru yang terbentuk?\n\nKenapa opsi lain salah: 1 dan 4 hanya perubahan fisika. Opsi D salah karena pembakaran dan reaksi soda kue menghasilkan zat baru."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "pemisahan-campuran"
+    ],
+    "is_active": true,
+    "question": "Siswa memiliki campuran berisi beras, pasir halus, dan air. Ia ingin memisahkan beras terlebih dahulu karena ukuran butir beras jauh lebih besar daripada pasir.\n\nAlat yang paling tepat digunakan pada langkah pertama adalah ...",
+    "options": [
+      "Magnet, karena sebagian besar bahan makanan tertarik magnet.",
+      "Pemanas, karena beras akan menguap lebih dulu.",
+      "Ayakan atau saringan berlubang sesuai ukuran, karena memisahkan berdasarkan ukuran partikel",
+      "Lakmus, karena perubahan bentuk sering dikira sama dengan perubahan jenis zat, karena perubahan bentuk diperlakukan seperti perubahan jenis zat."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Beras memiliki ukuran butir jauh lebih besar daripada pasir halus. Perbedaan ukuran dapat dimanfaatkan untuk pemisahan.\n\nLangkah 2: Ayakan atau saringan dengan lubang yang sesuai dapat menahan beras dan membiarkan pasir halus serta air lewat.\n\nLangkah 3: Metode ini disebut pemisahan berdasarkan ukuran partikel. Ini berbeda dari magnet atau penguapan yang memakai sifat bahan lain.\n\nLangkah 4: Jadi alat pertama yang paling tepat adalah ayakan atau saringan.\n\n**Materi terkait:**\n- Campuran dapat dipisahkan berdasarkan sifat komponennya.\n- Perbedaan ukuran partikel dapat dipisahkan dengan ayakan atau saringan.\n- Magnet memisahkan bahan yang tertarik magnet, sedangkan pemanasan cocok untuk menguapkan cairan.\n\nInsight kunci: Pilih metode pemisahan berdasarkan sifat yang paling jelas berbeda. Pada campuran ini, perbedaan ukuran beras dan pasir adalah petunjuk utama.\n\nKenapa opsi lain salah: B salah karena beras dan pasir tidak tertarik magnet. C tidak tepat karena beras tidak menguap. D lakmus untuk menguji asam-basa, bukan memisahkan partikel."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Asam basa & pH",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "asam-basa",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Indikator alami dari kol ungu digunakan untuk menguji empat larutan. Petunjuk warna indikator: dalam larutan asam berubah merah muda, dalam larutan netral tetap ungu, dan dalam larutan basa berubah hijau kebiruan.\n\nData pengamatan:\n- Larutan A berubah merah muda.\n- Larutan B tetap ungu.\n- Larutan C berubah hijau kebiruan.\n- Larutan D berubah merah muda.\n\nJika siswa mencari larutan yang bersifat netral, pilihan yang benar adalah ...",
+    "options": [
+      "Larutan A dan D, karena warna keduanya sama sehingga sering dikira sebagai larutan netral.",
+      "Larutan C.",
+      "Larutan B",
+      "Larutan A, C, dan D."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Baca petunjuk indikator terlebih dahulu. Warna merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa.\n\nLangkah 2: Larutan A dan D berubah merah muda, sehingga keduanya bersifat asam.\n\nLangkah 3: Larutan C berubah hijau kebiruan, sehingga C bersifat basa.\n\nLangkah 4: Larutan B tetap ungu. Sesuai petunjuk, warna ungu menunjukkan larutan netral.\n\nLangkah 5: Jadi larutan netral adalah Larutan B.\n\n**Materi terkait:**\n- Indikator adalah zat yang berubah warna sesuai sifat larutan.\n- Asam, basa, dan netral dapat dikenali dari indikator tanpa mencicipi larutan.\n- pH netral berada di sekitar 7, contohnya air murni.\n\nInsight kunci: Pada soal indikator, jangan menebak dari nama larutan jika tidak diberikan. Gunakan petunjuk warna dan cocokkan satu per satu dengan data.\n\nKenapa opsi lain salah: A dan D adalah asam. C adalah basa. Opsi D mencampur asam dan basa, bukan netral.",
+    "content": {
+      "question": "Indikator alami dari kol ungu digunakan untuk menguji empat larutan. Petunjuk warna indikator: dalam larutan asam berubah merah muda, dalam larutan netral tetap ungu, dan dalam larutan basa berubah hijau kebiruan.\n\nData pengamatan:\n\nJika siswa mencari larutan yang bersifat netral, pilihan yang benar adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Indikator alami dari kol ungu digunakan untuk menguji empat larutan. Petunjuk warna indikator: dalam larutan asam berubah merah muda, dalam larutan netral tetap ungu, dan dalam larutan basa berubah hijau kebiruan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "berubah merah muda."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tetap ungu."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "berubah hijau kebiruan."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan D"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "berubah merah muda."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika siswa mencari larutan yang bersifat netral, pilihan yang benar adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Larutan A dan D, karena warna keduanya sama sehingga sering dikira sebagai larutan netral.",
+        "Larutan C.",
+        "Larutan B",
+        "Larutan A, C, dan D."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Larutan A dan D, karena warna keduanya sama sehingga sering dikira sebagai larutan netral."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Larutan C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Larutan B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Larutan A, C, dan D."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Baca petunjuk indikator terlebih dahulu. Warna merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa.\n\nLangkah 2: Larutan A dan D berubah merah muda, sehingga keduanya bersifat asam.\n\nLangkah 3: Larutan C berubah hijau kebiruan, sehingga C bersifat basa.\n\nLangkah 4: Larutan B tetap ungu. Sesuai petunjuk, warna ungu menunjukkan larutan netral.\n\nLangkah 5: Jadi larutan netral adalah Larutan B.\n\n**Materi terkait:**\n- Indikator adalah zat yang berubah warna sesuai sifat larutan.\n- Asam, basa, dan netral dapat dikenali dari indikator tanpa mencicipi larutan.\n- pH netral berada di sekitar 7, contohnya air murni.\n\nInsight kunci: Pada soal indikator, jangan menebak dari nama larutan jika tidak diberikan. Gunakan petunjuk warna dan cocokkan satu per satu dengan data.\n\nKenapa opsi lain salah: A dan D adalah asam. C adalah basa. Opsi D mencampur asam dan basa, bukan netral.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca petunjuk indikator terlebih dahulu. Warna merah muda menunjukkan asam, ungu menunjukkan netral, dan hijau kebiruan menunjukkan basa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Larutan A dan D berubah merah muda, sehingga keduanya bersifat asam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Larutan C berubah hijau kebiruan, sehingga C bersifat basa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Larutan B tetap ungu. Sesuai petunjuk, warna ungu menunjukkan larutan netral."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Jadi larutan netral adalah Larutan B."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Indikator adalah zat yang berubah warna sesuai sifat larutan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Asam, basa, dan netral dapat dikenali dari indikator tanpa mencicipi larutan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- pH netral berada di sekitar 7, contohnya air murni."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pada soal indikator, jangan menebak dari nama larutan jika tidak diberikan. Gunakan petunjuk warna dan cocokkan satu per satu dengan data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: A dan D adalah asam. C adalah basa. Opsi D mencampur asam dan basa, bukan netral."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "bumi"
+    ],
+    "is_active": true,
+    "question": "Di sebuah globe, guru menandai Indonesia dengan stiker. Globe diputar perlahan di depan lampu yang mewakili Matahari. Saat stiker menghadap lampu, daerah itu terang. Saat stiker membelakangi lampu, daerah itu gelap.\n\nFenomena yang dimodelkan adalah ...",
+    "options": [
+      "Pergantian tahun akibat Bumi berhenti berputar.",
+      "Gerhana Bulan setiap hari.",
+      "Terbentuknya pelangi setelah hujan.",
+      "Siang dan malam akibat rotasi Bumi"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lampu pada model berperan sebagai Matahari. Globe berperan sebagai Bumi.\n\nLangkah 2: Saat stiker menghadap lampu, bagian itu mendapat cahaya dan mengalami siang. Saat membelakangi lampu, bagian itu gelap dan mengalami malam.\n\nLangkah 3: Globe diputar perlahan, artinya model menunjukkan **rotasi Bumi** pada porosnya.\n\nLangkah 4: Jadi fenomena yang dimodelkan adalah siang dan malam akibat rotasi Bumi.\n\n**Materi terkait:**\n- **Rotasi Bumi** adalah perputaran Bumi pada porosnya sekitar 24 jam.\n- Rotasi menyebabkan siang dan malam.\n- Bagian Bumi yang menghadap Matahari mengalami siang, sedangkan yang membelakangi Matahari mengalami malam.\n\nInsight kunci: Model globe dan lampu membantu melihat bahwa siang-malam bukan karena Matahari menghilang, melainkan karena Bumi berputar.\n\nKenapa opsi lain salah: B salah karena tahun berkaitan dengan revolusi, bukan Bumi berhenti. C tidak terjadi setiap hari. D tidak berkaitan dengan model globe dan lampu."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "cuaca-iklim",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Catatan suhu udara di Kota P selama satu hari:\n\n- Pukul 06.00: 24 derajat C.\n- Pukul 12.00: 32 derajat C.\n- Pukul 16.00: 29 derajat C.\n- Pukul 21.00: 25 derajat C.\n\nKesimpulan paling tepat dari data tersebut adalah ...",
+    "options": [
+      "Suhu udara dapat berubah dalam satu hari, sehingga data ini termasuk pengamatan cuaca harian",
+      "Data satu hari cukup untuk menentukan iklim Kota P selama puluhan tahun.",
+      "Suhu cenderung sama sepanjang hari, karena peristiwa alam sering dikira hanya dipengaruhi kondisi yang tampak saat itu.",
+      "Pukul 12.00 cenderung cenderung menjadi waktu terdingin di sebagian besar tempat."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Data menunjukkan suhu berubah dari pagi, siang, sore, hingga malam. Suhu tertinggi pada catatan ini terjadi pukul 12.00.\n\nLangkah 2: Perubahan suhu dalam satu hari termasuk pengamatan **cuaca**. Cuaca adalah kondisi atmosfer dalam waktu pendek.\n\nLangkah 3: Iklim membutuhkan data jangka panjang, biasanya bertahun-tahun. Data satu hari belum cukup untuk menyimpulkan iklim.\n\nLangkah 4: Jadi kesimpulan terbaik adalah suhu dapat berubah dalam satu hari dan data ini termasuk cuaca harian.\n\n**Materi terkait:**\n- **Cuaca** dapat berubah dari jam ke jam atau hari ke hari.\n- **Iklim** adalah pola rata-rata cuaca dalam waktu panjang.\n- Suhu udara dipengaruhi cahaya Matahari, awan, angin, ketinggian tempat, dan kondisi lingkungan.\n\nInsight kunci: Skala waktu adalah petunjuk utama. Data satu hari berbicara tentang cuaca, bukan iklim.\n\nKenapa opsi lain salah: B terlalu cepat menyimpulkan iklim. C berlawanan dengan data. D terlalu mutlak dan tidak didukung data."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-h",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi sebuah daerah perbukitan, warga mulai menambang batu secara tidak teratur di dekat aliran sungai kecil. Setelah beberapa bulan, air sungai menjadi keruh, tebing sungai mudah runtuh, dan sawah di bawahnya sering tertutup endapan lumpur.\n\nTindakan yang paling tepat untuk menjaga kelestarian lingkungan adalah ...",
+    "options": [
+      "Memperluas tambang sampai tebing sungai habis agar aliran air lebih lebar.",
+      "Mengatur lokasi tambang jauh dari aliran sungai, membuat pengendapan lumpur, dan melakukan pemulihan vegetasi di tebing",
+      "Membuang lumpur tambang langsung ke sawah karena lumpur cenderung cenderung menyuburkan, karena kondisi lingkungan setempat dikira menjadi penyebab utama semua perubahan.",
+      "Menutup masalah air keruh dengan mengecat batu sungai."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Penambangan dekat sungai dapat membuat tanah dan batuan mudah terbawa air. Ini menyebabkan air sungai menjadi keruh.\n\nLangkah 2: Tebing sungai yang terganggu menjadi lebih mudah runtuh. Material runtuhan dan lumpur dapat terbawa ke sawah di bawahnya.\n\nLangkah 3: Solusi harus mengurangi sumber kerusakan. Mengatur lokasi tambang jauh dari sungai membantu mengurangi masuknya lumpur ke aliran air.\n\nLangkah 4: Kolam atau tempat pengendapan lumpur membantu menahan partikel sebelum air masuk ke sungai. Vegetasi di tebing membantu menahan tanah.\n\nLangkah 5: Opsi A paling tepat karena menangani penyebab, jalur pencemaran, dan pemulihan lingkungan.\n\n**Materi terkait:**\n- Sumber daya alam harus dimanfaatkan dengan aturan agar tidak merusak lingkungan.\n- Vegetasi membantu menahan tanah dan mengurangi erosi.\n- Air keruh dapat mengganggu makhluk hidup air dan kegiatan manusia seperti pertanian.\n\nInsight kunci: Pemanfaatan SDA perlu melihat akibat lanjutannya. Jika kegiatan di hulu merusak sungai, dampaknya bisa sampai ke sawah dan warga di hilir.\n\nKenapa opsi lain salah: B memperparah kerusakan. C tidak benar karena lumpur tambang dapat merusak sawah. D tidak menyelesaikan masalah ilmiah apa pun."
+  }
+]

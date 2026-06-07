@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:psb.labschool-unj.sch.id)",
+      "WebFetch(domain:utbk.or.id)",
+      "WebFetch(domain:www.bintangpelajar.com)",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_IPS.md' | Select-Object -Last 80\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\07 Materi Zenius\\\\riset-materi-psb-sma-labschool.md' | Select-Object -Last 30\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_Survei_Karakter.md' | Select-String -Pattern '## 7\\\\.' -Context 5,0\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_Survei_Karakter.md' | Select-String -Pattern 'Enam Nilai dan Sinyal' -Context 0,30 | Select-Object -First 40\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_Matematika.md' | Select-String -Pattern '^## [0-9]'\")",
+      "Bash(Get-Content \"c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_Matematika.md\")",
+      "Bash(Measure-Object -Line)",
+      "PowerShell(\\(Get-Content \"c:\\\\UnCloud\\\\34 Soal TryoutJuara SMA\\\\03 Kurikulum\\\\Study_Guide_Level_1_Matematika.md\"\\).Count)",
+      "Bash(python -c \"import pdfplumber; pdf = pdfplumber.open\\('math smp 1.pdf'\\); [print\\(p.extract_text\\(\\)\\) for p in pdf.pages]\")",
+      "Bash(python -c \"import PyPDF2; r = PyPDF2.PdfReader\\('math smp 1.pdf'\\); [print\\(r.pages[i].extract_text\\(\\)\\) for i in range\\(len\\(r.pages\\)\\)]\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}

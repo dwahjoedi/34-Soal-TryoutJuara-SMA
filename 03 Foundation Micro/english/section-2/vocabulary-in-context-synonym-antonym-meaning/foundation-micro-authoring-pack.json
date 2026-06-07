@@ -1,0 +1,437 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "bahasa_inggris",
+    "topic": "Vocabulary",
+    "subtopic": "Context meaning",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa mampu memilih sinonim, antonim, dan makna kata paling sesuai konteks kalimat.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "makna_kata_berdasarkan_konteks",
+      "concept_name": "Makna kata dalam konteks",
+      "concept_description": "Menentukan sinonim, antonim, dan pilihan kata yang pas sesuai kalimat.",
+      "topic": "Vocabulary",
+      "subtopic": "Context meaning",
+      "target_error_tags": [
+        "pilih_arti_kamus_tanpa_konteks",
+        "tertipu_kata_mirip",
+        "salah_kelas_kata"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "eng-s2-main-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-2/vocabulary-in-context-synonym-antonym-meaning"
+      ],
+      "question": "The most appropriate synonym for \"reply\" is ...",
+      "options": [
+        "answer",
+        "throw",
+        "close",
+        "paint"
+      ],
+      "answer": 0,
+      "rationale": "\"Reply\" bermakna memberi tanggapan, sinonim terdekatnya adalah \"answer\".",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "tertipu_kata_mirip",
+            "error_type": "careless",
+            "diagnosis": "Kamu memilih kata yang tidak berhubungan makna dengan \"reply\".",
+            "micro_lesson": "Untuk sinonim, cari kata dengan fungsi makna yang sama, bukan sekadar familiar.",
+            "retry_question": {
+              "question": "The synonym for \"begin\" is ...",
+              "options": [
+                "start",
+                "sleep",
+                "jump",
+                "drink"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "pilih_arti_kamus_tanpa_konteks",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan ini tidak menunjukkan makna \"menjawab/tanggapan\" yang diminta.",
+            "micro_lesson": "Gunakan pertanyaan kunci: \"Jika kata ini diganti, apakah kalimat tetap masuk akal?\"",
+            "retry_question": {
+              "question": "The synonym for \"finish\" is ...",
+              "options": [
+                "end",
+                "wash",
+                "run",
+                "ask"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_kelas_kata",
+            "error_type": "concept",
+            "diagnosis": "Kata yang dipilih tidak sejenis fungsi maknanya dengan \"reply\".",
+            "micro_lesson": "Pastikan jenis kata dan makna dasar searah sebelum memilih sinonim.",
+            "retry_question": {
+              "question": "The synonym for \"small\" is ...",
+              "options": [
+                "little",
+                "sing",
+                "drink",
+                "write"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-main-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Context meaning",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-2/vocabulary-in-context-synonym-antonym-meaning"
+      ],
+      "question": "Look at the sentence: \"The room is bright.\" The meaning of \"bright\" in this sentence is ...",
+      "options": [
+        "smart",
+        "crowded",
+        "bright",
+        "narrow"
+      ],
+      "answer": 2,
+      "rationale": "Dalam konteks \"room\", kata \"bright\" berarti terang, bukan pintar.",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilih_arti_kamus_tanpa_konteks",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih arti lain dari \"bright\" yang benar di konteks berbeda, tetapi bukan untuk \"room\".",
+            "micro_lesson": "Satu kata bisa punya lebih dari satu arti. Lihat kata di sekelilingnya untuk menentukan arti tepat.",
+            "retry_question": {
+              "question": "Sentence: \"She is a bright student.\" The meaning of \"bright\" is ...",
+              "options": [
+                "smart",
+                "dark",
+                "hot",
+                "heavy"
+              ],
+              "answer": 0
+            }
+          },
+          "1": {
+            "error_tag": "tertipu_kata_mirip",
+            "error_type": "strategy",
+            "diagnosis": "Pilihanmu tidak didukung konteks kalimat.",
+            "micro_lesson": "Jangan menebak dari bunyi kata. Uji makna ke kalimat: apakah logis untuk \"room\"?",
+            "retry_question": {
+              "question": "Sentence: \"The street is quiet at night.\" The meaning of \"quiet\" is ...",
+              "options": [
+                "quiet",
+                "crowded",
+                "dark",
+                "dirty"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_kelas_kata",
+            "error_type": "careless",
+            "diagnosis": "Kamu memilih arti yang tidak sesuai gambaran sifat ruangan pada kalimat.",
+            "micro_lesson": "Fokus pada hubungan kata sifat dengan benda yang dijelaskan.",
+            "retry_question": {
+              "question": "Sentence: \"The box is heavy.\" The meaning of \"heavy\" is ...",
+              "options": [
+                "light",
+                "heavy",
+                "tall",
+                "expensive"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-main-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Word usage",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-2/vocabulary-in-context-synonym-antonym-meaning"
+      ],
+      "question": "Complete the sentence: \"Please ... your homework before dinner.\" The most appropriate word choice is ...",
+      "options": [
+        "do",
+        "make",
+        "take",
+        "build"
+      ],
+      "answer": 0,
+      "rationale": "Pasangan kata yang lazim adalah \"do homework\".",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "tertipu_kata_mirip",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih kata kerja umum, tetapi collocation untuk homework bukan \"make\".",
+            "micro_lesson": "Beberapa kata harus berpasangan tetap. Ingat pola: do homework, make a cake, take a rest.",
+            "retry_question": {
+              "question": "The correct sentence is ...",
+              "options": [
+                "I do my homework every night.",
+                "I make my homework every night.",
+                "I take my homework every night.",
+                "I build my homework every night."
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "pilih_arti_kamus_tanpa_konteks",
+            "error_type": "strategy",
+            "diagnosis": "Pilihanmu tidak sesuai pasangan kata yang alami pada kalimat ini.",
+            "micro_lesson": "Cocokkan pilihan dengan frasa yang biasa dipakai penutur asli, bukan arti lepas kata.",
+            "retry_question": {
+              "question": "Choose the correct collocation ...",
+              "options": [
+                "take a rest",
+                "do a rest",
+                "build a rest",
+                "paint a rest"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_kelas_kata",
+            "error_type": "careless",
+            "diagnosis": "Kata ini tidak sesuai konteks kegiatan belajar pada kalimat.",
+            "micro_lesson": "Uji apakah kata kerja pilihan benar-benar cocok dengan objek \"homework\".",
+            "retry_question": {
+              "question": "Complete: \"Rani ... her homework now.\"",
+              "options": [
+                "does",
+                "builds",
+                "paints",
+                "opens"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "eng-s2-drill-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "makna_kata_berdasarkan_konteks"
+      ],
+      "question": "The antonym of the word \"increase\" is ...",
+      "options": [
+        "decrease",
+        "arrive",
+        "listen",
+        "smile"
+      ],
+      "answer": 0,
+      "rationale": "\"Increase\" berlawanan makna dengan \"decrease\".",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "drill_focus": {
+          "source_error_tags": [
+            "tertipu_kata_mirip"
+          ],
+          "notes": "Penguatan antonim dasar."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-drill-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Context meaning",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "makna_kata_berdasarkan_konteks"
+      ],
+      "question": "Sentence: \"The soup is hot.\" The meaning of \"hot\" in this sentence is ...",
+      "options": [
+        "cold",
+        "hot",
+        "expensive",
+        "funny"
+      ],
+      "answer": 1,
+      "rationale": "Dalam konteks soup, hot berarti panas.",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "drill_focus": {
+          "source_error_tags": [
+            "pilih_arti_kamus_tanpa_konteks"
+          ],
+          "notes": "Makna kata berdasarkan benda di sekitarnya."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-drill-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Word usage",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "makna_kata_berdasarkan_konteks"
+      ],
+      "question": "Choose the correct phrase ...",
+      "options": [
+        "make homework",
+        "do homework",
+        "take homework",
+        "build homework"
+      ],
+      "answer": 1,
+      "rationale": "Collocation yang benar adalah do homework.",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_kelas_kata"
+          ],
+          "notes": "Penguatan collocation sehari-hari."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-drill-04",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "makna_kata_berdasarkan_konteks"
+      ],
+      "question": "The synonym for \"quit\" is ...",
+      "options": [
+        "stop",
+        "start",
+        "paint",
+        "answer"
+      ],
+      "answer": 0,
+      "rationale": "\"Quit\" paling dekat maknanya dengan \"stop\".",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "drill_focus": {
+          "source_error_tags": [
+            "tertipu_kata_mirip",
+            "pilih_arti_kamus_tanpa_konteks"
+          ],
+          "notes": "Synonym dengan jebakan lawan makna."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s2-drill-05",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Context meaning",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "makna_kata_berdasarkan_konteks"
+      ],
+      "question": "Sentence: \"The question is easy.\" The meaning of \"easy\" is ...",
+      "options": [
+        "difficult",
+        "easy",
+        "fast",
+        "slow"
+      ],
+      "answer": 1,
+      "rationale": "Dalam konteks soal, easy berarti mudah.",
+      "microLoop": {
+        "concept_id": "makna_kata_berdasarkan_konteks",
+        "drill_focus": {
+          "source_error_tags": [
+            "pilih_arti_kamus_tanpa_konteks"
+          ],
+          "notes": "Penguatan makna kata sifat umum."
+        }
+      }
+    }
+  ]
+}

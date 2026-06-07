@@ -1,0 +1,834 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Aljabar",
+    "subtopic": "Relasi & fungsi",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep relasi & fungsi sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "relasi_fungsi_dasar",
+      "concept_name": "Fondasi Relasi & fungsi",
+      "concept_description": "Penguatan konsep inti relasi & fungsi dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Aljabar",
+      "subtopic": "Relasi & fungsi",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "relasi-dan-fungsi-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "relasi-dan-fungsi"
+      ],
+      "question": "**Jika**$y=x+3$,maka $saatx=5nilai$ y...",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "rationale": "$5+3=8$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 7 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=x+3,maka saatx=5nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 9 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=x+3,maka saatx=5nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=x+3,maka saatx=5nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "relasi-dan-fungsi"
+      ],
+      "question": "**Jika**$y=2x$ ,maka $saatx=6nilai$ y...",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 2,
+      "rationale": "$2x6=12$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=2x ,maka saatx=6nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 11 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=2x ,maka saatx=6nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 13 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=2x ,maka saatx=6nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "relasi-dan-fungsi"
+      ],
+      "question": "**Pasangan** yang cocok $untuky=x+1$ adalah...",
+      "options": [
+        "(2,4)",
+        "(3,4)",
+        "(4,6)",
+        "(5,7)"
+      ],
+      "answer": 1,
+      "rationale": "$3+1=4$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih (2,4) tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ((3,4)). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pasangan yang cocok untuky=x+1 adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih (4,6) tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ((3,4)). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pasangan yang cocok untuky=x+1 adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih (5,7) tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ((3,4)). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pasangan yang cocok untuky=x+1 adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "relasi-dan-fungsi"
+      ],
+      "question": "**Jika**$y=3x-2$ ,maka $untukx=4nilai$ y...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 2,
+      "rationale": "$12-2=10$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=3x-2 ,maka untukx=4nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 9 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=3x-2 ,maka untukx=4nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 11 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikay=3x-2 ,maka untukx=4nilai y...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "relasi-dan-fungsi"
+      ],
+      "question": "Aturan dari pasangan (1,5), (2,8), (3,11) adalah...",
+      "options": [
+        "$y=x+4$",
+        "$y=2x+1$",
+        "$y=3x+2$",
+        "$y=3x-1$"
+      ],
+      "answer": 2,
+      "rationale": "Pola naik 3, $cocoky=3x+2$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $y=x+4$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($y=3x+2$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Aturan dari pasangan (1,5), (2,8), (3,11) adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $y=2x+1$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($y=3x+2$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Aturan dari pasangan (1,5), (2,8), (3,11) adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $y=3x-1$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($y=3x+2$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Aturan dari pasangan (1,5), (2,8), (3,11) adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "relasi-dan-fungsi-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=x+4danx=2$ , y...",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "rationale": "$2+4=6$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pasangan_input_output_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=2x+3danx=3$ , y...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "rationale": "$2(3)+3=9$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "aturan_fungsi_tidak_konsisten"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Pasangan** $untuky=2xadalah$...",
+      "options": [
+        "(2,3)",
+        "(4,8)",
+        "(5,8)",
+        "(3,5)"
+      ],
+      "answer": 1,
+      "rationale": "$2x4=8$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_input_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=5-xdanx=1$ , y...",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "rationale": "$5-1=4$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pasangan_input_output_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=3xdanx=7$ , y...",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "answer": 3,
+      "rationale": "$3x7=21$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "aturan_fungsi_tidak_konsisten"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "Aturan dari (1,2), (2,4), (3,6)...",
+      "options": [
+        "$y=x+1$",
+        "$y=2x$",
+        "$y=3x$",
+        "$y=x+2$"
+      ],
+      "answer": 1,
+      "rationale": "Kali 2.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_input_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=x-2danx=9$ , y...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$9-2=7$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pasangan_input_output_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=4x+1danx=2$ , y...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "rationale": "$8+1=9$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "aturan_fungsi_tidak_konsisten"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Pasangan** yang $sesuaiy=x+5$...",
+      "options": [
+        "(2,6)",
+        "(3,7)",
+        "(4,9)",
+        "(5,9)"
+      ],
+      "answer": 2,
+      "rationale": "$Untukx=4$ , $y=4+5=9$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_input_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=2x-1danx=5$ , y...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "rationale": "$10-1=9$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pasangan_input_output_tertukar"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "Aturan dari (2,5), (3,7), (4,9)...",
+      "options": [
+        "$y=2x+1$",
+        "$y=x+3$",
+        "$y=2x-1$",
+        "$y=x+2$"
+      ],
+      "answer": 0,
+      "rationale": "Semua pasangan cocok dengan $aturany=2x+1$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "aturan_fungsi_tidak_konsisten"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "relasi-dan-fungsi-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Relasi & fungsi",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_fungsi_dasar"
+      ],
+      "question": "**Jika**$y=3x+1danx=3$ , y...",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 1,
+      "rationale": "$9+1=10$.",
+      "microLoop": {
+        "concept_id": "relasi_fungsi_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_input_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Aljabar",
+    "subtopic": "Operasi aljabar",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep operasi aljabar sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "operasi_aljabar_dasar",
+      "concept_name": "Fondasi Operasi aljabar",
+      "concept_description": "Penguatan konsep inti operasi aljabar dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Aljabar",
+      "subtopic": "Operasi aljabar",
+      "target_error_tags": [
+        "pilihan_tidak_sesuai_model",
+        "numeric_mismatch"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "operasi-aljabar-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "operasi-aljabar"
+      ],
+      "question": "Sederhanakan 3x + 5x =...",
+      "options": [
+        "8",
+        "8x",
+        "15x",
+        "2x"
+      ],
+      "answer": 1,
+      "rationale": "Suku sejenis: $3x+5x=8x$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 8 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (8x). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 3x + 5x =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 15x tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (8x). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 3x + 5x =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 2x tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (8x). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 3x + 5x =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "operasi-aljabar"
+      ],
+      "question": "Sederhanakan 9y - 4y =...",
+      "options": [
+        "13y",
+        "5y",
+        "5",
+        "9y"
+      ],
+      "answer": 1,
+      "rationale": "$9y-4y=5y$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 13y tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (5y). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 9y - 4y =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 5 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (5y). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 9y - 4y =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 9y tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (5y). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 9y - 4y =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "operasi-aljabar"
+      ],
+      "question": "**Jika**$x=3$ , nilai 2x+5 adalah...",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 1,
+      "rationale": "$2(3)+5=11$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (11), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikax=3 , nilai 2x+5 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 12 hampir sama dengan jawaban benar (11), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikax=3 , nilai 2x+5 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 13 hampir sama dengan jawaban benar (11), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikax=3 , nilai 2x+5 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "operasi-aljabar"
+      ],
+      "question": "**Jika**$a=4$ , nilai 3a-2 adalah...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 2,
+      "rationale": "$3(4)-2=10$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikaa=4 , nilai 3a-2 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 9 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikaa=4 , nilai 3a-2 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 11 hampir sama dengan jawaban benar (10), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Jikaa=4 , nilai 3a-2 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "operasi-aljabar"
+      ],
+      "question": "Sederhanakan 4p + 3 - p =...",
+      "options": [
+        "3p+3",
+        "4p+3",
+        "5p+3",
+        "3p"
+      ],
+      "answer": 0,
+      "rationale": "$4p-p=3p$ , sisanya +3.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 4p+3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (3p+3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 4p + 3 - p =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 5p+3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (3p+3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 4p + 3 - p =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 3p tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (3p+3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sederhanakan 4p + 3 - p =...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "operasi-aljabar-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "2m+6m =...",
+      "options": [
+        "6m",
+        "8m",
+        "12m",
+        "8"
+      ],
+      "answer": 1,
+      "rationale": "$2m+6m=8m$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "suku_sejenis_tidak_digabung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "10k-3k =...",
+      "options": [
+        "13k",
+        "7k",
+        "7",
+        "3k"
+      ],
+      "answer": 1,
+      "rationale": "$10k-3k=7k$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "koefisien_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "**Jika**$x=5$ ,maka x+8 =...",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": 1,
+      "rationale": "$5+8=13$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_keliru"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "**Jika**$y=2$ ,maka 4y-1 =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$8-1=7$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "suku_sejenis_tidak_digabung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "Sederhanakan 6a-a+2 =...",
+      "options": [
+        "5a+2",
+        "7a+2",
+        "5a",
+        "6a+1"
+      ],
+      "answer": 0,
+      "rationale": "$6a-a=5a$ , lalu +2.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "koefisien_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "3b+2b =...",
+      "options": [
+        "5b",
+        "6b",
+        "5",
+        "b"
+      ],
+      "answer": 0,
+      "rationale": "$3b+2b=5b$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_keliru"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "**Jika**$p=3$ , nilai 5p adalah...",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": 1,
+      "rationale": "$5x3=15$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "suku_sejenis_tidak_digabung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "Sederhanakan 8x-5x+4 =...",
+      "options": [
+        "3x+4",
+        "13x+4",
+        "3x-4",
+        "8x+4"
+      ],
+      "answer": 0,
+      "rationale": "$8x-5x=3x$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "koefisien_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "**Jika**$a=2$ ,nilai a+a+a =...",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "rationale": "$2+2+2=6$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_keliru"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "Sederhanakan 7m-2m-3m =...",
+      "options": [
+        "2m",
+        "3m",
+        "4m",
+        "5m"
+      ],
+      "answer": 0,
+      "rationale": "$7m-2m-3m=2m$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "suku_sejenis_tidak_digabung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "**Jika**$x=4$ , nilai 3x+2x adalah...",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "answer": 2,
+      "rationale": "5x $denganx=4menjadi$ 20.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "koefisien_salah_hitung"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-aljabar-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Operasi aljabar",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_aljabar_dasar"
+      ],
+      "question": "Sederhanakan 9p-p =...",
+      "options": [
+        "7p",
+        "8p",
+        "9p",
+        "p"
+      ],
+      "answer": 1,
+      "rationale": "$9p-p=8p$.",
+      "microLoop": {
+        "concept_id": "operasi_aljabar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "substitusi_nilai_keliru"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

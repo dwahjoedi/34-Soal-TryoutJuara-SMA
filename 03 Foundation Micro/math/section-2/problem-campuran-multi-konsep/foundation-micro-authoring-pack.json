@@ -1,0 +1,834 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Problem campuran multi-konsep",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep problem campuran multi-konsep sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "problem_campuran_dasar",
+      "concept_name": "Fondasi Problem campuran multi-konsep",
+      "concept_description": "Penguatan konsep inti problem campuran multi-konsep dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Pemodelan Matematika",
+      "subtopic": "Problem campuran multi-konsep",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "problem-campuran-multi-konsep-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "problem-campuran-multi-konsep"
+      ],
+      "question": "Ibu membeli 3 buku @Rp8.000 dan 2 pensil @Rp2.500. Total bayar...",
+      "options": [
+        "Rp27.000",
+        "Rp28.000",
+        "Rp29.000",
+        "Rp30.000"
+      ],
+      "answer": 2,
+      "rationale": "3x8.000 + 2x2. $500=24$.000 + 5. $000=29$.000.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp27.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp29.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Ibu membeli 3 buku @Rp8.000 dan 2 pensil @Rp2.500. Total bayar...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp28.000 menghasilkan bilangan yang lebih kecil dari jawaban benar (Rp29.000). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Ibu membeli 3 buku @Rp8.000 dan 2 pensil @Rp2.500. Total bayar...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Rp30.000 menghasilkan bilangan yang lebih besar dari jawaban benar (Rp29.000). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Ibu membeli 3 buku @Rp8.000 dan 2 pensil @Rp2.500. Total bayar...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "problem-campuran-multi-konsep"
+      ],
+      "question": "Tangki berisi 120 liter, dipakai 35 liter lalu ditambah 20 liter. Isi akhir...",
+      "options": [
+        "95",
+        "100",
+        "105",
+        "110"
+      ],
+      "answer": 2,
+      "rationale": "$120-35+20=105$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 95 menghasilkan bilangan yang lebih kecil dari jawaban benar (105). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Tangki berisi 120 liter, dipakai 35 liter lalu ditambah 20 liter. Isi akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 100 menghasilkan bilangan yang lebih kecil dari jawaban benar (105). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Tangki berisi 120 liter, dipakai 35 liter lalu ditambah 20 liter. Isi akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 110 menghasilkan bilangan yang lebih besar dari jawaban benar (105). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Tangki berisi 120 liter, dipakai 35 liter lalu ditambah 20 liter. Isi akhir...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "problem-campuran-multi-konsep"
+      ],
+      "question": "Skala 1:1000, jarak peta 6 cm. Jarak sebenarnya...",
+      "options": [
+        "30 m",
+        "40 m",
+        "50 m",
+        "60 m"
+      ],
+      "answer": 3,
+      "rationale": "$6x1000cm=6000cm=60m$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 30 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (60 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 6 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 40 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (60 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 6 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 50 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (60 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 6 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "problem-campuran-multi-konsep"
+      ],
+      "question": "**Nilai** ulangan: 70, 80, 90. Rata-rata...",
+      "options": [
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "answer": 1,
+      "rationale": "$(70+80+90)/3=80$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 75 menghasilkan bilangan yang lebih kecil dari jawaban benar (80). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Nilai ulangan: 70, 80, 90. Rata-rata...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 85 menghasilkan bilangan yang lebih besar dari jawaban benar (80). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Nilai ulangan: 70, 80, 90. Rata-rata...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 90 menghasilkan bilangan yang lebih besar dari jawaban benar (80). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Nilai ulangan: 70, 80, 90. Rata-rata...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "problem-campuran-multi-konsep"
+      ],
+      "question": "Sebuah barang Rp200.000 didiskon 15%. Harga akhir...",
+      "options": [
+        "160.000",
+        "165.000",
+        "170.000",
+        "175.000"
+      ],
+      "answer": 2,
+      "rationale": "Diskon 30.000, akhir 170.000.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 160.000 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (170.000). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sebuah barang Rp200.000 didiskon 15%. Harga akhir...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 165.000 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (170.000). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sebuah barang Rp200.000 didiskon 15%. Harga akhir...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 175.000 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (170.000). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Sebuah barang Rp200.000 didiskon 15%. Harga akhir...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "2 roti @5.000 dan 3 susu @4.000. Total...",
+      "options": [
+        "20.000",
+        "22.000",
+        "24.000",
+        "26.000"
+      ],
+      "answer": 1,
+      "rationale": "10.000+12. $000=22$.000.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "informasi_penting_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Persediaan 90 kg dipakai 25 kg. Sisa...",
+      "options": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "answer": 2,
+      "rationale": "$90-25=65$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_multi_langkah_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "**Dari** 70 siswa, 40% perempuan. Jumlah perempuan...",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "answer": 2,
+      "rationale": "40% $x70=28$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_satuan_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "$\\frac{3}{4}$ dari 40 adalah...",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "answer": 2,
+      "rationale": "0,75 $x40=30$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "informasi_penting_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Keliling persegi sisi 12 cm adalah...",
+      "options": [
+        "36",
+        "44",
+        "48",
+        "52"
+      ],
+      "answer": 2,
+      "rationale": "$4x12=48$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_multi_langkah_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Luas persegi $panjangp=8$ , $l=5$ adalah...",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": 1,
+      "rationale": "$8x5=40$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_satuan_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Waktu 2 jam 30 menit sama dengan... menit",
+      "options": [
+        "130",
+        "140",
+        "150",
+        "160"
+      ],
+      "answer": 2,
+      "rationale": "$120+30=150$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "informasi_penting_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Harga Rp50.000 naik 10%, harga baru...",
+      "options": [
+        "52.000",
+        "54.000",
+        "55.000",
+        "56.000"
+      ],
+      "answer": 2,
+      "rationale": "Naik 5.000 jadi 55.000.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_multi_langkah_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Data 6, 8, 10, 12. Rata-rata...",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{36}{4}=9$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_satuan_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "1,5 liter =... ml",
+      "options": [
+        "150",
+        "500",
+        "1000",
+        "1500"
+      ],
+      "answer": 3,
+      "rationale": "$1L=1000ml$.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "informasi_penting_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Perbandingan 2:3 total 25, nilai besar...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "1 bagian 5, besar 15.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_multi_langkah_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "problem-campuran-multi-konsep-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Pemodelan Matematika",
+      "subtopicId": null,
+      "subtopic": "Problem campuran multi-konsep",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "problem_campuran_dasar"
+      ],
+      "question": "Barang modal 80.000 untung 25%. Harga jual...",
+      "options": [
+        "90.000",
+        "95.000",
+        "100.000",
+        "105.000"
+      ],
+      "answer": 2,
+      "rationale": "Untung 20.000, jual 100.000.",
+      "microLoop": {
+        "concept_id": "problem_campuran_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_satuan_terlewat"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

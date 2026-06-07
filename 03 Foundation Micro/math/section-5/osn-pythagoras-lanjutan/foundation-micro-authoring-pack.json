@@ -1,0 +1,845 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "grade_band": "smp_foundation",
+    "student_goal": "Siswa memahami dan menerapkan konsep teorema pythagoras secara konsisten.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "osn_pythagoras_lanjutan_core",
+      "concept_name": "Fondasi Teorema Pythagoras",
+      "concept_description": "Penguasaan dasar untuk subtopik teorema pythagoras.",
+      "topic": "Geometri",
+      "subtopic": "Teorema Pythagoras",
+      "target_error_tags": [
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "osn-pythagoras-lanjutan-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-5",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Soal utama 1: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.",
+      "options": [
+        "Opsi A 1",
+        "Opsi B 1",
+        "Opsi C 1",
+        "Opsi D 1"
+      ],
+      "answer": 0,
+      "rationale": "Gunakan konsep teorema pythagoras secara bertahap, lalu cek kembali hasil akhir.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi B 1 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 1: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi C 1 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 1: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi D 1 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 1: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-5",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Soal utama 2: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.",
+      "options": [
+        "Opsi A 2",
+        "Opsi B 2",
+        "Opsi C 2",
+        "Opsi D 2"
+      ],
+      "answer": 1,
+      "rationale": "Gunakan konsep teorema pythagoras secara bertahap, lalu cek kembali hasil akhir.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi A 2 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi B 2). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 2: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi C 2 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi B 2). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 2: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi D 2 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi B 2). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 2: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-5",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Soal utama 3: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.",
+      "options": [
+        "Opsi A 3",
+        "Opsi B 3",
+        "Opsi C 3",
+        "Opsi D 3"
+      ],
+      "answer": 2,
+      "rationale": "Gunakan konsep teorema pythagoras secara bertahap, lalu cek kembali hasil akhir.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi A 3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi C 3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 3: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi B 3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi C 3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 3: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi D 3 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi C 3). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 3: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-5",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Soal utama 4: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.",
+      "options": [
+        "Opsi A 4",
+        "Opsi B 4",
+        "Opsi C 4",
+        "Opsi D 4"
+      ],
+      "answer": 3,
+      "rationale": "Gunakan konsep teorema pythagoras secara bertahap, lalu cek kembali hasil akhir.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi A 4 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi D 4). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 4: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi B 4 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi D 4). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 4: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi C 4 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi D 4). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 4: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-5",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Soal utama 5: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.",
+      "options": [
+        "Opsi A 5",
+        "Opsi B 5",
+        "Opsi C 5",
+        "Opsi D 5"
+      ],
+      "answer": 0,
+      "rationale": "Gunakan konsep teorema pythagoras secara bertahap, lalu cek kembali hasil akhir.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi B 5 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 5). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 5: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi C 5 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 5). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 5: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih Opsi D 5 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (Opsi A 5). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «[Teorema Pythagoras] Soal utama 5: tentukan jawaban yang paling tepat sesuai konsep teorema pythagoras.».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 1: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A1",
+        "Pilihan B1",
+        "Pilihan C1",
+        "Pilihan D1"
+      ],
+      "answer": 1,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "concept_mismatch"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 2: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A2",
+        "Pilihan B2",
+        "Pilihan C2",
+        "Pilihan D2"
+      ],
+      "answer": 2,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "operation_step_error"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 3: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A3",
+        "Pilihan B3",
+        "Pilihan C3",
+        "Pilihan D3"
+      ],
+      "answer": 3,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "careless_reading"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 4: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A4",
+        "Pilihan B4",
+        "Pilihan C4",
+        "Pilihan D4"
+      ],
+      "answer": 0,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "concept_mismatch"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 5: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A5",
+        "Pilihan B5",
+        "Pilihan C5",
+        "Pilihan D5"
+      ],
+      "answer": 1,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "operation_step_error"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 6: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A6",
+        "Pilihan B6",
+        "Pilihan C6",
+        "Pilihan D6"
+      ],
+      "answer": 2,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "careless_reading"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 7: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A7",
+        "Pilihan B7",
+        "Pilihan C7",
+        "Pilihan D7"
+      ],
+      "answer": 3,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "concept_mismatch"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 8: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A8",
+        "Pilihan B8",
+        "Pilihan C8",
+        "Pilihan D8"
+      ],
+      "answer": 0,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "operation_step_error"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 9: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A9",
+        "Pilihan B9",
+        "Pilihan C9",
+        "Pilihan D9"
+      ],
+      "answer": 1,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "careless_reading"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 10: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A10",
+        "Pilihan B10",
+        "Pilihan C10",
+        "Pilihan D10"
+      ],
+      "answer": 2,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "concept_mismatch"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 11: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A11",
+        "Pilihan B11",
+        "Pilihan C11",
+        "Pilihan D11"
+      ],
+      "answer": 3,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "operation_step_error"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    },
+    {
+      "questionId": "osn-pythagoras-lanjutan-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Geometri",
+      "subtopicId": null,
+      "subtopic": "Teorema Pythagoras",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "math",
+        "osn-pythagoras-lanjutan"
+      ],
+      "question": "[Teorema Pythagoras] Drill 12: kerjakan latihan terarah untuk penguatan konsep.",
+      "options": [
+        "Pilihan A12",
+        "Pilihan B12",
+        "Pilihan C12",
+        "Pilihan D12"
+      ],
+      "answer": 0,
+      "rationale": "Latihan ini menguatkan akurasi pada konsep teorema pythagoras.",
+      "microLoop": {
+        "concept_id": "osn_pythagoras_lanjutan_core",
+        "drill_focus": {
+          "source_error_tags": [
+            "careless_reading"
+          ],
+          "notes": "Drill penguatan konsep inti."
+        }
+      }
+    }
+  ]
+}

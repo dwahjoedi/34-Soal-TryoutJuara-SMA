@@ -1,0 +1,145 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "<isi topic, mis. Bilangan & Operasi>",
+    "subtopic": "<isi subtopic utama, mis. Bilangan bulat>",
+    "grade_band": "<mis. smp_foundation>",
+    "student_goal": "<isi tujuan penguasaan siswa>",
+    "requested_micro_concept_count": 4,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "<snake_case_concept_id>",
+      "concept_name": "<nama concept singkat>",
+      "concept_description": "<deskripsi concept yang sempit dan spesifik>",
+      "topic": "<nama topic>",
+      "subtopic": "<nama subtopic>",
+      "target_error_tags": [
+        "<error_tag_1>",
+        "<error_tag_2>",
+        "<error_tag_3>"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "<unique_question_id>",
+      "subject": "matematika",
+      "topicId": "<optional_uuid_topic_id>",
+      "topic": "<nama topic>",
+      "subtopicId": "<optional_uuid_subtopic_id>",
+      "subtopic": "<nama subtopic>",
+      "difficulty": "easy",
+      "skillType": "<recall | understanding | application | reasoning | multi_step_problem>",
+      "questionType": "<direct | story_problem | multi_step | visual_analysis | concept_check>",
+      "tags": [
+        "foundation_micro",
+        "<tag_topic>",
+        "<tag_concept>"
+      ],
+      "question": "<teks soal>",
+      "options": [
+        "<opsi_a>",
+        "<opsi_b>",
+        "<opsi_c>",
+        "<opsi_d>"
+      ],
+      "answer": 0,
+      "rationale": "<penjelasan jawaban benar yang singkat dan jelas>",
+      "microLoop": {
+        "concept_id": "<snake_case_concept_id>",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "<snake_case_error_tag>",
+            "error_type": "concept",
+            "diagnosis": "<kenapa siswa kemungkinan memilih opsi ini>",
+            "micro_lesson": "<penjelasan singkat untuk meluruskan miskonsepsi>",
+            "retry_question": {
+              "question": "<soal retry yang lebih sederhana tapi menguji miskonsepsi yang sama>",
+              "options": [
+                "<opsi_a>",
+                "<opsi_b>",
+                "<opsi_c>",
+                "<opsi_d>"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "<snake_case_error_tag>",
+            "error_type": "careless",
+            "diagnosis": "<diagnosis pilihan salah kedua>",
+            "micro_lesson": "<micro lesson kedua>",
+            "retry_question": {
+              "question": "<retry kedua>",
+              "options": [
+                "<opsi_a>",
+                "<opsi_b>",
+                "<opsi_c>",
+                "<opsi_d>"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "<snake_case_error_tag>",
+            "error_type": "strategy",
+            "diagnosis": "<diagnosis pilihan salah ketiga>",
+            "micro_lesson": "<micro lesson ketiga>",
+            "retry_question": {
+              "question": "<retry ketiga>",
+              "options": [
+                "<opsi_a>",
+                "<opsi_b>",
+                "<opsi_c>",
+                "<opsi_d>"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "<unique_drill_question_id>",
+      "subject": "matematika",
+      "topicId": "<optional_uuid_topic_id>",
+      "topic": "<nama topic>",
+      "subtopicId": "<optional_uuid_subtopic_id>",
+      "subtopic": "<nama subtopic>",
+      "difficulty": "easy",
+      "skillType": "<recall | understanding | application | reasoning | multi_step_problem>",
+      "questionType": "<direct | story_problem | multi_step | visual_analysis | concept_check>",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "<tag_concept>"
+      ],
+      "question": "<teks soal drill>",
+      "options": [
+        "<opsi_a>",
+        "<opsi_b>",
+        "<opsi_c>",
+        "<opsi_d>"
+      ],
+      "answer": 0,
+      "rationale": "<penjelasan singkat>",
+      "microLoop": {
+        "concept_id": "<snake_case_concept_id>",
+        "drill_focus": {
+          "source_error_tags": [
+            "<error_tag_1>",
+            "<error_tag_2>"
+          ],
+          "notes": "<opsional, jelaskan fokus penguatan item ini>"
+        }
+      }
+    }
+  ]
+}

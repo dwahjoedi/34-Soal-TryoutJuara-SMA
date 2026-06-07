@@ -1,0 +1,442 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "fpb"
+    ],
+    "is_active": true,
+    "question": "Panitia festival buku sekolah ingin membuat paket souvenir identik untuk murid. Mereka menyediakan 84 buku komik tipis, 126 buku panduan ringkas, dan 168 pembatas halaman dari karton. Setiap paket harus memuat ketiga jenis barang dengan jumlah tiap jenis sama persis di setiap paket, dan tidak boleh ada sisa. Kepala panitia menekankan bahwa semakin banyak paket, semakin banyak murid yang mendapat bagian adil. Namun, setiap paket tetap harus berisi minimal satu pembatas halaman. Banyak paket maksimal yang dapat dibuat adalah ...",
+    "options": [
+      "42",
+      "28",
+      "36",
+      "48"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Kata kunci *tanpa sisa* dan *sebanyak mungkin paket identik* mengarah ke **FPB**, karena kita mencari bilangan terbesar yang membagi habis ketiga jumlah sekaligus.\nLangkah 2: Faktorisasi prima: $84=2^2\\times3\\times7$, $126=2\\times3^2\\times7$, $168=2^3\\times3\\times7$.\nLangkah 3: **FPB** memakai pangkat terkecil tiap faktor prima yang sama: $2\\times3\\times7=42$.\nLangkah 4: Cek pembagian: $84\\div42=2$, $126\\div42=3$, $168\\div42=4$, semuanya bulat.\nLangkah 5: Jadi banyak paket maksimal adalah **42**.\n**Materi terkait:**\n- **FPB** untuk membagi merata menjadi kelompok terbanyak.\n- Jangan tertukar dengan **KPK** yang dipakai untuk periode berulang.\nInsight kunci: Cerita panjang sering menyembunyikan inti di kata *maksimal* dan *identik*. Setelah model benar, hitungannya singkat asal faktorisasi rapi.\nKenapa opsi lain salah: Angka lain biasanya hasil salah memilih pangkat prima atau salah menggunakan **KPK**.\nJawaban akhir: **42**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "kpk"
+    ],
+    "is_active": true,
+    "question": "Di aula sekolah dipasang tiga lampu hias untuk pentas malam. Ketiga lampu menyala bersamaan tepat pukul 18.20. Lampu biru berkedip setiap 16 detik, lampu kuning setiap 20 detik, dan lampu putih setiap 24 detik. Penjaga aula mencatat setiap kali ketiganya kembali menyala bersamaan. Untuk pertama kali setelah pukul 18.20, ketiganya menyala bersamaan lagi pada pukul ...",
+    "options": [
+      "18.26",
+      "18.24",
+      "18.28",
+      "18.30"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Soal ini bertanya *kapan bertemu lagi*, jadi kita pakai **KPK** dari periode $16$, $20$, dan $24$ detik.\nLangkah 2: Faktorisasi: $16=2^4$, $20=2^2\\times5$, $24=2^3\\times3$.\nLangkah 3: **KPK** $=2^4\\times3\\times5=240$ detik.\nLangkah 4: Ubah $240$ detik ke menit: $240\\div60=4$ menit.\nLangkah 5: Tambahkan ke 18.20, diperoleh **18.24**.\n**Materi terkait:**\n- **KPK** untuk sinkronisasi periode berulang.\n- Konversi detik–menit sering jadi titik rawan.\nInsight kunci: Narasi panjang membantu konteks, tetapi kunci matematisnya tetap membaca apakah soal minta **FPB** atau **KPK**.\nKenapa opsi lain salah: Opsi lain biasanya muncul jika salah menghitung **KPK** atau salah menambahkan waktu ke jam semula.\nJawaban akhir: **18.24**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "pecahan"
+    ],
+    "is_active": true,
+    "question": "Depot air sekolah memiliki tangki besar. Pada pagi hari, tangki terisi $\\frac{2}{5}$ bagian dari kapasitas penuh. Siang hari, petugas menambahkan air sebanyak $\\frac{1}{10}$ bagian dari kapasitas penuh. Setelah kedua tahap itu, petugas mencatat bahwa air di dalam tangki masih kurang $75$ liter lagi agar tangki benar-benar penuh. Kapasitas penuh tangki tersebut adalah ...",
+    "options": [
+      "120 liter",
+      "180 liter",
+      "150 liter",
+      "210 liter"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Jumlah bagian air setelah penambahan adalah $\\frac{2}{5}+\\frac{1}{10}=\\frac{4}{10}+\\frac{1}{10}=\\frac{1}{2}$.\nLangkah 2: Artinya setengah tangki sudah terisi, sehingga bagian yang masih kosong adalah $1-\\frac{1}{2}=\\frac{1}{2}$.\nLangkah 3: Informasi *kurang $75$ liter sampai penuh* berarti $\\frac{1}{2}$ kapasitas sama dengan $75$ liter.\nLangkah 4: Kapasitas penuh $=75\\times2=150$ liter.\nLangkah 5: Cek balik: $\\frac{1}{2}\\times150=75$ liter, sesuai narasi.\n**Materi terkait:**\n- Menyamai penyebut sebelum menjumlahkan **pecahan** bagian.\n- Bagian sisa sering disembunyikan dalam kalimat panjang.\nInsight kunci: Ubah cerita menjadi model $\\text{bagian terisi}$ lalu gunakan pelengkap ke $1$ untuk menemukan bagian kosong.\nKenapa opsi lain salah: Opsi lain biasanya muncul dari salah menyamakan penyebut atau salah mengartikan *kurang* sebagai *habis dipakai*.\nJawaban akhir: **150 liter**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "persen"
+    ],
+    "is_active": true,
+    "question": "Sebuah toko online menetapkan harga dasar jaket Rp250.000. Harga itu dinaikkan (mark up) $20\\%$ untuk harga etalase. Minggu promo, pembeli mendapat diskon $10\\%$ dari harga etalase. Setelah itu, biaya layanan aplikasi sebesar $10\\%$ dihitung dari harga setelah diskon, dan ditambahkan ke tagihan pembeli. Harga akhir yang harus dibayar pembeli adalah ...",
+    "options": [
+      "Rp272.250",
+      "Rp280.500",
+      "Rp303.750",
+      "Rp297.000"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Harga etalase setelah mark up: $250000\\times1{,}2=300000$.\nLangkah 2: Diskon $10\\%$ dari etalase: $300000\\times0{,}9=270000$.\nLangkah 3: Biaya layanan $10\\%$ dari harga setelah diskon: $0{,}1\\times270000=27000$.\nLangkah 4: Tagihan akhir: $270000+27000=297000$.\nLangkah 5: Jadi pembeli membayar **Rp297.000**.\n**Materi terkait:**\n- **Persen bertingkat** memakai basis nilai yang berubah setiap tahap.\nInsight kunci: Kesalahan umum adalah menjumlahkan atau mengurangkan persen tanpa melihat *basisnya*.\nKenapa opsi lain salah: Opsi lain muncul dari salah urutan tahap atau salah memilih basis persen.\nJawaban akhir: **Rp297.000**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "rasio"
+    ],
+    "is_active": true,
+    "question": "Di sebuah klub robotik, perbandingan banyak murid perempuan dan laki-laki saat pendaftaran dibuka adalah $4:5$. Setelah beberapa minggu, tepatnya $8$ murid perempuan mengundurkan diri, sementara murid laki-laki tidak berubah. Akhirnya perbandingan perempuan : laki-laki menjadi $2:3$. Guru pembina ingin mengetahui berapa murid perempuan yang mendaftar di awal agar bisa menyiapkan materi kerja kelompok. Banyak murid perempuan pada saat pendaftaran dibuka adalah ...",
+    "options": [
+      "40",
+      "48",
+      "44",
+      "52"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Model awal: banyak perempuan $=4k$ dan laki-laki $=5k$ untuk suatu bilangan asli $k$.\nLangkah 2: Setelah $8$ perempuan keluar, banyak perempuan menjadi $4k-8$, laki-laki tetap $5k$.\nLangkah 3: Rasio baru $\\frac{4k-8}{5k}=\\frac{2}{3}$.\nLangkah 4: Kalikan silang: $3(4k-8)=10k \\Rightarrow 12k-24=10k \\Rightarrow 2k=24 \\Rightarrow k=12$.\nLangkah 5: Perempuan awal $=4k=48$.\n**Materi terkait:**\n- **Rasio** sering dimodelkan dengan bentuk $ak$ dan $bk$.\n- Perubahan hanya pada satu pihak harus dimasukkan sebelum membuat persamaan.\nInsight kunci: Informasi *laki-laki tidak berubah* adalah petunjuk agar variabel $k$ tetap melekat pada kelompok yang stabil.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah kalikan silang atau salah mengurangkan $8$ pada kelompok yang salah.\nJawaban akhir: **48**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-e",
+      "operasi-campuran"
+    ],
+    "is_active": true,
+    "question": "Operator data menghitung sebuah skor gabungan dengan aturan berurutan: pertama jumlahkan $-14$ dan $6$, kedua kalikan hasilnya dengan $-3$, ketiga hitung hasil bagi $-20$ dengan $-4$, lalu kurangkan hasil tahap kedua dengan hasil tahap ketiga. Skor akhir yang diperoleh adalah ...",
+    "options": [
+      "17",
+      "18",
+      "20",
+      "19"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Jumlahkan bilangan pertama: $-14+6=-8$.\nLangkah 2: Kalikan hasilnya dengan $-3$: $(-8)\\times(-3)=24$.\nLangkah 3: Hitung pembagian terpisah: $(-20)\\div(-4)=5$.\nLangkah 4: Kurangkan sesuai urutan cerita: $24-5=19$.\nLangkah 5: Jadi skor akhirnya adalah $19$.\n**Materi terkait:**\n- Operasi bilangan bulat dengan tanda negatif.\n- Menjaga urutan langkah agar hasil tidak tertukar.\nInsight kunci: Pisahkan perintah cerita menjadi langkah-langkah kecil sebelum menghitung. Cara ini mencegah salah tanda saat operasi campuran.\nKenapa opsi lain salah: Opsi lain muncul jika salah tanda pada perkalian/pembagian dua bilangan negatif atau salah urutan pengurangan.\nJawaban akhir: **19**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "mean"
+    ],
+    "is_active": true,
+    "question": "Rafa sudah mengikuti enam kali ulangan harian. Rata-ratanya saat ini adalah $86$. Ia ingin setelah ulangan ketujuh, rata-ratanya menjadi tepat $88$. Nilai yang harus ia dapat pada ulangan ketujuh adalah ...",
+    "options": [
+      "100",
+      "96",
+      "98",
+      "102"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Total nilai target untuk 7 ulangan: $7\\times88=616$.\nLangkah 2: Total nilai enam ulangan sekarang: $6\\times86=516$.\nLangkah 3: Nilai ulangan ketujuh adalah selisih: $616-516=100$.\nLangkah 4: Cek balik: $(516+100)/7=616/7=88$, sesuai target.\nLangkah 5: Jadi nilai ketujuh yang dibutuhkan adalah **100**.\n**Materi terkait:**\n- Hubungan **rata-rata**, total, dan banyak data.\nInsight kunci: Strategi total sering lebih cepat daripada menebak skor satu per satu.\nKenapa opsi lain salah: Opsi lain muncul dari salah menghitung total target atau salah menjumlah total lama.\nJawaban akhir: **100**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Penyajian & interpretasi data",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-e",
+      "diagram-lingkaran"
+    ],
+    "is_active": true,
+    "question": "Sebuah survei kecil dilakukan terhadap $120$ murid tentang olahraga favorit. Hasilnya disajikan dalam diagram lingkaran (sudut pusat): basket $108^\\circ$, renang $90^\\circ$, voli $72^\\circ$, dan sisanya badminton. Banyak murid yang memilih badminton adalah ...",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Jumlah sudut pada lingkaran penuh adalah $360^\\circ$.\nLangkah 2: Jumlahkan sudut kategori yang sudah diketahui: $108^\\circ+90^\\circ+72^\\circ=270^\\circ$.\nLangkah 3: Sudut untuk badminton adalah $360^\\circ-270^\\circ=90^\\circ$.\nLangkah 4: Proporsi badminton $=\\frac{90}{360}=\\frac{1}{4}$, sehingga banyak murid $=\\frac{1}{4}\\times120=30$.\nLangkah 5: Jadi banyak murid badminton adalah **30**.\n**Materi terkait:**\n- Diagram lingkaran: sudut pusat menyatakan bagian dari keseluruhan.\nInsight kunci: Setelah sudut sisa ketemu, jangan lupa mengalikan proporsi ke *total murid* yang ditanya soal.\nKenapa opsi lain salah: Opsi lain biasanya muncul dari salah menjumlah sudut atau salah mengalikan proporsi ke total data.\nJawaban akhir: **30**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-e",
+      "peluang"
+    ],
+    "is_active": true,
+    "question": "Sebuah kotak berisi $3$ bola merah, $4$ bola hijau, dan $5$ bola biru. Dua bola diambil berurutan tanpa pengembalian. Peluang bola pertama merah dan bola kedua biru adalah ...",
+    "options": [
+      "$\\frac{1}{8}$",
+      "$\\frac{3}{22}$",
+      "$\\frac{2}{11}$",
+      "$\\frac{5}{44}$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Total bola awal $=3+4+5=12$, sehingga $P(\\text{merah pertama})=\\frac{3}{12}=\\frac{1}{4}$.\nLangkah 2: Setelah satu merah diambil, tersisa $11$ bola dengan $5$ biru, jadi $P(\\text{biru kedua})=\\frac{5}{11}$.\nLangkah 3: Karena berurutan, kalikan: $\\frac{1}{4}\\times\\frac{5}{11}=\\frac{5}{44}$.\nLangkah 4: Sederhanakan bila perlu; $\\frac{5}{44}$ sudah paling sederhana.\nLangkah 5: Jadi peluangnya $\\frac{5}{44}$.\n**Materi terkait:**\n- Peluang berurutan tanpa pengembalian mengubah penyebut tahap kedua.\nInsight kunci: Tulis peluang tiap tahap terpisah agar tidak tertukar antara *total awal* dan *total setelah pengambilan pertama*.\nKenapa opsi lain salah: Opsi lain sering muncul jika penyebut tahap kedua tetap $12$ atau pecahan tidak dikalikan sesuai urutan kejadian.\nJawaban akhir: **$\\frac{5}{44}$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "plsv"
+    ],
+    "is_active": true,
+    "question": "Di warung sekolah, setengah dari banyak bungkus susu ditambah $9$ bungkus sama dengan $33$ bungkus. Banyak bungkus susu semula adalah ...",
+    "options": [
+      "48",
+      "40",
+      "44",
+      "52"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Misalkan banyak susu semula $x$ bungkus.\nLangkah 2: Terjemahkan kalimat: $\\frac{x}{2}+9=33$.\nLangkah 3: Kurangi $9$ pada kedua ruas: $\\frac{x}{2}=24$.\nLangkah 4: Kalikan $2$: $x=48$.\nLangkah 5: Cek balik: $\\frac{48}{2}+9=24+9=33$, sesuai.\n**Materi terkait:**\n- **PLSV** dari model *setengah ditambah konstanta*.\nInsight kunci: Kata *setengah* mengarah ke pecahan $\\frac{1}{2}$, lalu selesaikan dengan operasi balik.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah menyelesaikan persamaan atau salah mengalikan dua saat membersihkan pecahan.\nJawaban akhir: **48**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-e",
+      "median"
+    ],
+    "is_active": true,
+    "question": "Pada kumpulan data berisi satu nilai yang sangat jauh dari nilai lain (pencilan), ukuran pemusatan yang paling *tahan* terhadap pencilan sehingga lebih aman untuk melihat \"nilai tengah yang wajar\" biasanya adalah ...",
+    "options": [
+      "Modus",
+      "Median",
+      "Jangkauan",
+      "Rata-rata"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: **Rata-rata** sangat dipengaruhi oleh nilai ekstrem karena semua nilai dijumlahkan.\nLangkah 2: **Median** hanya melihat posisi tengah setelah data diurutkan, sehingga satu pencilan tidak menarik nilai sekuat rata-rata.\nLangkah 3: **Modus** menjawab \"yang paling sering\", belum tentu mewakili pusat keseluruhan.\nLangkah 4: **Jangkauan** bukan ukuran pemusatan, melainkan ukuran sebaran.\nLangkah 5: Jadi jawaban yang tepat adalah **Median**.\n**Materi terkait:**\n- Bedakan mean, median, dan modus untuk membaca data secara adil.\nInsight kunci: Saat ada pencilan, median sering dipakai agar kesimpulan tidak \"ditarik\" oleh satu nilai besar atau kecil.\nKenapa opsi lain salah: Mean mudah tertarik pencilan; modus fokus frekuensi; jangkauan bukan pusat data.\nJawaban akhir: **Median**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-e",
+      "pola-kuadrat"
+    ],
+    "is_active": true,
+    "question": "Suatu barisan didefinisikan $U_n=n^2-n$ untuk $n$ bilangan asli. Nilai $U_{11}$ adalah ...",
+    "options": [
+      "100",
+      "120",
+      "110",
+      "132"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Gunakan rumus eksplisit $U_n=n^2-n$.\nLangkah 2: Substitusi $n=11$: $U_{11}=11^2-11$.\nLangkah 3: Hitung $11^2=121$.\nLangkah 4: Kurangkan $11$: $121-11=110$.\nLangkah 5: Jadi $U_{11}=110$.\n**Materi terkait:**\n- Pola kuadratik sederhana pada barisan bilangan.\nInsight kunci: Jika rumus sudah diberikan, tugas utamanya substitusi rapi, bukan menebak selisih suku demi suku.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah hitung kuadrat atau salah mengurangkan suku linear.\nJawaban akhir: **110**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "trapesium"
+    ],
+    "is_active": true,
+    "question": "Sebuah taman berbentuk trapesium sama kaki memiliki sisi sejajar $20\\,\\text{m}$ dan $12\\,\\text{m}$, serta tinggi $9\\,\\text{m}$. Untuk pemasangan rumput sintetis, kepala proyek menghitung luas taman. Luas taman tersebut adalah ...",
+    "options": [
+      "144 $\\text{m}^2$",
+      "120 $\\text{m}^2$",
+      "132 $\\text{m}^2$",
+      "156 $\\text{m}^2$"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Rumus luas trapesium $L=\\frac{1}{2}(a+b)t$.\nLangkah 2: Substitusi $a=20$, $b=12$, $t=9$: $L=\\frac{1}{2}(20+12)(9)$.\nLangkah 3: Jumlah sisi sejajar $20+12=32$.\nLangkah 4: $\\frac{1}{2}\\times32\\times9=16\\times9=144$.\nLangkah 5: Jadi luasnya $144\\,\\text{m}^2$.\n**Materi terkait:**\n- Tinggi trapesium tegak lurus kedua sisi sejajar.\nInsight kunci: Jangan lupa faktor $\\frac{1}{2}$; ini kesalahan klasik pada trapesium.\nKenapa opsi lain salah: Opsi lain biasanya hasil lupa faktor setengah atau salah menjumlah sisi sejajar.\nJawaban akhir: **144 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-e",
+      "lingkaran"
+    ],
+    "is_active": true,
+    "question": "Sebuah kolam bundar memiliki jari-jari $7\\,\\text{m}$. Jika $\\pi=\\frac{22}{7}$, luas permukaan air di kolam (luas lingkaran) adalah ...",
+    "options": [
+      "132 $\\text{m}^2$",
+      "144 $\\text{m}^2$",
+      "154 $\\text{m}^2$",
+      "168 $\\text{m}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Luas lingkaran $L=\\pi r^2$.\nLangkah 2: Substitusi $r=7$ dan $\\pi=\\frac{22}{7}$: $L=\\frac{22}{7}\\times7^2$.\nLangkah 3: Sederhanakan $\\frac{22}{7}\\times49=22\\times7$.\nLangkah 4: Hitung $22\\times7=154$.\nLangkah 5: Jadi luasnya $154\\,\\text{m}^2$.\n**Materi terkait:**\n- Memakai $\\pi$ yang disepakati soal agar hasil rapi.\nInsight kunci: Saat $r$ kelipatan $7$ dan $\\pi=\\frac{22}{7}$, perhitungan sering menyederhanakan faktor $7$.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah memakai $d$ sebagai $r$ atau salah kuadratkan jari-jari.\nJawaban akhir: **154 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "segitiga-sama-kaki"
+    ],
+    "is_active": true,
+    "question": "Sebuah tanda peringatan berbentuk segitiga sama kaki dipasang di halaman. Panjang alas tanda itu $12\\,\\text{cm}$, sedangkan panjang kedua sisi kaki yang sama adalah $10\\,\\text{cm}$. Tim desain ingin menempel stiker pada satu sisi tanda. Luas satu sisi tanda tersebut adalah ...",
+    "options": [
+      "40 $\\text{cm}^2$",
+      "44 $\\text{cm}^2$",
+      "54 $\\text{cm}^2$",
+      "48 $\\text{cm}^2$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Pada segitiga sama kaki, garis tinggi dari puncak ke alas membagi alas menjadi dua sama panjang: $\\frac{12}{2}=6\\,\\text{cm}$.\nLangkah 2: Tinggi $t$ membentuk segitiga siku-siku dengan hipotenusa $10\\,\\text{cm}$ dan kaki $6\\,\\text{cm}$.\nLangkah 3: **Teorema Pythagoras**: $t^2+6^2=10^2 \\Rightarrow t^2=100-36=64$, jadi $t=8\\,\\text{cm}$.\nLangkah 4: Luas segitiga $=\\frac{1}{2}\\times \\text{alas}\\times \\text{tinggi}=\\frac{1}{2}\\times12\\times8$.\nLangkah 5: Hitung: $\\frac{1}{2}\\times96=48\\,\\text{cm}^2$.\n**Materi terkait:**\n- Tinggi tidak selalu sama dengan sisi miring; harus tegak lurus alas.\nInsight kunci: Model segitiga sama kaki sering memaksa kita mencari tinggi dulu sebelum memakai rumus luas.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah tinggi atau lupa faktor $\\frac{1}{2}$.\nJawaban akhir: **48 $\\text{cm}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "tabung"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Sebuah tabung penyimpanan setinggi $15\\,\\text{cm}$ memiliki jari-jari alas $7\\,\\text{cm}$. Tabung akan diisi pasir hingga penuh. Jika $\\pi=\\frac{22}{7}$, volume pasir yang dibutuhkan agar tabung penuh adalah ...",
+    "options": [
+      "1980 $\\text{cm}^3$",
+      "2310 $\\text{cm}^3$",
+      "2150 $\\text{cm}^3$",
+      "2240 $\\text{cm}^3$"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Volume tabung $V=\\pi r^2 h$.\nLangkah 2: Substitusi $r=7$, $h=15$, $\\pi=\\frac{22}{7}$: $V=\\frac{22}{7}\\times49\\times15$.\nLangkah 3: Sederhanakan $\\frac{22}{7}\\times49=22\\times7=154$.\nLangkah 4: Kalikan $154\\times15=2310$.\nLangkah 5: Jadi volumenya $2310\\,\\text{cm}^3$.\n**Materi terkait:**\n- Volume bangun ruang sisi lengkung (tabung) memakai alas lingkaran.\nInsight kunci: Tulis $r^2$ secara eksplisit agar tidak salah saat menyederhanakan dengan $\\pi=\\frac{22}{7}$.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah kuadratkan jari-jari atau salah mengalikan tinggi.\nJawaban akhir: **2310 $\\text{cm}^3$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-e",
+      "balok"
+    ],
+    "is_active": true,
+    "question": "Sebuah balok memiliki perbandingan panjang : lebar : tinggi $=1:2:3$. Jika volumenya $162\\,\\text{cm}^3$, jumlah panjang semua rusuk balok tersebut adalah ...",
+    "options": [
+      "60 cm",
+      "66 cm",
+      "72 cm",
+      "84 cm"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Misalkan dimensi $k$, $2k$, dan $3k$.\nLangkah 2: Volume $k\\cdot2k\\cdot3k=6k^3=162$, sehingga $k^3=27$ dan $k=3$.\nLangkah 3: Dimensi sebenarnya $3$ cm, $6$ cm, dan $9$ cm.\nLangkah 4: Jumlah semua rusuk balok $=4(p+l+t)=4(3+6+9)=4\\times18$.\nLangkah 5: Hasilnya $72$ cm.\n**Materi terkait:**\n- Balok punya $12$ rusuk: empat untuk panjang, empat lebar, empat tinggi.\nInsight kunci: Setelah $k$ ditemukan dari volume, langkah berikutnya hanya substitusi rapi ke rumus total rusuk.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah $k$ atau salah rumus jumlah rusuk.\nJawaban akhir: **72 cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-e",
+      "bangun-gabungan"
+    ],
+    "is_active": true,
+    "question": "Sebuah taman rekreasi berbentuk persegi panjang $20\\,\\text{m}\\times14\\,\\text{m}$. Di salah satu sisi berukuran $14\\,\\text{m}$ dipasang setengah lingkaran taman bunga dengan diameter tepat sepanjang sisi itu. Jika $\\pi=\\frac{22}{7}$, luas keseluruhan taman (persegi panjang + setengah lingkaran) adalah ...",
+    "options": [
+      "364 $\\text{m}^2$",
+      "357 $\\text{m}^2$",
+      "371 $\\text{m}^2$",
+      "378 $\\text{m}^2$"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Luas persegi panjang $=20\\times14=280\\,\\text{m}^2$.\nLangkah 2: Diameter setengah lingkaran $14\\,\\text{m}$, jadi jari-jari $r=7\\,\\text{m}$.\nLangkah 3: Luas setengah lingkaran $=\\frac{1}{2}\\pi r^2=\\frac{1}{2}\\times\\frac{22}{7}\\times49=77\\,\\text{m}^2$.\nLangkah 4: Jumlahkan: $280+77=357\\,\\text{m}^2$.\nLangkah 5: Jadi luas totalnya $357\\,\\text{m}^2$.\n**Materi terkait:**\n- Bangun gabungan: jumlahkan luas bagian asal tanpa tumpang tindih.\nInsight kunci: Pastikan diameter setengah lingkaran benar-benar sejajar dengan sisi yang dimaksud agar $r$ tepat.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah jari-jari atau lupa faktor setengah pada luas lingkaran.\nJawaban akhir: **357 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Problem campuran multi-konsep",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "kecepatan-jarak-waktu"
+    ],
+    "is_active": true,
+    "question": "Tim logistik sekolah menguji rute distribusi minuman ke acara olahraga. Pada uji coba pertama, sebuah motor listrik menempuh jarak $15\\,\\text{km}$ dalam $25$ menit dengan kecepatan konstan. Kepala tim meminta agar pada uji coba kedua, motor menempuh jarak lebih jauh tetapi tetap memakai kecepatan yang sama persis. Waktu mengemudi yang disediakan untuk uji coba kedua adalah $2$ jam $30$ menit tanpa berhenti. Jarak yang dapat ditempuh pada uji coba kedua adalah ...",
+    "options": [
+      "84 km",
+      "87 km",
+      "93 km",
+      "90 km"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Ubah $25$ menit ke jam: $25\\,\\text{menit}=\\frac{25}{60}=\\frac{5}{12}$ jam.\nLangkah 2: Kecepatan konstan $v=\\frac{15}{5/12}=15\\times\\frac{12}{5}=36$ km/jam.\nLangkah 3: Waktu uji coba kedua $2$ jam $30$ menit $=2{,}5$ jam.\nLangkah 4: Jarak $s=v\\times t=36\\times2{,}5=90$ km.\nLangkah 5: Cek proporsi singkat: waktu kedua $6$ kali lebih lama dari $25$ menit? $25$ menit $\\to$ $150$ menit$=2{,}5$ jam, memang $6$ kali, dan $15\\times6=90$ km, konsisten.\n**Materi terkait:**\n- Rumus $v=\\frac{s}{t}$ dan $s=v\\times t$ dengan satuan waktu konsisten.\nInsight kunci: Soal panjang sering menyembunyikan inti: cari $v$ dari data pertama, lalu pakai $v$ yang sama untuk pertanyaan kedua.\nKenapa opsi lain salah: Opsi lain biasanya muncul jika menit tidak diubah ke jam, atau salah menghitung kecepatan awal.\nJawaban akhir: **90 km**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Aritmetika sosial",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-e",
+      "harga-total"
+    ],
+    "is_active": true,
+    "question": "Koperasi kelas menjual paket snack dan minuman untuk study tour. Harga satu paket snack adalah Rp18.000 dan harga satu botol minuman adalah Rp12.000. Pada shift pagi, terjual $12$ paket snack dan $14$ botol minuman. Pada shift sore, terjual $9$ paket snack dan $12$ botol minuman. Bendahara ingin mengetahui total pendapatan hari itu. Total pendapatan koperasi pada dua shift tersebut adalah ...",
+    "options": [
+      "Rp690.000",
+      "Rp678.000",
+      "Rp684.000",
+      "Rp696.000"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Pendapatan shift pagi dari snack $=12\\times18000=216000$.\nLangkah 2: Pendapatan shift pagi dari minuman $=14\\times12000=168000$, jadi subtotal pagi $=384000$.\nLangkah 3: Pendapatan shift sore dari snack $=9\\times18000=162000$.\nLangkah 4: Pendapatan shift sore dari minuman $=12\\times12000=144000$, jadi subtotal sore $=306000$.\nLangkah 5: Total pendapatan $=384000+306000=690000$, yaitu **Rp690.000**.\n**Materi terkait:**\n- **Aritmetika sosial**: total pendapatan = jumlah (harga $\\times$ banyak terjual) tiap kategori.\nInsight kunci: Pecah per shift dulu agar tidak tertukar antara banyak snack dan banyak minuman.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah menjumlahkan salah satu shift atau salah mengalikan harga satuan.\nJawaban akhir: **Rp690.000**."
+  }
+]

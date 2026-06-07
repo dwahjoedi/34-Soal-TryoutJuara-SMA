@@ -1,0 +1,837 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep persamaan linear satu variabel sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "plsv_dasar",
+      "concept_name": "Fondasi Persamaan linear satu variabel",
+      "concept_description": "Penguatan konsep inti persamaan linear satu variabel dengan loop diagnosis-koreksi-latihan.",
+      "topic": "Aljabar",
+      "subtopic": "Persamaan linear satu variabel",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "plsv_off_by_one_kecil",
+        "konstanta_bukan_nilai_x",
+        "plsv_pembagian_hampir",
+        "plsv_kurang_bukan_tambah"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "persamaan-linear-satu-variabel-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "persamaan-linear-satu-variabel"
+      ],
+      "question": "**Nilai** x jika $x+9=17$ adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=17-9=8$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 6 hampir sama dengan jawaban benar (8), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika x+9=17 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "plsv_off_by_one_kecil",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 7 satu kurang dari nilai $x$ yang benar (8). Untuk $x+9=17$, seharusnya $x=17-9$; cek lagi pengurangan terakhir.",
+            "micro_lesson": "Setelah memindahkan konstanta, pastikan operasi terakhir di ruas $x$ benar-benar kebalikan dari yang di kiri.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+9=17$ adalah...",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "konstanta_bukan_nilai_x",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 9 sama dengan angka yang ditambahkan ke $x$ di soal, bukan nilai $x$ setelah diselesaikan.",
+            "micro_lesson": "Untuk $x+k=...$, hitung $x$ dengan mengurangkan $k$ dari ruas kanan.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x+5=12$ adalah...",
+              "options": [
+                "5",
+                "7",
+                "12",
+                "17"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "persamaan-linear-satu-variabel"
+      ],
+      "question": "**Nilai** x $jika3x=21$ adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$x=21$ : $3=7$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "plsv_pembagian_hampir",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 6 dekat hasil bagi $21/3$ yang benar (7); kemungkinan sisa pembagian atau hitung cepat yang kurang teliti.",
+            "micro_lesson": "Ulangi pembagian $b/a$ dengan tulis tengah: berapa kali $a$ masuk ke $b$ tepat?",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $3x=21$ adalah...",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "3"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "plsv_pembagian_hampir",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 8 dekat hasil bagi $21/3$ yang benar (7); kemungkinan sisa pembagian atau hitung cepat yang kurang teliti.",
+            "micro_lesson": "Ulangi pembagian $b/a$ dengan tulis tengah: berapa kali $a$ masuk ke $b$ tepat?",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $3x=21$ adalah...",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "3"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 9 hampir sama dengan jawaban benar (7), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika3x=21 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "persamaan-linear-satu-variabel"
+      ],
+      "question": "**Nilai** x jika $x-12=5$ adalah...",
+      "options": [
+        "7",
+        "17",
+        "-7",
+        "-17"
+      ],
+      "answer": 1,
+      "rationale": "$x=5+12=17$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 7 menghasilkan bilangan yang lebih kecil dari jawaban benar (17). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Nilai x jika x-12=5 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "plsv_kurang_bukan_tambah",
+            "error_type": "concept",
+            "diagnosis": "Jawaban -7 sama dengan $5-12$, seolah konstanta dikurangkan dari ruas kanan. Untuk $x-12=5$, yang benar $x=5+12=17$.",
+            "micro_lesson": "Tanda minus di kiri berarti di ruas lain kita tambahkan bilangan yang sama.",
+            "retry_question": {
+              "question": "**Nilai** $x$ jika $x-12=5$ adalah...",
+              "options": [
+                "-7",
+                "17",
+                "17",
+                "5"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -17 menghasilkan bilangan yang lebih kecil dari jawaban benar (17). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Nilai x jika x-12=5 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "persamaan-linear-satu-variabel"
+      ],
+      "question": "**Nilai** x jika $2x+3=15$ adalah...",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "rationale": "$2x=12$ , $x=6$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 5 hampir sama dengan jawaban benar (6), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 2x+3=15 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 7 hampir sama dengan jawaban benar (6), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 2x+3=15 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (6), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 2x+3=15 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-2",
+        "persamaan-linear-satu-variabel"
+      ],
+      "question": "**Nilai** x jika $4x-8=20$ adalah...",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "rationale": "$4x=28$ , $x=7$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 5 hampir sama dengan jawaban benar (7), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 4x-8=20 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 6 hampir sama dengan jawaban benar (7), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 4x-8=20 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 8 hampir sama dengan jawaban benar (7), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Nilai x jika 4x-8=20 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$x+6=14$ , nilai x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=8$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_kebalikan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$x-9=4$ , nilai x...",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 2,
+      "rationale": "$x=13$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pindah_ruas_salah_tanda"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$5x=40$ , nilai x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$x=8$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "hitung_akhir_tidak_telit"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$2x+5=19$ , nilai x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$2x=14$ , $x=7$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_kebalikan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$3x-4=20$ , nilai x...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "$3x=24$ , $x=8$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pindah_ruas_salah_tanda"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$x+15=23$ , nilai x...",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "rationale": "$x=8$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "hitung_akhir_tidak_telit"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$x-7=10$ , nilai x...",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "rationale": "$x=17$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_kebalikan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$6x=54$ , nilai x...",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 2,
+      "rationale": "$x=9$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pindah_ruas_salah_tanda"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$4x+4=20$ , nilai x...",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "rationale": "$4x=16$ , $x=4$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "hitung_akhir_tidak_telit"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$2x-6=12$ , nilai x...",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 2,
+      "rationale": "$2x=18$ , $x=9$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_kebalikan_salah"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$x+3=3$ , nilai x...",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "rationale": "$x=0$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pindah_ruas_salah_tanda"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    },
+    {
+      "questionId": "persamaan-linear-satu-variabel-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Aljabar",
+      "subtopicId": null,
+      "subtopic": "Persamaan linear satu variabel",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "plsv_dasar"
+      ],
+      "question": "$7x=49$ , nilai x...",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "rationale": "$x=7$.",
+      "microLoop": {
+        "concept_id": "plsv_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "hitung_akhir_tidak_telit"
+          ],
+          "notes": "Drill diarahkan untuk memperbaiki miskonsepsi yang paling sering muncul."
+        }
+      }
+    }
+  ]
+}

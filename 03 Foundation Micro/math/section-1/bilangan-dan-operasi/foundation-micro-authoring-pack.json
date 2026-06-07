@@ -1,0 +1,834 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep operasi bilangan sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "bilangan_dan_operasi_campuran",
+      "concept_name": "Fondasi Operasi bilangan",
+      "concept_description": "Penguatan konsep inti operasi bilangan untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Operasi bilangan",
+      "target_error_tags": [
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "bilangan-dan-operasi-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-dan-operasi"
+      ],
+      "question": "**Hitung** 36 + 27 - 15 =...",
+      "options": [
+        "38",
+        "48",
+        "58",
+        "68"
+      ],
+      "answer": 1,
+      "rationale": "$36+27=63$ , $lalu63-15=48$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 38 menghasilkan bilangan yang lebih kecil dari jawaban benar (48). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 36 + 27 - 15 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 58 menghasilkan bilangan yang lebih besar dari jawaban benar (48). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 36 + 27 - 15 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 68 menghasilkan bilangan yang lebih besar dari jawaban benar (48). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 36 + 27 - 15 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-dan-operasi"
+      ],
+      "question": "**Hitung** 8 x (14 - 9) =...",
+      "options": [
+        "32",
+        "35",
+        "40",
+        "48"
+      ],
+      "answer": 2,
+      "rationale": "$14-9=5$ , $lalu8x5=40$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 32 menghasilkan bilangan yang lebih kecil dari jawaban benar (40). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 8 x (14 - 9) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 35 menghasilkan bilangan yang lebih kecil dari jawaban benar (40). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 8 x (14 - 9) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 48 menghasilkan bilangan yang lebih besar dari jawaban benar (40). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 8 x (14 - 9) =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-dan-operasi"
+      ],
+      "question": "**Hasil** $\\frac{3}{4}$ + 25% adalah...",
+      "options": [
+        "1",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{4}$"
+      ],
+      "answer": 0,
+      "rationale": "25%=$\\frac{1}{4}$, jadi $\\frac{3}{4}+\\frac{1}{4}=1$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{3}{4}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{4}$ + 25% adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{1}{2}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{4}$ + 25% adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{5}{4}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (1). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{4}$ + 25% adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-dan-operasi"
+      ],
+      "question": "**Hasil** -6 + 11 adalah...",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "-5"
+      ],
+      "answer": 2,
+      "rationale": "-$6+11=5$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 3 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hasil -6 + 11 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 4 hampir sama dengan jawaban benar (5), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hasil -6 + 11 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih -5 menghasilkan bilangan yang lebih kecil dari jawaban benar (5). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hasil -6 + 11 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-dan-operasi"
+      ],
+      "question": "KPK dari 4 dan 6 adalah...",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "24"
+      ],
+      "answer": 0,
+      "rationale": "KPK(4, $6)=12$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «KPK dari 4 dan 6 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 14 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «KPK dari 4 dan 6 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 24 menghasilkan bilangan yang lebih besar dari jawaban benar (12). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «KPK dari 4 dan 6 adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "bilangan-dan-operasi-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hitung** 72 :8 + 5 =...",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": 1,
+      "rationale": "72: $8=9$ , $lalu+5=14$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_acak"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hitung** 45 - 18 + 9 =...",
+      "options": [
+        "36",
+        "30",
+        "27",
+        "18"
+      ],
+      "answer": 0,
+      "rationale": "$45-18=27$ , +$9=36$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_bentuk_salah"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** 40% dari 50 adalah...",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": 1,
+      "rationale": "0,4 $x50=20$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_soal_cerita_tidak_tepat"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** -9 - (-4) =...",
+      "options": [
+        "-5",
+        "5",
+        "-13",
+        "13"
+      ],
+      "answer": 0,
+      "rationale": "-9 +4=-5.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_acak"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "FPB dari 18 dan 24 adalah...",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "72"
+      ],
+      "answer": 1,
+      "rationale": "FPB(18, $24)=6$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_bentuk_salah"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** $\\frac{2}{5}$ + $\\frac{3}{10}$=...",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{15}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{7}{10}$"
+      ],
+      "answer": 3,
+      "rationale": "$\\frac{2}{5}=\\frac{4}{10}$ , jadi $\\frac{4}{10}+\\frac{3}{10}=\\frac{7}{10}$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_soal_cerita_tidak_tepat"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hitung** (30 - 12) :3 =...",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 0,
+      "rationale": "$(30-12)=18$ , 18: $3=6$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_acak"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** $5^{2}$- 9 =...",
+      "options": [
+        "16",
+        "20",
+        "25",
+        "34"
+      ],
+      "answer": 0,
+      "rationale": "$25-9=16$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_bentuk_salah"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** 0,6 + 0,25 =...",
+      "options": [
+        "0,75",
+        "0,85",
+        "0,95",
+        "1,05"
+      ],
+      "answer": 1,
+      "rationale": "0,6 + 0, $25=0$ ,85.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_soal_cerita_tidak_tepat"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "Skala 1:1000,2 cm pada peta =...",
+      "options": [
+        "20 m",
+        "200 m",
+        "2 m",
+        "2000 m"
+      ],
+      "answer": 0,
+      "rationale": "$2x1000cm=2000cm=20m$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_acak"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hitung** 14 + (-3) - 5 =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 0,
+      "rationale": "$14-3=11$ , $lalu11-5=6$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_bentuk_salah"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-dan-operasi-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "bilangan_dan_operasi_campuran"
+      ],
+      "question": "**Hasil** $3^{2}$ + $4^{2}$=...",
+      "options": [
+        "21",
+        "25",
+        "49",
+        "12"
+      ],
+      "answer": 1,
+      "rationale": "$9+16=25$.",
+      "microLoop": {
+        "concept_id": "bilangan_dan_operasi_campuran",
+        "drill_focus": {
+          "source_error_tags": [
+            "strategi_soal_cerita_tidak_tepat"
+          ],
+          "notes": "Penguatan integrasi beberapa konsep bilangan dan operasi."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "bahasa_inggris",
+    "topic": "Functional Text",
+    "subtopic": "Dialogue",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa mampu membaca teks fungsional singkat dan memilih respons dialog yang relevan, sopan, dan sesuai konteks.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+      "concept_name": "Fungsi teks dan respons dialog",
+      "concept_description": "Menentukan tujuan teks fungsional dan respons percakapan yang paling tepat konteks.",
+      "topic": "Functional Text",
+      "subtopic": "Dialogue",
+      "target_error_tags": [
+        "respons_sopan_tapi_tidak_relevan",
+        "lewatkan_detail_waktu_tempat",
+        "salah_membaca_tujuan_teks"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "eng-s4-main-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Dialogue",
+      "difficulty": "easy",
+      "skillType": "comprehension",
+      "questionType": "dialogue",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-4/functional-text-and-dialogue-response"
+      ],
+      "question": "Choose the best response in the dialogue: \"I don't feel well today.\"",
+      "options": [
+        "You should take a rest.",
+        "I like blue color.",
+        "Open the window yesterday.",
+        "My bag is under the desk."
+      ],
+      "answer": 0,
+      "rationale": "Respons terbaik harus relevan dan empatik terhadap kondisi lawan bicara.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "respons_sopan_tapi_tidak_relevan",
+            "error_type": "concept",
+            "diagnosis": "Jawabanmu berbentuk kalimat benar, tetapi tidak menanggapi masalah kesehatan pada dialog.",
+            "micro_lesson": "Untuk dialogue response, cek dulu fungsi kalimat lawan bicara: minta bantuan, info, atau empati.",
+            "retry_question": {
+              "question": "\"I am very thirsty.\" The most appropriate response is ...",
+              "options": [
+                "You can drink some water.",
+                "My pencil is red.",
+                "See you on Monday.",
+                "He plays football."
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "struktur_kalimat_tidak_natural",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan ini tidak natural secara konteks dan juga tidak merespons isi dialog.",
+            "micro_lesson": "Prioritas pertama adalah relevansi makna, lalu cek apakah kalimat natural dipakai dalam percakapan.",
+            "retry_question": {
+              "question": "\"I lost my book.\" The most helpful response is ...",
+              "options": [
+                "Let's look for it together.",
+                "Yesterday is tomorrow.",
+                "My house is big.",
+                "Take the north road."
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "respons_tidak_nyambung",
+            "error_type": "careless",
+            "diagnosis": "Kalimat ini tidak terhubung dengan kondisi \"don't feel well\".",
+            "micro_lesson": "Bandingkan kata kunci soal dan jawaban. Jika topik berbeda total, itu bukan respons tepat.",
+            "retry_question": {
+              "question": "\"I am nervous about the test.\" The appropriate response is ...",
+              "options": [
+                "Don't worry. You can do it.",
+                "The door is next to the window.",
+                "I have two brothers.",
+                "It is Monday."
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-main-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Announcement",
+      "difficulty": "easy",
+      "skillType": "literal",
+      "questionType": "functional_text",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-4/functional-text-and-dialogue-response"
+      ],
+      "question": "Read the announcement: \"Clean-Up Day will be held on Friday, 10 May, at 07.00 in the school yard.\" When does the event start?",
+      "options": [
+        "Friday at 07.00",
+        "Monday at 07.00",
+        "Friday at 10.00",
+        "Saturday at 07.00"
+      ],
+      "answer": 0,
+      "rationale": "Detail waktu pada teks menunjukkan Friday pukul 07.00.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "lewatkan_detail_waktu_tempat",
+            "error_type": "careless",
+            "diagnosis": "Kamu mempertahankan jam yang benar, tetapi hari kegiatan salah.",
+            "micro_lesson": "Saat membaca announcement, tandai komponen wajib: what, when, where.",
+            "retry_question": {
+              "question": "Text: \"The meeting is on Tuesday at 8 a.m.\" When is the meeting?",
+              "options": [
+                "Tuesday at 8 a.m.",
+                "Tuesday at 9 a.m.",
+                "Monday at 8 a.m.",
+                "Wednesday at 8 a.m."
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "lewatkan_detail_waktu_tempat",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih hari yang benar tetapi jamnya berubah dari teks.",
+            "micro_lesson": "Periksa ulang angka jam dengan teliti karena soal detail sering menjebak di angka.",
+            "retry_question": {
+              "question": "Announcement: \"Library opens at 9 a.m.\" The library opening time is ...",
+              "options": [
+                "9 a.m.",
+                "8 a.m.",
+                "10 a.m.",
+                "7 a.m."
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_membaca_tujuan_teks",
+            "error_type": "strategy",
+            "diagnosis": "Pilihanmu mengubah hari dan mengabaikan detail asli pada announcement.",
+            "micro_lesson": "Announcement bersifat informatif; jawaban harus menyalin detail asli, bukan perkiraan.",
+            "retry_question": {
+              "question": "If the text says \"Sports Day: Thursday\", then the event day is ...",
+              "options": [
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-main-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Invitation & short message",
+      "difficulty": "medium",
+      "skillType": "comprehension",
+      "questionType": "functional_text",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-4/functional-text-and-dialogue-response"
+      ],
+      "question": "Short message: \"Dina, please buy bread and milk after school. Mom.\" The purpose of this message is ...",
+      "options": [
+        "Inviting Dina to a party",
+        "Asking Dina to buy items",
+        "Telling Dina's holiday story",
+        "Giving the final exam schedule"
+      ],
+      "answer": 1,
+      "rationale": "Isi pesan berupa permintaan praktis untuk membeli bread dan milk.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "salah_membaca_tujuan_teks",
+            "error_type": "concept",
+            "diagnosis": "Kamu mengira ini undangan, padahal bentuk pesannya adalah permintaan melakukan tugas.",
+            "micro_lesson": "Kenali fungsi teks dari kata kerja inti: please buy -> request.",
+            "retry_question": {
+              "question": "Pesan: \"Please call me when you arrive.\" This is a ...",
+              "options": [
+                "a request",
+                "a party invitation",
+                "a school announcement",
+                "an experience story"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "respons_tidak_nyambung",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan ini tidak sesuai isi pesan yang bersifat instruksi harian.",
+            "micro_lesson": "Pisahkan teks informasi, narasi, dan instruksi. Kata kerja perintah menandakan instruksi.",
+            "retry_question": {
+              "question": "\"Put your shoes near the door.\" The function of this sentence is ...",
+              "options": [
+                "giving an instruction",
+                "telling an event",
+                "expressing an opinion",
+                "giving congratulations"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "inferensi_tanpa_bukti_teks_fungsional",
+            "error_type": "careless",
+            "diagnosis": "Kamu menambahkan konteks ujian yang tidak ada di pesan.",
+            "micro_lesson": "Untuk short message, jawab berdasarkan teks literal yang ditulis pengirim.",
+            "retry_question": {
+              "question": "Pesan: \"Bring your dictionary tomorrow.\" The purpose of the message is ...",
+              "options": [
+                "instructing to bring a dictionary",
+                "inviting to play",
+                "informing exam scores",
+                "discussing weather"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "eng-s4-drill-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Dialogue",
+      "difficulty": "easy",
+      "skillType": "comprehension",
+      "questionType": "dialogue",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "fungsi_teks_dan_respons_dialog_tepat"
+      ],
+      "question": "\"How are you?\" The most appropriate response is ...",
+      "options": [
+        "I'm fine, thank you.",
+        "Blue and white.",
+        "Open your book.",
+        "At seven o'clock."
+      ],
+      "answer": 0,
+      "rationale": "Jawaban harus relevan dengan pertanyaan tentang kondisi.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "drill_focus": {
+          "source_error_tags": [
+            "respons_sopan_tapi_tidak_relevan"
+          ],
+          "notes": "Kesesuaian fungsi dialog dasar."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-drill-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Announcement",
+      "difficulty": "easy",
+      "skillType": "literal",
+      "questionType": "functional_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "fungsi_teks_dan_respons_dialog_tepat"
+      ],
+      "question": "Announcement: \"Flag ceremony starts at 07.00.\" The start time is ...",
+      "options": [
+        "07.00",
+        "08.00",
+        "06.00",
+        "09.00"
+      ],
+      "answer": 0,
+      "rationale": "Detail jam disebut langsung dalam teks.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "drill_focus": {
+          "source_error_tags": [
+            "lewatkan_detail_waktu_tempat"
+          ],
+          "notes": "Latihan detail literal announcement."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-drill-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Dialogue",
+      "difficulty": "easy",
+      "skillType": "comprehension",
+      "questionType": "dialogue",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "fungsi_teks_dan_respons_dialog_tepat"
+      ],
+      "question": "\"Would you like some tea?\" A polite response accepting the offer is ...",
+      "options": [
+        "Yes, please.",
+        "I am Monday.",
+        "Turn left now.",
+        "It is mine."
+      ],
+      "answer": 0,
+      "rationale": "Untuk menerima tawaran, pola sopan yang benar adalah \"Yes, please.\"",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "drill_focus": {
+          "source_error_tags": [
+            "respons_sopan_tapi_tidak_relevan"
+          ],
+          "notes": "Respons pada kalimat offer."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-drill-04",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Invitation & short message",
+      "difficulty": "medium",
+      "skillType": "literal",
+      "questionType": "functional_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "fungsi_teks_dan_respons_dialog_tepat"
+      ],
+      "question": "Message: \"Please submit your homework by Friday.\" This message contains ...",
+      "options": [
+        "an instruction with a submission deadline",
+        "a birthday invitation",
+        "a weather announcement",
+        "a holiday story"
+      ],
+      "answer": 0,
+      "rationale": "Kata \"please submit ... by Friday\" menunjukkan instruksi dengan deadline.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_membaca_tujuan_teks"
+          ],
+          "notes": "Fungsi short message."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s4-drill-05",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Functional Text",
+      "subtopicId": null,
+      "subtopic": "Dialogue",
+      "difficulty": "medium",
+      "skillType": "comprehension",
+      "questionType": "dialogue",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "fungsi_teks_dan_respons_dialog_tepat"
+      ],
+      "question": "\"I think this movie is interesting.\" The most appropriate response is ...",
+      "options": [
+        "I agree with you.",
+        "The bell rings at seven.",
+        "My bag is heavy.",
+        "Close the window!"
+      ],
+      "answer": 0,
+      "rationale": "Pernyataan opini paling tepat ditanggapi dengan setuju/tidak setuju yang relevan.",
+      "microLoop": {
+        "concept_id": "fungsi_teks_dan_respons_dialog_tepat",
+        "drill_focus": {
+          "source_error_tags": [
+            "respons_tidak_nyambung"
+          ],
+          "notes": "Kesesuaian respons terhadap opini."
+        }
+      }
+    }
+  ]
+}

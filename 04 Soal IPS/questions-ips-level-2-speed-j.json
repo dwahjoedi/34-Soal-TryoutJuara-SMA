@@ -1,0 +1,1118 @@
+[
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Peta & denah",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-j",
+      "spasial",
+      "denah"
+    ],
+    "is_active": true,
+    "question": "Perhatikan petunjuk denah area pasar berikut:\n\n- Pintu masuk berada di sisi **barat** pasar.\n- Kios buah berada tepat di **timur** pintu masuk.\n- Kios sayur berada di **utara** kios buah.\n- Tempat sampah terpilah berada di **selatan** kios buah.\n\nJika Sinta masuk dari pintu utama, berjalan ke kios buah, lalu ingin membuang sampah organik, arah yang harus ia ambil dari kios buah adalah ...",
+    "options": [
+      "Ke selatan",
+      "Ke utara",
+      "Ke timur",
+      "Ke barat"
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Tentukan titik awal Sinta. Ia masuk dari sisi **barat**, lalu berjalan ke kios buah yang berada di **timur** pintu masuk.\n\nLangkah 2: Setelah sampai di kios buah, titik acuannya berubah menjadi kios buah. Soal menanyakan arah menuju tempat sampah dari kios buah, bukan dari pintu masuk.\n\nLangkah 3: Dalam keterangan denah, tempat sampah terpilah berada di **selatan** kios buah. Jadi arah yang harus diambil Sinta adalah ke selatan.\n\n**Materi terkait:**\n- **Denah** membantu kita membaca letak tempat dalam ruang kecil, seperti sekolah, pasar, atau taman.\n- Arah mata angin utama adalah **utara**, **selatan**, **timur**, dan **barat**.\n- Dalam soal denah, titik acuan harus dibaca teliti karena satu tempat bisa menjadi acuan baru.\n\nInsight kunci: Kesalahan umum pada denah adalah memakai titik awal terus-menerus, padahal pertanyaan bisa meminta arah dari titik berikutnya. Baca kalimat terakhir untuk memastikan acuan yang digunakan.\n\nKenapa opsi lain salah: A adalah arah ke kios sayur. C menjauh dari tempat sampah. D mengarah kembali ke pintu masuk."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Wilayah & lokasi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "asean",
+      "wilayah"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Beberapa negara Asia Tenggara memiliki wilayah delta sungai yang subur. Tanah di sekitar delta sering cocok untuk pertanian padi karena mendapatkan endapan lumpur dan air. Namun daerah seperti ini juga rentan banjir jika hutan di hulu rusak dan saluran air tidak dirawat.*\n\nPernyataan yang paling tepat tentang hubungan wilayah dan kegiatan masyarakat adalah ...",
+    "options": [
+      "Semua delta sungai pasti tidak dapat dihuni karena selalu tenggelam setiap hari",
+      "Delta sungai dapat mendukung pertanian, tetapi pengelolaannya harus memperhatikan risiko banjir",
+      "Wilayah subur tidak membutuhkan perawatan lingkungan karena hasil panen pasti selalu tinggi",
+      "Pertanian padi hanya dipengaruhi oleh harga beras, bukan oleh kondisi wilayah"
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Teks menyebut delta sungai memiliki endapan lumpur dan air. Kondisi ini dapat membuat tanah subur dan cocok untuk pertanian padi.\n\nLangkah 2: Teks juga menyebut risiko banjir jika hutan di hulu rusak dan saluran air tidak dirawat. Artinya, potensi wilayah selalu perlu dibaca bersama risikonya.\n\nLangkah 3: Jawaban terbaik harus memuat dua hal sekaligus: manfaat delta untuk pertanian dan kebutuhan pengelolaan lingkungan. Opsi A paling lengkap dan seimbang.\n\nLangkah 4: Ini sesuai konsep **wilayah dan lokasi**: bentuk wilayah memengaruhi kegiatan manusia, sementara kegiatan manusia juga dapat memperbaiki atau memperburuk kondisi wilayah.\n\n**Materi terkait:**\n- Delta adalah daratan yang terbentuk dari endapan sungai di dekat muara.\n- Wilayah yang subur sering menjadi pusat pertanian dan permukiman.\n- Namun wilayah dekat sungai perlu tata air, perlindungan hulu, dan kesiapsiagaan banjir.\n\nInsight kunci: Dalam IPS, wilayah tidak dibaca sebagai latar kosong. Bentang alam memengaruhi mata pencaharian, risiko bencana, dan kebijakan yang dibutuhkan warga.\n\nKenapa opsi lain salah: B terlalu mutlak. C mengabaikan risiko lingkungan. D salah karena pertanian sangat dipengaruhi air, tanah, iklim, dan lokasi."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Kondisi geografis Indonesia",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "iklim",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*Petani di sebuah desa menanam padi saat curah hujan mulai teratur. Beberapa bulan kemudian, ketika angin kering mulai bertiup lebih sering, mereka mengganti sebagian lahan dengan palawija yang membutuhkan air lebih sedikit. Guru IPS menjelaskan bahwa keputusan petani itu berkaitan dengan pola musim di Indonesia.*\n\nAlasan paling tepat dari keputusan petani tersebut adalah ...",
+    "options": [
+      "Indonesia memiliki empat musim sehingga semua tanaman hanya boleh ditanam pada musim dingin, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan",
+      "Petani mengganti tanaman karena padi tidak pernah cocok ditanam di wilayah tropis",
+      "Indonesia memiliki pola musim hujan dan kemarau sehingga jenis tanaman perlu disesuaikan dengan ketersediaan air",
+      "Angin kering selalu berarti semua kegiatan pertanian harus dihentikan selamanya"
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: C**\n\nLangkah 1: Teks menyebut padi ditanam ketika hujan mulai teratur. Padi membutuhkan air cukup banyak, sehingga musim hujan biasanya lebih mendukung.\n\nLangkah 2: Saat angin kering lebih sering, petani mengganti sebagian lahan dengan palawija. Tanaman seperti jagung atau kacang tertentu dapat lebih tahan kondisi air terbatas dibanding padi.\n\nLangkah 3: Keputusan ini berkaitan dengan **musim hujan dan kemarau** di Indonesia. Petani menyesuaikan kegiatan ekonomi dengan kondisi geografis dan iklim.\n\nLangkah 4: Jadi alasan paling tepat adalah penyesuaian jenis tanaman terhadap ketersediaan air sepanjang musim.\n\n**Materi terkait:**\n- Indonesia beriklim tropis dan secara umum mengalami dua musim: hujan dan kemarau.\n- Pola musim dipengaruhi angin muson dan kondisi wilayah setempat.\n- Kegiatan pertanian sangat bergantung pada air, tanah, dan cuaca.\n\nInsight kunci: Kondisi geografis tidak hanya memengaruhi peta, tetapi juga kalender kerja masyarakat. Petani yang memahami musim dapat memilih tanaman dengan lebih bijak.\n\nKenapa opsi lain salah: B salah karena Indonesia tidak memiliki empat musim seperti negara subtropis. C salah karena padi justru banyak ditanam di Indonesia. D terlalu ekstrem dan tidak sesuai praktik pertanian."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Geografi",
+    "subtopic": "Lingkungan hidup & sumber daya",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-j",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\n*Di Desa Lereng Asri, warga membuka kebun sayur sampai ke bagian lereng yang sangat miring. Beberapa pohon besar ditebang agar lahan lebih luas. Pada awalnya hasil panen meningkat. Namun saat hujan deras, tanah mudah longsor, mata air menjadi keruh, dan jalan kecil menuju pasar tertutup lumpur.*\n\nLangkah yang paling tepat untuk memperbaiki keadaan tanpa mematikan mata pencaharian warga adalah ...",
+    "options": [
+      "Terus membuka kebun sampai puncak bukit karena panen awal meningkat, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Melarang semua warga menanam sayur di seluruh desa selamanya",
+      "Memindahkan lumpur ke sungai agar jalan cepat bersih",
+      "Menata lahan miring dengan terasering, menanam kembali pohon pelindung, dan membatasi kebun di area rawan longsor"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: D**\n\nLangkah 1: Temukan penyebab masalah. Lereng yang sangat miring dibuka terlalu luas dan pohon besar ditebang, sehingga tanah kehilangan penahan alami.\n\nLangkah 2: Perhatikan dampak bertingkatnya. Saat hujan deras, tanah longsor, mata air keruh, dan jalan ke pasar tertutup lumpur. Kerusakan lingkungan akhirnya mengganggu ekonomi warga.\n\nLangkah 3: Solusi harus menjaga mata pencaharian sekaligus mengurangi risiko. **Terasering** membantu memperlambat aliran air di lereng, sedangkan pohon pelindung membantu menahan tanah.\n\nLangkah 4: Membatasi kebun di area rawan longsor penting agar warga tetap bisa bertani di lokasi yang lebih aman. Jadi solusi tidak ekstrem, tetapi mengatur pemanfaatan lahan.\n\nLangkah 5: Opsi B paling berkelanjutan karena menggabungkan teknik pertanian, konservasi tanah, dan keselamatan warga.\n\n**Materi terkait:**\n- Lereng miring rentan erosi dan longsor jika tutupan pohonnya hilang.\n- **Terasering** adalah bentuk pengolahan lahan bertingkat untuk mengurangi aliran air dan erosi.\n- Pemanfaatan SDA harus melihat daya dukung lingkungan, bukan hanya hasil cepat.\n\nInsight kunci: Keuntungan awal bisa menipu jika risiko jangka panjang diabaikan. Dalam pengelolaan wilayah, solusi terbaik biasanya menjaga ekonomi warga sambil memperbaiki cara memakai lahan.\n\nKenapa opsi lain salah: A memperbesar risiko. C terlalu ekstrem dan merugikan semua petani. D memindahkan masalah ke sungai dan dapat menyebabkan pendangkalan atau banjir."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Interaksi ruang",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "interaksi-ruang",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Setelah menara internet dibangun, pengrajin anyaman di Desa Pandan Wangi mulai memotret produk dan menerima pesanan dari kota lain. Pendapatan sebagian warga naik. Namun beberapa pembeli mengeluh karena foto produk tidak selalu sesuai ukuran asli, sehingga pengurus desa membuat pelatihan cara menulis ukuran dan keterangan produk dengan jujur.*\n\nKesimpulan yang paling tepat adalah ...",
+    "options": [
+      "Internet selalu merusak semua kegiatan desa dan harus ditolak",
+      "Pengrajin tidak perlu menulis ukuran produk karena pembeli seharusnya menebak sendiri",
+      "Teknologi komunikasi dapat memperluas interaksi ekonomi antarwilayah, tetapi perlu etika informasi agar kepercayaan tetap terjaga",
+      "Pesanan dari kota lain tidak termasuk interaksi ruang karena barang tetap dibuat di desa, karena faktor lokasi, akses, dan kondisi lingkungan dianggap memberi dampak yang sama di semua wilayah"
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: C**\n\nLangkah 1: Menara internet membuat desa terhubung dengan pembeli dari kota lain. Ini memperluas **interaksi ruang** karena barang, informasi, dan uang bergerak antarwilayah.\n\nLangkah 2: Manfaatnya terlihat dari pesanan dan pendapatan yang naik. Namun muncul masalah ketika informasi produk tidak jelas atau tidak sesuai.\n\nLangkah 3: Pelatihan menulis ukuran dan keterangan produk adalah solusi yang menjaga kepercayaan. Dalam jual beli jarak jauh, informasi yang jujur sangat penting.\n\nLangkah 4: Jadi teknologi memberi peluang, tetapi harus diikuti tanggung jawab sosial dan etika ekonomi.\n\n**Materi terkait:**\n- **Interaksi ruang** dapat terjadi melalui jalan, pasar, transportasi, dan juga internet.\n- Teknologi mempercepat hubungan desa-kota dan membuka pasar baru.\n- Kepercayaan adalah modal penting dalam kegiatan ekonomi, terutama transaksi jarak jauh.\n\nInsight kunci: Teknologi bukan otomatis baik atau buruk. Dampaknya bergantung pada cara masyarakat menggunakannya dengan jujur, teratur, dan bertanggung jawab.\n\nKenapa opsi lain salah: B terlalu menolak. C merugikan pembeli dan menurunkan kepercayaan. D salah karena pesanan lintas wilayah tetap termasuk interaksi ruang."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Sejarah Indonesia",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "kerajaan",
+      "perdagangan"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Di masa kerajaan maritim Nusantara, pelabuhan menjadi tempat bertemunya pedagang dari berbagai daerah. Mereka membawa rempah, kain, logam, dan keramik. Selain barang, mereka juga membawa bahasa, agama, teknologi kapal, dan kebiasaan baru yang kemudian memengaruhi masyarakat pesisir.*\n\nPelajaran sejarah paling tepat dari teks tersebut adalah ...",
+    "options": [
+      "Perdagangan laut hanya menukar barang dan tidak pernah memengaruhi budaya",
+      "Pelabuhan kerajaan maritim menjadi ruang pertemuan ekonomi dan budaya yang mendorong perubahan masyarakat",
+      "Masyarakat pesisir pasti menolak semua pengaruh luar karena ingin tetap sama, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+      "Kerajaan maritim tidak membutuhkan hubungan dengan wilayah lain"
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Teks menyebut pelabuhan sebagai tempat bertemu pedagang dari berbagai daerah. Ini menunjukkan fungsi ekonomi pelabuhan sebagai pusat pertukaran barang.\n\nLangkah 2: Teks juga menyebut bahasa, agama, teknologi kapal, dan kebiasaan baru. Artinya, perdagangan tidak hanya membawa barang, tetapi juga gagasan dan budaya.\n\nLangkah 3: Dalam sejarah Indonesia, wilayah pesisir sering menjadi tempat perubahan karena terbuka pada jalur pelayaran dan perdagangan.\n\nLangkah 4: Jadi pelajaran paling tepat adalah pelabuhan kerajaan maritim menjadi ruang pertemuan ekonomi dan budaya.\n\n**Materi terkait:**\n- **Kerajaan maritim** mengandalkan laut, pelabuhan, dan pelayaran sebagai kekuatan utama.\n- Jalur perdagangan membantu penyebaran barang, agama, bahasa, teknologi, dan seni.\n- Sejarah maritim menunjukkan bahwa Indonesia sejak lama terhubung dengan dunia luar.\n\nInsight kunci: Sejarah perdagangan bukan hanya daftar komoditas. Dari jalur dagang, kita bisa memahami bagaimana masyarakat berubah karena bertemu orang, barang, dan gagasan baru.\n\nKenapa opsi lain salah: A mengabaikan pengaruh budaya. C terlalu mutlak dan tidak sesuai teks. D berlawanan dengan sifat kerajaan maritim yang bergantung pada hubungan laut."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Tokoh & perubahan sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "tokoh",
+      "koperasi"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Mohammad Hatta dikenal sebagai salah satu proklamator Indonesia dan sering disebut Bapak Koperasi Indonesia. Ia menekankan bahwa kegiatan ekonomi sebaiknya tidak hanya menguntungkan pemilik modal besar, tetapi juga memberi kesempatan kepada anggota masyarakat untuk maju bersama melalui usaha bersama.*\n\nGagasan utama yang paling tepat dari teks tersebut adalah ...",
+    "options": [
+      "Koperasi hanya boleh dimiliki satu orang paling kaya di desa",
+      "Koperasi dibuat agar anggota tidak perlu bertanggung jawab pada usaha bersama",
+      "Koperasi bertujuan menghapus semua kegiatan jual beli di pasar",
+      "Koperasi menekankan kerja sama, keanggotaan, dan kesejahteraan bersama"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: D**\n\nLangkah 1: Teks menyebut Mohammad Hatta menekankan usaha bersama. Ini menunjukkan bahwa koperasi tidak bertumpu pada keuntungan satu orang saja.\n\nLangkah 2: Teks juga menyebut kesempatan masyarakat untuk maju bersama. Ini sesuai nilai **kesejahteraan bersama** dalam koperasi.\n\nLangkah 3: Gagasan koperasi menekankan keanggotaan, tanggung jawab, dan manfaat bagi anggota. Jadi opsi A paling sesuai dengan isi teks.\n\nLangkah 4: Dalam sejarah, gagasan tokoh tidak hanya dilihat dari nama, tetapi dari nilai dan perubahan sosial yang ingin didorong.\n\n**Materi terkait:**\n- Mohammad Hatta adalah proklamator dan tokoh penting ekonomi kerakyatan.\n- **Koperasi** adalah usaha bersama berdasarkan asas kekeluargaan.\n- Koperasi dapat membantu anggota memenuhi kebutuhan, menabung, meminjam secara wajar, atau memasarkan produk.\n\nInsight kunci: Tokoh sejarah sering meninggalkan gagasan yang masih dipakai sampai sekarang. Dalam kasus Hatta, gagasan ekonomi bersama menjadi pelajaran tentang keadilan dan gotong royong.\n\nKenapa opsi lain salah: B bertentangan dengan prinsip keanggotaan. C menghilangkan tanggung jawab. D salah karena koperasi justru bagian dari kegiatan ekonomi."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sejarah",
+    "subtopic": "Kronologi peristiwa",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-j",
+      "kronologi",
+      "urutan-waktu"
+    ],
+    "is_active": true,
+    "question": "Perhatikan urutan perkembangan berikut:\n\n1. Masyarakat Nusantara berinteraksi dengan pedagang dari India dan mengenal pengaruh Hindu-Buddha.\n2. Kerajaan bercorak Hindu-Buddha meninggalkan candi, prasasti, dan karya sastra.\n3. Jalur perdagangan laut semakin ramai dan membawa pengaruh Islam ke banyak pelabuhan.\n4. Beberapa kerajaan Islam berkembang di pesisir dan memperkuat jaringan perdagangan.\n\nKesimpulan sejarah yang paling tepat dari urutan tersebut adalah ...",
+    "options": [
+      "Perubahan budaya di Nusantara banyak dipengaruhi interaksi perdagangan dan berlangsung bertahap",
+      "Semua pengaruh budaya datang dalam satu hari sehingga tidak perlu mempelajari urutan waktu, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+      "Kerajaan Islam muncul sebelum masyarakat mengenal pengaruh Hindu-Buddha",
+      "Perdagangan laut tidak berhubungan dengan penyebaran budaya dan agama"
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Urutan dimulai dari interaksi dengan pedagang India dan pengaruh Hindu-Buddha. Ini menunjukkan perubahan budaya terjadi melalui hubungan antarwilayah.\n\nLangkah 2: Setelah itu muncul peninggalan seperti candi, prasasti, dan sastra. Peninggalan ini menjadi bukti bahwa pengaruh budaya sudah masuk dalam kehidupan masyarakat.\n\nLangkah 3: Urutan berikutnya menunjukkan jalur perdagangan laut membawa pengaruh Islam ke pelabuhan. Jadi perdagangan juga menjadi jalan penyebaran gagasan dan agama.\n\nLangkah 4: Kerajaan Islam kemudian berkembang di pesisir. Ini menunjukkan perubahan bertahap, bukan terjadi sekaligus.\n\nLangkah 5: Kesimpulan terbaik harus memuat dua ide: interaksi perdagangan dan perubahan budaya yang berlangsung menurut waktu. Opsi A memenuhi keduanya.\n\n**Materi terkait:**\n- **Kronologi** membantu kita memahami peristiwa sesuai urutan waktu.\n- Pengaruh budaya di Nusantara sering masuk melalui perdagangan, perkawinan, pendidikan, dan hubungan politik.\n- Peninggalan sejarah membantu membuktikan perubahan yang pernah terjadi.\n\nInsight kunci: Sejarah tidak bergerak meloncat tanpa proses. Dengan membaca urutan, kita bisa melihat bagaimana kontak perdagangan memengaruhi budaya dan kerajaan dari masa ke masa.\n\nKenapa opsi lain salah: B menolak pentingnya kronologi. C membalik urutan umum perkembangan sejarah. D mengabaikan peran jalur perdagangan dalam penyebaran budaya."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Warisan budaya & nasionalisme",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "budaya",
+      "pelestarian"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*Di sekolah, beberapa siswa malu memakai bahasa daerah saat kegiatan budaya karena dianggap kuno. Guru kemudian membuat proyek podcast pendek: siswa mewawancarai kakek-nenek tentang peribahasa daerah, lalu menerjemahkan maknanya ke bahasa Indonesia agar teman lain ikut memahami.*\n\nMengapa proyek tersebut termasuk upaya pelestarian budaya yang baik?",
+    "options": [
+      "Karena semua siswa dipaksa meninggalkan bahasa Indonesia sepenuhnya",
+      "Karena budaya hanya perlu direkam sekali lalu tidak perlu digunakan lagi",
+      "Karena bahasa daerah dipakai kembali, maknanya dijelaskan, dan generasi muda dilibatkan secara aktif",
+      "Karena peribahasa daerah harus dirahasiakan agar tidak diketahui orang lain, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya"
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: C**\n\nLangkah 1: Masalah awalnya adalah siswa malu memakai bahasa daerah. Ini menunjukkan ada risiko budaya lokal semakin jarang digunakan.\n\nLangkah 2: Proyek podcast membuat siswa bertanya kepada generasi tua. Ini membantu transfer pengetahuan antargenerasi, dari kakek-nenek kepada anak-anak.\n\nLangkah 3: Makna peribahasa diterjemahkan ke bahasa Indonesia. Artinya, budaya daerah tidak hanya diucapkan, tetapi juga dipahami oleh lebih banyak teman.\n\nLangkah 4: Pelestarian yang baik melibatkan penggunaan nyata, pemahaman makna, dan keterlibatan generasi muda. Karena itu opsi A paling tepat.\n\n**Materi terkait:**\n- Warisan budaya tidak hanya benda, tetapi juga bahasa, cerita, peribahasa, lagu, dan kebiasaan.\n- Pelestarian budaya dapat menggunakan teknologi seperti podcast atau video, asalkan isi budayanya tetap dihormati.\n- Sikap nasionalisme dapat tampak dari menghargai budaya daerah sebagai bagian dari identitas Indonesia.\n\nInsight kunci: Melestarikan budaya tidak berarti menolak teknologi. Teknologi bisa menjadi alat untuk membuat budaya lokal lebih dekat dengan generasi muda.\n\nKenapa opsi lain salah: B terlalu ekstrem karena bahasa Indonesia tetap penting. C membuat budaya pasif. D salah karena budaya dapat dikenalkan dengan cara hormat dan bertanggung jawab."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-j",
+      "prioritas"
+    ],
+    "is_active": true,
+    "question": "Rafi memiliki uang Rp30.000 untuk kegiatan sekolah. Ia perlu membayar iuran fotokopi rangkuman sebesar Rp12.000 dan membeli makan siang sederhana sebesar Rp15.000. Ia juga ingin membeli stiker seharga Rp10.000.\n\nJika Rafi ingin membuat keputusan ekonomi yang bijak, pilihan terbaik adalah ...",
+    "options": [
+      "Membeli stiker terlebih dahulu karena keinginan selalu lebih penting daripada kebutuhan",
+      "Tidak membayar fotokopi agar uangnya cukup untuk stiker",
+      "Membeli semuanya tanpa menghitung jumlah uang yang dimiliki",
+      "Membayar fotokopi dan membeli makan siang terlebih dahulu, lalu menunda membeli stiker"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: D**\n\nLangkah 1: Hitung kebutuhan utama. Fotokopi Rp12.000 dan makan siang Rp15.000, totalnya Rp27.000.\n\nLangkah 2: Uang Rafi Rp30.000, sehingga setelah memenuhi kebutuhan utama tersisa Rp3.000. Sisa ini belum cukup untuk membeli stiker Rp10.000.\n\nLangkah 3: Stiker termasuk keinginan, bukan kebutuhan mendesak untuk kegiatan sekolah. Jadi keputusan bijak adalah menundanya.\n\n**Materi terkait:**\n- **Kebutuhan** harus didahulukan karena mendukung kegiatan penting.\n- **Keinginan** boleh dipenuhi jika kebutuhan sudah aman dan uang masih cukup.\n- Menghitung sebelum membeli membantu kita menghindari keputusan boros.\n\nInsight kunci: Ekonomi dasar mengajarkan prioritas. Saat uang terbatas, pilihan terbaik adalah memenuhi kebutuhan penting terlebih dahulu.\n\nKenapa opsi lain salah: B mendahulukan keinginan. C mengorbankan kebutuhan belajar. D berisiko membuat uang tidak cukup."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "produksi-distribusi-konsumsi"
+    ],
+    "is_active": true,
+    "question": "Bacalah cerita berikut:\n\n*Pak Darto memetik biji kopi dari kebunnya. Kelompok usaha desa menyangrai dan menggiling kopi menjadi bubuk. Kurir mengantar kopi bubuk ke warung kota. Pelanggan membeli kopi tersebut dan menyeduhnya di rumah.*\n\nUrutan kegiatan ekonomi yang paling tepat adalah ...",
+    "options": [
+      "Produksi oleh petani dan kelompok usaha, distribusi oleh kurir, konsumsi oleh pelanggan",
+      "Konsumsi oleh petani, produksi oleh kurir, distribusi oleh pelanggan",
+      "Distribusi oleh petani, konsumsi oleh kelompok usaha, produksi oleh pelanggan",
+      "Semua kegiatan termasuk distribusi karena barang berpindah dari satu orang ke orang lain"
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pak Darto memetik biji kopi dan kelompok usaha mengolahnya menjadi bubuk. Kegiatan menghasilkan atau menambah nilai barang disebut **produksi**.\n\nLangkah 2: Kurir mengantar kopi bubuk ke warung kota. Mengantar barang dari pembuat menuju tempat penjualan termasuk **distribusi**.\n\nLangkah 3: Pelanggan membeli dan menyeduh kopi di rumah. Menggunakan barang untuk memenuhi kebutuhan atau keinginan disebut **konsumsi**.\n\nLangkah 4: Rantai ekonomi dalam cerita terlihat lengkap: dari kebun, pengolahan, pengiriman, lalu pemakaian oleh konsumen.\n\n**Materi terkait:**\n- Produksi menciptakan atau menambah nilai guna barang.\n- Distribusi menyalurkan barang agar sampai ke pembeli.\n- Konsumsi memakai barang atau jasa.\n\nInsight kunci: Untuk mengklasifikasi kegiatan ekonomi, perhatikan kata kerja dalam cerita. Memetik dan mengolah dekat dengan produksi, mengantar dekat dengan distribusi, memakai dekat dengan konsumsi.\n\nKenapa opsi lain salah: B dan C menukar peran pelaku. D salah karena tidak semua kegiatan adalah distribusi."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Ekonomi",
+    "subtopic": "Permintaan & penawaran",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-j",
+      "permintaan-penawaran",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah situasi berikut:\n\n*Saat musim hujan mulai datang, permintaan jas hujan anak meningkat. Namun pabrik kecil di kota sebelah terlambat mengirim barang karena beberapa jalan tergenang. Toko perlengkapan sekolah hanya memiliki stok terbatas dan banyak orang tua ingin membeli pada hari yang sama.*\n\nTindakan toko yang paling tepat agar tetap adil dan masuk akal adalah ...",
+    "options": [
+      "Menjual semua jas hujan kepada satu pembeli yang datang paling awal",
+      "Membatasi pembelian per keluarga, mencatat pesanan berikutnya, dan mencari tambahan stok dari pemasok lain yang aman",
+      "Menaikkan harga berkali-kali lipat karena orang tua pasti membutuhkan jas hujan, karena harga, biaya, kebutuhan, dan kelangkaan dianggap selalu bergerak sama pada semua keadaan",
+      "Menutup toko sampai musim hujan selesai agar tidak perlu melayani pembeli"
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Permintaan jas hujan naik karena musim hujan mulai datang. Banyak orang tua membutuhkan barang yang sama pada waktu yang berdekatan.\n\nLangkah 2: Penawaran atau stok terbatas karena pengiriman dari pabrik terlambat. Jadi pasar mengalami tekanan dari dua sisi: permintaan naik dan pasokan terganggu.\n\nLangkah 3: Jika toko menjual tanpa aturan, sebagian keluarga bisa tidak mendapat barang sama sekali. Membatasi pembelian per keluarga membuat pembagian lebih adil.\n\nLangkah 4: Mencatat pesanan dan mencari pemasok lain membantu mengurangi kekurangan stok. Ini menyelesaikan masalah secara praktis tanpa memanfaatkan pembeli secara berlebihan.\n\nLangkah 5: Opsi B paling tepat karena mempertimbangkan permintaan, penawaran, keadilan, dan kelanjutan layanan toko.\n\n**Materi terkait:**\n- **Permintaan** naik saat banyak orang ingin membeli barang.\n- **Penawaran** turun atau terbatas saat stok sedikit atau pengiriman terganggu.\n- Dalam kondisi barang terbatas, aturan pembelian dapat menjaga keadilan.\n\nInsight kunci: Perubahan harga dan stok sering berasal dari hubungan permintaan dan penawaran. Namun keputusan ekonomi yang baik juga harus menjaga kepercayaan dan keadilan bagi pembeli.\n\nKenapa opsi lain salah: A membuat pembagian tidak adil. C memanfaatkan keadaan secara berlebihan. D menghindari masalah dan tidak melayani kebutuhan masyarakat."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Peran konsumen & produsen",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "konsumen-produsen"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Sekolah mengadakan bazar produk lokal. Ada stan produsen tempe, perajin tas kain, dan penjual minuman herbal. Panitia mengingatkan siswa agar membeli sesuai kebutuhan, membawa wadah sendiri jika mungkin, dan membaca label bahan sebelum membeli.*\n\nPernyataan yang paling tepat tentang peran siswa dalam bazar tersebut adalah ...",
+    "options": [
+      "Siswa berperan sebagai konsumen yang dapat mendukung produsen lokal sambil tetap membeli secara bijak",
+      "Siswa berperan sebagai produsen hanya karena mereka datang ke bazar",
+      "Siswa harus membeli semua barang agar produsen pasti untung besar",
+      "Membaca label bahan tidak perlu karena semua barang lokal pasti cocok untuk semua orang, sehingga perubahan permintaan atau penawaran dianggap tidak berdampak pada harga dan pilihan masyarakat"
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Siswa yang membeli barang di bazar berperan sebagai **konsumen**. Mereka menggunakan uang untuk mendapatkan barang yang dibutuhkan atau diinginkan.\n\nLangkah 2: Produsen lokal adalah pihak yang membuat atau menyediakan barang, seperti tempe, tas kain, dan minuman herbal. Membeli produk mereka dapat mendukung ekonomi lokal.\n\nLangkah 3: Namun panitia mengingatkan agar siswa membeli sesuai kebutuhan, membawa wadah sendiri, dan membaca label. Ini menunjukkan konsumsi harus bijak dan bertanggung jawab.\n\nLangkah 4: Jadi peran siswa bukan sekadar membeli, tetapi menjadi konsumen yang sadar kebutuhan, lingkungan, dan informasi produk.\n\n**Materi terkait:**\n- **Konsumen** memakai barang atau jasa.\n- **Produsen** menghasilkan barang atau jasa.\n- Konsumen bijak memperhatikan kebutuhan, harga, kualitas, label, dan dampak lingkungan.\n\nInsight kunci: Membeli produk lokal dapat membantu produsen sekitar, tetapi tetap harus dilakukan dengan pertimbangan. Konsumen yang baik tidak membeli asal banyak, melainkan membeli dengan sadar.\n\nKenapa opsi lain salah: B salah karena datang ke bazar bukan berarti memproduksi. C boros dan tidak bijak. D salah karena label bahan penting, terutama bagi orang yang punya alergi atau pantangan."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Interaksi sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "interaksi-sosial"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*Saat jam istirahat, dua kelompok siswa ingin memakai lapangan kecil. Kelompok pertama ingin bermain bola, kelompok kedua ingin latihan tari untuk pentas kelas. Jika dipaksakan bersamaan, keduanya saling mengganggu. Ketua kelas diminta membantu mencari solusi.*\n\nSolusi interaksi sosial yang paling tepat adalah ...",
+    "options": [
+      "Membiarkan kelompok yang lebih keras suaranya memakai lapangan lebih dulu, sehingga nilai dan kebiasaan masyarakat dianggap sama pada semua kelompok dan situasi",
+      "Melarang kedua kelompok berkegiatan agar tidak ada perbedaan pendapat",
+      "Membuat jadwal bergiliran melalui musyawarah dan mencari ruang alternatif jika ada kegiatan mendesak",
+      "Meminta satu kelompok mengejek kelompok lain sampai menyerah"
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: C**\n\nLangkah 1: Masalah dalam teks adalah perebutan penggunaan ruang bersama. Kedua kelompok sama-sama memiliki tujuan yang wajar.\n\nLangkah 2: Jika satu kelompok dipaksakan menang, kelompok lain akan merasa tidak adil. Ini dapat mengubah perbedaan kepentingan menjadi konflik.\n\nLangkah 3: Musyawarah dan jadwal bergiliran memberi kesempatan kepada kedua kelompok. Mencari ruang alternatif juga menunjukkan sikap fleksibel.\n\nLangkah 4: Solusi ini termasuk interaksi sosial yang membangun karena memakai komunikasi, aturan, dan kerja sama.\n\n**Materi terkait:**\n- **Interaksi sosial** membutuhkan kontak dan komunikasi.\n- Perbedaan kepentingan bisa diselesaikan dengan musyawarah, kompromi, dan aturan bersama.\n- Ruang bersama perlu dikelola agar hak dan kewajiban semua pengguna seimbang.\n\nInsight kunci: Konflik kecil sering terjadi bukan karena orang jahat, tetapi karena kebutuhan bertemu di ruang yang terbatas. Solusi yang baik membuat aturan adil agar kegiatan tetap berjalan.\n\nKenapa opsi lain salah: A tidak adil. C menghilangkan kegiatan positif. D memperburuk hubungan sosial."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sosiologi",
+    "subtopic": "Norma & nilai sosial",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-j",
+      "norma"
+    ],
+    "is_active": true,
+    "question": "Di sekolah ada kebiasaan antre saat mengisi ulang botol minum. Siswa yang datang belakangan menunggu giliran, tidak menyerobot, dan menutup keran setelah selesai.\n\nNilai sosial yang paling tampak dari kebiasaan tersebut adalah ...",
+    "options": [
+      "Bersaing agar selalu menjadi yang paling depan",
+      "Menggunakan air sebanyak mungkin karena tersedia di sekolah",
+      "Mengabaikan teman lain selama kebutuhan pribadi terpenuhi",
+      "Tertib, adil, dan bertanggung jawab memakai fasilitas bersama"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: D**\n\nLangkah 1: Antre menunjukkan sikap tertib karena setiap siswa menunggu sesuai urutan. Ini menjaga suasana agar tidak saling berebut.\n\nLangkah 2: Tidak menyerobot menunjukkan nilai adil. Semua siswa memiliki kesempatan yang sama untuk memakai fasilitas air minum.\n\nLangkah 3: Menutup keran setelah selesai menunjukkan tanggung jawab terhadap fasilitas bersama dan sumber daya air.\n\n**Materi terkait:**\n- **Norma** mengatur perilaku agar kehidupan bersama berjalan tertib.\n- **Nilai sosial** adalah hal yang dianggap baik, seperti kejujuran, tanggung jawab, keadilan, dan kepedulian.\n- Fasilitas bersama harus dipakai dengan memperhatikan hak orang lain.\n\nInsight kunci: Sikap sosial yang baik sering terlihat dari hal kecil. Antre dan menutup keran adalah contoh sederhana menghargai orang lain dan menjaga sumber daya.\n\nKenapa opsi lain salah: B menekankan menang sendiri. C boros air. D mengabaikan hak teman lain."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Lembaga sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-j",
+      "lembaga-sosial"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*Di sebuah kampung, banyak keluarga ingin menabung untuk biaya sekolah anak. Pengurus RT bekerja sama dengan koperasi simpan pinjam. Koperasi membantu warga menabung rutin, memberi pinjaman kecil dengan aturan jelas, dan mengadakan pelatihan mencatat pengeluaran rumah tangga.*\n\nPeran lembaga sosial yang paling tepat dari cerita tersebut adalah ...",
+    "options": [
+      "RT dan koperasi mengambil semua keputusan keluarga sehingga orang tua tidak perlu bertanggung jawab, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga",
+      "Koperasi membantu kebutuhan ekonomi warga melalui tabungan, pinjaman, dan pendidikan pengelolaan uang",
+      "Koperasi hanya berguna jika semua warga meminjam uang sebanyak-banyaknya",
+      "Pelatihan mencatat pengeluaran tidak berhubungan dengan kesejahteraan keluarga"
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Masalah warga adalah kebutuhan menyiapkan biaya sekolah anak. Ini berkaitan dengan ekonomi keluarga dan perencanaan masa depan.\n\nLangkah 2: Koperasi membantu dengan tiga cara: menabung rutin, pinjaman kecil dengan aturan jelas, dan pelatihan mencatat pengeluaran. Ketiganya membantu warga mengelola uang.\n\nLangkah 3: RT membantu menghubungkan warga dengan koperasi. Ini menunjukkan kerja sama antarlembaga dalam masyarakat.\n\nLangkah 4: Peran lembaga sosial bukan mengambil alih hidup warga, tetapi membantu warga memenuhi kebutuhan secara lebih tertib dan adil.\n\n**Materi terkait:**\n- **Lembaga sosial** membantu memenuhi kebutuhan masyarakat, seperti pendidikan, ekonomi, kesehatan, dan keamanan.\n- Koperasi adalah lembaga ekonomi yang menekankan kerja sama anggota.\n- Literasi keuangan sederhana membantu keluarga membedakan kebutuhan, keinginan, dan rencana tabungan.\n\nInsight kunci: Lembaga sosial bekerja paling baik ketika memperkuat kemampuan warga, bukan membuat warga bergantung. Dalam cerita ini, koperasi membantu warga lebih terencana.\n\nKenapa opsi lain salah: B menghilangkan tanggung jawab keluarga. C salah karena pinjaman harus sesuai kebutuhan dan kemampuan. D salah karena catatan pengeluaran membantu mengatur uang."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sosiologi",
+    "subtopic": "Mobilitas sosial",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-j",
+      "mobilitas-sosial",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah studi kasus berikut:\n\n*Bima tinggal di daerah pinggiran kota. Ayahnya bekerja sebagai tukang servis radio keliling. Bima mengikuti kursus perbaikan telepon genggam di balai latihan kerja. Setelah beberapa bulan, ia membuka jasa servis kecil, mempekerjakan dua teman, dan mulai menabung untuk membeli peralatan yang lebih lengkap.*\n\nKesimpulan paling tepat tentang perubahan sosial dalam kasus tersebut adalah ...",
+    "options": [
+      "Mobilitas sosial hanya terjadi jika seseorang langsung menjadi sangat kaya",
+      "Kursus tidak ada gunanya karena pekerjaan keluarga Bima sudah ditentukan selamanya, sehingga nilai dan kebiasaan masyarakat dianggap sama pada semua kelompok dan situasi",
+      "Keterampilan baru dapat membuka peluang kerja dan mendorong mobilitas sosial naik secara bertahap",
+      "Mempekerjakan teman membuktikan Bima tidak membutuhkan kerja sama"
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: C**\n\nLangkah 1: Bima mengikuti kursus perbaikan telepon genggam. Ini menunjukkan ia memperoleh keterampilan baru yang sesuai kebutuhan masyarakat modern.\n\nLangkah 2: Setelah kursus, ia membuka jasa servis kecil. Perubahan ini menunjukkan keterampilan dapat menjadi peluang ekonomi.\n\nLangkah 3: Bima mempekerjakan dua teman dan menabung untuk alat lebih lengkap. Dampaknya bukan hanya pada dirinya, tetapi juga pada kesempatan kerja orang lain.\n\nLangkah 4: Mobilitas sosial dalam kasus ini terjadi secara bertahap. Ia belum tentu langsung kaya, tetapi posisi ekonomi dan perannya di masyarakat mulai naik.\n\nLangkah 5: Kesimpulan terbaik adalah keterampilan membuka peluang kerja dan mendorong mobilitas sosial naik.\n\n**Materi terkait:**\n- **Mobilitas sosial** adalah perubahan posisi sosial seseorang atau kelompok.\n- Pendidikan dan pelatihan keterampilan dapat menjadi jalan mobilitas sosial.\n- Mobilitas naik sering terjadi bertahap melalui usaha, jaringan, kesempatan, dan pengelolaan uang.\n\nInsight kunci: Mobilitas sosial tidak selalu dramatis. Perubahan kecil seperti memiliki keterampilan baru, membuka usaha, dan menciptakan pekerjaan dapat menjadi langkah naik yang nyata.\n\nKenapa opsi lain salah: B terlalu sempit. C fatalistis dan tidak sesuai kasus. D salah karena mempekerjakan teman justru menunjukkan hubungan kerja sama."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Grafik sosial ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-j",
+      "data",
+      "literasi"
+    ],
+    "is_active": true,
+    "question": "Perhatikan ringkasan data fiktif program membaca di tiga sekolah:\n\n- Sekolah A: pojok baca aktif setiap hari, 75 dari 100 siswa meminjam buku minimal sekali seminggu.\n- Sekolah B: pojok baca ada tetapi sering terkunci, 30 dari 100 siswa meminjam buku minimal sekali seminggu.\n- Sekolah C: pojok baca dibuka tiga kali seminggu, 55 dari 100 siswa meminjam buku minimal sekali seminggu.\n\nKesimpulan yang paling tepat berdasarkan data adalah ...",
+    "options": [
+      "Sekolah B pasti tidak memiliki siswa yang suka membaca sama sekali",
+      "Sekolah C harus menutup pojok baca karena hasilnya tidak sama dengan Sekolah A, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+      "Jumlah peminjaman buku tidak mungkin dipengaruhi oleh akses fasilitas",
+      "Akses pojok baca yang lebih aktif tampak berkaitan dengan kebiasaan meminjam buku yang lebih tinggi"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: D**\n\nLangkah 1: Bandingkan akses fasilitas. Sekolah A membuka pojok baca setiap hari, Sekolah C tiga kali seminggu, dan Sekolah B sering terkunci.\n\nLangkah 2: Bandingkan data peminjaman. Sekolah A memiliki 75 dari 100 siswa yang meminjam buku mingguan, Sekolah C 55, dan Sekolah B 30.\n\nLangkah 3: Terlihat pola bahwa akses yang lebih aktif berkaitan dengan peminjaman yang lebih tinggi. Ini bukan berarti satu-satunya faktor, tetapi data mendukung hubungan tersebut.\n\nLangkah 4: Kesimpulan yang baik harus sesuai bukti dan tidak berlebihan. Opsi A memakai kata \"tampak berkaitan\", sehingga lebih hati-hati dan tepat.\n\nLangkah 5: Dalam interpretasi data sosial, kita harus membedakan pola yang didukung data dari dugaan yang tidak ada di informasi.\n\n**Materi terkait:**\n- Data sosial membantu menilai apakah suatu program berjalan baik.\n- Fasilitas yang tersedia tetapi sulit diakses sering kurang berdampak.\n- Kesimpulan data harus memakai kata yang tepat, seperti \"berkaitan\" jika belum membuktikan sebab tunggal.\n\nInsight kunci: Angka bukan hanya untuk dihitung, tetapi untuk dibaca polanya. Dari pola itu, sekolah dapat memperbaiki kebijakan, misalnya membuka pojok baca lebih teratur.\n\nKenapa opsi lain salah: B terlalu mutlak. C salah karena Sekolah C masih lebih baik daripada B dan bisa ditingkatkan. D bertentangan dengan pola data.",
+    "content": {
+      "question": "Perhatikan ringkasan data fiktif program membaca di tiga sekolah:\n\n- Sekolah A: pojok baca aktif setiap hari, 75 dari 100 siswa meminjam buku minimal sekali seminggu.\n- Sekolah B: pojok baca ada tetapi sering terkunci, 30 dari 100 siswa meminjam buku minimal sekali seminggu.\n- Sekolah C: pojok baca dibuka tiga kali seminggu, 55 dari 100 siswa meminjam buku minimal sekali seminggu.\n\nKesimpulan yang paling tepat berdasarkan data adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan ringkasan data fiktif program membaca di tiga sekolah:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sekolah A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "pojok baca aktif setiap hari, 75 dari 100 siswa meminjam buku minimal sekali seminggu"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sekolah B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "pojok baca ada tetapi sering terkunci, 30 dari 100 siswa meminjam buku minimal sekali seminggu"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sekolah C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "pojok baca dibuka tiga kali seminggu, 55 dari 100 siswa meminjam buku minimal sekali seminggu"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan yang paling tepat berdasarkan data adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Sekolah B pasti tidak memiliki siswa yang suka membaca sama sekali",
+        "Sekolah C harus menutup pojok baca karena hasilnya tidak sama dengan Sekolah A, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+        "Jumlah peminjaman buku tidak mungkin dipengaruhi oleh akses fasilitas",
+        "Akses pojok baca yang lebih aktif tampak berkaitan dengan kebiasaan meminjam buku yang lebih tinggi"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sekolah B pasti tidak memiliki siswa yang suka membaca sama sekali"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sekolah C harus menutup pojok baca karena hasilnya tidak sama dengan Sekolah A, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah peminjaman buku tidak mungkin dipengaruhi oleh akses fasilitas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Akses pojok baca yang lebih aktif tampak berkaitan dengan kebiasaan meminjam buku yang lebih tinggi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "**Jawaban: D**\n\nLangkah 1: Bandingkan akses fasilitas. Sekolah A membuka pojok baca setiap hari, Sekolah C tiga kali seminggu, dan Sekolah B sering terkunci.\n\nLangkah 2: Bandingkan data peminjaman. Sekolah A memiliki 75 dari 100 siswa yang meminjam buku mingguan, Sekolah C 55, dan Sekolah B 30.\n\nLangkah 3: Terlihat pola bahwa akses yang lebih aktif berkaitan dengan peminjaman yang lebih tinggi. Ini bukan berarti satu-satunya faktor, tetapi data mendukung hubungan tersebut.\n\nLangkah 4: Kesimpulan yang baik harus sesuai bukti dan tidak berlebihan. Opsi A memakai kata \"tampak berkaitan\", sehingga lebih hati-hati dan tepat.\n\nLangkah 5: Dalam interpretasi data sosial, kita harus membedakan pola yang didukung data dari dugaan yang tidak ada di informasi.\n\n**Materi terkait:**\n- Data sosial membantu menilai apakah suatu program berjalan baik.\n- Fasilitas yang tersedia tetapi sulit diakses sering kurang berdampak.\n- Kesimpulan data harus memakai kata yang tepat, seperti \"berkaitan\" jika belum membuktikan sebab tunggal.\n\nInsight kunci: Angka bukan hanya untuk dihitung, tetapi untuk dibaca polanya. Dari pola itu, sekolah dapat memperbaiki kebijakan, misalnya membuka pojok baca lebih teratur.\n\nKenapa opsi lain salah: B terlalu mutlak. C salah karena Sekolah C masih lebih baik daripada B dan bisa ditingkatkan. D bertentangan dengan pola data.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: D"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan akses fasilitas. Sekolah A membuka pojok baca setiap hari, Sekolah C tiga kali seminggu, dan Sekolah B sering terkunci."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Bandingkan data peminjaman. Sekolah A memiliki 75 dari 100 siswa yang meminjam buku mingguan, Sekolah C 55, dan Sekolah B 30."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Terlihat pola bahwa akses yang lebih aktif berkaitan dengan peminjaman yang lebih tinggi. Ini bukan berarti satu-satunya faktor, tetapi data mendukung hubungan tersebut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Kesimpulan yang baik harus sesuai bukti dan tidak berlebihan. Opsi A memakai kata \"tampak berkaitan\", sehingga lebih hati-hati dan tepat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Dalam interpretasi data sosial, kita harus membedakan pola yang didukung data dari dugaan yang tidak ada di informasi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Data sosial membantu menilai apakah suatu program berjalan baik.\n- Fasilitas yang tersedia tetapi sulit diakses sering kurang berdampak.\n- Kesimpulan data harus memakai kata yang tepat, seperti \"berkaitan\" jika belum membuktikan sebab tunggal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Angka bukan hanya untuk dihitung, tetapi untuk dibaca polanya. Dari pola itu, sekolah dapat memperbaiki kebijakan, misalnya membuka pojok baca lebih teratur."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B terlalu mutlak. C salah karena Sekolah C masih lebih baik daripada B dan bisa ditingkatkan. D bertentangan dengan pola data."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Kependudukan",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-j",
+      "kependudukan"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data sederhana Desa Harapan:\n\n- Anak usia 0-6 tahun: 420 orang.\n- Anak usia SD-SMP: 760 orang.\n- Penduduk usia kerja: 1.900 orang.\n- Lansia: 510 orang.\n- Banyak penduduk usia kerja berangkat ke kota pada pagi hari dan pulang malam.\n\nKebijakan desa yang paling sesuai dengan data tersebut adalah ...",
+    "options": [
+      "Menutup semua kegiatan anak karena penduduk usia kerja paling banyak",
+      "Menyediakan kegiatan belajar sore untuk anak dan layanan kesehatan rutin untuk lansia, sambil memperbaiki transportasi pekerja",
+      "Membangun fasilitas hanya untuk wisatawan luar desa karena data penduduk tidak penting, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+      "Mengabaikan lansia karena jumlahnya lebih sedikit daripada usia kerja"
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Data menunjukkan anak usia SD-SMP cukup banyak, yaitu 760 orang. Ini mendukung kebutuhan kegiatan belajar atau ruang aman setelah sekolah.\n\nLangkah 2: Lansia berjumlah 510 orang. Walaupun bukan kelompok terbesar, jumlah ini tetap penting untuk layanan kesehatan rutin.\n\nLangkah 3: Banyak penduduk usia kerja pergi ke kota pagi dan pulang malam. Ini menunjukkan kebutuhan transportasi pekerja dan pengaturan waktu layanan desa.\n\nLangkah 4: Opsi A paling sesuai karena membaca beberapa kelompok sekaligus, bukan hanya kelompok terbesar.\n\n**Materi terkait:**\n- **Kependudukan** membantu pemerintah memahami kebutuhan warga berdasarkan umur dan kegiatan.\n- Anak, usia kerja, dan lansia memiliki kebutuhan layanan yang berbeda.\n- Kebijakan yang baik memakai data agar fasilitas tidak salah sasaran.\n\nInsight kunci: Data penduduk tidak cukup dibaca dari angka terbesar saja. Kita perlu melihat kebutuhan tiap kelompok agar keputusan lebih adil dan berguna.\n\nKenapa opsi lain salah: B mengabaikan anak. C tidak memakai data penduduk. D tidak adil karena lansia tetap membutuhkan layanan.",
+    "content": {
+      "question": "Perhatikan data sederhana Desa Harapan:\n\n- Anak usia 0-6 tahun: 420 orang.\n- Anak usia SD-SMP: 760 orang.\n- Penduduk usia kerja: 1.900 orang.\n- Lansia: 510 orang.\n- Banyak penduduk usia kerja berangkat ke kota pada pagi hari dan pulang malam.\n\nKebijakan desa yang paling sesuai dengan data tersebut adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data sederhana Desa Harapan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Anak usia 0-6 tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "420 orang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Anak usia SD-SMP"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "760 orang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Penduduk usia kerja"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.900 orang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lansia"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "510 orang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Banyak penduduk usia kerja berangkat ke kota pada pagi hari dan pulang malam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kebijakan desa yang paling sesuai dengan data tersebut adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Menutup semua kegiatan anak karena penduduk usia kerja paling banyak",
+        "Menyediakan kegiatan belajar sore untuk anak dan layanan kesehatan rutin untuk lansia, sambil memperbaiki transportasi pekerja",
+        "Membangun fasilitas hanya untuk wisatawan luar desa karena data penduduk tidak penting, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+        "Mengabaikan lansia karena jumlahnya lebih sedikit daripada usia kerja"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Menutup semua kegiatan anak karena penduduk usia kerja paling banyak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Menyediakan kegiatan belajar sore untuk anak dan layanan kesehatan rutin untuk lansia, sambil memperbaiki transportasi pekerja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Membangun fasilitas hanya untuk wisatawan luar desa karena data penduduk tidak penting, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mengabaikan lansia karena jumlahnya lebih sedikit daripada usia kerja"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "**Jawaban: B**\n\nLangkah 1: Data menunjukkan anak usia SD-SMP cukup banyak, yaitu 760 orang. Ini mendukung kebutuhan kegiatan belajar atau ruang aman setelah sekolah.\n\nLangkah 2: Lansia berjumlah 510 orang. Walaupun bukan kelompok terbesar, jumlah ini tetap penting untuk layanan kesehatan rutin.\n\nLangkah 3: Banyak penduduk usia kerja pergi ke kota pagi dan pulang malam. Ini menunjukkan kebutuhan transportasi pekerja dan pengaturan waktu layanan desa.\n\nLangkah 4: Opsi A paling sesuai karena membaca beberapa kelompok sekaligus, bukan hanya kelompok terbesar.\n\n**Materi terkait:**\n- **Kependudukan** membantu pemerintah memahami kebutuhan warga berdasarkan umur dan kegiatan.\n- Anak, usia kerja, dan lansia memiliki kebutuhan layanan yang berbeda.\n- Kebijakan yang baik memakai data agar fasilitas tidak salah sasaran.\n\nInsight kunci: Data penduduk tidak cukup dibaca dari angka terbesar saja. Kita perlu melihat kebutuhan tiap kelompok agar keputusan lebih adil dan berguna.\n\nKenapa opsi lain salah: B mengabaikan anak. C tidak memakai data penduduk. D tidak adil karena lansia tetap membutuhkan layanan.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: B"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Data menunjukkan anak usia SD-SMP cukup banyak, yaitu 760 orang. Ini mendukung kebutuhan kegiatan belajar atau ruang aman setelah sekolah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Lansia berjumlah 510 orang. Walaupun bukan kelompok terbesar, jumlah ini tetap penting untuk layanan kesehatan rutin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Banyak penduduk usia kerja pergi ke kota pagi dan pulang malam. Ini menunjukkan kebutuhan transportasi pekerja dan pengaturan waktu layanan desa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Opsi A paling sesuai karena membaca beberapa kelompok sekaligus, bukan hanya kelompok terbesar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Kependudukan membantu pemerintah memahami kebutuhan warga berdasarkan umur dan kegiatan.\n- Anak, usia kerja, dan lansia memiliki kebutuhan layanan yang berbeda.\n- Kebijakan yang baik memakai data agar fasilitas tidak salah sasaran."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data penduduk tidak cukup dibaca dari angka terbesar saja. Kita perlu melihat kebutuhan tiap kelompok agar keputusan lebih adil dan berguna."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B mengabaikan anak. C tidak memakai data penduduk. D tidak adil karena lansia tetap membutuhkan layanan."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Studi kasus",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-j",
+      "studi-kasus",
+      "globalisasi"
+    ],
+    "is_active": true,
+    "question": "Bacalah studi kasus berikut:\n\n*Desa Tenun Lestari mulai menjual kain melalui lokapasar daring. Pesanan dari luar pulau meningkat dan pendapatan perajin naik. Namun muncul tiga masalah: beberapa pembeli meminta motif dibuat sangat cepat sehingga kualitas turun, sebagian perajin membeli bahan murah yang mudah luntur, dan ada akun palsu yang memakai foto produk desa tanpa izin.*\n\nLangkah paling tepat agar usaha desa tetap berkembang secara sehat adalah ...",
+    "options": [
+      "Membuat standar kualitas bahan, jadwal produksi realistis, dan akun resmi desa untuk melindungi foto serta informasi produk",
+      "Mengejar pesanan sebanyak mungkin walaupun kualitas dan keaslian motif menurun",
+      "Berhenti menjual secara daring selamanya karena internet pasti merusak budaya",
+      "Membiarkan akun palsu memakai foto produk karena yang penting desa menjadi terkenal, karena satu angka dianggap cukup mewakili seluruh pola tanpa membandingkan data lain yang tersedia"
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Identifikasi manfaatnya. Lokapasar daring membuat pesanan dari luar pulau meningkat dan pendapatan perajin naik. Ini menunjukkan teknologi membuka akses pasar baru.\n\nLangkah 2: Identifikasi masalah kualitas. Pesanan terlalu cepat dan bahan murah yang mudah luntur dapat merusak kepercayaan pembeli serta nama baik desa.\n\nLangkah 3: Identifikasi masalah identitas produk. Akun palsu memakai foto tanpa izin, sehingga pembeli bisa tertipu dan perajin asli dirugikan.\n\nLangkah 4: Solusi harus menjaga pertumbuhan ekonomi, kualitas, dan keaslian. Standar bahan menjaga mutu, jadwal realistis menjaga proses kerja, dan akun resmi membantu perlindungan informasi produk.\n\nLangkah 5: Opsi B paling tepat karena tidak menolak teknologi, tetapi mengelolanya dengan aturan yang bertanggung jawab.\n\n**Materi terkait:**\n- Globalisasi digital dapat memperluas pasar produk lokal.\n- Produk budaya seperti tenun perlu menjaga kualitas, keaslian, dan cerita asalnya.\n- Kepercayaan pembeli adalah aset penting dalam perdagangan daring.\n- Perlindungan identitas produk membantu perajin asli memperoleh manfaat yang adil.\n\nInsight kunci: Teknologi dapat memperkuat ekonomi lokal jika dikelola dengan nilai dan aturan. Tanpa standar, peluang besar bisa berubah menjadi masalah kualitas dan kepercayaan.\n\nKenapa opsi lain salah: A merusak mutu jangka panjang. C terlalu ekstrem dan menghilangkan peluang. D membiarkan penipuan dan merugikan perajin asli."
+  }
+]

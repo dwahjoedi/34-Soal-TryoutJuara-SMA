@@ -1,0 +1,423 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Perbandingan jumlah koin Danu dan Rafi mula-mula adalah $4:7$. Setelah Danu menerima tambahan $9$ koin, perbandingan mereka menjadi $5:7$. Jumlah koin Danu mula-mula adalah ...",
+    "options": [
+      "36",
+      "32",
+      "40",
+      "44"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Misalkan koin awal Danu $=4k$ dan Rafi $=7k$.\nLangkah 2: Setelah Danu menerima 9 koin, perbandingan menjadi $\\frac{4k+9}{7k}=\\frac{5}{7}$.\nLangkah 3: Kalikan silang: $7(4k+9)=35k\\Rightarrow28k+63=35k$.\nLangkah 4: Diperoleh $63=7k$ sehingga $k=9$.\nLangkah 5: Koin Danu mula-mula $=4k=36$.\nLangkah 6: Jadi jawaban yang benar adalah 36.\n**Materi terkait:**\n- Rasio dengan perubahan satu pihak membutuhkan model sebelum dan sesudah perubahan.\nInsight kunci: Bentuk persamaan dari rasio setelah perubahan, lalu selesaikan nilai $k$.\nKenapa opsi lain salah: Berasal dari salah kalikan silang atau salah menaruh perubahan pada pihak yang tepat.\nJawaban akhir: **36**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Lampu A berkedip tiap $10$ detik, lampu B tiap $15$ detik, dan lampu C tiap $24$ detik. Ketiganya berkedip bersama pada detik ke-$0$. Dalam $5$ menit pertama, berapa kali ketiganya berkedip bersama **termasuk** detik ke-$0$?",
+    "options": [
+      "$2$ kali",
+      "$3$ kali",
+      "$4$ kali",
+      "$5$ kali"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Cari dulu selang pertemuan dengan **KPK** dari $10,15,24$.\nLangkah 2: Faktorkan: $10=2\\times5$, $15=3\\times5$, dan $24=2^3\\times3$, sehingga KPK $=2^3\\times3\\times5=120$ detik.\nLangkah 3: Lima menit sama dengan $300$ detik. Pertemuan terjadi pada detik $0$, $120$, dan $240$; detik $360$ sudah lewat $300$.\nLangkah 4: Jadi ada $3$ kali pertemuan dalam $5$ menit pertama jika detik $0$ dihitung.\n**Materi terkait:**\n- Setelah mendapat KPK, cek apakah soal menanyakan waktu pertama atau banyak kejadian dalam rentang waktu.\n- Kata ?termasuk awal? mengubah hitungan jumlah kejadian.\nInsight kunci: Ini bukan hanya mencari KPK, tetapi juga menghitung banyak pertemuan dalam interval. Banyak siswa salah karena berhenti pada $120$ detik.\nKenapa opsi lain salah: $2$ kali melupakan detik $240$; $4$ kali menghitung detik $360$ yang sudah melewati 5 menit; $5$ kali berasal dari membagi $300$ secara keliru.\nJawaban akhir: **$3$ kali**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Sebuah bak air terisi $\\frac{2}{7}$ bagian, lalu ditambah lagi $\\frac{1}{2}$ bagian. Jika sisa bagian yang belum terisi adalah $36$ liter, kapasitas penuh bak air adalah ...",
+    "options": [
+      "140 liter",
+      "148 liter",
+      "168 liter",
+      "151.2 liter"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Bagian terisi $=\\frac{2}{7}+\\frac{1}{2}=\\frac{4}{14}+\\frac{7}{14}=\\frac{11}{14}$.\nLangkah 2: Bagian sisa $=1-\\frac{11}{14}=\\frac{3}{14}$.\nLangkah 3: Jika $\\frac{3}{14}$ bak = 36 liter, maka kapasitas total $C=36\\times\\frac{14}{3}$.\nLangkah 4: Hitung $C=12\\times14=168$ liter.\nLangkah 5: Cek balik: $\\frac{3}{14}\\times168=36$, sesuai.\nLangkah 6: Jadi kapasitas penuh bak air adalah 168 liter.\n**Materi terkait:**\n- Menjumlah pecahan harus dengan penyebut sama.\nInsight kunci: Cari pecahan sisa dulu sebelum mencari total kapasitas.\nKenapa opsi lain salah: Muncul dari salah menyamakan penyebut atau salah operasi kebalikan.\nJawaban akhir: **168 liter**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Setelah dua diskon berturut-turut $25\\%$ dan $10\\%$, harga tas menjadi Rp432.000. Toko lalu menambahkan biaya layanan $5\\%$ dari harga setelah dua diskon. Berapakah **harga awal tas sebelum diskon**?",
+    "options": [
+      "Rp600.000",
+      "Rp620.000",
+      "Rp680.000",
+      "Rp640.000"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Soal ini meminta harga awal, jadi kerjakan mundur dari harga setelah dua diskon. Harga Rp432.000 adalah hasil setelah diskon $25\\%$ lalu $10\\%$.\nLangkah 2: Diskon $25\\%$ berarti dikali $0{,}75$, dan diskon $10\\%$ berarti dikali $0{,}90$. Jadi $0{,}75\\times0{,}90=0{,}675$ dari harga awal.\nLangkah 3: Misalkan harga awal $H$. Maka $0{,}675H=432000$.\nLangkah 4: Hitung $H=432000\\div0{,}675=640000$.\nLangkah 5: Biaya layanan tidak diperlukan untuk mencari harga awal karena harga Rp432.000 sudah disebut sebagai harga setelah dua diskon, sebelum biaya layanan.\n**Materi terkait:**\n- Persen bertahap bisa dikerjakan maju atau mundur, tetapi basisnya tetap berubah.\n- Baca posisi angka dalam cerita: sebelum biaya atau setelah biaya.\nInsight kunci: Perspektif reverse problem memaksa kita membaca tahap mana yang diketahui. Jangan memakai biaya layanan jika pertanyaan meminta harga awal dari harga setelah diskon.\nKenapa opsi lain salah: Opsi lain muncul jika membagi dengan $0{,}70$, memakai biaya layanan, atau menjumlah diskon langsung.\nJawaban akhir: **Rp640.000**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Pola ubin dibuat dari sebuah persegi $n\\times n$ lalu ditambah tiga baris ubin, masing-masing berisi $n$ ubin. Untuk gambar ke-$11$, banyak ubin yang diperlukan adalah ...",
+    "options": [
+      "132",
+      "154",
+      "143",
+      "165"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Gambar ke-$n$ terdiri dari persegi $n\\times n$, jadi bagian persegi memiliki $n^2$ ubin.\nLangkah 2: Ada tambahan tiga baris, masing-masing $n$ ubin, sehingga tambahan ubin adalah $3n$.\nLangkah 3: Model total ubin adalah $n^2+3n$ atau $n(n+3)$.\nLangkah 4: Untuk $n=11$, banyak ubin $=11(11+3)=11\\times14=154$.\n**Materi terkait:**\n- Pola bilangan tidak selalu diberikan sebagai rumus; kadang rumus harus dibangun dari gambar atau cerita.\n- Pecah pola menjadi bagian yang mudah dihitung, misalnya persegi utama dan tambahan baris.\nInsight kunci: Perspektif soal ini adalah membangun rumus dari struktur pola. Jika hanya menghafal bentuk $U_n$, siswa mudah keliru saat pola dijelaskan dengan gambar.\nKenapa opsi lain salah: $132$ muncul jika hanya menghitung $11\\times12$; $143$ jika menambah salah jumlah baris; $165$ jika memakai $11\\times15$.\nJawaban akhir: **154**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan bulat",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Dalam permainan papan, posisi awal bidak adalah $-18$. Bidak maju $5$ langkah, lalu skor posisinya dikalikan $-4$, kemudian terkena penalti $3$ poin. Skor akhir bidak adalah ...",
+    "options": [
+      "45",
+      "52",
+      "55",
+      "49"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Posisi setelah maju $5$ langkah adalah $-18+5=-13$.\nLangkah 2: Skor posisi dikalikan $-4$, sehingga $(-13)\\times(-4)=52$. Dua bilangan negatif jika dikalikan menghasilkan positif.\nLangkah 3: Setelah penalti $3$ poin, skor akhir $=52-3=49$.\nLangkah 4: Jadi skor akhir bidak adalah $49$.\n**Materi terkait:**\n- Bilangan bulat negatif sering muncul dalam konteks posisi, suhu, atau utang.\n- Urutan operasi tetap penting: hitung perubahan posisi, perkalian, lalu penalti.\nInsight kunci: Konteks cerita membantu menentukan urutan operasi. Jangan langsung menggabungkan semua angka tanpa membaca tahap kejadian.\nKenapa opsi lain salah: $52$ adalah hasil sebelum penalti; $45$ dan $55$ muncul dari salah tanda atau salah urutan operasi.\nJawaban akhir: **49**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Sebuah trapesium memiliki luas $264\\,\\text{cm}^2$. Panjang sisi sejajarnya $18$ cm dan $30$ cm. Tinggi trapesium tersebut adalah ...",
+    "options": [
+      "$11$ cm",
+      "$10{,}5$ cm",
+      "$12$ cm",
+      "$13$ cm"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Rumus luas trapesium adalah $L=\\frac{1}{2}(a+b)t$, dengan $a$ dan $b$ sebagai dua sisi sejajar. Karena luas sudah diketahui, rumus dipakai secara mundur untuk mencari tinggi.\nLangkah 2: Masukkan data: $264=\\frac{1}{2}(18+30)t$. Jumlah sisi sejajar adalah $48$, sehingga $264=24t$.\nLangkah 3: Bagi kedua sisi dengan $24$: $t=264\\div24=11$. Jadi tinggi trapesium adalah $11$ cm.\nLangkah 4: Cek cepat: $\\frac{1}{2}\\times48\\times11=24\\times11=264$, sesuai dengan luas yang diberikan.\n**Materi terkait:**\n- Rumus luas dapat dipakai maju untuk mencari luas atau mundur untuk mencari ukuran yang hilang.\n- Pada trapesium, yang dijumlahkan adalah dua sisi sejajar, bukan semua sisi.\nInsight kunci: Ini reverse problem. Siswa perlu memakai luas yang sudah diketahui untuk mencari tinggi, bukan langsung mengalikan semua angka. Cek balik dengan rumus luas membantu memastikan tinggi yang ditemukan masuk akal.\nKenapa opsi lain salah: Opsi lain muncul dari lupa faktor $\\frac{1}{2}$ atau salah menjumlah sisi sejajar.\nJawaban akhir: **$11$ cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Sebuah taman gabungan terdiri dari persegi panjang berukuran $24$ m $\\times$ $14$ m dan setengah lingkaran yang diameternya sama dengan lebar persegi panjang. Jika $\\pi=\\frac{22}{7}$, luas taman adalah ...",
+    "options": [
+      "392 $\\text{m}^2$",
+      "434 $\\text{m}^2$",
+      "413 $\\text{m}^2$",
+      "455 $\\text{m}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Luas persegi panjang $=24\\times14=336\\,\\text{m}^2$.\nLangkah 2: Diameter setengah lingkaran 14, jadi jari-jari $r=7$.\nLangkah 3: Luas setengah lingkaran $=\\frac{1}{2}\\pi r^2=\\frac{1}{2}\\times\\frac{22}{7}\\times49=77\\,\\text{m}^2$.\nLangkah 4: Luas total $=336+77=413\\,\\text{m}^2$.\nLangkah 5: Jadi luas taman adalah $413\\,\\text{m}^2$.\n**Materi terkait:**\n- Bangun gabungan dihitung dengan menjumlah luas bagian-bagian sederhana.\nInsight kunci: Ubah diameter ke jari-jari sebelum memakai rumus lingkaran.\nKenapa opsi lain salah: 392 jika salah luas persegi panjang; 434/455 dari salah hitung setengah lingkaran.\nJawaban akhir: **413 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Sudut & garis",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Pada dua garis sejajar yang dipotong transversal, sudut dalam sepihak adalah $(3x+6)^\\circ$ dan $(5x-2)^\\circ$. Sudut yang lebih kecil adalah ...",
+    "options": [
+      "$78^\\circ$",
+      "$84^\\circ$",
+      "$88^\\circ$",
+      "$72^\\circ$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Sudut dalam sepihak berjumlah $180^\\circ$.\nLangkah 2: Bentuk persamaan: $(3x+6)+(5x-2)=180$.\nLangkah 3: Sederhanakan: $8x+4=180\\Rightarrow8x=176\\Rightarrow x=22$.\nLangkah 4: Sudut-sudutnya: $3x+6=72^\\circ$ dan $5x-2=108^\\circ$.\nLangkah 5: Sudut yang lebih kecil adalah $72^\\circ$.\n**Materi terkait:**\n- Hubungan sudut pada garis sejajar menghasilkan persamaan linear.\nInsight kunci: Tentukan dulu relasi sudut yang benar, baru hitung variabelnya.\nKenapa opsi lain salah: Berasal dari salah menyusun persamaan atau salah substitusi nilai $x$.\nJawaban akhir: **$72^\\circ$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Pengukuran & satuan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Sebuah sepeda menempuh $16{,}8$ km dalam $24$ menit dengan kecepatan tetap. Pada kecepatan yang sama, waktu yang diperlukan untuk menempuh $63$ km adalah ...",
+    "options": [
+      "$90$ menit",
+      "$80$ menit",
+      "$84$ menit",
+      "$96$ menit"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Cari kecepatan per menit: $16{,}8\\div24=0{,}7$ km/menit.\nLangkah 2: Waktu untuk menempuh $63$ km adalah jarak dibagi kecepatan, yaitu $63\\div0{,}7=90$ menit.\nLangkah 3: Jadi waktu yang diperlukan adalah $90$ menit atau $1{,}5$ jam.\nLangkah 4: Cek balik: $0{,}7\\times90=63$ km.\n**Materi terkait:**\n- Hubungan dasar kecepatan: $\\text{jarak}=\\text{kecepatan}\\times\\text{waktu}$.\n- Jika yang ditanya waktu, gunakan operasi kebalikan.\nInsight kunci: Soal kecepatan tidak selalu menanyakan jarak. Ubah sudut pandang sesuai besaran yang ditanya.\nKenapa opsi lain salah: Opsi lain muncul jika menggunakan perbandingan waktu yang salah atau mengubah jam-menit dengan keliru.\nJawaban akhir: **$90$ menit**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Sebuah tabung berjari-jari $7$ cm memiliki volume $2464\\,\\text{cm}^3$. Gunakan $\\pi=\\frac{22}{7}$. Tinggi tabung tersebut adalah ...",
+    "options": [
+      "$14$ cm",
+      "$16$ cm",
+      "$18$ cm",
+      "$20$ cm"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Rumus volume tabung adalah $V=\\pi r^2t$. Diketahui $V=2464$ dan $r=7$.\nLangkah 2: Luas alas tabung $=\\frac{22}{7}\\times7^2=154\\,\\text{cm}^2$.\nLangkah 3: Tinggi tabung $=2464\\div154=16$ cm.\nLangkah 4: Jadi tinggi tabung adalah $16$ cm.\n**Materi terkait:**\n- Volume tabung dapat dipandang sebagai luas alas dikali tinggi.\n- Jika volume dan alas diketahui, tinggi dicari dengan pembagian.\nInsight kunci: Ini bukan substitusi volume langsung, melainkan mencari ukuran yang hilang. Mengetahui peran luas alas membuat langkahnya lebih jelas.\nKenapa opsi lain salah: Opsi lain berasal dari salah menghitung luas alas atau membagi volume dengan diameter.\nJawaban akhir: **$16$ cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h",
+      "kubus-volume-ke-luas"
+    ],
+    "is_active": true,
+    "question": "Sebuah kubus memiliki volume $729\\,\\text{cm}^3$. Luas permukaan kubus tersebut adalah ...",
+    "options": [
+      "405 $\\text{cm}^2$",
+      "432 $\\text{cm}^2$",
+      "486 $\\text{cm}^2$",
+      "504 $\\text{cm}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Volume kubus adalah $s^3$. Karena volume kubus $729\\,\\text{cm}^3$, kita cari rusuk dengan $s^3=729$.\nLangkah 2: Nilai rusuknya $s=9$ cm karena $9\\times9\\times9=729$. Soal ini tidak memberi rusuk langsung, jadi langkah mencari rusuk tidak boleh dilewati.\nLangkah 3: Luas permukaan kubus adalah $6s^2$. Dengan $s=9$, diperoleh $6\\times9^2=6\\times81=486\\,\\text{cm}^2$.\nLangkah 4: Jadi luas permukaan kubus adalah $486\\,\\text{cm}^2$.\n**Materi terkait:**\n- Volume memakai pangkat tiga, sedangkan luas permukaan memakai pangkat dua.\n- Setelah rusuk ditemukan dari volume, barulah rumus luas permukaan bisa dipakai.\nInsight kunci: Ini soal dua tahap: balik dari volume ke rusuk, lalu hitung luas permukaan. Jika siswa langsung mengalikan $729$ dengan $6$, ia memakai satuan dan konsep yang salah. Perhatikan arti setiap rumus sebelum menghitung.\nKenapa opsi lain salah: Opsi lain muncul dari salah menentukan rusuk atau salah menguadratkan $9$.\nJawaban akhir: **486 $\\text{cm}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Transformasi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Pada denah berskala $1:400$, panjang dan lebar sebuah taman adalah $8$ cm dan $5{,}5$ cm. Luas taman sebenarnya adalah ...",
+    "options": [
+      "704 $\\text{m}^2$",
+      "640 $\\text{m}^2$",
+      "720 $\\text{m}^2$",
+      "792 $\\text{m}^2$"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Skala 1:400 berarti 1 cm pada denah = 400 cm = 4 m sebenarnya.\nLangkah 2: Ukuran sebenarnya: panjang $=8\\times4=32$ m, lebar $=5{,}5\\times4=22$ m.\nLangkah 3: Luas sebenarnya $=32\\times22=704\\,\\text{m}^2$.\nLangkah 4: Jadi luas taman sebenarnya $704\\,\\text{m}^2$.\n**Materi terkait:**\n- Skala panjang harus diterapkan ke dua dimensi saat menghitung luas.\nInsight kunci: Konversi sisi dulu, baru hitung luas; jangan langsung mengalikan luas denah dengan faktor panjang.\nKenapa opsi lain salah: 640/720/792 muncul dari salah konversi salah satu sisi atau salah perkalian.\nJawaban akhir: **704 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Lima nilai ulangan memiliki rata-rata $78$. Empat nilai yang sudah diketahui adalah $66,72,84,$ dan $90$. Nilai kelima adalah ...",
+    "options": [
+      "76",
+      "77",
+      "78",
+      "79"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Rata-rata $78$ untuk $5$ nilai berarti total semua nilai $=5\\times78=390$.\nLangkah 2: Jumlah empat nilai yang diketahui adalah $66+72+84+90=312$.\nLangkah 3: Nilai kelima $=390-312=78$.\nLangkah 4: Jadi nilai yang belum diketahui adalah $78$.\n**Materi terkait:**\n- Untuk soal rata-rata, ubah rata-rata menjadi total terlebih dahulu.\n- Data hilang dapat dicari dari selisih total yang seharusnya dan total yang sudah diketahui.\nInsight kunci: Perspektif soal ini bukan menghitung rata-rata langsung, melainkan mencari data yang hilang. Strateginya adalah bekerja dari total.\nKenapa opsi lain salah: Opsi lain muncul jika rata-rata langsung dipilih tanpa menghitung total atau jika jumlah empat nilai salah.\nJawaban akhir: **78**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Tersedia $126$ wafer cokelat dan $168$ wafer vanila. Semua akan dibungkus menjadi paket identik tanpa sisa. Jika paket yang dibuat harus sebanyak mungkin, isi **wafer cokelat dan vanila** dalam satu paket adalah ...",
+    "options": [
+      "$2$ cokelat dan $4$ vanila",
+      "$4$ cokelat dan $3$ vanila",
+      "$3$ cokelat dan $5$ vanila",
+      "$3$ cokelat dan $4$ vanila"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Banyak paket maksimal ditentukan oleh FPB dari $126$ dan $168$.\nLangkah 2: Faktorisasi memberi FPB $=42$, sehingga ada $42$ paket identik.\nLangkah 3: Isi wafer cokelat per paket $=126\\div42=3$.\nLangkah 4: Isi wafer vanila per paket $=168\\div42=4$.\nLangkah 5: Jadi isi satu paket adalah $3$ cokelat dan $4$ vanila.\n**Materi terkait:**\n- FPB memberi banyak kelompok maksimal.\n- Isi setiap kelompok dicari dengan membagi jumlah awal oleh banyak kelompok.\nInsight kunci: Soal ini tidak berhenti pada FPB. Setelah jumlah paket ditemukan, masih ada langkah kedua untuk menentukan isi paket.\nKenapa opsi lain salah: Opsi A menukar jumlah cokelat; C membalik cokelat dan vanila; D membuat total vanila per paket terlalu banyak.\nJawaban akhir: **$3$ cokelat dan $4$ vanila**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Sebuah kantong berisi $4$ bola merah, $5$ bola biru, dan $3$ bola kuning. Jika satu bola biru tambahan dimasukkan ke kantong, lalu satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+    "options": [
+      "$\\frac{5}{12}$",
+      "$\\frac{6}{13}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{7}{13}$"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Setelah satu bola biru ditambahkan, banyak bola biru menjadi $5+1=6$.\nLangkah 2: Total bola juga bertambah dari $12$ menjadi $13$.\nLangkah 3: Peluang mengambil bola biru adalah $\\frac{6}{13}$.\nLangkah 4: Jadi peluangnya berubah karena pembilang dan penyebut sama-sama berubah.\n**Materi terkait:**\n- Peluang harus memakai kondisi terbaru setelah perubahan isi kantong.\n- Jika satu benda ditambahkan, total sampel juga ikut berubah.\nInsight kunci: Jangan hanya menambah pembilang tanpa memperbarui total bola. Dalam peluang, perubahan jumlah objek memengaruhi ruang sampel.\nKenapa opsi lain salah: $\\frac{5}{12}$ adalah peluang sebelum perubahan; $\\frac{1}{2}$ terlalu membulatkan; $\\frac{7}{13}$ menambah bola biru terlalu banyak.\nJawaban akhir: **$\\frac{6}{13}$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Aritmetika sosial",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Harga 2 buku tulis dan 3 pensil adalah Rp28.000. Harga sebuah buku tulis Rp4.000 lebih mahal daripada harga sebuah pensil. Harga sebuah buku tulis adalah ...",
+    "options": [
+      "Rp6.000",
+      "Rp7.000",
+      "Rp8.000",
+      "Rp9.000"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Misalkan harga pensil = $p$, maka harga buku = $p+4000$.\nLangkah 2: Bentuk persamaan total: $2(p+4000)+3p=28000$.\nLangkah 3: Sederhanakan: $2p+8000+3p=28000\\Rightarrow5p=20000\\Rightarrow p=4000$.\nLangkah 4: Harga buku = $4000+4000=8000$.\nLangkah 5: Jadi harga sebuah buku tulis adalah Rp8.000.\n**Materi terkait:**\n- Soal harga campuran dimodelkan dengan persamaan linear satu variabel.\nInsight kunci: Ubah relasi \"lebih mahal\" menjadi ekspresi aljabar sebelum menjumlah total belanja.\nKenapa opsi lain salah: Tidak memenuhi sekaligus total belanja dan selisih harga.\nJawaban akhir: **Rp8.000**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Perbandingan dalam konteks",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Perbandingan umur Ayah dan Beni saat ini adalah $7:2$. Enam tahun lagi, perbandingan umur mereka menjadi $8:3$. Umur Ayah saat ini adalah ...",
+    "options": [
+      "35 tahun",
+      "42 tahun",
+      "49 tahun",
+      "56 tahun"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Misalkan umur Ayah = $7k$ dan Beni = $2k$.\nLangkah 2: Enam tahun lagi: umur menjadi $7k+6$ dan $2k+6$.\nLangkah 3: Gunakan rasio baru: $\\frac{7k+6}{2k+6}=\\frac{8}{3}$.\nLangkah 4: Kalikan silang: $3(7k+6)=8(2k+6)$ sehingga $21k+18=16k+48$.\nLangkah 5: Diperoleh $5k=30$, jadi $k=6$.\nLangkah 6: Umur Ayah saat ini $=7k=42$ tahun.\n**Materi terkait:**\n- Rasio umur dengan penambahan tahun memakai model variabel yang sama untuk dua waktu.\nInsight kunci: Penambahan tahun berlaku pada kedua orang sebelum membuat rasio baru.\nKenapa opsi lain salah: Terjadi jika lupa menambah umur ke kedua pihak atau salah kalikan silang.\nJawaban akhir: **42 tahun**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Sebuah bilangan diproses dengan aturan: kalikan dengan $8$, lalu kurangi $13$, hasilnya $51$. Persamaan yang tepat adalah $8x-13=51$. Nilai bilangan semula adalah ...",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Misalkan bilangan semula $x$. Kalimat 'dikalikan 8 lalu dikurangi 13' diterjemahkan menjadi $8x-13$.\nLangkah 2: Hasil akhirnya $51$, sehingga modelnya $8x-13=51$.\nLangkah 3: Tambahkan $13$ pada kedua sisi: $8x=64$.\nLangkah 4: Bagi dengan $8$, diperoleh $x=8$.\n**Materi terkait:**\n- Translasi verbal ke persamaan harus mengikuti urutan operasi dalam kalimat.\n- Kata ?lalu? menunjukkan operasi berikutnya setelah operasi pertama.\nInsight kunci: Perspektif soal ini adalah menerjemahkan proses menjadi model. Persamaan yang tepat membuat penyelesaian menjadi singkat.\nKenapa opsi lain salah: $7$ muncul jika $13$ dikurangkan lagi; $9$ dan $10$ tidak memenuhi $8x-13=51$.\nJawaban akhir: **8**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan berpangkat sederhana",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-h"
+    ],
+    "is_active": true,
+    "question": "Jumlah dari $3^2$ dan $2^4$ dibandingkan dengan $5^2$. Selisihnya adalah ...",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Hitung $3^2=9$.\nLangkah 2: Hitung $2^4=16$ sehingga jumlah keduanya $9+16=25$.\nLangkah 3: Hitung $5^2=25$.\nLangkah 4: Selisih dua nilai tersebut $=25-25=0$.\nLangkah 5: Jadi selisihnya adalah $0$.\n**Materi terkait:**\n- Perbandingan hasil pangkat melalui selisih.\nInsight kunci: Ubah kalimat \"dibandingkan\" menjadi operasi selisih agar jelas apa yang dihitung.\nKenapa opsi lain salah: Opsi lain berasal dari salah hitung nilai pangkat atau lupa bahwa kedua hasil ternyata sama.\nJawaban akhir: **0**."
+  }
+]

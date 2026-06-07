@@ -1,0 +1,1624 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "peredaran-darah",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Saat mengikuti kegiatan pramuka, Nino berjalan cepat membawa tas ringan. Setelah beberapa menit, wajahnya memerah, napasnya lebih cepat, dan denyut nadinya meningkat. Guru menjelaskan bahwa darah membantu mengirim zat yang dibutuhkan otot saat tubuh aktif.\n\nPenjelasan paling tepat tentang peran sistem peredaran darah pada keadaan tersebut adalah ...",
+    "options": [
+      "Darah mengalir lebih lambat agar panas tubuh tidak cepat meningkat saat bergerak.",
+      "Denyut nadi meningkat karena tulang membantu gerakan dada saat bernapas cepat.",
+      "Saat bergerak, tubuh membutuhkan oksigen lebih sedikit karena otot sudah mendapat cadangan energi, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan.",
+      "Jantung memompa darah lebih cepat agar oksigen dan zat makanan lebih cepat sampai ke otot yang sedang bekerja"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat Nino berjalan cepat, otot tubuhnya bekerja lebih aktif. Otot yang aktif membutuhkan lebih banyak energi.\n\nLangkah 2: Untuk menghasilkan energi, sel otot membutuhkan oksigen dan zat makanan. Keduanya dibawa oleh darah melalui pembuluh darah.\n\nLangkah 3: Jantung memompa darah lebih cepat, sehingga denyut nadi meningkat. Ini membantu pengiriman oksigen dan zat makanan serta membantu membawa zat sisa dari sel.\n\nLangkah 4: Wajah memerah juga dapat terjadi karena aliran darah di dekat kulit meningkat untuk membantu melepas panas tubuh.\n\n**Materi terkait:**\n- **Sistem peredaran darah** terdiri atas jantung, darah, dan pembuluh darah.\n- Jantung bekerja sebagai pompa yang mengalirkan darah ke seluruh tubuh.\n- Darah membawa oksigen, zat makanan, dan zat sisa.\n\nInsight kunci: Denyut nadi yang naik saat aktivitas bukan tanda tubuh berhenti bekerja, melainkan tanda tubuh menyesuaikan kebutuhan energi. Sistem pernapasan dan peredaran darah bekerja bersama saat tubuh aktif.\n\nKenapa opsi lain salah: B salah karena darah tidak berhenti mengalir. C salah karena tulang tidak memompa udara. D terbalik, saat bergerak tubuh justru membutuhkan lebih banyak oksigen."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sel & jaringan",
+    "skill_type": "concept_understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "organisasi-kehidupan",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Perhatikan urutan berikut:\n\nSel otot -> jaringan otot -> jantung -> sistem peredaran darah -> tubuh manusia\n\nAlasan urutan tersebut benar adalah ...",
+    "options": [
+      "Sel sejenis membentuk jaringan, beberapa jaringan membentuk organ, beberapa organ bekerja sama dalam sistem organ, lalu membentuk organisme",
+      "Organ adalah bagian terkecil kehidupan sehingga cenderung berada sebelum sel, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan.",
+      "Sistem organ hanya tersusun dari satu sel besar.",
+      "Jaringan dan organ adalah istilah yang sama sehingga urutan tidak penting."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Sel adalah unit terkecil penyusun makhluk hidup. Sel otot adalah contoh sel yang memiliki fungsi membantu gerak atau kontraksi.\n\nLangkah 2: Banyak sel otot sejenis dapat membentuk **jaringan otot**. Jaringan adalah kumpulan sel yang bekerja sama melakukan fungsi tertentu.\n\nLangkah 3: Jantung adalah **organ** karena tersusun dari beberapa jaringan, termasuk jaringan otot, jaringan saraf, dan jaringan pembuluh darah.\n\nLangkah 4: Jantung bekerja bersama darah dan pembuluh darah dalam **sistem peredaran darah**. Semua sistem organ bersama-sama menyusun tubuh manusia sebagai organisme.\n\n**Materi terkait:**\n- Urutan organisasi kehidupan: **sel -> jaringan -> organ -> sistem organ -> organisme**.\n- Contoh organ adalah jantung, paru-paru, lambung, dan ginjal.\n- Memahami urutan ini membantu membedakan istilah yang sering tertukar dalam soal.\n\nInsight kunci: Tubuh tersusun bertingkat dari bagian sangat kecil sampai sistem besar. Jika urutannya dipahami, soal tentang sel, jaringan, organ, dan sistem organ menjadi lebih mudah.\n\nKenapa opsi lain salah: B membalik urutan karena sel lebih kecil daripada organ. C salah karena sistem organ tersusun dari beberapa organ. D salah karena jaringan dan organ berbeda tingkat."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Pertumbuhan & perkembangan",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "pertumbuhan",
+      "data",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Tiga tanaman cabai ditanam dari biji yang sama. Semua diberi tanah dan air sama, tetapi perlakuan cahayanya berbeda.\n\nData setelah 10 hari:\n- Tanaman A: mendapat cahaya pagi 4 jam per hari, tinggi 9 cm, daun hijau.\n- Tanaman B: mendapat cahaya 1 jam per hari, tinggi 13 cm, batang kurus, daun pucat.\n- Tanaman C: mendapat cahaya 6 jam per hari, tinggi 10 cm, daun hijau lebih lebar.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Tanaman tertinggi cenderung paling sehat, sehingga B paling baik pertumbuhannya.",
+      "Tanaman tidak membutuhkan cahaya karena B tetap bertambah tinggi.",
+      "Cahaya cukup membantu daun tetap hijau dan pertumbuhan lebih kuat, meskipun tinggi bukan satu-satunya ukuran sehat",
+      "Air menjadi faktor utama pertumbuhan karena semua tanaman tetap membutuhkan air untuk hidup."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Bandingkan data tinggi dan kondisi tanaman. Tanaman B paling tinggi, tetapi batangnya kurus dan daunnya pucat.\n\nLangkah 2: Tanaman C tidak paling tinggi, tetapi daunnya hijau lebih lebar. Ini menunjukkan cahaya cukup membantu pembentukan klorofil dan mendukung fotosintesis.\n\nLangkah 3: Tinggi tanaman bukan satu-satunya tanda sehat. Tanaman di tempat kurang cahaya dapat memanjang lemah karena mencari cahaya.\n\nLangkah 4: Karena tanah dan air sama, perbedaan yang paling jelas berasal dari lama cahaya. Data mendukung bahwa cahaya cukup membuat pertumbuhan lebih kuat.\n\nLangkah 5: Kesimpulan yang hati-hati adalah cahaya cukup membantu kesehatan daun dan kekuatan pertumbuhan, bukan sekadar membuat tanaman paling tinggi.\n\n**Materi terkait:**\n- **Pertumbuhan** adalah pertambahan ukuran, misalnya tinggi dan jumlah daun.\n- **Perkembangan** adalah perubahan menuju fungsi yang lebih matang.\n- Tumbuhan membutuhkan air, mineral, udara, dan cahaya untuk tumbuh baik.\n- Data pertumbuhan harus dibaca dari beberapa tanda, bukan satu angka saja.\n\nInsight kunci: Dalam IPA, angka terbesar belum tentu jawaban terbaik. Kondisi daun, batang, dan perlakuan percobaan harus dibaca bersama sebelum menyimpulkan.\n\nKenapa opsi lain salah: A tertipu oleh tinggi saja. C salah karena B tumbuh tinggi tetapi tidak sehat. D salah karena air sama, jadi tidak menjelaskan perbedaan hasil.",
+    "content": {
+      "question": "Tiga tanaman cabai ditanam dari biji yang sama. Semua diberi tanah dan air sama, tetapi perlakuan cahayanya berbeda.\n\nData setelah 10 hari:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga tanaman cabai ditanam dari biji yang sama. Semua diberi tanah dan air sama, tetapi perlakuan cahayanya berbeda."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data setelah 10 hari:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tanaman A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mendapat cahaya pagi 4 jam per hari, tinggi 9 cm, daun hijau."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tanaman B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mendapat cahaya 1 jam per hari, tinggi 13 cm, batang kurus, daun pucat."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tanaman C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mendapat cahaya 6 jam per hari, tinggi 10 cm, daun hijau lebih lebar."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Tanaman tertinggi cenderung paling sehat, sehingga B paling baik pertumbuhannya.",
+        "Tanaman tidak membutuhkan cahaya karena B tetap bertambah tinggi.",
+        "Cahaya cukup membantu daun tetap hijau dan pertumbuhan lebih kuat, meskipun tinggi bukan satu-satunya ukuran sehat",
+        "Air menjadi faktor utama pertumbuhan karena semua tanaman tetap membutuhkan air untuk hidup."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tanaman tertinggi cenderung paling sehat, sehingga B paling baik pertumbuhannya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tanaman tidak membutuhkan cahaya karena B tetap bertambah tinggi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cahaya cukup membantu daun tetap hijau dan pertumbuhan lebih kuat, meskipun tinggi bukan satu-satunya ukuran sehat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Air menjadi faktor utama pertumbuhan karena semua tanaman tetap membutuhkan air untuk hidup."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "**Jawaban: B**\n\nLangkah 1: Bandingkan data tinggi dan kondisi tanaman. Tanaman B paling tinggi, tetapi batangnya kurus dan daunnya pucat.\n\nLangkah 2: Tanaman C tidak paling tinggi, tetapi daunnya hijau lebih lebar. Ini menunjukkan cahaya cukup membantu pembentukan klorofil dan mendukung fotosintesis.\n\nLangkah 3: Tinggi tanaman bukan satu-satunya tanda sehat. Tanaman di tempat kurang cahaya dapat memanjang lemah karena mencari cahaya.\n\nLangkah 4: Karena tanah dan air sama, perbedaan yang paling jelas berasal dari lama cahaya. Data mendukung bahwa cahaya cukup membuat pertumbuhan lebih kuat.\n\nLangkah 5: Kesimpulan yang hati-hati adalah cahaya cukup membantu kesehatan daun dan kekuatan pertumbuhan, bukan sekadar membuat tanaman paling tinggi.\n\n**Materi terkait:**\n- **Pertumbuhan** adalah pertambahan ukuran, misalnya tinggi dan jumlah daun.\n- **Perkembangan** adalah perubahan menuju fungsi yang lebih matang.\n- Tumbuhan membutuhkan air, mineral, udara, dan cahaya untuk tumbuh baik.\n- Data pertumbuhan harus dibaca dari beberapa tanda, bukan satu angka saja.\n\nInsight kunci: Dalam IPA, angka terbesar belum tentu jawaban terbaik. Kondisi daun, batang, dan perlakuan percobaan harus dibaca bersama sebelum menyimpulkan.\n\nKenapa opsi lain salah: A tertipu oleh tinggi saja. C salah karena B tumbuh tinggi tetapi tidak sehat. D salah karena air sama, jadi tidak menjelaskan perbedaan hasil.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: B",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan data tinggi dan kondisi tanaman. Tanaman B paling tinggi, tetapi batangnya kurus dan daunnya pucat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Tanaman C tidak paling tinggi, tetapi daunnya hijau lebih lebar. Ini menunjukkan cahaya cukup membantu pembentukan klorofil dan mendukung fotosintesis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Tinggi tanaman bukan satu-satunya tanda sehat. Tanaman di tempat kurang cahaya dapat memanjang lemah karena mencari cahaya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Karena tanah dan air sama, perbedaan yang paling jelas berasal dari lama cahaya. Data mendukung bahwa cahaya cukup membuat pertumbuhan lebih kuat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Kesimpulan yang hati-hati adalah cahaya cukup membantu kesehatan daun dan kekuatan pertumbuhan, bukan sekadar membuat tanaman paling tinggi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Pertumbuhan",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah pertambahan ukuran, misalnya tinggi dan jumlah daun."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Perkembangan",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah perubahan menuju fungsi yang lebih matang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Tumbuhan membutuhkan air, mineral, udara, dan cahaya untuk tumbuh baik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Data pertumbuhan harus dibaca dari beberapa tanda, bukan satu angka saja."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Dalam IPA, angka terbesar belum tentu jawaban terbaik. Kondisi daun, batang, dan perlakuan percobaan harus dibaca bersama sebelum menyimpulkan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: A tertipu oleh tinggi saja. C salah karena B tumbuh tinggi tetapi tidak sehat. D salah karena air sama, jadi tidak menjelaskan perbedaan hasil."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem organ manusia",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "sistem-organ"
+    ],
+    "is_active": true,
+    "question": "Rangka manusia memiliki beberapa fungsi penting. Contoh fungsi rangka yang paling tepat adalah ...",
+    "options": [
+      "Menghasilkan cahaya agar tubuh dapat melihat dalam gelap, sehingga hubungan antara struktur, fungsi, dan kebutuhan tubuh tidak dibandingkan dengan cermat.",
+      "Melindungi organ penting, memberi bentuk tubuh, dan menjadi tempat melekatnya otot",
+      "Mengganti fungsi paru-paru saat bernapas.",
+      "Mencerna sebagian besar makanan di dalam usus."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Rangka adalah susunan tulang dalam tubuh. Tulang membantu tubuh memiliki bentuk dan dapat berdiri tegak.\n\nLangkah 2: Rangka juga melindungi organ penting. Contohnya tengkorak melindungi otak, sedangkan tulang rusuk melindungi jantung dan paru-paru.\n\nLangkah 3: Otot melekat pada tulang. Saat otot bekerja bersama sendi dan tulang, tubuh dapat bergerak.\n\n**Materi terkait:**\n- Rangka berfungsi menopang tubuh, melindungi organ, membantu gerak, dan memberi bentuk tubuh.\n- Sendi adalah tempat pertemuan tulang yang memungkinkan gerakan.\n- Kesehatan rangka dijaga dengan makanan bergizi, olahraga, postur baik, dan beban yang sesuai.\n\nInsight kunci: Rangka bukan hanya penyangga. Rangka juga bekerja bersama otot dan sendi, serta berperan sebagai pelindung organ penting.\n\nKenapa opsi lain salah: B bukan fungsi rangka. C adalah fungsi sistem pernapasan. D adalah fungsi sistem pencernaan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "ekosistem",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di kebun sekolah, daun kering biasanya dikumpulkan lalu dijadikan kompos. Suatu bulan, semua daun kering langsung dibakar sehingga tanah kebun menjadi lebih kering dan jumlah cacing tanah yang terlihat berkurang.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Membakar daun cenderung membuat tanah lebih subur karena sebagian besar asap menjadi makanan cacing, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain.",
+      "Daun kering dapat menjadi bahan organik bagi tanah; jika selalu dibakar, bahan organik berkurang dan lingkungan cacing menjadi kurang baik",
+      "Cacing tanah tidak berhubungan dengan tanah sehingga jumlahnya tidak dipengaruhi kondisi kebun.",
+      "Daun kering bukan bagian dari ekosistem karena sudah mati."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Daun kering adalah sisa makhluk hidup yang dapat diuraikan. Jika diolah menjadi kompos, daun kering menambah bahan organik tanah.\n\nLangkah 2: Cacing tanah hidup di tanah yang cukup lembap dan kaya bahan organik. Jika bahan organik berkurang dan tanah lebih kering, lingkungan cacing menjadi kurang mendukung.\n\nLangkah 3: Membakar daun juga menghasilkan asap dan menghilangkan calon bahan kompos. Ini tidak sama dengan mengembalikan nutrisi secara baik ke tanah.\n\nLangkah 4: Jadi perubahan cara mengelola daun dapat memengaruhi kondisi tanah dan organisme di kebun.\n\n**Materi terkait:**\n- **Ekosistem** terdiri atas makhluk hidup dan benda tak hidup yang saling berinteraksi.\n- Pengurai seperti cacing dan mikroorganisme membantu mengembalikan bahan organik ke tanah.\n- Pengelolaan sampah organik dapat memengaruhi kesuburan tanah.\n\nInsight kunci: Dalam ekosistem, benda yang tampak sederhana seperti daun kering tetap punya peran. Cara manusia mengelolanya dapat membantu atau mengganggu keseimbangan lingkungan.\n\nKenapa opsi lain salah: B salah karena asap bukan makanan cacing. C salah karena cacing sangat bergantung pada kondisi tanah. D salah karena sisa makhluk hidup tetap berperan dalam ekosistem sebagai bahan yang dapat diuraikan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Lingkungan & pencemaran",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "pencemaran",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi dekat sungai kecil, beberapa warga mencuci wadah pestisida dan membuang sisa cairannya ke selokan. Beberapa hari kemudian, ikan kecil di sungai banyak yang mati, air berbau tajam, dan tanaman air berubah kecokelatan. Warga ingin mencegah kejadian berulang.\n\nTindakan paling tepat adalah ...",
+    "options": [
+      "Menambah pestisida ke sungai agar ikan yang lemah cepat hilang, karena perubahan habitat dikira hanya memengaruhi tempat tinggal, bukan makanan.",
+      "Menutup sungai dengan papan agar bau tidak tercium.",
+      "Menghentikan pembuangan sisa pestisida ke selokan, membuat tempat penampungan limbah khusus, dan memberi edukasi penggunaan bahan kimia yang aman",
+      "Membuang limbah pada malam hari agar tidak terlihat."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Data menunjukkan tanda pencemaran: ikan mati, air berbau tajam, dan tanaman air berubah warna. Perubahan terjadi setelah sisa pestisida masuk ke selokan.\n\nLangkah 2: Pestisida adalah bahan kimia yang dapat berbahaya bagi organisme air jika masuk ke sungai. Zat ini dapat mengganggu ikan, tumbuhan air, dan makhluk kecil lain.\n\nLangkah 3: Solusi harus menghentikan sumber pencemar. Karena sumbernya adalah pembuangan sisa pestisida, maka limbah harus dikelola secara khusus.\n\nLangkah 4: Edukasi warga penting agar masalah tidak berulang. Pencegahan lebih baik daripada hanya membersihkan setelah ikan mati.\n\nLangkah 5: Opsi A paling tepat karena menangani penyebab, cara pembuangan, dan perilaku manusia.\n\n**Materi terkait:**\n- **Pencemaran air** terjadi saat zat berbahaya masuk ke perairan dan mengganggu makhluk hidup.\n- Bahan kimia pertanian harus digunakan sesuai aturan dan tidak dibuang sembarangan.\n- Ekosistem sungai mudah terganggu karena banyak organisme bergantung pada air yang sama.\n\nInsight kunci: Untuk menyelesaikan pencemaran, cari sumber pencemar terlebih dahulu. Solusi yang hanya menutupi bau atau menyembunyikan limbah tidak memperbaiki ekosistem.\n\nKenapa opsi lain salah: B memperparah pencemaran. C hanya menutupi gejala. D tidak etis dan tetap merusak sungai."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "simbiosis",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Di kebun, lebah sering hinggap pada bunga cabai. Lebah mengambil nektar, sementara serbuk sari dapat terbawa dari satu bunga ke bunga lain. Setelah beberapa minggu, jumlah buah cabai di tanaman yang sering dikunjungi lebah lebih banyak.\n\nJenis interaksi yang paling tepat adalah ...",
+    "options": [
+      "Mutualisme, karena lebah mendapat makanan dan tumbuhan terbantu penyerbukannya",
+      "Parasitisme, karena lebah cenderung merugikan bunga.",
+      "Komensalisme, karena hanya lebah yang mendapat manfaat dan tanaman tidak terpengaruh.",
+      "Predasi, karena lebah memangsa bunga sampai habis."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lebah memperoleh nektar dari bunga. Nektar menjadi sumber makanan bagi lebah.\n\nLangkah 2: Saat lebah berpindah bunga, serbuk sari dapat ikut terbawa. Ini membantu proses penyerbukan pada tumbuhan.\n\nLangkah 3: Data menunjukkan tanaman yang sering dikunjungi lebah menghasilkan lebih banyak buah. Ini tanda tumbuhan juga mendapat manfaat.\n\nLangkah 4: Karena kedua makhluk hidup mendapat manfaat, interaksi tersebut disebut **mutualisme**.\n\n**Materi terkait:**\n- **Mutualisme** adalah interaksi dua makhluk hidup yang sama-sama diuntungkan.\n- **Komensalisme** menguntungkan satu pihak tanpa merugikan pihak lain.\n- **Parasitisme** menguntungkan satu pihak dan merugikan pihak lain.\n- Penyerbukan dapat dibantu angin, air, atau hewan seperti lebah dan kupu-kupu.\n\nInsight kunci: Untuk menentukan jenis simbiosis, tanyakan siapa yang untung dan siapa yang rugi. Pada lebah dan bunga, keduanya mendapat manfaat.\n\nKenapa opsi lain salah: B salah karena tanaman tidak dirugikan. C salah karena tanaman terbantu. D salah karena lebah tidak memangsa bunga sampai habis."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "gerak",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Tiga mainan mobil bergerak di lintasan lurus selama 5 detik.\n\nData jarak tempuh:\n- Mobil A menempuh 10 m.\n- Mobil B menempuh 15 m.\n- Mobil C menempuh 20 m.\n\nJika waktu tempuh sama, urutan kecepatan dari paling kecil ke paling besar adalah ...",
+    "options": [
+      "C, B, A.",
+      "B, A, C.",
+      "A, C, B, karena A memang paling lambat, tetapi jarak C dan B tertukar saat mengurutkan data.",
+      "A, B, C"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kecepatan berhubungan dengan jarak dan waktu. Rumus sederhananya adalah $v = \\frac{d}{t}$.\n\nLangkah 2: Waktu ketiga mobil sama, yaitu 5 detik. Jika waktu sama, mobil yang menempuh jarak lebih jauh memiliki kecepatan lebih besar.\n\nLangkah 3: Jarak Mobil A 10 m, Mobil B 15 m, dan Mobil C 20 m. Jadi urutan dari jarak paling kecil ke terbesar adalah A, B, C.\n\nLangkah 4: Karena waktu sama, urutan kecepatan juga A, B, C.\n\n**Materi terkait:**\n- **Gerak lurus** berarti benda bergerak pada lintasan lurus.\n- Kecepatan menunjukkan seberapa jauh benda bergerak setiap satuan waktu.\n- Jika waktu sama, jarak lebih besar berarti kecepatan lebih besar.\n\nInsight kunci: Pada soal kecepatan, jangan melihat jarak saja tanpa waktu. Namun jika waktunya sama, jarak langsung menunjukkan urutan kecepatan.\n\nKenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti data jarak yang diberikan.",
+    "content": {
+      "question": "Tiga mainan mobil bergerak di lintasan lurus selama 5 detik.\n\nData jarak tempuh:\n\nJika waktu tempuh sama, urutan kecepatan dari paling kecil ke paling besar adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga mainan mobil bergerak di lintasan lurus selama 5 detik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data jarak tempuh:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Mobil A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "menempuh 10 m."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Mobil B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "menempuh 15 m."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Mobil C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "menempuh 20 m."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika waktu tempuh sama, urutan kecepatan dari paling kecil ke paling besar adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "C, B, A.",
+        "B, A, C.",
+        "A, C, B, karena A memang paling lambat, tetapi jarak C dan B tertukar saat mengurutkan data.",
+        "A, B, C"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "C, B, A."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "B, A, C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, C, B, karena A memang paling lambat, tetapi jarak C dan B tertukar saat mengurutkan data."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, B, C"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Kecepatan berhubungan dengan jarak dan waktu. Rumus sederhananya adalah $v = \\frac{d}{t}$.\n\nLangkah 2: Waktu ketiga mobil sama, yaitu 5 detik. Jika waktu sama, mobil yang menempuh jarak lebih jauh memiliki kecepatan lebih besar.\n\nLangkah 3: Jarak Mobil A 10 m, Mobil B 15 m, dan Mobil C 20 m. Jadi urutan dari jarak paling kecil ke terbesar adalah A, B, C.\n\nLangkah 4: Karena waktu sama, urutan kecepatan juga A, B, C.\n\n**Materi terkait:**\n- **Gerak lurus** berarti benda bergerak pada lintasan lurus.\n- Kecepatan menunjukkan seberapa jauh benda bergerak setiap satuan waktu.\n- Jika waktu sama, jarak lebih besar berarti kecepatan lebih besar.\n\nInsight kunci: Pada soal kecepatan, jangan melihat jarak saja tanpa waktu. Namun jika waktunya sama, jarak langsung menunjukkan urutan kecepatan.\n\nKenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti data jarak yang diberikan.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Kecepatan berhubungan dengan jarak dan waktu. Rumus sederhananya adalah $v = \\frac{d}{t}$."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Waktu ketiga mobil sama, yaitu 5 detik. Jika waktu sama, mobil yang menempuh jarak lebih jauh memiliki kecepatan lebih besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Jarak Mobil A 10 m, Mobil B 15 m, dan Mobil C 20 m. Jadi urutan dari jarak paling kecil ke terbesar adalah A, B, C."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Karena waktu sama, urutan kecepatan juga A, B, C."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Gerak lurus",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " berarti benda bergerak pada lintasan lurus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kecepatan menunjukkan seberapa jauh benda bergerak setiap satuan waktu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Jika waktu sama, jarak lebih besar berarti kecepatan lebih besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pada soal kecepatan, jangan melihat jarak saja tanpa waktu. Namun jika waktunya sama, jarak langsung menunjukkan urutan kecepatan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti data jarak yang diberikan."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "reasoning",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "gaya",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Siswa menguji gerak kotak di dua permukaan. Kotak yang sama didorong dengan gaya sama.\n\nHasil pengamatan:\n- Di lantai keramik, kotak bergerak 180 cm sebelum berhenti.\n- Di karpet tipis, kotak bergerak 90 cm sebelum berhenti.\n- Di alas karet, kotak bergerak 40 cm sebelum berhenti.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Semakin besar gaya gesek permukaan, semakin pendek jarak gerak kotak sebelum berhenti",
+      "Alas karet memiliki gaya gesek paling kecil karena kotak cepat berhenti.",
+      "Sebagian besar permukaan memberi gaya gesek sama karena gaya dorong awal sama.",
+      "Gaya gesek cenderung mempercepat gerak benda, karena jarak atau bentuk benda sering dikira lebih menentukan daripada gaya yang bekerja."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kotak dan gaya dorong dibuat sama. Faktor yang berubah adalah jenis permukaan.\n\nLangkah 2: Pada lantai keramik, kotak bergerak paling jauh. Ini menunjukkan hambatan atau gaya geseknya paling kecil di antara tiga permukaan.\n\nLangkah 3: Pada alas karet, kotak bergerak paling pendek. Ini menunjukkan gaya geseknya paling besar sehingga kotak lebih cepat berhenti.\n\nLangkah 4: Gaya gesek bekerja berlawanan arah dengan gerak benda. Karena itu gaya gesek cenderung memperlambat benda yang sedang bergerak.\n\nLangkah 5: Kesimpulan terbaik adalah semakin besar gaya gesek, semakin pendek jarak gerak kotak.\n\n**Materi terkait:**\n- **Gaya gesek** muncul saat dua permukaan bersentuhan.\n- Permukaan kasar biasanya menghasilkan gaya gesek lebih besar daripada permukaan licin.\n- Gaya gesek dapat berguna, misalnya membuat sepatu tidak mudah tergelincir, tetapi juga dapat menghambat gerak.\n\nInsight kunci: Dalam percobaan adil, jika gaya dorong dan kotak sama, perbedaan jarak gerak dapat digunakan untuk membandingkan gaya gesek permukaan.\n\nKenapa opsi lain salah: B terbalik karena cepat berhenti menandakan gesek besar. C salah karena data jarak berbeda. D salah karena gaya gesek biasanya melawan arah gerak."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "tuas"
+    ],
+    "is_active": true,
+    "question": "Ibu ingin membuka tutup kaleng cat yang rapat dengan obeng pipih. Ujung obeng diselipkan di bawah tutup, lalu gagangnya ditekan ke bawah sehingga tutup terangkat.\n\nPrinsip pesawat sederhana yang digunakan adalah ...",
+    "options": [
+      "Katrol, karena obeng memiliki roda yang berputar.",
+      "Bidang miring, karena tutup kaleng meluncur turun, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama.",
+      "Tuas, karena obeng membantu memperbesar efek gaya dengan titik tumpu di tepi kaleng",
+      "Roda berporos."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat obeng diselipkan di bawah tutup, bagian tepi kaleng menjadi titik tumpu. Gagang obeng ditekan sebagai tempat gaya diberikan.\n\nLangkah 2: Ujung obeng mengangkat tutup kaleng sebagai beban. Susunan titik tumpu, kuasa, dan beban menunjukkan prinsip **tuas**.\n\nLangkah 3: Tuas membantu pekerjaan karena gaya kecil pada gagang yang lebih panjang dapat menghasilkan efek angkat pada tutup yang rapat.\n\nLangkah 4: Jadi obeng pada kasus ini bekerja sebagai tuas, bukan sebagai katrol atau roda.\n\n**Materi terkait:**\n- **Tuas** memiliki tiga bagian utama: titik tumpu, kuasa, dan beban.\n- Contoh tuas adalah jungkat-jungkit, gunting, linggis, dan pembuka tutup botol.\n- Pesawat sederhana membantu mengubah besar gaya, arah gaya, atau jarak kerja.\n\nInsight kunci: Satu alat dapat memiliki fungsi berbeda tergantung cara digunakan. Obeng bisa untuk memutar sekrup, tetapi saat mencungkil tutup kaleng, ia bekerja sebagai tuas.\n\nKenapa opsi lain salah: B salah karena tidak ada roda katrol. C salah karena tidak ada lintasan miring utama. D salah karena obeng tidak bekerja sebagai roda berporos pada kasus ini."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "energi",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Sebuah sepeda memiliki lampu kecil yang menyala saat roda berputar. Lampu padam ketika sepeda berhenti. Alat pada roda mengubah putaran roda menjadi listrik untuk menyalakan lampu.\n\nUrutan perubahan energi yang paling tepat adalah ...",
+    "options": [
+      "Energi cahaya lampu -> energi listrik -> energi gerak roda.",
+      "Energi bunyi -> energi kimia -> energi cahaya.",
+      "Energi listrik muncul tanpa sumber energi lain.",
+      "Energi gerak roda -> energi listrik -> energi cahaya lampu"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lampu menyala saat roda berputar. Ini menunjukkan sumber awalnya adalah **energi gerak** dari roda sepeda.\n\nLangkah 2: Alat pada roda mengubah gerak menjadi energi listrik. Alat seperti ini sering disebut dinamo pada sepeda.\n\nLangkah 3: Energi listrik kemudian digunakan lampu untuk menghasilkan cahaya. Sebagian energi juga bisa berubah menjadi panas kecil.\n\nLangkah 4: Jadi urutannya adalah energi gerak roda, energi listrik, lalu energi cahaya lampu.\n\n**Materi terkait:**\n- Energi dapat berubah bentuk dari satu jenis ke jenis lain.\n- Dinamo mengubah energi gerak menjadi energi listrik.\n- Lampu mengubah energi listrik menjadi energi cahaya.\n\nInsight kunci: Untuk menentukan perubahan energi, ikuti alur dari penyebab awal sampai hasil akhir. Jika lampu padam saat roda berhenti, gerak roda adalah sumber penting dalam sistem itu.\n\nKenapa opsi lain salah: B membalik urutan. C tidak sesuai alat pada sepeda. D salah karena energi listrik tidak muncul dari ketiadaan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "magnet",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Empat benda diuji dengan magnet batang.\n\nHasil pengamatan:\n- Paku besi tertarik kuat.\n- Klip baja tertarik kuat.\n- Penggaris plastik tidak tertarik.\n- Koin aluminium tidak tertarik dalam percobaan sederhana ini.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Sebagian besar logam cenderung tertarik magnet dengan kekuatan sama, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi.",
+      "Magnet menarik benda tertentu yang mengandung bahan seperti besi atau baja, tetapi tidak semua logam tertarik magnet",
+      "Plastik tertarik magnet jika bentuknya panjang.",
+      "Magnet hanya menarik benda yang berwarna perak."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Paku besi dan klip baja tertarik kuat. Ini menunjukkan bahan seperti besi dan baja dapat ditarik magnet.\n\nLangkah 2: Penggaris plastik tidak tertarik karena plastik bukan bahan magnetik. Koin aluminium juga tidak tertarik pada percobaan sederhana ini.\n\nLangkah 3: Data membuktikan bahwa tidak semua logam tertarik magnet. Jenis bahan lebih penting daripada sekadar tampilan logam.\n\nLangkah 4: Kesimpulan yang tepat adalah magnet menarik benda tertentu, terutama bahan feromagnetik seperti besi dan baja.\n\n**Materi terkait:**\n- Magnet memiliki dua kutub, yaitu utara dan selatan.\n- Bahan yang mudah ditarik magnet antara lain besi, baja, nikel, dan kobalt.\n- Aluminium, tembaga, kayu, kertas, dan plastik umumnya tidak tertarik magnet dalam percobaan sederhana SD.\n\nInsight kunci: Jangan menilai sifat magnet dari warna atau kilap benda. Bahan penyusunnya yang menentukan apakah benda tertarik magnet.\n\nKenapa opsi lain salah: B salah karena aluminium tidak tertarik pada data. C salah karena bentuk plastik tidak membuatnya magnetik. D salah karena warna bukan penentu sifat magnet."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "bunyi",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Empat botol kaca diisi air dengan tinggi berbeda, lalu ditiup pada mulut botol dengan cara yang sama.\n\nData pengamatan:\n- Botol P berisi air sangat sedikit, bunyinya paling rendah.\n- Botol Q berisi air sedang, bunyinya lebih tinggi dari P.\n- Botol R berisi air hampir penuh, bunyinya paling tinggi.\n- Botol S kosong, bunyinya rendah.\n\nKesimpulan paling tepat dari data tersebut adalah ...",
+    "options": [
+      "Pada percobaan meniup botol, semakin sedikit udara di dalam botol, bunyi yang dihasilkan cenderung lebih tinggi",
+      "Perbedaan banyak air kurang berpengaruh karena semua botol dibuat dari bahan kaca yang sama.",
+      "Botol paling kosong cenderung menghasilkan bunyi paling tinggi.",
+      "Bunyi muncul terutama dari kerasnya tiupan, sehingga jumlah udara di botol dikira kurang menentukan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat botol ditiup, yang bergetar terutama kolom udara di dalam botol. Banyaknya air menentukan seberapa besar ruang udara tersisa.\n\nLangkah 2: Botol R hampir penuh air, berarti ruang udaranya paling sedikit. Data menunjukkan bunyinya paling tinggi.\n\nLangkah 3: Botol P dan S memiliki ruang udara lebih banyak, sehingga bunyinya rendah. Ini mendukung hubungan antara panjang kolom udara dan tinggi nada.\n\nLangkah 4: Kesimpulan yang tepat adalah semakin sedikit udara di dalam botol pada percobaan ini, bunyi cenderung lebih tinggi.\n\nLangkah 5: Data harus dibaca sesuai cara membunyikan alat. Meniup botol berbeda dari memukul botol dengan sendok.\n\n**Materi terkait:**\n- Bunyi terjadi karena getaran.\n- Tinggi rendah nada berhubungan dengan frekuensi getaran.\n- Pada botol yang ditiup, kolom udara yang lebih pendek dapat menghasilkan nada lebih tinggi.\n- Medium seperti udara diperlukan agar bunyi merambat ke telinga.\n\nInsight kunci: Dalam percobaan bunyi, cara membuat bunyi sangat penting. Meniup botol membuat udara bergetar, sehingga ruang udara menjadi faktor utama.\n\nKenapa opsi lain salah: B mengabaikan data. C terbalik untuk percobaan meniup. D salah karena bunyi selalu berasal dari getaran.",
+    "content": {
+      "question": "Empat botol kaca diisi air dengan tinggi berbeda, lalu ditiup pada mulut botol dengan cara yang sama.\n\nData pengamatan:\n\nKesimpulan paling tepat dari data tersebut adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Empat botol kaca diisi air dengan tinggi berbeda, lalu ditiup pada mulut botol dengan cara yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "No."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Botol P berisi air sangat sedikit, bunyinya paling rendah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Botol Q berisi air sedang, bunyinya lebih tinggi dari P."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Botol R berisi air hampir penuh, bunyinya paling tinggi."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Botol S kosong, bunyinya rendah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat dari data tersebut adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Pada percobaan meniup botol, semakin sedikit udara di dalam botol, bunyi yang dihasilkan cenderung lebih tinggi",
+        "Perbedaan banyak air kurang berpengaruh karena semua botol dibuat dari bahan kaca yang sama.",
+        "Botol paling kosong cenderung menghasilkan bunyi paling tinggi.",
+        "Bunyi muncul terutama dari kerasnya tiupan, sehingga jumlah udara di botol dikira kurang menentukan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pada percobaan meniup botol, semakin sedikit udara di dalam botol, bunyi yang dihasilkan cenderung lebih tinggi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Perbedaan banyak air kurang berpengaruh karena semua botol dibuat dari bahan kaca yang sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Botol paling kosong cenderung menghasilkan bunyi paling tinggi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bunyi muncul terutama dari kerasnya tiupan, sehingga jumlah udara di botol dikira kurang menentukan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Saat botol ditiup, yang bergetar terutama kolom udara di dalam botol. Banyaknya air menentukan seberapa besar ruang udara tersisa.\n\nLangkah 2: Botol R hampir penuh air, berarti ruang udaranya paling sedikit. Data menunjukkan bunyinya paling tinggi.\n\nLangkah 3: Botol P dan S memiliki ruang udara lebih banyak, sehingga bunyinya rendah. Ini mendukung hubungan antara panjang kolom udara dan tinggi nada.\n\nLangkah 4: Kesimpulan yang tepat adalah semakin sedikit udara di dalam botol pada percobaan ini, bunyi cenderung lebih tinggi.\n\nLangkah 5: Data harus dibaca sesuai cara membunyikan alat. Meniup botol berbeda dari memukul botol dengan sendok.\n\n**Materi terkait:**\n- Bunyi terjadi karena getaran.\n- Tinggi rendah nada berhubungan dengan frekuensi getaran.\n- Pada botol yang ditiup, kolom udara yang lebih pendek dapat menghasilkan nada lebih tinggi.\n- Medium seperti udara diperlukan agar bunyi merambat ke telinga.\n\nInsight kunci: Dalam percobaan bunyi, cara membuat bunyi sangat penting. Meniup botol membuat udara bergetar, sehingga ruang udara menjadi faktor utama.\n\nKenapa opsi lain salah: B mengabaikan data. C terbalik untuk percobaan meniup. D salah karena bunyi selalu berasal dari getaran.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Saat botol ditiup, yang bergetar terutama kolom udara di dalam botol. Banyaknya air menentukan seberapa besar ruang udara tersisa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Botol R hampir penuh air, berarti ruang udaranya paling sedikit. Data menunjukkan bunyinya paling tinggi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Botol P dan S memiliki ruang udara lebih banyak, sehingga bunyinya rendah. Ini mendukung hubungan antara panjang kolom udara dan tinggi nada."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Kesimpulan yang tepat adalah semakin sedikit udara di dalam botol pada percobaan ini, bunyi cenderung lebih tinggi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Data harus dibaca sesuai cara membunyikan alat. Meniup botol berbeda dari memukul botol dengan sendok."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Bunyi terjadi karena getaran."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Tinggi rendah nada berhubungan dengan frekuensi getaran."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pada botol yang ditiup, kolom udara yang lebih pendek dapat menghasilkan nada lebih tinggi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Medium seperti udara diperlukan agar bunyi merambat ke telinga."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Dalam percobaan bunyi, cara membuat bunyi sangat penting. Meniup botol membuat udara bergetar, sehingga ruang udara menjadi faktor utama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B mengabaikan data. C terbalik untuk percobaan meniup. D salah karena bunyi selalu berasal dari getaran."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pembiasan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "cahaya"
+    ],
+    "is_active": true,
+    "question": "Sebuah pensil dimasukkan miring ke dalam gelas berisi air jernih. Dari samping gelas, pensil tampak seperti patah atau bengkok di batas antara udara dan air.\n\nPenyebab utama peristiwa tersebut adalah ...",
+    "options": [
+      "Air menekan bagian pensil di bawah permukaan sehingga bentuknya tampak berubah saat dilihat dari samping.",
+      "Air memperbesar bayangan pensil sehingga bagian bawah tampak bergeser dari posisi aslinya.",
+      "Cahaya melewati air tanpa berubah arah, sehingga mata menafsirkan posisi pensil sama seperti di udara.",
+      "Cahaya dibiaskan ketika melewati dua medium berbeda, yaitu udara dan air"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pensil tidak benar-benar patah. Perubahan yang terlihat terjadi karena cara cahaya bergerak dari air ke udara menuju mata kita.\n\nLangkah 2: Cahaya dapat berubah arah ketika melewati dua medium berbeda, misalnya dari air ke udara. Peristiwa ini disebut **pembiasan cahaya**.\n\nLangkah 3: Karena arah cahaya berubah, posisi bagian pensil di dalam air tampak bergeser. Akibatnya pensil terlihat bengkok atau patah.\n\nLangkah 4: Jadi penyebab utamanya adalah pembiasan cahaya.\n\n**Materi terkait:**\n- **Pembiasan** adalah pembelokan arah cahaya saat melewati medium berbeda.\n- Contoh pembiasan: dasar kolam tampak lebih dangkal, sedotan tampak bengkok dalam gelas air, dan lensa kacamata membantu penglihatan.\n- Medium adalah zat tempat cahaya merambat, misalnya udara, air, dan kaca.\n\nInsight kunci: Mata melihat benda dari cahaya yang masuk ke mata. Jika arah cahaya berubah, posisi benda dapat tampak berbeda dari keadaan sebenarnya.\n\nKenapa opsi lain salah: B salah karena pensil tidak patah. C salah karena air tidak mengubah bentuk pensil dengan menghasilkan cahaya sendiri. D salah karena cahaya masih dapat melewati air jernih."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Sifat fisika & kimia zat",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "sifat-bahan"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa memilih bahan untuk membuat jas hujan sederhana. Ia membandingkan tiga bahan:\n\n- Kain katun mudah menyerap air.\n- Plastik tipis tidak menyerap air, tetapi mudah sobek.\n- Kain berlapis bahan kedap air tidak mudah menyerap air dan lebih kuat.\n\nBahan yang paling tepat dipilih adalah ...",
+    "options": [
+      "Kain katun, karena semakin basah semakin baik untuk jas hujan.",
+      "Plastik tipis, karena mudah sobek berarti ringan dan cenderung terbaik.",
+      "Kain berlapis bahan kedap air, karena tidak mudah menyerap air dan lebih kuat",
+      "Sebagian besar bahan sama baiknya karena sama-sama dapat dipakai menutupi tubuh."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Fungsi jas hujan adalah menahan air agar tubuh tidak basah. Jadi bahan yang dipilih harus sulit ditembus atau diserap air.\n\nLangkah 2: Kain katun mudah menyerap air, sehingga kurang cocok untuk jas hujan. Plastik tipis tidak menyerap air, tetapi mudah sobek.\n\nLangkah 3: Kain berlapis bahan kedap air memenuhi dua syarat: tidak mudah menyerap air dan lebih kuat.\n\nLangkah 4: Jadi bahan terbaik adalah kain berlapis bahan kedap air.\n\n**Materi terkait:**\n- Sifat bahan menentukan kegunaannya.\n- Bahan untuk jas hujan sebaiknya kedap air, ringan, dan cukup kuat.\n- Bahan untuk handuk justru dipilih yang mudah menyerap air, berbeda dari jas hujan.\n\nInsight kunci: Memilih bahan harus disesuaikan dengan fungsi benda. Bahan yang baik untuk satu benda belum tentu baik untuk benda lain.\n\nKenapa opsi lain salah: B salah karena menyerap air membuat tubuh basah. C kurang kuat karena mudah sobek. D salah karena sifat bahan berbeda."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Unsur, senyawa, dan campuran",
+    "skill_type": "concept_understanding",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "campuran"
+    ],
+    "is_active": true,
+    "question": "Di dapur terdapat tiga bahan:\n\n1. Gula pasir murni.\n2. Air garam.\n3. Udara di dalam ruangan.\n\nPasangan yang termasuk **campuran** adalah ...",
+    "options": [
+      "1 saja.",
+      "2 dan 3",
+      "1 dan 2, karena gula pasir tampak tersusun dari banyak butiran sehingga sering dikira campuran.",
+      "Sebagian besar cenderung unsur tunggal."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Campuran tersusun dari dua atau lebih zat yang bergabung secara fisik. Komponen campuran masih dapat dipisahkan dengan cara tertentu.\n\nLangkah 2: Air garam adalah campuran karena terdiri atas air dan garam. Garam dapat diperoleh kembali dengan menguapkan air.\n\nLangkah 3: Udara juga campuran karena berisi beberapa gas, seperti nitrogen, oksigen, karbon dioksida, dan gas lain dalam jumlah kecil.\n\nLangkah 4: Gula pasir murni bukan contoh campuran pada level soal ini karena dianggap satu zat, yaitu sukrosa.\n\n**Materi terkait:**\n- **Unsur** tersusun dari satu jenis atom.\n- **Senyawa** tersusun dari beberapa unsur yang bergabung secara kimia.\n- **Campuran** adalah gabungan beberapa zat secara fisik, misalnya air garam, udara, dan sirup.\n\nInsight kunci: Campuran tidak selalu tampak keruh atau berlapis. Udara tampak seragam, tetapi tetap campuran karena tersusun dari beberapa gas.\n\nKenapa opsi lain salah: B salah karena gula murni bukan contoh campuran di sini. C memasukkan gula murni. D salah karena air garam dan udara bukan unsur tunggal."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "pemisahan-campuran",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Siswa mendapat campuran serbuk besi, pasir, dan garam. Ia memiliki magnet, air, kertas saring, dan pemanas.\n\nRencana kerja:\n1. Dekatkan magnet ke campuran.\n2. Tambahkan air ke sisa campuran, lalu aduk.\n3. Saring campuran.\n4. Panaskan filtrat sampai air menguap.\n\nHasil yang paling tepat dari urutan tersebut adalah ...",
+    "options": [
+      "Garam tertarik magnet, pasir larut dalam air, dan besi menguap saat dipanaskan, karena proses pemisahan dilihat dari ukuran benda saja, bukan kelarutan.",
+      "Serbuk besi dipisahkan oleh magnet, pasir tertahan saat penyaringan, dan garam diperoleh setelah air menguap",
+      "Sebagian besar bahan akan larut dalam air sehingga tidak perlu disaring.",
+      "Penyaringan pertama akan memisahkan garam kering tanpa perlu air."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Serbuk besi dapat ditarik magnet. Karena itu magnet digunakan lebih dulu untuk memisahkan besi dari campuran.\n\nLangkah 2: Setelah besi terpisah, sisa campuran berisi pasir dan garam. Garam larut dalam air, sedangkan pasir tidak larut.\n\nLangkah 3: Penyaringan memisahkan pasir dari larutan garam. Pasir tertahan di kertas saring, sedangkan larutan garam melewati saringan sebagai filtrat.\n\nLangkah 4: Pemanasan filtrat menguapkan air. Setelah air menguap, garam tertinggal.\n\nLangkah 5: Urutan ini tepat karena mengikuti sifat bahan: kemagnetan, kelarutan, ukuran partikel, dan penguapan.\n\n**Materi terkait:**\n- Magnet memisahkan bahan yang tertarik magnet, seperti besi.\n- Filtrasi memisahkan zat tidak larut dari cairan.\n- Evaporasi memisahkan zat terlarut dari pelarutnya.\n- Metode pemisahan campuran dipilih berdasarkan sifat komponen campuran.\n\nInsight kunci: Campuran dengan beberapa komponen sering perlu beberapa metode pemisahan. Urutan yang benar mengikuti sifat bahan satu per satu.\n\nKenapa opsi lain salah: B salah karena garam tidak tertarik magnet dan besi tidak menguap pada percobaan ini. C salah karena pasir tidak larut. D salah karena garam kering perlu dilarutkan dahulu agar terpisah dari pasir."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Fenomena astronomi sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "gerhana",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dalam model senter, bola besar, dan bola kecil, senter melambangkan Matahari, bola besar melambangkan Bumi, dan bola kecil melambangkan Bulan. Ketika bola kecil berada di antara senter dan bola besar, sebagian cahaya senter ke bola besar terhalang.\n\nFenomena yang dimodelkan adalah ...",
+    "options": [
+      "Gerhana Bulan, karena sama-sama melibatkan Matahari, Bumi, Bulan, dan bayangan dalam satu garis.",
+      "Rotasi Bumi.",
+      "Gerhana Matahari",
+      "Hujan meteor."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pada model, senter adalah Matahari dan bola besar adalah Bumi. Bola kecil adalah Bulan.\n\nLangkah 2: Bola kecil berada di antara senter dan bola besar. Artinya Bulan berada di antara Matahari dan Bumi.\n\nLangkah 3: Ketika Bulan menghalangi cahaya Matahari ke sebagian Bumi, terjadilah **gerhana Matahari**.\n\nLangkah 4: Jadi model tersebut menunjukkan posisi saat gerhana Matahari, bukan gerhana Bulan.\n\n**Materi terkait:**\n- **Gerhana Matahari** terjadi saat Bulan berada di antara Matahari dan Bumi.\n- **Gerhana Bulan** terjadi saat Bumi berada di antara Matahari dan Bulan.\n- Model benda dan senter membantu memahami posisi relatif benda langit.\n\nInsight kunci: Untuk membedakan gerhana, lihat benda mana yang berada di tengah. Jika Bulan di tengah, itu gerhana Matahari. Jika Bumi di tengah, itu gerhana Bulan.\n\nKenapa opsi lain salah: B membutuhkan Bumi di antara Matahari dan Bulan. C adalah gerak Bumi pada porosnya. D tidak berkaitan dengan bayangan tiga benda tersebut."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "cuaca",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Catatan cuaca di halaman sekolah selama empat hari:\n\n- Senin: pagi cerah, sore hujan ringan.\n- Selasa: mendung sepanjang pagi, siang berangin.\n- Rabu: hujan deras 1 jam, lalu cerah.\n- Kamis: cerah dan panas sejak pagi.\n\nKesimpulan paling tepat dari catatan tersebut adalah ...",
+    "options": [
+      "Cuaca dapat berubah dalam waktu pendek, bahkan dalam satu hari",
+      "Iklim sekolah berubah total setiap jam.",
+      "Jika satu hari hujan, sebagian besar hari berikutnya cenderung hujan.",
+      "Cuaca tidak dapat dicatat melalui pengamatan."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Catatan menunjukkan kondisi udara yang berbeda-beda dari hari ke hari. Bahkan pada Senin dan Rabu, kondisi berubah dalam satu hari.\n\nLangkah 2: Perubahan seperti cerah, mendung, berangin, dan hujan termasuk **cuaca**. Cuaca memang dapat berubah dalam waktu pendek.\n\nLangkah 3: Iklim berbeda dari cuaca karena iklim adalah pola rata-rata dalam waktu lama, biasanya bertahun-tahun.\n\nLangkah 4: Jadi kesimpulan paling tepat adalah cuaca dapat berubah dalam waktu pendek.\n\n**Materi terkait:**\n- **Cuaca** adalah keadaan udara pada waktu dan tempat tertentu.\n- **Iklim** adalah pola cuaca rata-rata dalam jangka panjang.\n- Cuaca dapat diamati dari awan, suhu, angin, dan hujan.\n\nInsight kunci: Catatan beberapa hari belum cukup untuk menyimpulkan iklim. Data seperti itu lebih cocok untuk membahas cuaca harian.\n\nKenapa opsi lain salah: B mencampur cuaca dan iklim. C terlalu mutlak. D salah karena cuaca justru bisa dicatat melalui pengamatan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-g",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nSebuah desa menggunakan air tanah untuk kebutuhan rumah tangga dan kebun. Dalam musim kemarau panjang, beberapa sumur menjadi dangkal. Warga juga menutup banyak halaman dengan semen sehingga air hujan sulit meresap saat musim hujan. Desa ingin menjaga ketersediaan air tanah.\n\nTindakan yang paling tepat adalah ...",
+    "options": [
+      "Memompa air tanah sebanyak mungkin sebelum sumur kering.",
+      "Menutup sebagian besar tanah dengan beton agar halaman cenderung bersih, karena perubahan harian dikira sama dengan pola jangka panjang.",
+      "Membuang air hujan secepat mungkin ke selokan agar tidak ada genangan.",
+      "Membuat lubang resapan, menanam pohon, menghemat air, dan mengurangi penutupan tanah dengan semen di area yang masih bisa dibuat meresap"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah desa adalah cadangan air tanah menurun saat kemarau. Air tanah perlu diisi ulang dari air hujan yang meresap ke dalam tanah.\n\nLangkah 2: Halaman yang tertutup semen mengurangi peresapan air. Akibatnya, lebih banyak air mengalir ke selokan dan lebih sedikit masuk ke tanah.\n\nLangkah 3: Lubang resapan, pohon, dan tanah terbuka membantu air hujan meresap. Menghemat air juga mengurangi pengambilan air tanah berlebihan.\n\nLangkah 4: Jadi solusi harus menggabungkan dua arah: menambah peresapan dan mengurangi pemborosan air.\n\nLangkah 5: Opsi A paling tepat karena menyentuh penyebab dan pencegahan jangka panjang.\n\n**Materi terkait:**\n- Air tanah adalah sumber daya alam yang perlu dijaga.\n- Peresapan air membantu mengisi kembali cadangan air tanah.\n- Permukaan kedap air seperti semen dan aspal mengurangi infiltrasi.\n- Penghematan air penting terutama saat kemarau.\n\nInsight kunci: Menjaga air tanah bukan hanya mencari sumber baru. Kita juga perlu memberi kesempatan air hujan masuk ke tanah dan memakai air secara bijak.\n\nKenapa opsi lain salah: B mempercepat habisnya air tanah. C mengurangi peresapan. D membuang peluang air hujan untuk mengisi tanah."
+  }
+]

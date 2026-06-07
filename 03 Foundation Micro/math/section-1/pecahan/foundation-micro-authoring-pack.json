@@ -1,0 +1,833 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep pecahan sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "pecahan_dasar",
+      "concept_name": "Fondasi Pecahan",
+      "concept_description": "Penguatan konsep inti pecahan untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Pecahan",
+      "target_error_tags": [
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "pecahan-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "pecahan"
+      ],
+      "question": "Pecahan senilai dari $\\frac{1}{2}$ adalah...",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{2}{4}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{4}{10}$"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{1}{2}$ senilai dengan $\\frac{2}{4}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{2}{3}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{4}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pecahan senilai dari $\\frac{1}{2}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{3}{8}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{4}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pecahan senilai dari $\\frac{1}{2}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{4}{10}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{4}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Pecahan senilai dari $\\frac{1}{2}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "pecahan"
+      ],
+      "question": "**Hasil** $\\frac{1}{3}$ + $\\frac{1}{6}$=...",
+      "options": [
+        "$\\frac{1}{9}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{9}$",
+        "$\\frac{2}{6}$"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{1}{3}=\\frac{2}{6}$ , jadi $\\frac{2}{6}+\\frac{1}{6}=\\frac{3}{6}=\\frac{1}{2}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{1}{9}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{1}{2}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{1}{3}$ + $\\frac{1}{6}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{2}{9}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{1}{2}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{1}{3}$ + $\\frac{1}{6}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{2}{6}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{1}{2}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{1}{3}$ + $\\frac{1}{6}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "pecahan"
+      ],
+      "question": "**Hasil** $\\frac{5}{8}$ - $\\frac{1}{4}$=...",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{4}{8}$",
+        "$\\frac{1}{8}$",
+        "$\\frac{5}{4}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{1}{4}=\\frac{2}{8}$ , jadi $\\frac{5}{8}-\\frac{2}{8}=\\frac{3}{8}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{4}{8}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{3}{8}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{5}{8}$ - $\\frac{1}{4}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{1}{8}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{3}{8}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{5}{8}$ - $\\frac{1}{4}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{5}{4}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{3}{8}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{5}{8}$ - $\\frac{1}{4}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "pecahan"
+      ],
+      "question": "**Bentuk** paling sederhana dari $\\frac{12}{18}$ adalah...",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{9}$",
+        "$\\frac{6}{9}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{12}{18}$ dibagi 6 menjadi $\\frac{2}{3}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{3}{4}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Bentuk paling sederhana dari $\\frac{12}{18}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{4}{9}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Bentuk paling sederhana dari $\\frac{12}{18}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{6}{9}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Bentuk paling sederhana dari $\\frac{12}{18}$ adalah...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "pecahan"
+      ],
+      "question": "**Hasil** $\\frac{3}{5}$ x $\\frac{10}{9}$=...",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{13}{14}$",
+        "$\\frac{30}{9}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{3}{5}$ x $\\frac{10}{9}=\\frac{30}{45}=\\frac{2}{3}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{3}{2}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{5}$ x $\\frac{10}{9}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{13}{14}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{5}$ x $\\frac{10}{9}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih $\\frac{30}{9}$ tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar ($\\frac{2}{3}$). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Hasil $\\frac{3}{5}$ x $\\frac{10}{9}$=...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "pecahan-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Urutan** dari kecil ke besar: $\\frac{1}{4}$, $\\frac{1}{2}$, $\\frac{3}{4}$ adalah...",
+      "options": [
+        "$\\frac{1}{4}<\\frac{1}{2}<\\frac{3}{4}$",
+        "$\\frac{3}{4}<\\frac{1}{2}<\\frac{1}{4}$",
+        "$\\frac{1}{2}<\\frac{1}{4}<\\frac{3}{4}$",
+        "$\\frac{1}{4}<\\frac{3}{4}<\\frac{1}{2}$"
+      ],
+      "answer": 0,
+      "rationale": "Bandingkan nilai pecahan satu per satu.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "penyebut_tidak_disamakan"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{2}{7}$ + $\\frac{3}{7}$=...",
+      "options": [
+        "$\\frac{5}{7}$",
+        "$\\frac{5}{14}$",
+        "$\\frac{6}{7}$",
+        "$\\frac{1}{7}$"
+      ],
+      "answer": 0,
+      "rationale": "Penyebut sama, jumlahkan pembilang.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "sederhanakan_tidak_tuntas"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{7}{10}$ - $\\frac{2}{10}$=...",
+      "options": [
+        "$\\frac{9}{10}$",
+        "$\\frac{5}{10}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{10}$"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{7}{10}-\\frac{2}{10}=\\frac{5}{10}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pembagian_pecahan_tidak_balik"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{2}{3}$ x $\\frac{3}{4}$=...",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{7}$",
+        "$\\frac{6}{12}$",
+        "$\\frac{2}{7}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{2}{3}$ x $\\frac{3}{4}=\\frac{6}{12}=\\frac{1}{2}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "penyebut_tidak_disamakan"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{4}{5}$ : $\\frac{2}{5}$=...",
+      "options": [
+        "1",
+        "2",
+        "$\\frac{2}{25}$",
+        "$\\frac{8}{10}$"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{4}{5}$ x $\\frac{5}{2}=\\frac{4}{2}=2$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "sederhanakan_tidak_tuntas"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "Pecahan campuran 2 $\\frac{1}{4}$ menjadi pecahan biasa...",
+      "options": [
+        "$\\frac{9}{4}$",
+        "$\\frac{8}{4}$",
+        "$\\frac{7}{4}$",
+        "$\\frac{5}{2}$"
+      ],
+      "answer": 0,
+      "rationale": "$2x4+1=9$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pembagian_pecahan_tidak_balik"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "Desimal 0,5 dalam pecahan adalah...",
+      "options": [
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{5}{10}$"
+      ],
+      "answer": 1,
+      "rationale": "0, $5=\\frac{1}{2}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "penyebut_tidak_disamakan"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{3}{8}$ + $\\frac{1}{8}$=...",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{4}{16}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{4}{8}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{3}{8}+\\frac{1}{8}=\\frac{4}{8}=\\frac{1}{2}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "sederhanakan_tidak_tuntas"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{5}{6}$ - $\\frac{1}{3}$=...",
+      "options": [
+        "$\\frac{2}{6}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{4}{6}$"
+      ],
+      "answer": 1,
+      "rationale": "$\\frac{1}{3}=\\frac{2}{6}$ , jadi $\\frac{5}{6}-\\frac{2}{6}=\\frac{3}{6}=\\frac{1}{2}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pembagian_pecahan_tidak_balik"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "Pecahan yang paling besar adalah...",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{4}{9}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{2}{3}$ sekitar 0,67 paling besar.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "penyebut_tidak_disamakan"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{3}{4}$ + $\\frac{2}{3}$=...",
+      "options": [
+        "$\\frac{17}{12}$",
+        "$\\frac{5}{7}$",
+        "$\\frac{1}{12}$",
+        "$\\frac{13}{12}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{9}{12}+\\frac{8}{12}=\\frac{17}{12}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "sederhanakan_tidak_tuntas"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    },
+    {
+      "questionId": "pecahan-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Pecahan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pecahan_dasar"
+      ],
+      "question": "**Hasil** $\\frac{7}{9}$ : $\\frac{7}{3}$=...",
+      "options": [
+        "$\\frac{1}{3}$",
+        "3",
+        "$\\frac{49}{27}$",
+        "$\\frac{7}{12}$"
+      ],
+      "answer": 0,
+      "rationale": "$\\frac{7}{9}$ x $\\frac{3}{7}=\\frac{3}{9}=\\frac{1}{3}$.",
+      "microLoop": {
+        "concept_id": "pecahan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pembagian_pecahan_tidak_balik"
+          ],
+          "notes": "Penguatan penyamaan penyebut dan operasi pecahan."
+        }
+      }
+    }
+  ]
+}

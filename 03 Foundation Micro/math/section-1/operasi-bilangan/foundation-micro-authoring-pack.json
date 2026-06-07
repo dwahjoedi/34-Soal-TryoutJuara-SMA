@@ -1,0 +1,833 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep operasi bilangan sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "operasi_bilangan_dasar",
+      "concept_name": "Fondasi Operasi bilangan",
+      "concept_description": "Penguatan konsep inti operasi bilangan untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Operasi bilangan",
+      "target_error_tags": [
+        "numeric_mismatch"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "operasi-bilangan-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "operasi-bilangan"
+      ],
+      "question": "**Hitung** 27 + 35 =...",
+      "options": [
+        "62",
+        "52",
+        "72",
+        "63"
+      ],
+      "answer": 0,
+      "rationale": "$27+35=62$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 52 menghasilkan bilangan yang lebih kecil dari jawaban benar (62). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 27 + 35 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 72 menghasilkan bilangan yang lebih besar dari jawaban benar (62). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 27 + 35 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 63 hampir sama dengan jawaban benar (62), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hitung 27 + 35 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "operasi-bilangan"
+      ],
+      "question": "**Hitung** 84 - 29 =...",
+      "options": [
+        "65",
+        "55",
+        "45",
+        "75"
+      ],
+      "answer": 1,
+      "rationale": "$84-29=55$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 65 menghasilkan bilangan yang lebih besar dari jawaban benar (55). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 84 - 29 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 45 menghasilkan bilangan yang lebih kecil dari jawaban benar (55). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 84 - 29 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 75 menghasilkan bilangan yang lebih besar dari jawaban benar (55). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 84 - 29 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "operasi-bilangan"
+      ],
+      "question": "**Hitung** 16 x 7 =...",
+      "options": [
+        "98",
+        "102",
+        "112",
+        "126"
+      ],
+      "answer": 2,
+      "rationale": "16 $x7=112$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 98 menghasilkan bilangan yang lebih kecil dari jawaban benar (112). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 16 x 7 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 102 menghasilkan bilangan yang lebih kecil dari jawaban benar (112). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung 16 x 7 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 126 menghasilkan bilangan yang lebih besar dari jawaban benar (112). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 16 x 7 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "operasi-bilangan"
+      ],
+      "question": "**Hitung** 96 :8 =...",
+      "options": [
+        "14",
+        "12",
+        "10",
+        "16"
+      ],
+      "answer": 1,
+      "rationale": "96 $dibagi8=12$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 14 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hitung 96 :8 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 10 hampir sama dengan jawaban benar (12), artinya hampir semua langkah sudah benar tetapi hasil akhir masih meleset sedikit. Ulangi pembacaan soal: «Hitung 96 :8 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 16 menghasilkan bilangan yang lebih besar dari jawaban benar (12). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Hitung 96 :8 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "operasi-bilangan"
+      ],
+      "question": "**Hitung** (18 + 6) x 3 =...",
+      "options": [
+        "54",
+        "72",
+        "48",
+        "36"
+      ],
+      "answer": 1,
+      "rationale": "Kerjakan kurung dulu:24 $x3=72$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 54 menghasilkan bilangan yang lebih kecil dari jawaban benar (72). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung (18 + 6) x 3 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 48 menghasilkan bilangan yang lebih kecil dari jawaban benar (72). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung (18 + 6) x 3 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 36 menghasilkan bilangan yang lebih kecil dari jawaban benar (72). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Hitung (18 + 6) x 3 =...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "operasi-bilangan-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 45 + 28 =...",
+      "options": [
+        "73",
+        "63",
+        "83",
+        "74"
+      ],
+      "answer": 0,
+      "rationale": "$45+28=73$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_urutan_operasi"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 70 - 38 =...",
+      "options": [
+        "42",
+        "32",
+        "22",
+        "48"
+      ],
+      "answer": 1,
+      "rationale": "$70-38=32$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_hitung_dasar"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 9 x 8 =...",
+      "options": [
+        "63",
+        "72",
+        "81",
+        "64"
+      ],
+      "answer": 1,
+      "rationale": "9 $x8=72$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "abaikan_kurung"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 72 :9 =...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "rationale": "72 $dibagi9=8$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_urutan_operasi"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 15 x 4 - 12 =...",
+      "options": [
+        "48",
+        "52",
+        "60",
+        "72"
+      ],
+      "answer": 0,
+      "rationale": "15 $x4=60$ ,lalu $60-12=48$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_hitung_dasar"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 120 :6 =...",
+      "options": [
+        "30",
+        "20",
+        "24",
+        "18"
+      ],
+      "answer": 1,
+      "rationale": "120 $dibagi6=20$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "abaikan_kurung"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 39 + 17 =...",
+      "options": [
+        "56",
+        "46",
+        "66",
+        "57"
+      ],
+      "answer": 0,
+      "rationale": "$39+17=56$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_urutan_operasi"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 93 - 47 =...",
+      "options": [
+        "56",
+        "46",
+        "36",
+        "40"
+      ],
+      "answer": 1,
+      "rationale": "$93-47=46$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_hitung_dasar"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 7 x 12 =...",
+      "options": [
+        "74",
+        "84",
+        "94",
+        "72"
+      ],
+      "answer": 1,
+      "rationale": "7 $x12=84$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "abaikan_kurung"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 144 :12 =...",
+      "options": [
+        "10",
+        "14",
+        "12",
+        "16"
+      ],
+      "answer": 2,
+      "rationale": "144 $dibagi12=12$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_urutan_operasi"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** (25 - 9) x 2 =...",
+      "options": [
+        "32",
+        "28",
+        "30",
+        "36"
+      ],
+      "answer": 0,
+      "rationale": "$(25-9)=16$ ,lalu 16 $x2=32$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_hitung_dasar"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    },
+    {
+      "questionId": "operasi-bilangan-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Operasi bilangan",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "operasi_bilangan_dasar"
+      ],
+      "question": "**Hitung** 54 + 46 :2 =...",
+      "options": [
+        "50",
+        "77",
+        "100",
+        "73"
+      ],
+      "answer": 1,
+      "rationale": "46: $2=23$ , $lalu54+23=77$.",
+      "microLoop": {
+        "concept_id": "operasi_bilangan_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "abaikan_kurung"
+          ],
+          "notes": "Penguatan urutan operasi dan akurasi hitung dasar."
+        }
+      }
+    }
+  ]
+}

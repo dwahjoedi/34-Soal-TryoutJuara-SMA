@@ -1,0 +1,437 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "bahasa_inggris",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa mampu menemukan gagasan utama, detail pendukung, dan inferensi sederhana dari teks pendek.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "main_idea_detail_inference_dasar",
+      "concept_name": "Main idea, detail, inference dasar",
+      "concept_description": "Membedakan ide utama dengan detail dan menarik simpulan sederhana dari petunjuk teks.",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea",
+      "target_error_tags": [
+        "pilih_detail_bukan_ide_utama",
+        "inferensi_tanpa_bukti",
+        "salah_menentukan_tujuan_teks"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "eng-s1-main-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Main idea",
+      "difficulty": "easy",
+      "skillType": "comprehension",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-1/reading-comprehension-main-idea-detail-inference"
+      ],
+      "question": "Read the text: \"Rina loves reading. Every Sunday, she goes to the library with her brother. She borrows two story books and reads them at home.\" The main idea of the text is ...",
+      "options": [
+        "Rina likes reading and regularly goes to the library",
+        "Rina borrows two books every day",
+        "Rina goes to the library alone",
+        "The library is closed on Sunday"
+      ],
+      "answer": 0,
+      "rationale": "Ide utama merangkum keseluruhan teks: kebiasaan Rina membaca dan ke perpustakaan pada hari Minggu.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilih_detail_bukan_ide_utama",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih detail spesifik yang sempit, bukan ringkasan isi teks.",
+            "micro_lesson": "Main idea harus mencakup isi paling umum. Detail seperti jumlah buku hanya pendukung.",
+            "retry_question": {
+              "question": "Text: \"Doni feeds his cat every morning. He also cleans the cage.\" The best main idea is ...",
+              "options": [
+                "Doni feeds and takes care of his cat",
+                "Doni has two cats",
+                "Doni only cleans the cage",
+                "Doni does not like animals"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "inferensi_tanpa_bukti",
+            "error_type": "strategy",
+            "diagnosis": "Jawabanmu tidak didukung teks; ada informasi baru yang tidak disebutkan.",
+            "micro_lesson": "Untuk reading, pilih jawaban yang punya bukti kalimat di teks, bukan asumsi.",
+            "retry_question": {
+              "question": "If the text says \"Sita goes to school with her sister,\" which statement is supported by the text?",
+              "options": [
+                "Sita goes with her sibling",
+                "Sita takes the bus every day",
+                "Sita studies in another city",
+                "Sita is always late"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_menentukan_tujuan_teks",
+            "error_type": "careless",
+            "diagnosis": "Pilihan ini bertentangan langsung dengan informasi di teks.",
+            "micro_lesson": "Cek ulang kata kunci seperti waktu dan kegiatan. Hindari opsi yang berlawanan isi teks.",
+            "retry_question": {
+              "question": "Text: \"The class starts at 7 a.m.\" The correct statement is ...",
+              "options": [
+                "Class starts at seven a.m.",
+                "Class starts at night",
+                "Class is off every day",
+                "Class starts at nine"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-main-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Detail",
+      "difficulty": "easy",
+      "skillType": "literal",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-1/reading-comprehension-main-idea-detail-inference"
+      ],
+      "question": "Text: \"Tomi has a blue bicycle. He rides it to school on Monday and Wednesday.\" Based on the text, on which days does Tomi go to school by bicycle?",
+      "options": [
+        "Tuesday and Thursday",
+        "Monday and Wednesday",
+        "Monday and Friday",
+        "Every day"
+      ],
+      "answer": 1,
+      "rationale": "Detail waktu yang tertulis jelas adalah Monday dan Wednesday.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "salah_membaca_detail_waktu",
+            "error_type": "careless",
+            "diagnosis": "Kamu tertukar membaca detail hari yang disebutkan pada teks.",
+            "micro_lesson": "Untuk soal detail, tandai kata waktu (day/date/time) lalu cocokkan persis ke opsi.",
+            "retry_question": {
+              "question": "Text: \"Lina studies English on Tuesday.\" Lina studies English on ...",
+              "options": [
+                "Tuesday",
+                "Monday",
+                "Friday",
+                "Sunday"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "salah_membaca_detail_waktu",
+            "error_type": "careless",
+            "diagnosis": "Pilihanmu mirip, tetapi hari kedua tidak sama dengan teks.",
+            "micro_lesson": "Jangan menebak dari pola. Cocokkan kedua hari sekaligus sebelum memilih.",
+            "retry_question": {
+              "question": "Text: \"Ani has piano class on Monday and Thursday.\" The correct answer is ...",
+              "options": [
+                "Monday and Thursday",
+                "Monday and Wednesday",
+                "Tuesday and Thursday",
+                "Every day"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "inferensi_tanpa_bukti",
+            "error_type": "strategy",
+            "diagnosis": "Kamu menggeneralisasi informasi menjadi setiap hari, padahal teks hanya menyebut dua hari.",
+            "micro_lesson": "Hindari kata absolut seperti \"every day\" jika teks tidak menyatakannya.",
+            "retry_question": {
+              "question": "If the text says \"Budi plays football on Saturday\", which is correct?",
+              "options": [
+                "Budi plays every day",
+                "Budi plays on Saturday",
+                "Budi never plays",
+                "Budi plays twice a day"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-main-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Inference",
+      "difficulty": "medium",
+      "skillType": "inferential",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-1/reading-comprehension-main-idea-detail-inference"
+      ],
+      "question": "Text: \"The sky is dark. The wind is strong. Rara takes her umbrella before leaving home.\" The most reasonable inference is ...",
+      "options": [
+        "Rara goes swimming",
+        "It will probably rain",
+        "Rara is at the library",
+        "Today is very hot and sunny"
+      ],
+      "answer": 1,
+      "rationale": "Langit gelap, angin kencang, dan membawa payung adalah petunjuk cuaca akan hujan.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "inferensi_tanpa_bukti",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini tidak didukung petunjuk pada teks.",
+            "micro_lesson": "Inferensi harus lahir dari petunjuk teks. Cari kata kunci yang mengarah ke satu simpulan logis.",
+            "retry_question": {
+              "question": "Text: \"Dino wears a jacket and scarf.\" The most likely conclusion is ...",
+              "options": [
+                "The weather is cold",
+                "The weather is very hot",
+                "Dino is swimming",
+                "Dino goes to the beach"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "salah_menentukan_tujuan_teks",
+            "error_type": "strategy",
+            "diagnosis": "Kamu memilih lokasi acak yang tidak terkait dengan petunjuk cuaca.",
+            "micro_lesson": "Fokuskan inferensi pada hubungan sebab-akibat antar kalimat, bukan menambah konteks baru.",
+            "retry_question": {
+              "question": "Text: \"Nina is yawning and her eyes are sleepy.\" The most accurate conclusion is ...",
+              "options": [
+                "Nina is tired or sleepy",
+                "Nina is angry",
+                "Nina is at the market",
+                "Nina just finished lunch"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "inferensi_berlawanan_petunjuk",
+            "error_type": "careless",
+            "diagnosis": "Pilihanmu bertolak belakang dengan petunjuk langit gelap dan payung.",
+            "micro_lesson": "Saat inferensi, eliminasi dulu opsi yang berlawanan langsung dengan bukti teks.",
+            "retry_question": {
+              "question": "Text: \"Clouds are thick and thunder is heard.\" What is the most likely weather condition?",
+              "options": [
+                "It will rain",
+                "Very sunny",
+                "There is no wind at all",
+                "It is snowing"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "eng-s1-drill-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Main idea",
+      "difficulty": "easy",
+      "skillType": "comprehension",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "main_idea_detail_inference_dasar"
+      ],
+      "question": "The main idea of a paragraph is usually ...",
+      "options": [
+        "The most general idea in the text",
+        "The most difficult word in the text",
+        "Only the last sentence",
+        "A title unrelated to the content"
+      ],
+      "answer": 0,
+      "rationale": "Main idea merangkum isi utama seluruh paragraf.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pilih_detail_bukan_ide_utama"
+          ],
+          "notes": "Penguatan definisi main idea."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-drill-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Detail",
+      "difficulty": "easy",
+      "skillType": "literal",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "main_idea_detail_inference_dasar"
+      ],
+      "question": "Text: \"Mira drinks milk every morning.\" The correct detail is ...",
+      "options": [
+        "Mira drinks milk every morning",
+        "Mira drinks milk every night",
+        "Mira does not like milk",
+        "Mira drinks tea every morning"
+      ],
+      "answer": 0,
+      "rationale": "Detail harus sama persis dengan informasi di teks.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_membaca_detail_waktu"
+          ],
+          "notes": "Fokus detail literal."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-drill-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Inference",
+      "difficulty": "easy",
+      "skillType": "inferential",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "main_idea_detail_inference_dasar"
+      ],
+      "question": "Text: \"Rudi is holding a map and asking for directions.\" The correct conclusion is ...",
+      "options": [
+        "Rudi needs to find the way",
+        "Rudi is sleeping",
+        "Rudi is eating",
+        "Rudi is playing football"
+      ],
+      "answer": 0,
+      "rationale": "Map dan bertanya arah menunjukkan ia mencari lokasi.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "inferensi_tanpa_bukti"
+          ],
+          "notes": "Inferensi berbasis petunjuk."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-drill-04",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Main idea",
+      "difficulty": "medium",
+      "skillType": "comprehension",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "main_idea_detail_inference_dasar"
+      ],
+      "question": "Text: \"The school will hold a clean-up day on Friday. Students must bring gloves and trash bags.\" The main idea of the text is ...",
+      "options": [
+        "An announcement about school clean-up day",
+        "Students are not allowed to come to school",
+        "Friday is a holiday",
+        "The teacher bought new gloves"
+      ],
+      "answer": 0,
+      "rationale": "Teks berisi informasi utama tentang kegiatan clean-up day.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_menentukan_tujuan_teks"
+          ],
+          "notes": "Main idea pada teks pengumuman."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s1-drill-05",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Reading Comprehension",
+      "subtopicId": null,
+      "subtopic": "Inference",
+      "difficulty": "medium",
+      "skillType": "inferential",
+      "questionType": "short_text",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "main_idea_detail_inference_dasar"
+      ],
+      "question": "Text: \"Nina checks her watch many times. The bus has not arrived yet.\" The most likely conclusion is ...",
+      "options": [
+        "Nina is waiting for the bus",
+        "Nina is on the bus",
+        "Nina is sleeping at home",
+        "Nina has arrived at school"
+      ],
+      "answer": 0,
+      "rationale": "Petunjuk menandakan ia menunggu bus yang belum datang.",
+      "microLoop": {
+        "concept_id": "main_idea_detail_inference_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "inferensi_tanpa_bukti",
+            "inferensi_berlawanan_petunjuk"
+          ],
+          "notes": "Eliminasi opsi yang bertentangan dengan petunjuk."
+        }
+      }
+    }
+  ]
+}

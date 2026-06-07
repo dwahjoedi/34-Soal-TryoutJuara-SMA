@@ -1,0 +1,1617 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "pencernaan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Saat makan jagung rebus, Tio mengunyah dengan tergesa-gesa sehingga potongan jagung masih besar ketika ditelan. Setelah itu ia merasa kurang nyaman di perut. Guru menjelaskan bahwa mulut adalah bagian awal sistem pencernaan.\n\nKebiasaan yang paling membantu kerja sistem pencernaan adalah ...",
+    "options": [
+      "Menelan makanan cepat-cepat agar makanan segera sampai ke lambung karena yang penting makanan sudah masuk ke organ pencernaan berikutnya.",
+      "Mengurangi air liur agar makanan tidak terlalu basah saat ditelan.",
+      "Mengunyah makanan sampai cukup halus agar bercampur air liur dan lebih mudah diproses organ berikutnya",
+      "Memilih potongan makanan yang lebih besar agar lambung dan usus terlatih bekerja lebih keras."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pencernaan dimulai dari mulut. Gigi memecah makanan menjadi potongan lebih kecil sehingga lebih mudah ditelan dan diproses.\n\nLangkah 2: Air liur membasahi makanan dan membantu memulai pencernaan zat tepung. Makanan yang bercampur air liur lebih mudah bergerak ke kerongkongan dan lambung.\n\nLangkah 3: Jika makanan masih terlalu besar, lambung harus bekerja lebih berat. Pada sebagian orang, ini dapat menimbulkan rasa tidak nyaman.\n\nLangkah 4: Kebiasaan paling tepat adalah mengunyah sampai cukup halus dan tidak makan terlalu terburu-buru.\n\n**Materi terkait:**\n- **Pencernaan mekanik** terjadi saat gigi menghancurkan makanan.\n- **Pencernaan kimiawi** dibantu enzim, misalnya yang terdapat dalam air liur.\n- Sistem pencernaan bekerja bertahap dari mulut sampai usus.\n\nInsight kunci: Mengunyah bukan hanya membuat makanan mudah ditelan. Mengunyah adalah bagian pertama dari proses pencernaan yang membantu organ berikutnya bekerja lebih ringan.\n\nKenapa opsi lain salah: B membuat pencernaan lebih berat. C salah karena air liur berperan dalam pencernaan. D tidak masuk akal karena makanan terlalu besar justru lebih sulit diproses."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "peredaran-darah",
+      "data",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Empat siswa mengukur denyut nadi sebelum dan sesudah lompat tali selama 1 menit.\n\nData pengamatan:\n- Ana: sebelum 76 kali/menit, sesudah 112 kali/menit.\n- Bimo: sebelum 80 kali/menit, sesudah 120 kali/menit.\n- Cici: sebelum 74 kali/menit, sesudah 110 kali/menit.\n- Danu: sebelum 78 kali/menit, sesudah 118 kali/menit.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Denyut nadi cenderung turun setelah olahraga karena tubuh menjadi diam.",
+      "Denyut nadi meningkat setelah aktivitas karena jantung memompa darah lebih cepat untuk memenuhi kebutuhan otot",
+      "Olahraga membuat darah mengalir lebih lambat agar tubuh tidak cepat panas.",
+      "Denyut nadi berubah terutama karena tangan bergerak saat menghitung, bukan karena kerja jantung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan setiap data. Semua siswa mengalami kenaikan denyut nadi setelah lompat tali.\n\nLangkah 2: Lompat tali membuat otot bekerja lebih aktif. Otot membutuhkan lebih banyak oksigen dan zat makanan untuk menghasilkan energi.\n\nLangkah 3: Jantung merespons dengan memompa darah lebih cepat. Karena itu denyut nadi meningkat setelah aktivitas.\n\nLangkah 4: Data beberapa siswa menunjukkan pola yang sama, sehingga kesimpulan bahwa aktivitas meningkatkan denyut nadi didukung oleh bukti.\n\nLangkah 5: Denyut nadi dapat dipakai sebagai tanda sederhana untuk melihat perubahan kerja sistem peredaran darah saat tubuh aktif.\n\n**Materi terkait:**\n- Denyut nadi terasa karena jantung memompa darah ke pembuluh darah.\n- Darah membawa oksigen dan zat makanan ke sel tubuh.\n- Saat aktivitas meningkat, kerja jantung dan pernapasan biasanya ikut meningkat.\n\nInsight kunci: Dalam IPA, kesimpulan harus mengikuti data. Jika semua data menunjukkan kenaikan setelah aktivitas, maka pola tersebut perlu dijelaskan dengan konsep kerja jantung dan kebutuhan otot.\n\nKenapa opsi lain salah: B berlawanan dengan data. C salah karena darah tetap mengalir. D salah karena denyut nadi berkaitan langsung dengan kerja jantung.",
+    "content": {
+      "question": "Empat siswa mengukur denyut nadi sebelum dan sesudah lompat tali selama 1 menit.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Empat siswa mengukur denyut nadi sebelum dan sesudah lompat tali selama 1 menit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ana"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum 76 kali/menit, sesudah 112 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bimo"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum 80 kali/menit, sesudah 120 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Cici"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum 74 kali/menit, sesudah 110 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Danu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sebelum 78 kali/menit, sesudah 118 kali/menit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Denyut nadi cenderung turun setelah olahraga karena tubuh menjadi diam.",
+        "Denyut nadi meningkat setelah aktivitas karena jantung memompa darah lebih cepat untuk memenuhi kebutuhan otot",
+        "Olahraga membuat darah mengalir lebih lambat agar tubuh tidak cepat panas.",
+        "Denyut nadi berubah terutama karena tangan bergerak saat menghitung, bukan karena kerja jantung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Denyut nadi cenderung turun setelah olahraga karena tubuh menjadi diam."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Denyut nadi meningkat setelah aktivitas karena jantung memompa darah lebih cepat untuk memenuhi kebutuhan otot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Olahraga membuat darah mengalir lebih lambat agar tubuh tidak cepat panas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Denyut nadi berubah terutama karena tangan bergerak saat menghitung, bukan karena kerja jantung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan setiap data. Semua siswa mengalami kenaikan denyut nadi setelah lompat tali.\n\nLangkah 2: Lompat tali membuat otot bekerja lebih aktif. Otot membutuhkan lebih banyak oksigen dan zat makanan untuk menghasilkan energi.\n\nLangkah 3: Jantung merespons dengan memompa darah lebih cepat. Karena itu denyut nadi meningkat setelah aktivitas.\n\nLangkah 4: Data beberapa siswa menunjukkan pola yang sama, sehingga kesimpulan bahwa aktivitas meningkatkan denyut nadi didukung oleh bukti.\n\nLangkah 5: Denyut nadi dapat dipakai sebagai tanda sederhana untuk melihat perubahan kerja sistem peredaran darah saat tubuh aktif.\n\n**Materi terkait:**\n- Denyut nadi terasa karena jantung memompa darah ke pembuluh darah.\n- Darah membawa oksigen dan zat makanan ke sel tubuh.\n- Saat aktivitas meningkat, kerja jantung dan pernapasan biasanya ikut meningkat.\n\nInsight kunci: Dalam IPA, kesimpulan harus mengikuti data. Jika semua data menunjukkan kenaikan setelah aktivitas, maka pola tersebut perlu dijelaskan dengan konsep kerja jantung dan kebutuhan otot.\n\nKenapa opsi lain salah: B berlawanan dengan data. C salah karena darah tetap mengalir. D salah karena denyut nadi berkaitan langsung dengan kerja jantung.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan setiap data. Semua siswa mengalami kenaikan denyut nadi setelah lompat tali."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Lompat tali membuat otot bekerja lebih aktif. Otot membutuhkan lebih banyak oksigen dan zat makanan untuk menghasilkan energi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Jantung merespons dengan memompa darah lebih cepat. Karena itu denyut nadi meningkat setelah aktivitas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Data beberapa siswa menunjukkan pola yang sama, sehingga kesimpulan bahwa aktivitas meningkatkan denyut nadi didukung oleh bukti."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Denyut nadi dapat dipakai sebagai tanda sederhana untuk melihat perubahan kerja sistem peredaran darah saat tubuh aktif."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Denyut nadi terasa karena jantung memompa darah ke pembuluh darah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Darah membawa oksigen dan zat makanan ke sel tubuh."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Saat aktivitas meningkat, kerja jantung dan pernapasan biasanya ikut meningkat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Dalam IPA, kesimpulan harus mengikuti data. Jika semua data menunjukkan kenaikan setelah aktivitas, maka pola tersebut perlu dijelaskan dengan konsep kerja jantung dan kebutuhan otot."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B berlawanan dengan data. C salah karena darah tetap mengalir. D salah karena denyut nadi berkaitan langsung dengan kerja jantung."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "fotosintesis",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dua tanaman air diletakkan dalam gelas bening berisi air. Gelas A diletakkan di tempat terang, sedangkan Gelas B diletakkan di tempat redup. Setelah beberapa jam, pada Gelas A tampak lebih banyak gelembung udara di sekitar daun tanaman.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Cahaya meningkatkan proses fotosintesis sehingga tanaman menghasilkan lebih banyak oksigen",
+      "Tempat redup cenderung membuat tanaman menghasilkan lebih banyak oksigen, sehingga hubungan antara struktur, fungsi, dan kebutuhan tubuh tidak dibandingkan dengan cermat.",
+      "Gelembung udara membuktikan tanaman tidak membutuhkan air.",
+      "Fotosintesis hanya terjadi pada akar tanaman air."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Perbedaan utama pada percobaan adalah intensitas cahaya. Gelas A mendapat cahaya lebih banyak daripada Gelas B.\n\nLangkah 2: Gelembung udara di sekitar daun tanaman air dapat menunjukkan gas oksigen yang dihasilkan saat fotosintesis.\n\nLangkah 3: Karena Gelas A menghasilkan lebih banyak gelembung, cahaya tampak meningkatkan proses fotosintesis.\n\nLangkah 4: Kesimpulan terbaik adalah cahaya membantu tumbuhan membuat makanan dan menghasilkan oksigen.\n\n**Materi terkait:**\n- Fotosintesis membutuhkan cahaya, air, karbon dioksida, dan klorofil.\n- Oksigen adalah salah satu hasil fotosintesis.\n- Daun menjadi tempat utama fotosintesis karena banyak mengandung klorofil.\n\nInsight kunci: Gelembung pada percobaan tanaman air dapat menjadi petunjuk adanya gas hasil fotosintesis. Namun kesimpulan tetap harus dibandingkan dengan perlakuan cahaya yang berbeda.\n\nKenapa opsi lain salah: B berlawanan dengan data. C salah karena air tetap diperlukan. D salah karena fotosintesis terutama terjadi pada bagian hijau seperti daun."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem organ manusia",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "indra"
+    ],
+    "is_active": true,
+    "question": "Ketika mencium bau makanan gosong dari dapur, Raka segera memberi tahu ibunya. Indra yang terutama membantu Raka mengetahui adanya bau tersebut adalah ...",
+    "options": [
+      "Mata, karena Raka mungkin melihat asap atau warna makanan gosong sebelum memberi tahu ibunya.",
+      "Kulit.",
+      "Telinga.",
+      "Hidung"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bau makanan gosong adalah rangsang berupa zat bau yang tercium di udara. Indra yang mendeteksi bau adalah hidung.\n\nLangkah 2: Hidung membantu manusia mengenali berbagai bau, termasuk bau makanan, asap, atau benda busuk.\n\nLangkah 3: Dalam kasus ini, Raka mengetahui masalah dari bau, bukan dari suara, sentuhan, atau cahaya.\n\n**Materi terkait:**\n- **Hidung** adalah indra penciuman.\n- **Mata** untuk melihat, **telinga** untuk mendengar, **kulit** untuk merasakan sentuhan, suhu, dan tekanan.\n- Indra membantu tubuh merespons lingkungan dan menghindari bahaya.\n\nInsight kunci: Indra bekerja sesuai jenis rangsang. Bau makanan gosong dideteksi oleh hidung, sehingga tubuh dapat memberi respons cepat.\n\nKenapa opsi lain salah: Mata mendeteksi cahaya, kulit mendeteksi sentuhan dan suhu, telinga mendeteksi bunyi."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "ekosistem"
+    ],
+    "is_active": true,
+    "question": "Di akuarium kelas, terdapat tanaman air, ikan kecil, siput, dan kerikil. Guru meminta siswa membedakan komponen biotik dan abiotik dalam akuarium tersebut.\n\nPasangan yang paling tepat adalah ...",
+    "options": [
+      "Kerikil dan air adalah biotik karena berada di akuarium, karena ciri makhluk hidup dilihat dari bentuk luarnya saja.",
+      "Ikan kecil adalah abiotik karena bergerak di air.",
+      "Sebagian besar benda di akuarium cenderung biotik.",
+      "Tanaman air, ikan kecil, dan siput adalah biotik; kerikil adalah abiotik"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Komponen **biotik** adalah bagian ekosistem yang berupa makhluk hidup. Tanaman air, ikan kecil, dan siput termasuk makhluk hidup.\n\nLangkah 2: Komponen **abiotik** adalah bagian tak hidup yang memengaruhi ekosistem, seperti air, cahaya, suhu, udara, batu, dan kerikil.\n\nLangkah 3: Kerikil tidak bernapas, tidak tumbuh, dan tidak berkembang biak. Karena itu kerikil termasuk abiotik.\n\nLangkah 4: Jadi pasangan yang tepat adalah tanaman air, ikan, dan siput sebagai biotik; kerikil sebagai abiotik.\n\n**Materi terkait:**\n- Ekosistem tersusun dari komponen biotik dan abiotik.\n- Biotik dan abiotik saling memengaruhi. Contohnya ikan membutuhkan air dan oksigen terlarut.\n- Benda berada di lingkungan makhluk hidup belum tentu makhluk hidup.\n\nInsight kunci: Untuk membedakan biotik dan abiotik, gunakan ciri makhluk hidup. Bergerak sendiri, bernapas, tumbuh, dan berkembang biak menjadi petunjuk penting.\n\nKenapa opsi lain salah: B salah karena kerikil dan air bukan makhluk hidup. C salah karena ikan adalah makhluk hidup. D salah karena akuarium juga memiliki benda tak hidup."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "jaring-makanan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di padang rumput terdapat hubungan makanan berikut:\n\nRumput dimakan belalang dan kelinci. Belalang dimakan burung kecil. Kelinci dan burung kecil dapat dimakan ular. Ular dimakan elang.\n\nJika jumlah rumput sangat berkurang karena kemarau panjang, dampak yang paling mungkin terjadi adalah ...",
+    "options": [
+      "Elang langsung mendapat lebih banyak makanan karena rumput berkurang, karena perubahan populasi dikaitkan terutama dengan cuaca setempat.",
+      "Belalang dan kelinci kekurangan makanan, lalu hewan pemangsanya juga dapat ikut terdampak",
+      "Ular tidak mungkin terdampak karena tidak makan rumput langsung.",
+      "Jaring makanan menjadi lebih kuat karena produsen berkurang."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Rumput adalah produsen dalam jaring makanan ini. Belalang dan kelinci bergantung pada rumput sebagai sumber makanan.\n\nLangkah 2: Jika rumput sangat berkurang, belalang dan kelinci dapat kekurangan makanan. Jumlah atau kondisi keduanya bisa menurun.\n\nLangkah 3: Burung kecil, ular, dan elang dapat ikut terdampak karena makanan mereka berasal dari konsumen yang bergantung pada rumput.\n\nLangkah 4: Walaupun ular dan elang tidak makan rumput langsung, mereka tetap terhubung melalui rantai makanan.\n\nLangkah 5: Jadi dampaknya dapat menjalar dari produsen ke konsumen tingkat berikutnya.\n\n**Materi terkait:**\n- Jaring makanan adalah gabungan beberapa rantai makanan yang saling terhubung.\n- Produsen seperti tumbuhan menjadi dasar sumber energi bagi banyak konsumen.\n- Gangguan pada produsen dapat memengaruhi banyak makhluk hidup lain.\n\nInsight kunci: Dalam jaring makanan, dampak tidak selalu hanya pada makhluk hidup yang berhubungan langsung. Perubahan pada produsen dapat merambat ke banyak tingkat konsumen.\n\nKenapa opsi lain salah: B salah karena sumber makanan dasar berkurang. C salah karena ular terdampak tidak langsung. D salah karena produsen berkurang justru melemahkan jaring makanan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Lingkungan & pencemaran",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "pencemaran",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di sekitar sekolah, selokan sering tersumbat oleh plastik makanan. Saat hujan deras, air meluap ke halaman dan membawa bau tidak sedap. Sekolah ingin mengurangi masalah ini dari penyebab utamanya.\n\nTindakan paling tepat adalah ...",
+    "options": [
+      "Mengurangi sampah plastik sekali pakai, menyediakan tempat sampah terpilah, dan membersihkan selokan secara rutin",
+      "Menutup selokan dengan papan agar sampah tidak terlihat.",
+      "Membuang sampah pada malam hari supaya tidak mengganggu pemandangan, karena ciri makhluk hidup dilihat dari bentuk luarnya saja.",
+      "Menunggu banjir datang lalu baru memindahkan air dengan ember."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah utama adalah selokan tersumbat plastik. Sumbatan membuat air hujan tidak mengalir lancar.\n\nLangkah 2: Ketika air tidak mengalir, selokan meluap dan membawa bau. Jadi penyebabnya bukan hanya hujan, tetapi juga sampah dan saluran yang tidak terawat.\n\nLangkah 3: Mengurangi plastik sekali pakai mengurangi sumber sampah. Tempat sampah terpilah membantu pengelolaan, sedangkan pembersihan rutin menjaga aliran air.\n\nLangkah 4: Opsi A menangani penyebab dan pencegahan, bukan hanya menutupi akibat.\n\n**Materi terkait:**\n- Pencemaran lingkungan dapat terjadi karena sampah yang tidak dikelola.\n- Selokan berfungsi mengalirkan air hujan, bukan tempat sampah.\n- Pencegahan lebih efektif daripada hanya membersihkan setelah banjir.\n\nInsight kunci: Banjir kecil di lingkungan sekolah sering tidak hanya disebabkan hujan. Sampah, saluran tersumbat, dan kebiasaan manusia juga berperan.\n\nKenapa opsi lain salah: B hanya menutupi masalah. C tetap mencemari lingkungan. D terlambat karena hanya menangani akibat."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "pesawat-sederhana"
+    ],
+    "is_active": true,
+    "question": "Seorang petugas kebersihan memindahkan kardus berat menggunakan gerobak dorong satu roda. Ia mengangkat pegangan gerobak, lalu mendorongnya ke tempat penyimpanan.\n\nPesawat sederhana yang paling jelas dimanfaatkan gerobak dorong adalah ...",
+    "options": [
+      "Katrol dan cermin.",
+      "Bidang miring dan roda berporos, karena pegangan gerobak tampak miring saat diangkat.",
+      "Tuas dan roda berporos",
+      "Termometer dan pegas."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Gerobak dorong memiliki pegangan panjang, beban di bak gerobak, dan roda sebagai titik tumpu. Susunan ini menunjukkan prinsip **tuas**.\n\nLangkah 2: Gerobak juga memiliki roda yang berputar pada poros. Roda berporos membantu mengurangi gesekan saat benda dipindahkan.\n\nLangkah 3: Jadi gerobak dorong memanfaatkan lebih dari satu pesawat sederhana, terutama tuas dan roda berporos.\n\nLangkah 4: Alat sehari-hari sering merupakan gabungan beberapa prinsip pesawat sederhana.\n\n**Materi terkait:**\n- Pesawat sederhana membantu memudahkan pekerjaan.\n- Tuas memiliki titik tumpu, kuasa, dan beban.\n- Roda berporos membantu benda bergerak lebih mudah di permukaan.\n\nInsight kunci: Satu alat tidak selalu hanya memakai satu prinsip. Gerobak dorong memudahkan mengangkat dan memindahkan beban karena gabungan tuas dan roda.\n\nKenapa opsi lain salah: B tidak sesuai karena tidak ada katrol atau cermin. C tidak menunjukkan fungsi utama gerobak. D bukan pesawat sederhana untuk memindahkan kardus."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "kalor",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Tiga gelas berisi air panas dengan suhu awal sama, yaitu 80 derajat C. Gelas ditutup dengan bahan berbeda selama 15 menit.\n\nData suhu akhir:\n- Gelas P ditutup kain tipis: 62 derajat C.\n- Gelas Q ditutup karton tebal: 68 derajat C.\n- Gelas R ditutup gabus tebal: 73 derajat C.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Gabus tebal paling baik mengurangi kehilangan panas karena suhu akhir air paling tinggi",
+      "Kain tipis adalah isolator terbaik karena suhu air turun paling banyak, karena pengamatan hanya menekankan jarak tempuh, bukan arah dan besar gaya.",
+      "Sebagian besar bahan menahan panas sama baik karena suhu awalnya sama.",
+      "Karton tebal membuat air menghasilkan panas baru."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Semua gelas memiliki suhu awal sama. Perbedaan utama adalah bahan penutup yang digunakan.\n\nLangkah 2: Setelah 15 menit, air pada Gelas R masih 73 derajat C, lebih tinggi daripada Q dan P. Ini berarti panas yang hilang dari Gelas R paling sedikit.\n\nLangkah 3: Bahan yang mengurangi kehilangan panas disebut **isolator panas**. Dalam data ini, gabus tebal adalah isolator terbaik.\n\nLangkah 4: Kain tipis menghasilkan suhu akhir paling rendah, sehingga paling banyak kehilangan panas.\n\nLangkah 5: Kesimpulan harus mengikuti data suhu akhir, bukan hanya menebak dari nama bahan.\n\n**Materi terkait:**\n- Kalor berpindah dari benda bersuhu tinggi ke benda bersuhu lebih rendah.\n- Isolator menghambat perpindahan panas.\n- Bahan berongga atau tebal sering lebih baik menahan panas karena menghambat perpindahan kalor.\n\nInsight kunci: Untuk menilai isolator, lihat bahan mana yang membuat suhu turun paling sedikit. Suhu akhir paling tinggi berarti panas lebih banyak tertahan.\n\nKenapa opsi lain salah: B terbalik karena suhu turun banyak berarti panas mudah keluar. C salah karena data berbeda. D salah karena karton tidak membuat panas baru.",
+    "content": {
+      "question": "Tiga gelas berisi air panas dengan suhu awal sama, yaitu 80 derajat C. Gelas ditutup dengan bahan berbeda selama 15 menit.\n\nData suhu akhir:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga gelas berisi air panas dengan suhu awal sama, yaitu 80 derajat C. Gelas ditutup dengan bahan berbeda selama 15 menit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data suhu akhir:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Gelas P ditutup kain tipis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "62 derajat C."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Gelas Q ditutup karton tebal"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "68 derajat C."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Gelas R ditutup gabus tebal"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "73 derajat C."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Gabus tebal paling baik mengurangi kehilangan panas karena suhu akhir air paling tinggi",
+        "Kain tipis adalah isolator terbaik karena suhu air turun paling banyak, karena pengamatan hanya menekankan jarak tempuh, bukan arah dan besar gaya.",
+        "Sebagian besar bahan menahan panas sama baik karena suhu awalnya sama.",
+        "Karton tebal membuat air menghasilkan panas baru."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Gabus tebal paling baik mengurangi kehilangan panas karena suhu akhir air paling tinggi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kain tipis adalah isolator terbaik karena suhu air turun paling banyak, karena pengamatan hanya menekankan jarak tempuh, bukan arah dan besar gaya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sebagian besar bahan menahan panas sama baik karena suhu awalnya sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Karton tebal membuat air menghasilkan panas baru."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Semua gelas memiliki suhu awal sama. Perbedaan utama adalah bahan penutup yang digunakan.\n\nLangkah 2: Setelah 15 menit, air pada Gelas R masih 73 derajat C, lebih tinggi daripada Q dan P. Ini berarti panas yang hilang dari Gelas R paling sedikit.\n\nLangkah 3: Bahan yang mengurangi kehilangan panas disebut **isolator panas**. Dalam data ini, gabus tebal adalah isolator terbaik.\n\nLangkah 4: Kain tipis menghasilkan suhu akhir paling rendah, sehingga paling banyak kehilangan panas.\n\nLangkah 5: Kesimpulan harus mengikuti data suhu akhir, bukan hanya menebak dari nama bahan.\n\n**Materi terkait:**\n- Kalor berpindah dari benda bersuhu tinggi ke benda bersuhu lebih rendah.\n- Isolator menghambat perpindahan panas.\n- Bahan berongga atau tebal sering lebih baik menahan panas karena menghambat perpindahan kalor.\n\nInsight kunci: Untuk menilai isolator, lihat bahan mana yang membuat suhu turun paling sedikit. Suhu akhir paling tinggi berarti panas lebih banyak tertahan.\n\nKenapa opsi lain salah: B terbalik karena suhu turun banyak berarti panas mudah keluar. C salah karena data berbeda. D salah karena karton tidak membuat panas baru.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Semua gelas memiliki suhu awal sama. Perbedaan utama adalah bahan penutup yang digunakan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Setelah 15 menit, air pada Gelas R masih 73 derajat C, lebih tinggi daripada Q dan P. Ini berarti panas yang hilang dari Gelas R paling sedikit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Bahan yang mengurangi kehilangan panas disebut "
+              },
+              {
+                "type": "text",
+                "text": "isolator panas",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ". Dalam data ini, gabus tebal adalah isolator terbaik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Kain tipis menghasilkan suhu akhir paling rendah, sehingga paling banyak kehilangan panas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Kesimpulan harus mengikuti data suhu akhir, bukan hanya menebak dari nama bahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kalor berpindah dari benda bersuhu tinggi ke benda bersuhu lebih rendah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Isolator menghambat perpindahan panas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Bahan berongga atau tebal sering lebih baik menahan panas karena menghambat perpindahan kalor."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Untuk menilai isolator, lihat bahan mana yang membuat suhu turun paling sedikit. Suhu akhir paling tinggi berarti panas lebih banyak tertahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B terbalik karena suhu turun banyak berarti panas mudah keluar. C salah karena data berbeda. D salah karena karton tidak membuat panas baru."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "gaya"
+    ],
+    "is_active": true,
+    "question": "Sebuah bola diam di lantai. Rina menendang bola pelan sehingga bola bergerak. Setelah beberapa meter, bola melambat lalu berhenti.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Bola bergerak karena lantai yang licin memberi dorongan tambahan setelah ditendang.",
+      "Gaya gesek membantu bola tetap bergerak karena permukaan lantai menahan bola agar tidak tergelincir.",
+      "Bola berhenti karena massa bola berkurang sedikit demi sedikit saat bergerak di lantai.",
+      "Tendangan memberi gaya yang membuat bola bergerak, lalu gaya gesek dengan lantai memperlambat bola"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bola awalnya diam. Ketika Rina menendang, kaki memberi gaya pada bola sehingga bola mulai bergerak.\n\nLangkah 2: Saat bola menggelinding di lantai, ada gaya gesek antara bola dan lantai. Gaya gesek bekerja melawan arah gerak.\n\nLangkah 3: Karena gaya gesek menghambat gerak, bola semakin lambat dan akhirnya berhenti.\n\nLangkah 4: Jadi gerak bola dijelaskan oleh dua gaya penting: gaya tendangan dan gaya gesek.\n\n**Materi terkait:**\n- Gaya dapat mengubah keadaan gerak benda, dari diam menjadi bergerak atau dari bergerak menjadi berhenti.\n- Gaya gesek muncul saat dua permukaan bersentuhan.\n- Gaya gesek sering menghambat gerak, tetapi juga berguna agar kita tidak mudah tergelincir.\n\nInsight kunci: Gerak benda tidak hanya ditentukan oleh gaya awal. Setelah benda bergerak, gaya lain seperti gesekan juga memengaruhi perubahan geraknya.\n\nKenapa opsi lain salah: B salah karena tendangan adalah gaya. C salah karena gesekan biasanya memperlambat. D tidak sesuai konsep."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "energi"
+    ],
+    "is_active": true,
+    "question": "Pada senter engkol, pengguna memutar engkol beberapa kali. Setelah itu lampu senter dapat menyala sebentar tanpa baterai biasa.\n\nUrutan perubahan energi yang paling tepat adalah ...",
+    "options": [
+      "Energi cahaya lampu -> energi gerak tangan -> energi bunyi.",
+      "Energi panas udara -> energi kimia makanan -> energi listrik.",
+      "Energi gerak tangan -> energi listrik -> energi cahaya lampu",
+      "Energi listrik muncul tanpa adanya perubahan energi."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Sumber awal energi pada senter engkol adalah gerakan tangan saat memutar engkol. Ini termasuk energi gerak.\n\nLangkah 2: Mekanisme di dalam senter mengubah energi gerak menjadi energi listrik. Energi listrik ini kemudian digunakan untuk menyalakan lampu.\n\nLangkah 3: Lampu mengubah energi listrik menjadi energi cahaya. Sebagian kecil juga dapat berubah menjadi panas.\n\nLangkah 4: Jadi urutan perubahan energi yang tepat adalah gerak tangan -> listrik -> cahaya.\n\n**Materi terkait:**\n- Energi dapat berubah bentuk dari satu jenis ke jenis lain.\n- Generator kecil dapat mengubah gerak menjadi listrik.\n- Lampu mengubah listrik menjadi cahaya.\n\nInsight kunci: Alat tanpa baterai biasa tetap memerlukan sumber energi. Pada senter engkol, energi berasal dari gerakan tangan pengguna.\n\nKenapa opsi lain salah: B membalik alur. C tidak sesuai dengan cara kerja senter engkol. D salah karena energi tidak muncul dari ketiadaan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "magnet",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Nadia menggosokkan magnet batang ke sebuah paku besi kecil dengan arah gosokan yang sama sebanyak 40 kali. Setelah itu, paku dapat menarik beberapa klip kertas kecil.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Klip kertas menempel karena ukurannya kecil, bukan karena bahan penyusunnya.",
+      "Paku besi dapat menjadi magnet sementara setelah digosok magnet dengan cara tertentu",
+      "Benda yang digosok magnet akan menjadi magnet sementara jika ukurannya kecil dan ringan.",
+      "Magnet hanya bekerja jika berada di dalam air."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Sebelum digosok, paku besi biasa belum tentu dapat menarik klip. Setelah digosok dengan magnet, paku dapat menarik klip.\n\nLangkah 2: Ini menunjukkan paku besi memperoleh sifat magnet. Pada percobaan sederhana, paku dapat menjadi magnet sementara.\n\nLangkah 3: Arah gosokan yang sama membantu menyusun sifat magnet pada paku. Karena itu cara menggosok tidak boleh acak.\n\nLangkah 4: Kesimpulan yang tepat adalah paku besi dapat dibuat menjadi magnet sementara dengan gosokan magnet.\n\n**Materi terkait:**\n- Bahan seperti besi dan baja dapat dipengaruhi magnet.\n- Salah satu cara membuat magnet adalah menggosok satu arah dengan magnet.\n- Magnet sementara dapat kehilangan sifat magnetnya lebih mudah daripada magnet tetap.\n\nInsight kunci: Perubahan pada paku terlihat dari kemampuannya menarik klip setelah perlakuan. Kesimpulan ilmiah harus didasarkan pada perubahan hasil sebelum dan sesudah percobaan.\n\nKenapa opsi lain salah: B tidak masuk akal. C terlalu umum karena tidak semua benda dapat menjadi magnet kuat. D salah karena magnet bekerja tanpa harus di dalam air."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "rangkaian-listrik",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dalam sebuah rangkaian, Lampu A dan B dipasang paralel. Cabang paralel itu kemudian dipasang seri dengan saklar utama. Jika saklar utama dibuka, apa yang terjadi pada Lampu A dan B?",
+    "options": [
+      "Lampu A menyala dan B padam karena paralel cenderung memilih satu cabang, karena perubahan bunyi atau cahaya dilihat dari sumbernya saja.",
+      "Keduanya padam karena saklar utama memutus jalur sebelum arus masuk ke cabang paralel",
+      "Keduanya tetap menyala karena paralel tidak membutuhkan sumber listrik.",
+      "Lampu B semakin terang karena saklar utama dibuka."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lampu A dan B memang dipasang paralel, sehingga masing-masing memiliki cabang sendiri setelah arus masuk ke bagian paralel.\n\nLangkah 2: Namun seluruh cabang paralel itu dipasang seri dengan saklar utama. Saklar utama berada sebelum arus dapat masuk ke kedua cabang.\n\nLangkah 3: Jika saklar utama dibuka, rangkaian utama terputus. Arus tidak dapat mencapai Lampu A maupun Lampu B.\n\nLangkah 4: Karena tidak ada arus pada kedua cabang, kedua lampu padam.\n\nLangkah 5: Ini menunjukkan bahwa posisi saklar dalam rangkaian sangat penting.\n\n**Materi terkait:**\n- Saklar terbuka berarti jalur arus terputus.\n- Rangkaian paralel memberi cabang terpisah, tetapi tetap membutuhkan hubungan ke sumber listrik.\n- Dalam rangkaian campuran, analisis dilakukan dari sumber listrik lalu telusuri jalur arus.\n\nInsight kunci: Paralel tidak berarti lampu selalu menyala. Jika jalur utama sebelum cabang paralel diputus, semua cabang kehilangan arus.\n\nKenapa opsi lain salah: B salah karena arus tidak memilih satu cabang saja. C salah karena tetap butuh sumber listrik dan jalur tertutup. D tidak sesuai karena saklar terbuka memutus arus."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pembiasan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "optik"
+    ],
+    "is_active": true,
+    "question": "Seorang anak melihat dasar kolam yang airnya jernih. Dasar kolam tampak lebih dangkal daripada kedalaman sebenarnya.\n\nPenyebab utama peristiwa tersebut adalah ...",
+    "options": [
+      "Air kolam membuat dasar kolam tampak naik karena permukaan air menekan pandangan mata.",
+      "Mata manusia lebih sulit memperkirakan kedalaman jika airnya sangat jernih.",
+      "Cahaya dari dasar kolam dibiaskan saat berpindah dari air ke udara menuju mata",
+      "Cahaya tidak dapat melewati air jernih."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kita melihat dasar kolam karena cahaya dari dasar kolam masuk ke mata. Cahaya itu melewati air lalu udara.\n\nLangkah 2: Ketika cahaya berpindah dari air ke udara, arah rambatnya dapat berubah. Perubahan arah cahaya ini disebut **pembiasan**.\n\nLangkah 3: Karena arah cahaya berubah, posisi dasar kolam tampak bergeser. Akibatnya kolam terlihat lebih dangkal daripada sebenarnya.\n\nLangkah 4: Jadi penyebabnya adalah pembiasan cahaya, bukan dasar kolam yang benar-benar naik.\n\n**Materi terkait:**\n- Pembiasan terjadi saat cahaya melewati dua medium berbeda.\n- Contoh pembiasan lain adalah sedotan tampak bengkok di gelas air.\n- Air jernih masih dapat dilalui cahaya, tetapi arah cahaya dapat berubah.\n\nInsight kunci: Tampilan benda di dalam air dapat berbeda dari posisi sebenarnya karena jalur cahaya berubah. Ini sebabnya kita perlu berhati-hati saat memperkirakan kedalaman air.\n\nKenapa opsi lain salah: B tidak terjadi secara nyata. C terlalu umum dan tidak menjelaskan konsep. D salah karena cahaya dapat melewati air jernih."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Sifat fisika & kimia zat",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "sifat-bahan"
+    ],
+    "is_active": true,
+    "question": "Sekolah ingin membuat pegangan panci percobaan yang aman disentuh saat bagian panci dipanaskan. Tiga bahan tersedia: aluminium, kayu kering, dan tembaga.\n\nBahan yang paling tepat untuk pegangan adalah ...",
+    "options": [
+      "Tembaga.",
+      "Aluminium, karena cepat panas berarti melindungi tangan.",
+      "Sebagian besar bahan sama aman karena bentuknya dapat dibuat pegangan, karena tanda perubahan dipilih dari warna saja tanpa melihat zat yang terbentuk.",
+      "Kayu kering, karena lebih sulit menghantarkan panas dibanding aluminium dan tembaga"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pegangan panci harus aman disentuh. Artinya bahan pegangan sebaiknya tidak cepat menghantarkan panas dari panci ke tangan.\n\nLangkah 2: Aluminium dan tembaga adalah logam yang menghantarkan panas dengan baik. Jika dipakai sebagai pegangan, keduanya dapat cepat panas.\n\nLangkah 3: Kayu kering lebih sulit menghantarkan panas, sehingga lebih cocok menjadi pegangan alat panas.\n\nLangkah 4: Jadi bahan paling tepat adalah kayu kering.\n\n**Materi terkait:**\n- **Konduktor panas** mudah menghantarkan kalor, contohnya logam.\n- **Isolator panas** sulit menghantarkan kalor, contohnya kayu kering, plastik tahan panas, dan gabus.\n- Pemilihan bahan harus sesuai fungsi benda.\n\nInsight kunci: Bahan yang baik untuk badan panci belum tentu baik untuk pegangan. Fungsi benda menentukan sifat bahan yang dibutuhkan.\n\nKenapa opsi lain salah: Tembaga dan aluminium cepat menghantarkan panas sehingga kurang aman untuk pegangan. Bentuk saja tidak menentukan keamanan bahan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "pemisahan-campuran"
+    ],
+    "is_active": true,
+    "question": "Lina memiliki campuran air dan minyak goreng dalam gelas. Setelah didiamkan, minyak berada di lapisan atas dan air di lapisan bawah. Lina ingin memisahkan keduanya tanpa memanaskan.\n\nCara yang paling tepat adalah ...",
+    "options": [
+      "Mendiamkan sampai terbentuk dua lapisan, lalu menuang atau mengambil lapisan minyak dengan hati-hati",
+      "Mengaduk semakin kuat agar minyak dan air menyatu sebentar sehingga mudah dituang bersama.",
+      "Menyaring dengan kertas biasa karena minyak berada di lapisan atas dan akan menempel pada kertas.",
+      "Menambahkan pasir agar minyak menghilang, karena perubahan bentuk sering dikira sama dengan perubahan jenis zat."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Air dan minyak tidak saling larut dengan baik. Jika didiamkan, keduanya dapat membentuk dua lapisan.\n\nLangkah 2: Minyak berada di atas karena massa jenisnya lebih kecil daripada air. Perbedaan ini dapat dimanfaatkan untuk pemisahan sederhana.\n\nLangkah 3: Karena sudah terpisah menjadi lapisan, Lina dapat menuang atau mengambil lapisan minyak dengan hati-hati tanpa pemanasan.\n\nLangkah 4: Metode ini memanfaatkan perbedaan kelarutan dan massa jenis.\n\n**Materi terkait:**\n- Tidak semua cairan dapat bercampur merata.\n- Minyak dan air membentuk dua lapisan karena sifat dan massa jenisnya berbeda.\n- Pemisahan campuran dipilih berdasarkan sifat komponen campuran.\n\nInsight kunci: Untuk memisahkan campuran, amati dulu sifat yang berbeda. Pada air dan minyak, petunjuknya adalah terbentuknya dua lapisan.\n\nKenapa opsi lain salah: B tidak mengubah minyak menjadi air. C kurang tepat karena minyak cair dapat ikut melewati saringan biasa. D tidak memisahkan secara ilmiah."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "perubahan-zat",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Empat percobaan kecil dilakukan di kelas.\n\nData pengamatan:\n- Percobaan A: air dipanaskan menjadi uap, lalu dapat mengembun kembali menjadi air.\n- Percobaan B: pita magnesium dibakar dan menghasilkan serbuk putih baru.\n- Percobaan C: gula dilarutkan dalam air, lalu larutan terasa manis.\n- Percobaan D: buah pisang dibiarkan beberapa hari hingga busuk dan berbau berbeda.\n\nPercobaan yang menunjukkan perubahan kimia adalah ...",
+    "options": [
+      "B dan D",
+      "A dan C.",
+      "A, B, dan C, karena A dan C tampak berubah bentuk/wujud sehingga sering ikut dianggap perubahan kimia.",
+      "C dan D saja."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Perubahan kimia menghasilkan zat baru dengan sifat berbeda. Tanda yang dapat diamati misalnya serbuk baru, bau baru, warna baru, gas, atau sulit kembali seperti semula.\n\nLangkah 2: Percobaan B menghasilkan serbuk putih baru setelah pembakaran. Ini menunjukkan terjadi reaksi kimia.\n\nLangkah 3: Percobaan D menunjukkan pisang membusuk dan berbau berbeda. Pembusukan adalah perubahan kimia karena terbentuk zat baru.\n\nLangkah 4: Percobaan A adalah perubahan wujud air dan dapat kembali menjadi air. Percobaan C adalah pelarutan gula, gula masih ada dalam larutan dan terasa manis.\n\nLangkah 5: Jadi perubahan kimia ditunjukkan oleh B dan D.\n\n**Materi terkait:**\n- Perubahan fisika tidak menghasilkan zat baru, misalnya menguap, mencair, membeku, dan melarut.\n- Perubahan kimia menghasilkan zat baru, misalnya pembakaran, pembusukan, dan perkaratan.\n- Kemampuan kembali seperti semula dapat menjadi petunjuk, tetapi tanda zat baru lebih penting.\n\nInsight kunci: Tidak semua perubahan yang terlihat jelas adalah kimia. Uap air dan larutan gula tetap melibatkan zat yang sama, sedangkan pembakaran dan pembusukan menghasilkan zat baru.\n\nKenapa opsi lain salah: A dan C adalah perubahan fisika. Opsi C dan D saja mengabaikan pembakaran magnesium. Opsi A, B, C mencampur fisika dan kimia.",
+    "content": {
+      "question": "Empat percobaan kecil dilakukan di kelas.\n\nData pengamatan:\n\nPercobaan yang menunjukkan perubahan kimia adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Empat percobaan kecil dilakukan di kelas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "air dipanaskan menjadi uap, lalu dapat mengembun kembali menjadi air."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "pita magnesium dibakar dan menghasilkan serbuk putih baru."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "gula dilarutkan dalam air, lalu larutan terasa manis."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan D"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "buah pisang dibiarkan beberapa hari hingga busuk dan berbau berbeda."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Percobaan yang menunjukkan perubahan kimia adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "B dan D",
+        "A dan C.",
+        "A, B, dan C, karena A dan C tampak berubah bentuk/wujud sehingga sering ikut dianggap perubahan kimia.",
+        "C dan D saja."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "B dan D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A dan C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, B, dan C, karena A dan C tampak berubah bentuk/wujud sehingga sering ikut dianggap perubahan kimia."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "C dan D saja."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Perubahan kimia menghasilkan zat baru dengan sifat berbeda. Tanda yang dapat diamati misalnya serbuk baru, bau baru, warna baru, gas, atau sulit kembali seperti semula.\n\nLangkah 2: Percobaan B menghasilkan serbuk putih baru setelah pembakaran. Ini menunjukkan terjadi reaksi kimia.\n\nLangkah 3: Percobaan D menunjukkan pisang membusuk dan berbau berbeda. Pembusukan adalah perubahan kimia karena terbentuk zat baru.\n\nLangkah 4: Percobaan A adalah perubahan wujud air dan dapat kembali menjadi air. Percobaan C adalah pelarutan gula, gula masih ada dalam larutan dan terasa manis.\n\nLangkah 5: Jadi perubahan kimia ditunjukkan oleh B dan D.\n\n**Materi terkait:**\n- Perubahan fisika tidak menghasilkan zat baru, misalnya menguap, mencair, membeku, dan melarut.\n- Perubahan kimia menghasilkan zat baru, misalnya pembakaran, pembusukan, dan perkaratan.\n- Kemampuan kembali seperti semula dapat menjadi petunjuk, tetapi tanda zat baru lebih penting.\n\nInsight kunci: Tidak semua perubahan yang terlihat jelas adalah kimia. Uap air dan larutan gula tetap melibatkan zat yang sama, sedangkan pembakaran dan pembusukan menghasilkan zat baru.\n\nKenapa opsi lain salah: A dan C adalah perubahan fisika. Opsi C dan D saja mengabaikan pembakaran magnesium. Opsi A, B, C mencampur fisika dan kimia.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Perubahan kimia menghasilkan zat baru dengan sifat berbeda. Tanda yang dapat diamati misalnya serbuk baru, bau baru, warna baru, gas, atau sulit kembali seperti semula."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Percobaan B menghasilkan serbuk putih baru setelah pembakaran. Ini menunjukkan terjadi reaksi kimia."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Percobaan D menunjukkan pisang membusuk dan berbau berbeda. Pembusukan adalah perubahan kimia karena terbentuk zat baru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Percobaan A adalah perubahan wujud air dan dapat kembali menjadi air. Percobaan C adalah pelarutan gula, gula masih ada dalam larutan dan terasa manis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Jadi perubahan kimia ditunjukkan oleh B dan D."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Perubahan fisika tidak menghasilkan zat baru, misalnya menguap, mencair, membeku, dan melarut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Perubahan kimia menghasilkan zat baru, misalnya pembakaran, pembusukan, dan perkaratan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kemampuan kembali seperti semula dapat menjadi petunjuk, tetapi tanda zat baru lebih penting."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Tidak semua perubahan yang terlihat jelas adalah kimia. Uap air dan larutan gula tetap melibatkan zat yang sama, sedangkan pembakaran dan pembusukan menghasilkan zat baru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: A dan C adalah perubahan fisika. Opsi C dan D saja mengabaikan pembakaran magnesium. Opsi A, B, C mencampur fisika dan kimia."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Fenomena astronomi sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "astronomi",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dalam model sederhana, senter menjadi Matahari, bola besar menjadi Bumi, dan bola kecil menjadi Bulan. Saat bola besar berada di antara senter dan bola kecil, bayangan bola besar jatuh ke bola kecil.\n\nFenomena yang dimodelkan adalah ...",
+    "options": [
+      "Gerhana Matahari, karena ketiga benda berada segaris dan bayangan menjadi bagian penting peristiwa.",
+      "Rotasi Bulan menjadi Matahari.",
+      "Gerhana Bulan",
+      "Terjadinya angin darat."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pada model, senter adalah Matahari, bola besar adalah Bumi, dan bola kecil adalah Bulan.\n\nLangkah 2: Bola besar berada di antara senter dan bola kecil. Artinya Bumi berada di antara Matahari dan Bulan.\n\nLangkah 3: Jika bayangan Bumi jatuh ke Bulan, cahaya Matahari ke Bulan terhalang. Peristiwa ini disebut **gerhana Bulan**.\n\nLangkah 4: Jadi fenomena yang dimodelkan adalah gerhana Bulan, bukan gerhana Matahari.\n\n**Materi terkait:**\n- Gerhana Bulan terjadi saat Bumi berada di antara Matahari dan Bulan.\n- Gerhana Matahari terjadi saat Bulan berada di antara Matahari dan Bumi.\n- Model senter dan bola membantu memahami posisi benda langit.\n\nInsight kunci: Untuk membedakan gerhana, lihat benda yang berada di tengah. Bumi di tengah berarti gerhana Bulan, sedangkan Bulan di tengah berarti gerhana Matahari.\n\nKenapa opsi lain salah: B membutuhkan Bulan di antara Matahari dan Bumi. C tidak ilmiah. D adalah fenomena udara di Bumi, bukan posisi Matahari-Bumi-Bulan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "cuaca",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa mencatat keadaan udara di halaman rumah selama satu minggu.\n\nCatatan:\n- Senin: hujan sore hari.\n- Selasa: cerah sepanjang siang.\n- Rabu: berawan dan angin cukup kencang.\n- Kamis: hujan pagi, cerah sore.\n- Jumat: panas dan kering.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Catatan satu minggu sudah cukup untuk memastikan iklim puluhan tahun, karena perubahan harian dikira sama dengan pola jangka panjang.",
+      "Catatan tersebut menunjukkan cuaca harian yang dapat berubah dari hari ke hari",
+      "Cuaca tidak dapat diamati dengan indra manusia.",
+      "Jika Jumat panas, sebagian besar hari berikutnya cenderung panas."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Catatan berisi keadaan udara harian seperti hujan, cerah, berawan, berangin, panas, dan kering.\n\nLangkah 2: Keadaan udara pada waktu pendek disebut **cuaca**. Data satu minggu masih termasuk pengamatan cuaca, bukan iklim.\n\nLangkah 3: Iklim adalah pola rata-rata cuaca dalam waktu lama, biasanya bertahun-tahun. Karena itu catatan satu minggu belum cukup untuk menyimpulkan iklim.\n\nLangkah 4: Kesimpulan paling tepat adalah cuaca dapat berubah dari hari ke hari.\n\n**Materi terkait:**\n- Cuaca adalah keadaan atmosfer dalam waktu pendek.\n- Iklim adalah pola cuaca jangka panjang.\n- Cuaca dapat diamati dari hujan, awan, angin, suhu, dan cahaya matahari.\n\nInsight kunci: Skala waktu adalah kunci membedakan cuaca dan iklim. Satu minggu adalah data pendek, sehingga lebih cocok disebut cuaca.\n\nKenapa opsi lain salah: B terlalu cepat menyimpulkan iklim. C salah karena cuaca bisa diamati. D terlalu mutlak dan tidak didukung data."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-i",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi sebuah desa, warga memakai kayu bakar dari hutan sekitar untuk memasak setiap hari. Beberapa tahun kemudian, pohon di sekitar desa berkurang, tanah lebih mudah kering, dan saat hujan deras air berlumpur mengalir ke sungai.\n\nLangkah yang paling tepat untuk menjaga kelestarian sumber daya alam adalah ...",
+    "options": [
+      "Menebang lebih banyak pohon sebelum hutan habis.",
+      "Membakar sisa hutan agar lahan tampak bersih, karena peristiwa alam sering dikira hanya dipengaruhi kondisi yang tampak saat itu.",
+      "Membuang lumpur ke sungai lain agar sungai desa terlihat jernih.",
+      "Mengurangi penebangan, menanam kembali pohon, dan memakai sumber energi alternatif yang lebih hemat jika tersedia"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pohon berkurang karena kayu diambil terus-menerus. Jika pengambilan lebih cepat daripada penanaman kembali, hutan sulit pulih.\n\nLangkah 2: Pohon membantu menjaga kelembapan tanah dan menahan air hujan. Jika pohon berkurang, tanah lebih mudah kering dan terkikis.\n\nLangkah 3: Air berlumpur yang mengalir ke sungai menunjukkan erosi. Tanah terbawa air karena penahan alami berkurang.\n\nLangkah 4: Solusi harus mengurangi penyebab kerusakan dan membantu pemulihan. Mengurangi penebangan, reboisasi, dan memakai energi alternatif lebih tepat.\n\nLangkah 5: Jawaban A menjaga kebutuhan energi manusia sambil melindungi sumber daya alam.\n\n**Materi terkait:**\n- Hutan adalah sumber daya alam yang dapat diperbarui jika dikelola dengan baik.\n- Akar pohon membantu menahan tanah dan air.\n- Penghematan energi dan sumber energi alternatif dapat mengurangi tekanan pada hutan.\n\nInsight kunci: Sumber daya yang dapat diperbarui tetap bisa rusak jika dipakai berlebihan. Kelestarian membutuhkan penggunaan bijak dan pemulihan.\n\nKenapa opsi lain salah: B mempercepat kerusakan. C merusak habitat dan tanah. D hanya memindahkan pencemaran ke tempat lain."
+  }
+]

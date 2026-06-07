@@ -1,0 +1,835 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep perbandingan & rasio sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "rasio_dasar",
+      "concept_name": "Fondasi Perbandingan & rasio",
+      "concept_description": "Penguatan konsep inti perbandingan & rasio untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Perbandingan & rasio",
+      "target_error_tags": [
+        "pecahan_tidak_sederhana_atau_langkah_salah",
+        "numeric_mismatch",
+        "pilihan_tidak_sesuai_model"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "perbandingan-dan-rasio-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "perbandingan-dan-rasio"
+      ],
+      "question": "Rasio 2:3 setara dengan...",
+      "options": [
+        "4:6",
+        "6:4",
+        "3:2",
+        "2:6"
+      ],
+      "answer": 0,
+      "rationale": "Kali dua kedua suku: 2:3 menjadi 4:6.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pecahan_tidak_sederhana_atau_langkah_salah",
+            "error_type": "concept",
+            "diagnosis": "Pilihan 6:4 biasanya muncul jika penyebut/pembilang belum disamakan atau penjumlahan pecahan belum diselesaikan.",
+            "micro_lesson": "Samakan penyebut atau sederhanakan langkah sampai bentuk akhir paling sederhana.",
+            "retry_question": {
+              "question": "**Hitung** $\\frac{{1}}{{2}}+\\frac{{1}}{{4}}$ = ...",
+              "options": [
+                "$\\frac{{2}}{{6}}$",
+                "$\\frac{{3}}{{4}}$",
+                "$\\frac{{1}}{{6}}$",
+                "$\\frac{{1}}{{8}}$"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "pecahan_tidak_sederhana_atau_langkah_salah",
+            "error_type": "concept",
+            "diagnosis": "Pilihan 3:2 biasanya muncul jika penyebut/pembilang belum disamakan atau penjumlahan pecahan belum diselesaikan.",
+            "micro_lesson": "Samakan penyebut atau sederhanakan langkah sampai bentuk akhir paling sederhana.",
+            "retry_question": {
+              "question": "**Hitung** $\\frac{{1}}{{2}}+\\frac{{1}}{{4}}$ = ...",
+              "options": [
+                "$\\frac{{2}}{{6}}$",
+                "$\\frac{{3}}{{4}}$",
+                "$\\frac{{1}}{{6}}$",
+                "$\\frac{{1}}{{8}}$"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "pecahan_tidak_sederhana_atau_langkah_salah",
+            "error_type": "concept",
+            "diagnosis": "Pilihan 2:6 biasanya muncul jika penyebut/pembilang belum disamakan atau penjumlahan pecahan belum diselesaikan.",
+            "micro_lesson": "Samakan penyebut atau sederhanakan langkah sampai bentuk akhir paling sederhana.",
+            "retry_question": {
+              "question": "**Hitung** $\\frac{{1}}{{2}}+\\frac{{1}}{{4}}$ = ...",
+              "options": [
+                "$\\frac{{2}}{{6}}$",
+                "$\\frac{{3}}{{4}}$",
+                "$\\frac{{1}}{{6}}$",
+                "$\\frac{{1}}{{8}}$"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "perbandingan-dan-rasio"
+      ],
+      "question": "Rasio laki-laki: $perempuan=3$ :2, total 25 siswa. Banyak laki-laki...",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "answer": 2,
+      "rationale": "Total bagian 5, satu bagian 5, $laki-laki3x5=15$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 10 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio laki-laki: perempuan=3 :2, total 25 siswa. Banyak laki-laki...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "careless",
+            "diagnosis": "Memilih 12 menghasilkan bilangan yang lebih kecil dari jawaban benar (15). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Rasio laki-laki: perempuan=3 :2, total 25 siswa. Banyak laki-laki...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 20 menghasilkan bilangan yang lebih besar dari jawaban benar (15). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Rasio laki-laki: perempuan=3 :2, total 25 siswa. Banyak laki-laki...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "perbandingan-dan-rasio"
+      ],
+      "question": "**Jika** a: $b=4$ :5 $dana=20$ ,maka b=...",
+      "options": [
+        "16",
+        "25",
+        "30",
+        "40"
+      ],
+      "answer": 1,
+      "rationale": "$4bagian=20$->$1bagian=5$->$b=25$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 16 menghasilkan bilangan yang lebih kecil dari jawaban benar (25). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Jika a: b=4 :5 dana=20 ,maka b=...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 30 menghasilkan bilangan yang lebih besar dari jawaban benar (25). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Jika a: b=4 :5 dana=20 ,maka b=...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 40 menghasilkan bilangan yang lebih besar dari jawaban benar (25). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Jika a: b=4 :5 dana=20 ,maka b=...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "perbandingan-dan-rasio"
+      ],
+      "question": "Skala 1:1000, jarak peta 3 cm. Jarak sebenarnya...",
+      "options": [
+        "30 m",
+        "300 m",
+        "3 m",
+        "3000 m"
+      ],
+      "answer": 0,
+      "rationale": "$3x1000cm=3000cm=30m$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 300 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (30 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 3 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "2": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 3 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (30 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 3 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 3000 m tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (30 m). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Skala 1:1000, jarak peta 3 cm. Jarak sebenarnya...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "perbandingan-dan-rasio"
+      ],
+      "question": "Perbandingan 18:24 disederhanakan menjadi...",
+      "options": [
+        "2:3",
+        "3:4",
+        "4:3",
+        "6:8"
+      ],
+      "answer": 1,
+      "rationale": "Bagi kedua bilangan dengan 6: 3:4.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pecahan_tidak_sederhana_atau_langkah_salah",
+            "error_type": "concept",
+            "diagnosis": "Pilihan 2:3 biasanya muncul jika penyebut/pembilang belum disamakan atau penjumlahan pecahan belum diselesaikan.",
+            "micro_lesson": "Samakan penyebut atau sederhanakan langkah sampai bentuk akhir paling sederhana.",
+            "retry_question": {
+              "question": "**Hitung** $\\frac{{1}}{{2}}+\\frac{{1}}{{4}}$ = ...",
+              "options": [
+                "$\\frac{{2}}{{6}}$",
+                "$\\frac{{3}}{{4}}$",
+                "$\\frac{{1}}{{6}}$",
+                "$\\frac{{1}}{{8}}$"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "pecahan_tidak_sederhana_atau_langkah_salah",
+            "error_type": "concept",
+            "diagnosis": "Pilihan 4:3 biasanya muncul jika penyebut/pembilang belum disamakan atau penjumlahan pecahan belum diselesaikan.",
+            "micro_lesson": "Samakan penyebut atau sederhanakan langkah sampai bentuk akhir paling sederhana.",
+            "retry_question": {
+              "question": "**Hitung** $\\frac{{1}}{{2}}+\\frac{{1}}{{4}}$ = ...",
+              "options": [
+                "$\\frac{{2}}{{6}}$",
+                "$\\frac{{3}}{{4}}$",
+                "$\\frac{{1}}{{6}}$",
+                "$\\frac{{1}}{{8}}$"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "pilihan_tidak_sesuai_model",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 6:8 tidak menghasilkan jawaban yang sama dengan penyelesaian yang konsisten menuju pilihan benar (3:4). Artinya langkah atau interpretasi model soal masih belum mengarah ke opsi itu. Baca ulang bagian matematika soal: «Perbandingan 18:24 disederhanakan menjadi...».",
+            "micro_lesson": "Tulis satu kalimat model dari soal, lalu hitung ulang perlahan sampai hasil akhir.",
+            "retry_question": {
+              "question": "**Hitung** 12 + 8 = ...",
+              "options": [
+                "18",
+                "19",
+                "20",
+                "22"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "perbandingan-dan-rasio-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio 5:8 setara dengan...",
+      "options": [
+        "10:16",
+        "15:16",
+        "8:5",
+        "5:16"
+      ],
+      "answer": 0,
+      "rationale": "Kali 2 kedua suku.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "jumlah_bagian_rasio_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio 12:18 disederhanakan menjadi...",
+      "options": [
+        "2:3",
+        "3:2",
+        "6:9",
+        "4:9"
+      ],
+      "answer": 0,
+      "rationale": "Bagi 6 menjadi 2:3.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "nilai_satu_bagian_tidak_ditemukan"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio merah: $biru=1$ :4, total 20. Banyak biru...",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": 3,
+      "rationale": "Total bagian 5, satu bagian 4, $biru4x4=16$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_skala_satuan_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "**Jika** 3 buku seharga Rp24.000, harga 1 buku...",
+      "options": [
+        "Rp6.000",
+        "Rp7.000",
+        "Rp8.000",
+        "Rp9.000"
+      ],
+      "answer": 2,
+      "rationale": "24. $\\frac{000}{3}=8$.000.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "jumlah_bagian_rasio_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Skala 1:500, jarak sebenarnya 1 km. Jarak pada peta...",
+      "options": [
+        "2 cm",
+        "20 cm",
+        "200 cm",
+        "0,2 cm"
+      ],
+      "answer": 2,
+      "rationale": "$1km=100$.000 cm, dibagi 500 jadi 200 cm.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "nilai_satu_bagian_tidak_ditemukan"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio 7:9 setara dengan...",
+      "options": [
+        "14:18",
+        "21:25",
+        "9:7",
+        "7:18"
+      ],
+      "answer": 0,
+      "rationale": "Kali 2 kedua suku.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_skala_satuan_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Perbandingan uang Andi: $Budi=4$ :3. Jika Andi 40.000, uang Budi...",
+      "options": [
+        "20.000",
+        "25.000",
+        "30.000",
+        "35.000"
+      ],
+      "answer": 2,
+      "rationale": "1 bagian 10.000, Budi 3 bagian.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "jumlah_bagian_rasio_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio 30:45 paling sederhana...",
+      "options": [
+        "1:2",
+        "2:3",
+        "3:2",
+        "5:9"
+      ],
+      "answer": 1,
+      "rationale": "Bagi 15 menjadi 2:3.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "nilai_satu_bagian_tidak_ditemukan"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "**Jika** x: $y=2$ :5 $dany=25$ , maka x...",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 1,
+      "rationale": "$1bagian=5$ , $x=2bagian=10$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_skala_satuan_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "story_problem",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Skala 1:2000, jarak peta 4 cm. Jarak sebenarnya...",
+      "options": [
+        "80 m",
+        "8 m",
+        "800 m",
+        "8000 m"
+      ],
+      "answer": 0,
+      "rationale": "$4x2000=8000cm=80m$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "jumlah_bagian_rasio_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Rasio kelereng A: $B=5$ :7. $JikaA=25$ ,B=...",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": 1,
+      "rationale": "$1bagian=5$ , $B=7x5=35$.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "nilai_satu_bagian_tidak_ditemukan"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    },
+    {
+      "questionId": "perbandingan-dan-rasio-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Perbandingan & rasio",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "rasio_dasar"
+      ],
+      "question": "Perbandingan 16:20 sama dengan...",
+      "options": [
+        "4:5",
+        "5:4",
+        "8:5",
+        "3:4"
+      ],
+      "answer": 0,
+      "rationale": "Bagi 4 menjadi 4:5.",
+      "microLoop": {
+        "concept_id": "rasio_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "konversi_skala_satuan_salah"
+          ],
+          "notes": "Penguatan model rasio, satu bagian, dan skala."
+        }
+      }
+    }
+  ]
+}

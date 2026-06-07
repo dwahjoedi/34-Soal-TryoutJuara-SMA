@@ -1,0 +1,1746 @@
+[
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Peta & denah",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Sebuah peta kota menggunakan skala **1:500.000**. Di atas peta, jarak antara Stasiun Kereta dan Bandara adalah **3 cm**.\n\nBerapa jarak **sebenarnya** antara Stasiun Kereta dan Bandara?",
+    "options": [
+      "1.500 m (1,5 km)",
+      "150 km",
+      "15 km",
+      "1.500 km"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pahami arti skala peta. Skala **1:500.000** berarti 1 cm di peta mewakili 500.000 cm di lapangan sebenarnya.\nLangkah 2: Hitung jarak sebenarnya dengan mengalikan jarak di peta dengan angka skala:\nJarak sebenarnya = jarak di peta × angka skala\nJarak sebenarnya = 3 cm × 500.000 = **1.500.000 cm**\nLangkah 3: Ubah satuan agar mudah dipahami:\n- 1.500.000 cm ÷ 100 = 15.000 m\n- 15.000 m ÷ 1.000 = **15 km**\nLangkah 4: Cocokkan dengan pilihan → 15 km adalah jawaban yang tepat.\n\n**Materi terkait:**\n- **Skala peta** adalah perbandingan antara jarak pada peta dan jarak sebenarnya di lapangan. Skala dinyatakan sebagai 1:n, artinya 1 satuan pada peta = n satuan di lapangan.\n- **Jenis skala:** skala numerik (1:500.000), skala garis (batang yang menunjukkan jarak), dan skala verbal (\"1 cm = 5 km\").\n- **Cara mengubah satuan:** 1 km = 1.000 m = 100.000 cm. Jadi 1.500.000 cm = 15.000 m = 15 km.\n- Semakin besar angka di belakang titik dua, semakin kecil skala peta dan semakin luas wilayah yang ditampilkan (tapi detail berkurang). Peta Indonesia biasanya berskala 1:1.000.000 atau lebih kecil; peta denah kelurahan bisa 1:5.000.\n\nInsight kunci: Kunci soal skala peta adalah **mengalikan, bukan membagi**. Jarak di peta × angka skala = jarak sebenarnya. Setelah itu, konversi satuannya: cm → m → km. Jangan terbalik!\nJawaban akhir: **15 km**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Wilayah & lokasi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Singapura adalah negara pulau kecil dengan luas hanya sekitar 720 km² — kurang lebih seluas Jakarta. Namun, Pelabuhan Singapura menjadi salah satu pelabuhan tersibuk di dunia, menangani lebih dari 140.000 kapal per tahun dan menjadi hub perdagangan Asia Pasifik. Negara ini tidak memiliki sumber daya alam yang berarti dan harus mengimpor hampir semua kebutuhan air bersih dan pangannya.\"*\n\nFaktor **geografis** yang paling menjelaskan mengapa Singapura bisa menjadi pusat perdagangan dunia meskipun wilayahnya sangat kecil dan miskin SDA adalah ...",
+    "options": [
+      "Singapura terletak di ujung Semenanjung Malaka, tepat di jalur pelayaran internasional yang menghubungkan Samudra Hindia dan Samudra Pasifik",
+      "Singapura memiliki sumber daya alam yang tersembunyi di bawah lautnya yang mendukung perekonomian",
+      "Singapura adalah negara dengan penduduk terbesar di ASEAN sehingga konsumsi domestiknya sangat tinggi, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan",
+      "Singapura mendapat bantuan ekonomi besar dari negara-negara tetangganya karena wilayahnya kecil"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Perhatikan fakta kunci: Singapura kecil, miskin SDA, tetapi pelabuhannya tersibuk di dunia. Ini paradoks yang perlu dijelaskan — kekuatan bukan dari luas atau SDA, melainkan dari faktor lain.\nLangkah 2: Identifikasi faktor geografis. Singapura terletak di **ujung Semenanjung Malaka** — titik paling selatan daratan Asia Tenggara. Selat Malaka adalah jalur pelayaran internasional utama yang menghubungkan Samudra Hindia (Asia Selatan, Timur Tengah, Afrika, Eropa) dengan Samudra Pasifik (Asia Timur, Amerika).\nLangkah 3: Konsekuensi letak strategis ini: semua kapal yang melewati rute Eropa-Asia Timur (salah satu jalur tersibuk di dunia) harus melewati atau mendekati Selat Malaka → Singapura menjadi titik singgah alami untuk pengisian bahan bakar, bongkar muat, dan layanan logistik.\nLangkah 4: Bandingkan dengan SDA: banyak negara kaya SDA tetapi tidak memiliki pelabuhan tersibuk dunia. Letak geografis yang strategis terbukti jauh lebih menentukan dalam kasus Singapura.\nLangkah 5: Jebakan pilihan A: teks secara eksplisit menyebut Singapura *tidak memiliki sumber daya alam yang berarti*.\n\n**Materi terkait:**\n- **Selat Malaka** (lebar 2,8–25 km) adalah salah satu jalur pelayaran tersempit namun tersibuk di dunia. Sekitar 80.000–100.000 kapal melintas setiap tahun, membawa sekitar 30% perdagangan laut global.\n- **Posisi geografis vs. SDA**: Singapura membuktikan bahwa **letak yang strategis** bisa lebih berharga dari kekayaan alam. Negara ini membangun keunggulan kompetitif dari jasa (keuangan, logistik, teknologi), bukan dari tambang atau perkebunan.\n- **Negara-negara ASEAN** memiliki keunggulan geografis berbeda: Indonesia (luas wilayah & SDA), Vietnam (pantai panjang & delta Mekong), Thailand (persimpangan daratan Asia Tenggara), Singapura (hub perdagangan di Selat Malaka).\n\nInsight kunci: Letak geografis adalah **aset yang tidak bisa dipindahkan** — Singapura tidak punya pilihan lain selain memanfaatkannya secara maksimal. Ini mengajarkan bahwa memahami potensi wilayah dan memanfaatkannya secara optimal adalah inti dari pembangunan cerdas.\nKenapa opsi lain salah: A bertentangan langsung dengan teks; C salah karena Singapura justru salah satu negara terkecil penduduknya di ASEAN; D tidak didukung fakta — keberhasilan Singapura bukan dari bantuan tetangga.\nJawaban akhir: **Letak di ujung Semenanjung Malaka, tepat di jalur pelayaran internasional**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Kondisi geografis Indonesia",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Indonesia beriklim tropis dengan dua musim: musim hujan (sekitar Oktober–April) dan musim kemarau (sekitar April–Oktober), meskipun pola ini bervariasi di setiap daerah. Tanaman padi membutuhkan banyak air pada fase awal pertumbuhan (tanam hingga pembentukan malai), dan membutuhkan cuaca lebih kering dan terik saat fase panen agar bulir padi matang sempurna dan tidak mudah busuk.\"*\n\nBerdasarkan pola musim Indonesia, waktu yang paling tepat bagi petani Jawa untuk **memulai tanam padi** adalah ...",
+    "options": [
+      "Tengah musim kemarau, karena padi butuh suhu panas tinggi untuk tumbuh dengan cepat",
+      "Awal musim kemarau, agar padi langsung mendapat sinar matahari penuh sejak fase pertama",
+      "Waktu tanam tidak perlu disesuaikan musim karena Indonesia beriklim tropis dengan hujan merata sepanjang tahun, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Awal musim hujan, agar padi mendapat cukup air saat fase pertumbuhan awal dan bisa dipanen menjelang musim kemarau yang lebih kering dan terik"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi dua kebutuhan padi berdasarkan teks:\n- Fase awal (tanam → pertumbuhan): **butuh banyak air**\n- Fase panen: **butuh kering/terik** agar padi matang dan tidak busuk\nLangkah 2: Hubungkan kebutuhan ini dengan pola musim:\n- Musim hujan (Oktober–April): banyak air → cocok untuk fase awal pertumbuhan\n- Musim kemarau (April–Oktober): kering dan terik → cocok untuk fase panen\nLangkah 3: Simpulkan waktu tanam ideal: jika tanam dimulai **awal musim hujan** (Oktober), maka:\n- Fase pertumbuhan awal bertepatan dengan puncak musim hujan (Nov–Jan) → air melimpah ✓\n- Fase panen sekitar 3–4 bulan kemudian (Feb–April) → menjelang musim kemarau, cuaca lebih kering ✓\nLangkah 4: Verifikasi pilihan lain. Pilihan B (tengah kemarau) — fase awal padi justru kekurangan air. Pilihan C (awal kemarau) — fase awal juga kekurangan air; padi kering saat butuh banyak air.\nLangkah 5: Pilihan D mengandung miskonsepsi — meski iklim tropis, pola hujan Indonesia **tidak merata sepanjang tahun**, ada musim hujan dan kemarau yang nyata.\n\n**Materi terkait:**\n- **Iklim tropis** di Indonesia ditandai oleh dua musim (hujan dan kemarau), bukan empat musim. Pola ini dipengaruhi oleh angin muson: angin muson barat membawa hujan (Oktober–April), angin muson timur membawa kemarau (April–Oktober).\n- **Angin muson** terjadi karena perbedaan tekanan udara antara daratan Asia dan Australia. Saat musim dingin di Asia, tekanan tinggi di Asia mendorong angin ke selatan (membawa uap air laut ke Indonesia → hujan).\n- **Padi dan pertanian**: Indonesia adalah salah satu produsen padi terbesar di dunia. Pemahaman pola musim sangat penting bagi petani untuk menentukan masa tanam (*musim tanam*) agar hasil panen optimal.\n- Daerah berbeda di Indonesia bisa memiliki pola hujan berbeda: Jawa cenderung mengikuti pola barat, sementara beberapa daerah di Indonesia timur memiliki pola yang berbeda.\n\nInsight kunci: Petani di Indonesia secara tradisional sudah memahami pola musim ini jauh sebelum ada teknologi modern — mereka menggunakan **pranata mangsa** (kalender pertanian Jawa) yang mengatur waktu tanam berdasarkan tanda-tanda alam. Ini menunjukkan betapa dalam pengetahuan lokal tentang geografi dan iklim.\nKenapa opsi lain salah: B dan C menempatkan fase awal padi di musim kemarau saat air sedikit — ini bertentangan dengan kebutuhan padi yang haus air di awal pertumbuhannya; D adalah miskonsepsi tentang iklim tropis Indonesia.\nJawaban akhir: **Awal musim hujan** agar padi mendapat air saat tumbuh dan dipanen saat musim kering."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Geografi",
+    "subtopic": "Lingkungan hidup & sumber daya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Sebuah perusahaan pertambangan batubara mendapat izin membuka tambang terbuka (*open pit*) di kawasan hutan Kalimantan. Dalam 8 tahun, perusahaan menghasilkan keuntungan besar dari penjualan batubara. Ketika batubara habis, perusahaan menutup tambang dan meninggalkan lokasi. Yang tersisa: lubang raksasa terisi air keruh bercampur sisa bahan kimia pengolahan, tanah di sekitarnya tandus, dan hutan telah hilang seluas ribuan hektare.\"*\n\nDampak jangka panjang yang paling mungkin terjadi pada masyarakat yang tinggal di sekitar bekas tambang tersebut adalah ...",
+    "options": [
+      "Masyarakat mendapat sumber air bersih baru dari danau bekas tambang yang terisi air hujan",
+      "Pencemaran air tanah dan sungai dari bahan kimia sisa tambang merusak lahan pertanian, mengancam sumber air minum, dan berdampak pada kesehatan masyarakat jangka panjang",
+      "Tanah di sekitar bekas tambang menjadi subur karena mineral dari perut bumi terangkat ke permukaan saat penambangan, karena peta, iklim, dan sumber daya dianggap tidak perlu dibandingkan dengan kondisi nyata di lapangan",
+      "Tidak ada dampak bagi masyarakat sekitar karena tambang sudah tidak aktif dan tidak ada kegiatan apapun lagi"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi kondisi pasca-tambang dari teks: lubang raksasa berisi air keruh + bahan kimia, tanah tandus, hutan hilang. Tiga masalah utama: pencemaran air, kerusakan tanah, dan hilangnya ekosistem hutan.\nLangkah 2: Telusuri rantai dampak dari setiap masalah:\n- **Air keruh + bahan kimia**: bahan kimia dari proses pengolahan batubara (seperti asam sulfat dari reaksi pirit) dapat meresap ke tanah → mencemari air tanah yang dipakai warga untuk minum dan mengairi sawah.\n- **Tanah tandus**: lapisan tanah atas (*topsoil*) yang subur sudah diangkat dan dicampur dengan tanah bawah yang tidak subur → pertanian di sekitarnya sulit pulih.\n- **Hutan hilang**: hilangnya tutupan hutan mengurangi kemampuan tanah menyerap air → saat hujan deras lebih mudah terjadi banjir dan longsor.\nLangkah 3: Evaluasi apakah dampak berhenti saat tambang tutup. Tidak — bahan kimia di dalam tanah dan air danau bekas tambang terus meresap dan mengalir ke sungai terdekat selama bertahun-tahun, bahkan puluhan tahun setelah tambang ditutup.\nLangkah 4: Jebakan pilihan A: air di lubang tambang biasanya bersifat asam dan tercemar logam berat — sangat jauh dari kualitas air minum yang layak.\nLangkah 5: Jebakan pilihan B: ini miskonsepsi. Pertambangan justru merusak struktur tanah — mineral yang berguna bagi pertanian justru terbawa bersama batubara, sementara sisa tanah tandus dan tercemar.\nLangkah 6: Kesimpulan: pilihan D menggambarkan dampak nyata yang paling serius dan berkelanjutan.\n\n**Materi terkait:**\n- **Tambang terbuka** (*open pit mining*) menggali lapisan tanah dan batuan dari permukaan ke bawah, menghasilkan lubang yang bisa seluas dan sedalam beberapa kilometer. Ini meninggalkan bekas yang sulit dipulihkan tanpa reklamasi aktif.\n- **Reklamasi tambang** adalah kewajiban hukum di Indonesia (UU No. 4/2009 tentang Pertambangan Mineral dan Batubara). Perusahaan wajib mengembalikan fungsi lahan setelah tambang selesai — menimbun lubang, menanam kembali vegetasi, dan memulihkan kualitas air.\n- **Acid Mine Drainage (AMD)**: air asam tambang terbentuk ketika pirit (FeS₂) dalam batuan bereaksi dengan air dan oksigen menghasilkan asam sulfat. Ini adalah salah satu bentuk pencemaran paling berbahaya dari industri tambang.\n- **SDA tidak terbarukan** seperti batubara habis untuk selamanya setelah ditambang. Manfaatnya hanya jangka pendek (8 tahun dalam skenario), tetapi kerusakannya berlangsung puluhan tahun.\n\nInsight kunci: Soal ini mengajarkan prinsip **eksternalitas negatif** — perusahaan mendapat keuntungan penuh, tetapi biaya kerusakan lingkungan ditanggung oleh masyarakat sekitar dan generasi berikutnya. Inilah alasan mengapa pertambangan harus diatur ketat dan reklamasi wajib dilakukan.\nKenapa opsi lain salah: A salah karena air bekas tambang tercemar dan asam, tidak layak konsumsi; B adalah miskonsepsi — pertambangan merusak struktur dan kesuburan tanah; C mengabaikan fakta bahwa pencemaran berlanjut lama setelah tambang tutup.\nJawaban akhir: **Pencemaran air dan tanah mengancam pertanian, air minum, dan kesehatan masyarakat jangka panjang**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sejarah",
+    "subtopic": "Sejarah Indonesia",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Kerajaan Sriwijaya berpusat di Sumatra dan berjaya sekitar abad ke-7 hingga ke-12 Masehi. Letak kerajaannya di Selat Malaka menjadikannya pengendali jalur perdagangan laut antara India, Tiongkok, dan kepulauan Asia Tenggara. Sriwijaya juga dikenal sebagai pusat pembelajaran agama Buddha — para biksu dari berbagai negara datang untuk belajar di sana.\"*\n\nFaktor utama yang membuat Kerajaan Sriwijaya menjadi kerajaan yang kuat dan berpengaruh luas adalah ...",
+    "options": [
+      "Sriwijaya memiliki pasukan darat terbesar dan terkuat di seluruh Asia Tenggara pada masanya",
+      "Sriwijaya menjadi kuat karena mendapat bantuan militer langsung dari Kekaisaran Tiongkok secara rutin, sehingga peran masyarakat dan tokoh dianggap sama dalam semua peristiwa tanpa melihat situasinya",
+      "Sriwijaya berhasil menaklukkan semua kerajaan di Asia Tenggara sehingga tidak ada saingan",
+      "Letak Sriwijaya di Selat Malaka memungkinkannya menguasai jalur perdagangan laut internasional dan menjadi pusat ekonomi sekaligus budaya kawasan"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca teks dan temukan dua kekuatan utama Sriwijaya yang disebutkan: (1) kendali atas jalur perdagangan laut di Selat Malaka, dan (2) peran sebagai pusat pembelajaran agama Buddha.\nLangkah 2: Mengapa kendali atas Selat Malaka sangat kuat? Selat Malaka adalah jalur perdagangan **paling vital** yang menghubungkan dua kawasan besar: India-Timur Tengah-Afrika-Eropa di barat, dan Tiongkok-Jepang-Asia Tenggara di timur. Siapa yang menguasai selat ini, menguasai arus barang dan informasi.\nLangkah 3: Keuntungan ekonomi: setiap kapal yang melewati Selat Malaka dikenakan bea cukai atau pajak dagang oleh Sriwijaya. Ini menghasilkan pendapatan besar tanpa harus memproduksi sendiri.\nLangkah 4: Keuntungan budaya: pedagang dan biksu dari berbagai bangsa singgah di pusat Sriwijaya → pertukaran budaya, pengetahuan, dan agama terjadi secara alami.\n\n**Materi terkait:**\n- **Kerajaan maritim** adalah kerajaan yang kekuatannya bergantung pada kekuatan armada laut dan kendali atas jalur pelayaran, bukan pada luas wilayah daratan. Sriwijaya adalah contoh kerajaan maritim terbesar di Asia Tenggara.\n- **Peninggalan Sriwijaya** yang dapat dilihat sampai hari ini: Prasasti Kedukan Bukit (683 M), Candi Muara Takus di Riau, dan berbagai artefak yang tersebar di kawasan Sumatra dan Semenanjung Malaka.\n- **Bahasa Melayu Kuno** yang digunakan dalam prasasti Sriwijaya adalah cikal bakal bahasa Melayu modern dan Bahasa Indonesia.\n- Sriwijaya runtuh sekitar abad ke-13 karena serangan kerajaan Chola dari India Selatan, persaingan dengan kerajaan baru, dan pergeseran jalur perdagangan.\n\nInsight kunci: Sriwijaya mengajarkan bahwa **lokasi geografis yang strategis** bisa menjadi sumber kekuatan yang lebih besar dari pasukan militer sekalipun. Dengan menguasai jalur laut, Sriwijaya menguasai arus ekonomi dan budaya seluruh kawasan.\nJawaban akhir: **Letak di Selat Malaka yang memungkinkan kendali atas jalur perdagangan internasional**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Tokoh & perubahan sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Ki Hajar Dewantara mendirikan Taman Siswa pada 3 Juli 1922 di Yogyakarta. Berbeda dari sekolah kolonial Belanda yang hanya dapat diakses oleh anak-anak Belanda dan kalangan priyayi (bangsawan pribumi), Taman Siswa membuka pintu pendidikan bagi semua anak Indonesia tanpa memandang status sosial atau suku. Semboyannya yang terkenal: 'Ing ngarso sung tulodo, ing madyo mangun karso, tut wuri handayani' (di depan memberi teladan, di tengah membangun semangat, di belakang memberi dorongan).\"*\n\nMengapa pendirian Taman Siswa oleh Ki Hajar Dewantara dianggap sebagai **langkah penting** dalam perjuangan bangsa Indonesia?",
+    "options": [
+      "Karena Taman Siswa pertama kali mengajarkan bahasa Belanda kepada pribumi agar bisa bersaing langsung dengan penjajah, karena bukti sejarah dianggap cukup dilihat dari satu sisi tanpa membandingkan konteks zamannya",
+      "Karena Taman Siswa membuka akses pendidikan bagi semua lapisan masyarakat, membangun kesadaran, kemampuan, dan harga diri bangsa sebagai persiapan untuk mengelola negeri sendiri",
+      "Karena Taman Siswa membuktikan bahwa murid-murid Indonesia lebih pandai dari murid-murid sekolah Belanda",
+      "Karena Taman Siswa menjadi markas pejuang kemerdekaan untuk berlatih strategi melawan penjajah Belanda"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi kondisi pendidikan di era kolonial dari teks. Sekolah Belanda hanya untuk anak Belanda dan priyayi → sebagian besar rakyat Indonesia tidak dapat mengakses pendidikan formal. Tanpa pendidikan, sulit membangun kemampuan untuk mengelola negara sendiri.\nLangkah 2: Apa yang dilakukan Ki Hajar Dewantara? Ia mendirikan sekolah yang **terbuka untuk semua** — bukan hanya bangsawan. Ini adalah tindakan perlawanan terhadap strategi kolonial yang mempertahankan kebodohan rakyat sebagai cara menjaga ketergantungan.\nLangkah 3: Mengapa ini penting bagi perjuangan? Kemerdekaan bukan hanya soal mengusir penjajah secara fisik — bangsa yang merdeka harus mampu mengelola negaranya sendiri. Untuk itu, dibutuhkan rakyat yang terdidik, punya keterampilan, dan sadar akan hak-haknya.\nLangkah 4: Semboyan Taman Siswa mencerminkan filosofi pendidikan yang progresif: guru sebagai teladan, pendamping, dan pendorong — bukan sekadar penyampai hafalan.\nLangkah 5: Hubungkan ke masa kini: Ki Hajar Dewantara kini diperingati sebagai Hari Pendidikan Nasional (2 Mei), dan semboyannya *Tut Wuri Handayani* menjadi moto Kementerian Pendidikan Indonesia.\n\n**Materi terkait:**\n- **Ki Hajar Dewantara** (1889–1959) lahir dengan nama Raden Mas Soewardi Soerjaningrat. Ia juga dikenal sebagai penulis dan jurnalis yang kritis terhadap penjajah, bahkan pernah diasingkan ke Belanda. Ia disebut **Bapak Pendidikan Indonesia**.\n- **Sistem kolonial dan pendidikan**: Belanda menerapkan sistem pendidikan berstrata — sekolah terbaik hanya untuk bangsa Eropa. Ini bukan kebetulan, melainkan strategi agar pribumi tetap bergantung dan tidak mampu memimpin diri sendiri.\n- **Perlawanan melalui pendidikan** (perjuangan tanpa senjata) adalah bagian dari **pergerakan nasional** Indonesia pada awal abad ke-20, bersama dengan pers, organisasi, dan kongres pemuda.\n\nInsight kunci: Perjuangan tidak selalu dengan senjata — membangun sekolah dan mencerdaskan bangsa adalah bentuk perlawanan yang **jauh lebih berkelanjutan**. Ki Hajar Dewantara memahami bahwa kemerdekaan sejati butuh fondasi: manusia yang terdidik dan berdaya.\nKenapa opsi lain salah: A terbalik — Taman Siswa bukan mengajarkan bahasa penjajah tetapi membangun identitas dan kemampuan bangsa; B tidak relevan — tujuannya bukan kompetisi dengan Belanda; D tidak berdasar fakta sejarah.\nJawaban akhir: **Taman Siswa membuka akses pendidikan untuk semua, membangun kesadaran dan kemampuan bangsa**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Kronologi peristiwa",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel kronologi peristiwa:\n\n| Tahun | Peristiwa |\n|---|---|\n| 1942 | Jepang menduduki Indonesia, menggantikan Belanda |\n| 1943 | Jepang membentuk PETA (Pembela Tanah Air) — melatih pemuda Indonesia dalam militer |\n| 1945 | Proklamasi Kemerdekaan 17 Agustus 1945; pemuda termasuk mantan prajurit PETA menjadi ujung tombak perjuangan mempertahankan kemerdekaan |\n\nBerdasarkan urutan peristiwa tersebut, kesimpulan yang **paling tepat** tentang hubungan pendudukan Jepang dengan kemerdekaan Indonesia adalah ...",
+    "options": [
+      "Pelatihan militer PETA oleh Jepang secara tidak langsung memberi modal kemampuan tempur kepada pemuda Indonesia, yang kemudian digunakan untuk mempertahankan kemerdekaan — meski tujuan Jepang membentuk PETA bukan untuk kemerdekaan Indonesia",
+      "Jepang dengan sengaja dan tulus mempersiapkan Indonesia untuk merdeka dari Jepang dengan membentuk PETA",
+      "Tanpa pendudukan Jepang selama tiga tahun, Indonesia tidak akan pernah bisa merdeka",
+      "PETA adalah organisasi yang dibentuk pemuda Indonesia secara mandiri untuk melawan Jepang dan Belanda sekaligus, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Baca urutan kronologis. Jepang menduduki Indonesia (1942), kemudian membentuk PETA (1943), kemudian Indonesia merdeka (1945) dan pemuda termasuk mantan PETA berjuang mempertahankannya.\nLangkah 2: Hubungan PETA dengan kemerdekaan. PETA dibentuk Jepang dengan tujuan awalnya **membantu Jepang** dalam Perang Dunia II melawan Sekutu — bukan untuk kemerdekaan Indonesia. Namun, latihan militer ini secara tidak sengaja menciptakan generasi pemuda Indonesia yang terampil menggunakan senjata dan memahami strategi tempur.\nLangkah 3: Dampak yang tidak terduga oleh Jepang: setelah proklamasi, mantan prajurit PETA ikut berjuang mempertahankan kemerdekaan Indonesia dari upaya Belanda yang ingin kembali berkuasa (1945–1949). Mereka menjadi tulang punggung Tentara Nasional Indonesia (TNI) awal.\nLangkah 4: Nuansa penting: ini bukan berarti Jepang adalah \"pahlawan\" kemerdekaan Indonesia. Jepang juga melakukan kekejaman (romusha, perampasan pangan) yang menyengsarakan rakyat. Fakta sejarah bisa memiliki sisi yang kompleks dan tidak hitam-putih.\nLangkah 5: Jebakan pilihan B: Jepang TIDAK tulus mempersiapkan kemerdekaan Indonesia. Tujuan Jepang adalah mempertahankan kekuasaannya di Asia Tenggara, bukan membebaskan Indonesia.\n\n**Materi terkait:**\n- **PETA (Pembela Tanah Air)** didirikan Jepang pada Oktober 1943. Anggotanya mencapai sekitar 66.000 orang pada akhir Perang Dunia II. Banyak tokoh militer Indonesia awal adalah mantan prajurit PETA, termasuk Jenderal Soedirman (panglima pertama TNI).\n- **Pendudukan Jepang (1942–1945)**: selain membentuk PETA, Jepang membubarkan organisasi politik Belanda, sehingga Indonesia bisa mengorganisir diri lebih bebas. Namun di sisi lain, romusha (kerja paksa) menyebabkan penderitaan rakyat yang luar biasa.\n- **Memahami sejarah secara kritis**: sebuah peristiwa bisa memiliki dampak berganda. Pendudukan Jepang buruk dari sisi kemanusiaan, tetapi secara tidak langsung menciptakan kondisi yang mempercepat kemerdekaan Indonesia.\n\nInsight kunci: Sejarah mengajarkan kita untuk melihat **sebab, niat, dan akibat** secara terpisah. Jepang membentuk PETA dengan niat sendiri (memperkuat pertahanan Asia), tetapi akibatnya justru menguntungkan Indonesia. Penting untuk tidak menyimpulkan \"niat = akibat\" — akibat sejarah sering berbeda dari niat awalnya.\nKenapa opsi lain salah: B salah karena Jepang tidak tulus mempersiapkan kemerdekaan — ini bertentangan dengan fakta bahwa Jepang juga menindas rakyat Indonesia; C berlebihan — faktor kemerdekaan sangat banyak, bukan hanya Jepang; D salah karena PETA dibentuk oleh Jepang, bukan oleh pemuda Indonesia sendiri.\nJawaban akhir: **Pelatihan PETA tidak sengaja memberi modal militer kepada pemuda Indonesia untuk mempertahankan kemerdekaan**.",
+    "content": {
+      "question": "Perhatikan tabel kronologi peristiwa:\n\n| Tahun | Peristiwa |\n|---|---|\n| 1942 | Jepang menduduki Indonesia, menggantikan Belanda |\n| 1943 | Jepang membentuk PETA (Pembela Tanah Air) — melatih pemuda Indonesia dalam militer |\n| 1945 | Proklamasi Kemerdekaan 17 Agustus 1945; pemuda termasuk mantan prajurit PETA menjadi ujung tombak perjuangan mempertahankan kemerdekaan |\n\nBerdasarkan urutan peristiwa tersebut, kesimpulan yang **paling tepat** tentang hubungan pendudukan Jepang dengan kemerdekaan Indonesia adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel kronologi peristiwa:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tahun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Peristiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1942"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jepang menduduki Indonesia, menggantikan Belanda"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1943"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jepang membentuk PETA (Pembela Tanah Air) — melatih pemuda Indonesia dalam militer"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1945"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Proklamasi Kemerdekaan 17 Agustus 1945; pemuda termasuk mantan prajurit PETA menjadi ujung tombak perjuangan mempertahankan kemerdekaan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan urutan peristiwa tersebut, kesimpulan yang paling tepat tentang hubungan pendudukan Jepang dengan kemerdekaan Indonesia adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Pelatihan militer PETA oleh Jepang secara tidak langsung memberi modal kemampuan tempur kepada pemuda Indonesia, yang kemudian digunakan untuk mempertahankan kemerdekaan — meski tujuan Jepang membentuk PETA bukan untuk kemerdekaan Indonesia",
+        "Jepang dengan sengaja dan tulus mempersiapkan Indonesia untuk merdeka dari Jepang dengan membentuk PETA",
+        "Tanpa pendudukan Jepang selama tiga tahun, Indonesia tidak akan pernah bisa merdeka",
+        "PETA adalah organisasi yang dibentuk pemuda Indonesia secara mandiri untuk melawan Jepang dan Belanda sekaligus, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pelatihan militer PETA oleh Jepang secara tidak langsung memberi modal kemampuan tempur kepada pemuda Indonesia, yang kemudian digunakan untuk mempertahankan kemerdekaan — meski tujuan Jepang membentuk PETA bukan untuk kemerdekaan Indonesia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jepang dengan sengaja dan tulus mempersiapkan Indonesia untuk merdeka dari Jepang dengan membentuk PETA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tanpa pendudukan Jepang selama tiga tahun, Indonesia tidak akan pernah bisa merdeka"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "PETA adalah organisasi yang dibentuk pemuda Indonesia secara mandiri untuk melawan Jepang dan Belanda sekaligus, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Baca urutan kronologis. Jepang menduduki Indonesia (1942), kemudian membentuk PETA (1943), kemudian Indonesia merdeka (1945) dan pemuda termasuk mantan PETA berjuang mempertahankannya.\nLangkah 2: Hubungan PETA dengan kemerdekaan. PETA dibentuk Jepang dengan tujuan awalnya **membantu Jepang** dalam Perang Dunia II melawan Sekutu — bukan untuk kemerdekaan Indonesia. Namun, latihan militer ini secara tidak sengaja menciptakan generasi pemuda Indonesia yang terampil menggunakan senjata dan memahami strategi tempur.\nLangkah 3: Dampak yang tidak terduga oleh Jepang: setelah proklamasi, mantan prajurit PETA ikut berjuang mempertahankan kemerdekaan Indonesia dari upaya Belanda yang ingin kembali berkuasa (1945–1949). Mereka menjadi tulang punggung Tentara Nasional Indonesia (TNI) awal.\nLangkah 4: Nuansa penting: ini bukan berarti Jepang adalah \"pahlawan\" kemerdekaan Indonesia. Jepang juga melakukan kekejaman (romusha, perampasan pangan) yang menyengsarakan rakyat. Fakta sejarah bisa memiliki sisi yang kompleks dan tidak hitam-putih.\nLangkah 5: Jebakan pilihan B: Jepang TIDAK tulus mempersiapkan kemerdekaan Indonesia. Tujuan Jepang adalah mempertahankan kekuasaannya di Asia Tenggara, bukan membebaskan Indonesia.\n\n**Materi terkait:**\n- **PETA (Pembela Tanah Air)** didirikan Jepang pada Oktober 1943. Anggotanya mencapai sekitar 66.000 orang pada akhir Perang Dunia II. Banyak tokoh militer Indonesia awal adalah mantan prajurit PETA, termasuk Jenderal Soedirman (panglima pertama TNI).\n- **Pendudukan Jepang (1942–1945)**: selain membentuk PETA, Jepang membubarkan organisasi politik Belanda, sehingga Indonesia bisa mengorganisir diri lebih bebas. Namun di sisi lain, romusha (kerja paksa) menyebabkan penderitaan rakyat yang luar biasa.\n- **Memahami sejarah secara kritis**: sebuah peristiwa bisa memiliki dampak berganda. Pendudukan Jepang buruk dari sisi kemanusiaan, tetapi secara tidak langsung menciptakan kondisi yang mempercepat kemerdekaan Indonesia.\n\nInsight kunci: Sejarah mengajarkan kita untuk melihat **sebab, niat, dan akibat** secara terpisah. Jepang membentuk PETA dengan niat sendiri (memperkuat pertahanan Asia), tetapi akibatnya justru menguntungkan Indonesia. Penting untuk tidak menyimpulkan \"niat = akibat\" — akibat sejarah sering berbeda dari niat awalnya.\nKenapa opsi lain salah: B salah karena Jepang tidak tulus mempersiapkan kemerdekaan — ini bertentangan dengan fakta bahwa Jepang juga menindas rakyat Indonesia; C berlebihan — faktor kemerdekaan sangat banyak, bukan hanya Jepang; D salah karena PETA dibentuk oleh Jepang, bukan oleh pemuda Indonesia sendiri.\nJawaban akhir: **Pelatihan PETA tidak sengaja memberi modal militer kepada pemuda Indonesia untuk mempertahankan kemerdekaan**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca urutan kronologis. Jepang menduduki Indonesia (1942), kemudian membentuk PETA (1943), kemudian Indonesia merdeka (1945) dan pemuda termasuk mantan PETA berjuang mempertahankannya.\nLangkah 2: Hubungan PETA dengan kemerdekaan. PETA dibentuk Jepang dengan tujuan awalnya membantu Jepang dalam Perang Dunia II melawan Sekutu — bukan untuk kemerdekaan Indonesia. Namun, latihan militer ini secara tidak sengaja menciptakan generasi pemuda Indonesia yang terampil menggunakan senjata dan memahami strategi tempur.\nLangkah 3: Dampak yang tidak terduga oleh Jepang: setelah proklamasi, mantan prajurit PETA ikut berjuang mempertahankan kemerdekaan Indonesia dari upaya Belanda yang ingin kembali berkuasa (1945–1949). Mereka menjadi tulang punggung Tentara Nasional Indonesia (TNI) awal.\nLangkah 4: Nuansa penting: ini bukan berarti Jepang adalah \"pahlawan\" kemerdekaan Indonesia. Jepang juga melakukan kekejaman (romusha, perampasan pangan) yang menyengsarakan rakyat. Fakta sejarah bisa memiliki sisi yang kompleks dan tidak hitam-putih.\nLangkah 5: Jebakan pilihan B: Jepang TIDAK tulus mempersiapkan kemerdekaan Indonesia. Tujuan Jepang adalah mempertahankan kekuasaannya di Asia Tenggara, bukan membebaskan Indonesia."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- PETA (Pembela Tanah Air) didirikan Jepang pada Oktober 1943. Anggotanya mencapai sekitar 66.000 orang pada akhir Perang Dunia II. Banyak tokoh militer Indonesia awal adalah mantan prajurit PETA, termasuk Jenderal Soedirman (panglima pertama TNI).\n- Pendudukan Jepang (1942–1945): selain membentuk PETA, Jepang membubarkan organisasi politik Belanda, sehingga Indonesia bisa mengorganisir diri lebih bebas. Namun di sisi lain, romusha (kerja paksa) menyebabkan penderitaan rakyat yang luar biasa.\n- Memahami sejarah secara kritis: sebuah peristiwa bisa memiliki dampak berganda. Pendudukan Jepang buruk dari sisi kemanusiaan, tetapi secara tidak langsung menciptakan kondisi yang mempercepat kemerdekaan Indonesia."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Sejarah mengajarkan kita untuk melihat sebab, niat, dan akibat secara terpisah. Jepang membentuk PETA dengan niat sendiri (memperkuat pertahanan Asia), tetapi akibatnya justru menguntungkan Indonesia. Penting untuk tidak menyimpulkan \"niat = akibat\" — akibat sejarah sering berbeda dari niat awalnya.\nKenapa opsi lain salah: B salah karena Jepang tidak tulus mempersiapkan kemerdekaan — ini bertentangan dengan fakta bahwa Jepang juga menindas rakyat Indonesia; C berlebihan — faktor kemerdekaan sangat banyak, bukan hanya Jepang; D salah karena PETA dibentuk oleh Jepang, bukan oleh pemuda Indonesia sendiri.\nJawaban akhir: Pelatihan PETA tidak sengaja memberi modal militer kepada pemuda Indonesia untuk mempertahankan kemerdekaan."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sejarah",
+    "subtopic": "Warisan budaya & nasionalisme",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Batik Indonesia diakui UNESCO sebagai Warisan Budaya Tak Benda pada 2 Oktober 2009 — kini dirayakan sebagai Hari Batik Nasional. Namun, para pengrajin batik tulis tradisional menghadapi tantangan berat: batik printing bermotif serupa yang diproduksi massal dan dijual jauh lebih murah (bahkan sebagian diimpor dari luar negeri) membuat pembeli beralih ke produk yang lebih terjangkau. Seorang pengrajin batik tulis bisa menghabiskan 2–6 minggu untuk satu lembar kain; mesin printing menyelesaikan ratusan lembar dalam satu hari.\"*\n\nKebijakan yang paling **seimbang dan efektif** untuk melindungi pengrajin batik tulis tradisional sekaligus tetap menghargai mekanisme pasar adalah ...",
+    "options": [
+      "Melarang total impor semua jenis tekstil dan produk pakaian dari luar negeri untuk melindungi semua pengrajin lokal tanpa terkecuali, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+      "Membiarkan persaingan bebas sepenuhnya karena konsumen berhak memilih produk termurah dan pasar akan mengatur sendiri",
+      "Memberi label resmi dan sertifikasi 'Batik Tulis Tradisional' sebagai kategori yang dilindungi dan dipromosikan, sambil mengedukasi konsumen tentang nilai budaya dan proses pembuatannya agar mereka mau membayar lebih",
+      "Menutup semua usaha batik printing dalam negeri karena mengancam keberlangsungan batik tulis tradisional yang otentik"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi dua kepentingan yang perlu diseimbangkan: (1) melindungi pengrajin batik tulis tradisional sebagai warisan budaya, dan (2) menghormati mekanisme pasar dan hak konsumen memilih.\nLangkah 2: Evaluasi pilihan ekstrem. Pilihan A (larang semua impor tekstil): terlalu luas — batik printing bukan satu-satunya produk tekstil, dan larangan menyeluruh bisa merugikan industri lain dan memicu masalah diplomatik. Pilihan C (tutup batik printing dalam negeri): tidak adil bagi pelaku usaha printing domestik yang juga punya hak berwirausaha.\nLangkah 3: Mengapa pilihan B (pasar bebas total) tidak cukup? Karena pasar bebas murni tidak mempertimbangkan **nilai budaya non-ekonomi**. Batik tulis bukan sekadar produk — ia adalah warisan peradaban yang butuh perlindungan aktif, seperti perlunya konservasi cagar budaya meski tidak menguntungkan secara ekonomi semata.\nLangkah 4: Mengapa pilihan D paling efektif?\n- **Sertifikasi dan label** menciptakan *kelas produk* yang berbeda: batik tulis ≠ batik printing. Konsumen bisa memilih dengan informasi yang jelas.\n- **Edukasi konsumen** meningkatkan kesediaan membayar lebih (*willingness to pay*) karena konsumen memahami nilai budaya di balik produk.\n- Ini sudah berhasil di berbagai negara: label DOC untuk keju Parmigiano-Reggiano Italia, label AOC untuk wine Perancis, dll.\nLangkah 5: Pilihan D juga sesuai dengan semangat pengakuan UNESCO — pelestarian warisan bukan melarang perubahan, tetapi memastikan tradisi otentik tetap hidup dan dihargai.\nLangkah 6: Aspek nasionalisme: memakai batik tulis tradisional saat hari raya atau acara resmi adalah wujud nyata kebanggaan dan pelestarian identitas bangsa.\n\n**Materi terkait:**\n- **Warisan Budaya Tak Benda (Intangible Cultural Heritage, ICH)** UNESCO adalah tradisi, pengetahuan, keahlian, atau praktik yang diwariskan lintas generasi. Berbeda dari warisan budaya benda (seperti candi), ICH *hidup* pada manusia yang mempraktikkannya.\n- **Batik tulis vs. batik printing**: batik tulis dibuat dengan tangan menggunakan canting dan malam (lilin), setiap pola unik dan tidak berulang persis sama. Batik printing dibuat dengan sablon/mesin, pola sama persis.\n- **Ekonomi kreatif berbasis budaya**: warisan budaya bisa menjadi industri kreatif yang memakmurkan — tapi hanya jika ada ekosistem yang menghargai nilai autentiknya (sertifikasi, promosi, edukasi, pasar yang sadar).\n- **Hari Batik Nasional** (2 Oktober) diperingati setiap tahun, dan pemerintah serta banyak lembaga mewajibkan pegawainya mengenakan batik di hari itu sebagai bentuk pelestarian sekaligus promosi.\n\nInsight kunci: Melindungi warisan budaya tidak berarti membekukan pasar atau menutup persaingan — melainkan **menciptakan ruang khusus yang dihargai** bagi produk budaya otentik. Sertifikasi dan edukasi adalah alat yang lebih cerdas dan berkelanjutan daripada larangan yang kaku.\nKenapa opsi lain salah: A terlalu luas dan merugikan banyak pihak di luar pengrajin batik; B membiarkan warisan budaya punah tergerus pasar tanpa perlindungan apapun; C tidak adil bagi pelaku usaha printing yang sah.\nJawaban akhir: **Sertifikasi dan edukasi konsumen untuk membedakan dan menghargai batik tulis tradisional**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Pak Tani dan 20 tetangganya membentuk koperasi tani di desanya. Setiap bulan, masing-masing anggota menyimpan uang (simpanan wajib) di koperasi. Ketika Pak Tani butuh uang untuk membeli bibit unggul, ia bisa meminjam dari koperasi dengan bunga yang jauh lebih rendah dari bank komersial atau rentenir. Di akhir tahun, keuntungan koperasi dibagikan kepada semua anggota sesuai besar simpanan dan partisipasi masing-masing.\"*\n\nManfaat **utama** koperasi bagi Pak Tani dan anggota lainnya dalam skenario ini adalah ...",
+    "options": [
+      "Koperasi membantu anggota mendapatkan modal usaha dengan bunga rendah melalui sistem simpan pinjam bersama, dan membagikan keuntungan secara adil kepada semua anggota",
+      "Koperasi menjamin setiap anggota mendapat gaji tetap setiap bulan tanpa harus bekerja",
+      "Koperasi memastikan seluruh hasil panen anggota terjual dengan harga paling tinggi di pasar nasional, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan",
+      "Koperasi memberikan lahan pertanian gratis kepada setiap orang yang bergabung sebagai anggota baru"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Baca skenario dan identifikasi dua manfaat konkret yang disebutkan: (1) pinjaman modal dengan bunga rendah untuk beli bibit, dan (2) pembagian keuntungan koperasi kepada anggota di akhir tahun.\nLangkah 2: Pahami bagaimana koperasi bekerja dalam skenario ini. Semua anggota **bersama-sama mengumpulkan modal** (simpanan wajib). Modal bersama ini dipinjamkan kepada anggota yang membutuhkan dengan bunga rendah. Karena koperasi dikelola sendiri oleh anggota, tidak ada pihak ketiga (seperti bank komersial) yang mengambil keuntungan besar.\nLangkah 3: Mengapa bunga koperasi bisa lebih rendah? Karena tujuannya bukan profit untuk pemilik modal eksternal, melainkan **kesejahteraan anggota**. Keuntungan koperasi pun dikembalikan kepada anggota.\nLangkah 4: Cocokkan dengan pilihan — B menggambarkan dua manfaat ini dengan akurat.\n\n**Materi terkait:**\n- **Koperasi** adalah badan usaha yang dimiliki dan dioperasikan oleh anggotanya secara demokratis (satu anggota, satu suara), berdasarkan prinsip gotong royong. Didirikan bersama, dikelola bersama, keuntungan dinikmati bersama.\n- **Jenis koperasi**: koperasi simpan pinjam (KSP), koperasi produsen, koperasi konsumen, koperasi jasa, koperasi serba usaha.\n- **Koperasi vs. bank komersial**: bank komersial bertujuan maksimalkan keuntungan untuk pemegang saham → bunga pinjaman lebih tinggi. Koperasi bertujuan memaksimalkan kesejahteraan anggota → bunga bisa lebih rendah karena keuntungan tidak perlu dibagi ke pihak luar.\n- **Sejarah koperasi Indonesia**: Mohammad Hatta (Wakil Presiden pertama) adalah tokoh koperasi Indonesia; ia percaya bahwa koperasi adalah bentuk ekonomi yang paling sesuai dengan nilai gotong royong bangsa Indonesia.\n\nInsight kunci: Koperasi adalah bentuk **demokrasi ekonomi** — tidak ada yang mendominasi, semua anggota punya hak dan kewajiban yang setara. Ini berbeda dari perusahaan biasa di mana pemegang saham terbesar yang paling berkuasa.\nJawaban akhir: **Koperasi menyediakan pinjaman modal bunga rendah dan membagikan keuntungan secara adil kepada anggota**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Petani kopi di Flores menjual biji kopi mentah (*green bean*) seharga Rp30.000 per kg. Di kota, importir menyangrai biji kopi itu, menggiling, dan mengemasnya dalam kantong cantik seharga Rp200.000 per 100 gram (setara Rp2.000.000 per kg). Di sebuah kafe premium, secangkir kopi dari biji yang sama — disajikan oleh barista terlatih di ruangan nyaman — dijual dengan harga Rp50.000 (menggunakan sekitar 15–20 gram biji kopi).\"*\n\nPerbedaan harga yang sangat besar dari petani (Rp30.000/kg) ke kafe (harga setara jutaan per kg) paling tepat dijelaskan oleh ...",
+    "options": [
+      "Petani sengaja menjual murah karena tidak tahu harga sebenarnya di pasar dan tidak memiliki informasi yang cukup, sehingga keputusan ekonomi dianggap tidak perlu mempertimbangkan prioritas, risiko, dan keterbatasan sumber daya",
+      "Kopi di kafe berasal dari varietas kopi yang jauh berbeda dan lebih mahal dari kopi yang dijual petani",
+      "Setiap tahap pengolahan (sangrai, giling, kemas, sajikan dengan barista dan ruangan) menambahkan **nilai tambah** pada produk — semakin banyak nilai yang ditambahkan, semakin tinggi harga akhirnya",
+      "Pajak pemerintah yang sangat tinggi pada industri kafe menyebabkan harga melonjak jauh di atas harga bahan baku"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi semua tahap dalam rantai produksi kopi dalam skenario:\n1. Petani → menanam dan memanen biji kopi (produksi dasar)\n2. Importir/roaster → menyangrai, menggiling, mengemas (pengolahan)\n3. Kafe → menyajikan kopi jadi dengan barista dan ruangan nyaman (jasa/layanan)\nLangkah 2: Di setiap tahap, ada **biaya** (tenaga kerja, bahan, mesin, waktu) yang ditambahkan. Namun lebih dari sekedar biaya, setiap tahap juga menambahkan **nilai** yang konsumen bersedia bayar lebih.\nLangkah 3: Apa yang dibeli konsumen di kafe? Bukan hanya kopi — tetapi pengalaman: ruangan nyaman ber-AC, barista yang ahli, biji kopi yang sudah diolah sempurna, dan fasilitas duduk berjam-jam. Semua \"ekstra\" ini adalah nilai tambah.\nLangkah 4: Konsep kunci: **nilai tambah** (*added value*) = harga jual setiap tahap - biaya input dari tahap sebelumnya. Petani hanya menambahkan nilai dari alam dan tenaganya. Kafe menambahkan nilai dari keahlian, fasilitas, dan pengalaman yang jauh lebih bernilai di mata konsumen kota.\nLangkah 5: Jebakan pilihan A: meski petani sering kali memang tidak memiliki informasi harga pasar yang cukup (ini masalah nyata di rantai kopi Indonesia), penyebab utama perbedaan harga besar adalah proses nilai tambah, bukan semata-mata ketidaktahuan petani.\n\n**Materi terkait:**\n- **Nilai tambah** (*added value*) adalah peningkatan nilai ekonomi suatu produk setelah melalui proses pengolahan atau layanan. Ini adalah inti dari mengapa produksi tidak langsung menghasilkan uang sebanyak produk jadi.\n- **Rantai nilai** (*value chain*) menggambarkan semua tahap dari bahan baku hingga produk jadi ke tangan konsumen. Kopi adalah contoh sempurna: dari kebun → pengolahan basah → pengeringan → sangrai → giling → kemas → sajikan.\n- **Petani dan nilai tambah**: salah satu cara meningkatkan pendapatan petani adalah dengan membantu mereka **mengolah sendiri** (misalnya sangrai dan kemas) agar bisa menjual produk jadi, bukan hanya bahan baku. Ini yang sedang banyak didorong di sentra kopi Flores, Aceh, dan Toraja.\n\nInsight kunci: Produk bahan mentah hampir selalu berharga **jauh lebih murah** dari produk olahan. Ini adalah alasan mengapa negara-negara berkembang yang hanya mengekspor bahan mentah sulit kaya — nilai tambah dinikmati oleh negara yang mengolahnya. **Mengolah sendiri sebelum menjual** adalah kunci meningkatkan nilai ekonomi suatu produk.\nKenapa opsi lain salah: A mungkin ada sedikit kebenarannya tapi bukan penjelasan utama; B tidak disebutkan dalam skenario — biji kopinya sama; D tidak didukung data dalam teks.\nJawaban akhir: **Nilai tambah di setiap tahap pengolahan dan layanan yang menyebabkan harga melonjak**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Peran konsumen & produsen",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Pak Aji mengelola pabrik tempe kecil. Ia mengusulkan kepada mitranya untuk beralih dari kemasan plastik ke kemasan daun pisang. Meski biaya produksi naik sekitar 15%, Pak Aji yakin ini langkah yang benar karena sampah plastik merusak lingkungan. Mitranya keberatan: 'Kalau harga tempe kita naik, konsumen akan beli tempe plastik yang lebih murah dari tetangga.'\"*\n\nDalam mengambil keputusan ini, argumen ekonomi berkelanjutan yang paling kuat untuk **mendukung** usulan Pak Aji adalah ...",
+    "options": [
+      "Kemasan daun pisang selalu lebih murah dari plastik dalam jangka panjang karena daun pisang gratis dan mudah didapat di mana-mana",
+      "Konsumen Indonesia tidak pernah mempertimbangkan faktor lingkungan dalam memilih produk, sehingga kemasan daun pisang tidak akan memberi manfaat bisnis apapun, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan",
+      "Kenaikan harga 15% selalu membuat semua konsumen berpindah ke produk lain, jadi usulan Pak Aji pasti rugi dan harus ditolak",
+      "Kemasan ramah lingkungan bisa menjadi keunggulan diferensiasi yang menarik segmen konsumen peduli lingkungan, sekaligus mengantisipasi regulasi lingkungan yang semakin ketat di masa depan"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi dilema yang dihadapi Pak Aji. Pilihan ramah lingkungan (daun pisang) menambah biaya produksi 15%. Mitranya takut konsumen berpindah ke kompetitor yang lebih murah.\nLangkah 2: Analisis argumen mitra. Argumen mitra tidak selalu salah — ada konsumen yang sangat sensitif harga dan akan berpindah jika harga naik 15%. Namun, apakah semua konsumen demikian? Tidak.\nLangkah 3: Argumen untuk mendukung Pak Aji:\n- **Segmentasi pasar**: tidak semua konsumen hanya peduli harga. Ada segmen yang bersedia bayar lebih untuk produk ramah lingkungan — terutama di kota, kelas menengah atas, dan generasi muda.\n- **Diferensiasi**: tempe daun pisang Pak Aji bukan bersaing murni harga — ia menjual nilai tambah berupa *identitas produk ramah lingkungan*. Ini adalah strategi bisnis yang valid.\n- **Antisipasi regulasi**: pemerintah Indonesia dan banyak negara makin ketat mengatur plastik sekali pakai. Produsen yang sudah beralih lebih awal tidak perlu menanggung biaya adaptasi mendadak di masa depan.\nLangkah 4: Jebakan pilihan B: daun pisang tidak selalu gratis — butuh pengumpulan, pencucian, dan pengolahan. Dan ketersediaannya bisa tidak konsisten.\nLangkah 5: Jebakan pilihan C dan D: keduanya membuat generalisasi yang terlalu mutlak (\"tidak pernah\" dan \"selalu\") — dalam ekonomi, generalisasi mutlak hampir selalu salah.\n\n**Materi terkait:**\n- **Ekonomi berkelanjutan** (*sustainable economics*) mempertimbangkan dampak lingkungan dan sosial dalam keputusan bisnis, bukan hanya keuntungan jangka pendek.\n- **Diferensiasi produk**: strategi bisnis di mana produk dibedakan dari kompetitor berdasarkan kualitas, desain, atau nilai unik (bukan hanya harga). Konsumen yang memilih berdasarkan nilai (bukan harga) cenderung lebih loyal.\n- **Regulasi lingkungan**: Indonesia sudah menerapkan pembatasan plastik sekali pakai di beberapa kota besar. Tren global menunjukkan regulasi akan semakin ketat — produsen yang proaktif akan lebih siap.\n- **Eksternalitas negatif**: biaya kerusakan lingkungan dari plastik (pencemaran laut, tanah) tidak ditanggung produsen atau konsumen langsung, tetapi oleh masyarakat luas. Regulasi adalah cara pemerintah memperbaiki ketidakseimbangan ini.\n\nInsight kunci: Keputusan bisnis berkelanjutan bukan hanya tentang \"biaya sekarang vs. keuntungan sekarang\" — tetapi juga tentang **posisi bisnis di masa depan**. Produsen yang beradaptasi lebih awal pada tren ramah lingkungan sering kali menjadi pemimpin pasar, bukan pecundang.\nKenapa opsi lain salah: B tidak akurat karena daun pisang juga punya biaya; C terlalu mutlak — ada banyak konsumen Indonesia yang sudah peduli lingkungan; D terlalu mutlak — tidak semua konsumen akan berpindah hanya karena harga naik 15%.\nJawaban akhir: **Diferensiasi dan antisipasi regulasi memberi argumen kuat untuk beralih ke kemasan ramah lingkungan**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Ekonomi",
+    "subtopic": "Permintaan & penawaran",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel data harga cabai merah di Pasar Segar dalam tiga kondisi berbeda:\n\n| Kondisi | Stok cabai di pasar (ton) | Permintaan cabai (ton) | Harga per kg |\n|---|---|---|---|\n| Panen raya | 500 | 200 | Rp8.000 |\n| Cuaca normal | 200 | 200 | Rp25.000 |\n| Gagal panen | 80 | 200 | Rp60.000 |\n\nBerdasarkan data tabel, pernyataan yang **paling tepat** menjelaskan pola perubahan harga cabai adalah ...",
+    "options": [
+      "Harga cabai berubah karena permintaan cabai berubah di setiap kondisi cuaca",
+      "Harga cabai berubah terutama karena stok (penawaran) berubah drastis sementara permintaan tetap 200 ton — semakin sedikit stok, semakin tinggi harga",
+      "Harga cabai diatur langsung oleh pemerintah sesuai kondisi cuaca setiap musim",
+      "Saat gagal panen, harga naik karena kualitas cabai yang tersisa jauh lebih baik dari biasanya, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Baca kolom **permintaan** terlebih dahulu: 200, 200, 200 — **tidak berubah** di ketiga kondisi. Ini adalah informasi sangat penting.\nLangkah 2: Baca kolom **stok (penawaran)**: 500, 200, 80 — **berubah drastis** di setiap kondisi. Panen raya: stok melimpah (500 ton). Gagal panen: stok sangat sedikit (80 ton).\nLangkah 3: Baca kolom **harga**: Rp8.000, Rp25.000, Rp60.000 — naik seiring berkurangnya stok.\nLangkah 4: Hubungkan pola. Karena permintaan konstan (200 ton) tetapi stok berubah:\n- Panen raya: stok 500 ton vs. permintaan 200 ton → **kelebihan penawaran** → pedagang bersaing menurunkan harga → Rp8.000/kg\n- Gagal panen: stok 80 ton vs. permintaan 200 ton → **kekurangan penawaran** → konsumen bersaing mendapat barang → harga naik ke Rp60.000/kg (7,5× lebih mahal)\nLangkah 5: Kesimpulan: perubahan harga disebabkan perubahan **penawaran (stok)**, bukan permintaan. Jebakan pilihan A: permintaan justru tetap sama di ketiga kondisi — data langsung membantah pilihan A.\n\n**Materi terkait:**\n- **Hukum penawaran**: ketika penawaran (stok) meningkat (panen raya), harga turun. Ketika penawaran berkurang (gagal panen), harga naik — asalkan permintaan tetap.\n- **Hukum permintaan**: ketika harga naik, jumlah yang diminta biasanya turun. Namun pada tabel ini, permintaan diasumsikan konstan untuk mengisolasi efek perubahan penawaran.\n- **Volatilitas harga pangan**: harga cabai di Indonesia sangat fluktuatif karena: (1) produksi sangat bergantung cuaca, (2) tidak ada penyimpanan jangka panjang yang efisien, (3) distribusi tidak merata. Ini menyebabkan harga bisa naik ratusan persen saat gagal panen.\n- **Kebijakan stabilisasi harga**: untuk mengatasi masalah ini, pemerintah bisa: (1) menjaga stok cadangan (buffer stock), (2) mengatur distribusi, (3) mendorong teknologi pertanian yang lebih tahan cuaca.\n\nInsight kunci: Membaca tabel data sosial-ekonomi membutuhkan ketrampilan melihat **perubahan dan konstanta**. Di sini, kunci adalah bahwa permintaan *tidak berubah* — jadi perubahan harga harus dijelaskan oleh faktor lain, yaitu perubahan penawaran. Ini latihan berpikir analitis yang sangat berguna.\nKenapa opsi lain salah: A langsung terbantah oleh data (permintaan tetap 200 ton di semua kondisi); C tidak ada dalam informasi tabel; D tidak ada dasar bahwa kualitas cabai lebih baik saat gagal panen — justru sebaliknya.\nJawaban akhir: **Stok (penawaran) berubah drastis sementara permintaan tetap — itulah yang menggerakkan harga**.",
+    "content": {
+      "question": "Perhatikan tabel data harga cabai merah di Pasar Segar dalam tiga kondisi berbeda:\n\n| Kondisi | Stok cabai di pasar (ton) | Permintaan cabai (ton) | Harga per kg |\n|---|---|---|---|\n| Panen raya | 500 | 200 | Rp8.000 |\n| Cuaca normal | 200 | 200 | Rp25.000 |\n| Gagal panen | 80 | 200 | Rp60.000 |\n\nBerdasarkan data tabel, pernyataan yang **paling tepat** menjelaskan pola perubahan harga cabai adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel data harga cabai merah di Pasar Segar dalam tiga kondisi berbeda:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Stok cabai di pasar (ton)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Permintaan cabai (ton)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Harga per kg"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Panen raya"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "500"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "200"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp8.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Cuaca normal"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "200"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "200"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp25.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Gagal panen"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "80"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "200"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp60.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data tabel, pernyataan yang paling tepat menjelaskan pola perubahan harga cabai adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Harga cabai berubah karena permintaan cabai berubah di setiap kondisi cuaca",
+        "Harga cabai berubah terutama karena stok (penawaran) berubah drastis sementara permintaan tetap 200 ton — semakin sedikit stok, semakin tinggi harga",
+        "Harga cabai diatur langsung oleh pemerintah sesuai kondisi cuaca setiap musim",
+        "Saat gagal panen, harga naik karena kualitas cabai yang tersisa jauh lebih baik dari biasanya, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Harga cabai berubah karena permintaan cabai berubah di setiap kondisi cuaca"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Harga cabai berubah terutama karena stok (penawaran) berubah drastis sementara permintaan tetap 200 ton — semakin sedikit stok, semakin tinggi harga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Harga cabai diatur langsung oleh pemerintah sesuai kondisi cuaca setiap musim"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Saat gagal panen, harga naik karena kualitas cabai yang tersisa jauh lebih baik dari biasanya, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca kolom **permintaan** terlebih dahulu: 200, 200, 200 — **tidak berubah** di ketiga kondisi. Ini adalah informasi sangat penting.\nLangkah 2: Baca kolom **stok (penawaran)**: 500, 200, 80 — **berubah drastis** di setiap kondisi. Panen raya: stok melimpah (500 ton). Gagal panen: stok sangat sedikit (80 ton).\nLangkah 3: Baca kolom **harga**: Rp8.000, Rp25.000, Rp60.000 — naik seiring berkurangnya stok.\nLangkah 4: Hubungkan pola. Karena permintaan konstan (200 ton) tetapi stok berubah:\n- Panen raya: stok 500 ton vs. permintaan 200 ton → **kelebihan penawaran** → pedagang bersaing menurunkan harga → Rp8.000/kg\n- Gagal panen: stok 80 ton vs. permintaan 200 ton → **kekurangan penawaran** → konsumen bersaing mendapat barang → harga naik ke Rp60.000/kg (7,5× lebih mahal)\nLangkah 5: Kesimpulan: perubahan harga disebabkan perubahan **penawaran (stok)**, bukan permintaan. Jebakan pilihan A: permintaan justru tetap sama di ketiga kondisi — data langsung membantah pilihan A.\n\n**Materi terkait:**\n- **Hukum penawaran**: ketika penawaran (stok) meningkat (panen raya), harga turun. Ketika penawaran berkurang (gagal panen), harga naik — asalkan permintaan tetap.\n- **Hukum permintaan**: ketika harga naik, jumlah yang diminta biasanya turun. Namun pada tabel ini, permintaan diasumsikan konstan untuk mengisolasi efek perubahan penawaran.\n- **Volatilitas harga pangan**: harga cabai di Indonesia sangat fluktuatif karena: (1) produksi sangat bergantung cuaca, (2) tidak ada penyimpanan jangka panjang yang efisien, (3) distribusi tidak merata. Ini menyebabkan harga bisa naik ratusan persen saat gagal panen.\n- **Kebijakan stabilisasi harga**: untuk mengatasi masalah ini, pemerintah bisa: (1) menjaga stok cadangan (buffer stock), (2) mengatur distribusi, (3) mendorong teknologi pertanian yang lebih tahan cuaca.\n\nInsight kunci: Membaca tabel data sosial-ekonomi membutuhkan ketrampilan melihat **perubahan dan konstanta**. Di sini, kunci adalah bahwa permintaan *tidak berubah* — jadi perubahan harga harus dijelaskan oleh faktor lain, yaitu perubahan penawaran. Ini latihan berpikir analitis yang sangat berguna.\nKenapa opsi lain salah: A langsung terbantah oleh data (permintaan tetap 200 ton di semua kondisi); C tidak ada dalam informasi tabel; D tidak ada dasar bahwa kualitas cabai lebih baik saat gagal panen — justru sebaliknya.\nJawaban akhir: **Stok (penawaran) berubah drastis sementara permintaan tetap — itulah yang menggerakkan harga**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca kolom permintaan terlebih dahulu: 200, 200, 200 — tidak berubah di ketiga kondisi. Ini adalah informasi sangat penting.\nLangkah 2: Baca kolom stok (penawaran): 500, 200, 80 — berubah drastis di setiap kondisi. Panen raya: stok melimpah (500 ton). Gagal panen: stok sangat sedikit (80 ton).\nLangkah 3: Baca kolom harga: Rp8.000, Rp25.000, Rp60.000 — naik seiring berkurangnya stok.\nLangkah 4: Hubungkan pola. Karena permintaan konstan (200 ton) tetapi stok berubah:\n- Panen raya: stok 500 ton vs. permintaan 200 ton → kelebihan penawaran → pedagang bersaing menurunkan harga → Rp8.000/kg\n- Gagal panen: stok 80 ton vs. permintaan 200 ton → kekurangan penawaran → konsumen bersaing mendapat barang → harga naik ke Rp60.000/kg (7,5× lebih mahal)\nLangkah 5: Kesimpulan: perubahan harga disebabkan perubahan penawaran (stok), bukan permintaan. Jebakan pilihan A: permintaan justru tetap sama di ketiga kondisi — data langsung membantah pilihan A."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Hukum penawaran: ketika penawaran (stok) meningkat (panen raya), harga turun. Ketika penawaran berkurang (gagal panen), harga naik — asalkan permintaan tetap.\n- Hukum permintaan: ketika harga naik, jumlah yang diminta biasanya turun. Namun pada tabel ini, permintaan diasumsikan konstan untuk mengisolasi efek perubahan penawaran.\n- Volatilitas harga pangan: harga cabai di Indonesia sangat fluktuatif karena: (1) produksi sangat bergantung cuaca, (2) tidak ada penyimpanan jangka panjang yang efisien, (3) distribusi tidak merata. Ini menyebabkan harga bisa naik ratusan persen saat gagal panen.\n- Kebijakan stabilisasi harga: untuk mengatasi masalah ini, pemerintah bisa: (1) menjaga stok cadangan (buffer stock), (2) mengatur distribusi, (3) mendorong teknologi pertanian yang lebih tahan cuaca."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Membaca tabel data sosial-ekonomi membutuhkan ketrampilan melihat perubahan dan konstanta. Di sini, kunci adalah bahwa permintaan tidak berubah — jadi perubahan harga harus dijelaskan oleh faktor lain, yaitu perubahan penawaran. Ini latihan berpikir analitis yang sangat berguna.\nKenapa opsi lain salah: A langsung terbantah oleh data (permintaan tetap 200 ton di semua kondisi); C tidak ada dalam informasi tabel; D tidak ada dasar bahwa kualitas cabai lebih baik saat gagal panen — justru sebaliknya.\nJawaban akhir: Stok (penawaran) berubah drastis sementara permintaan tetap — itulah yang menggerakkan harga."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Pak Hendra memiliki tabungan Rp500.000. Ia harus memilih antara dua hal: (1) membeli bibit sayuran unggul untuk kebunnya, yang diperkirakan menghasilkan keuntungan Rp800.000 setelah tiga bulan; atau (2) menyimpan uang sebagai dana darurat keluarga. Tiba-tiba, anaknya jatuh sakit dan harus ke puskesmas. Pak Hendra memutuskan menggunakan uang itu untuk biaya kesehatan anaknya.\"*\n\nKeputusan Pak Hendra mendahulukan kesehatan anaknya daripada membeli bibit paling tepat menggambarkan prinsip ekonomi yang disebut ...",
+    "options": [
+      "Keserakahan, karena Pak Hendra tidak mau mengambil risiko investasi bibit yang menjanjikan, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan",
+      "Skala prioritas — mendahulukan kebutuhan yang paling mendesak (kesehatan) daripada keuntungan yang menggiurkan namun bisa ditunda",
+      "Pemborosan, karena Pak Hendra melewatkan peluang keuntungan Rp300.000 dari bibit sayuran",
+      "Koperasi, karena Pak Hendra berbagi uangnya untuk kepentingan anggota keluarga bersama"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi pilihan yang dihadapi Pak Hendra: membeli bibit (investasi, keuntungan ekonomi jangka menengah) vs. biaya kesehatan anak (kebutuhan mendesak saat ini).\nLangkah 2: Mengapa Pak Hendra memilih kesehatan? Karena kesehatan anaknya adalah kebutuhan yang **tidak bisa ditunda** — semakin terlambat ditangani, dampaknya bisa lebih buruk (baik secara kesehatan maupun biaya). Sedangkan pembelian bibit bisa ditunda ke bulan berikutnya.\nLangkah 3: Prinsip yang diterapkan adalah **skala prioritas** — dalam ilmu ekonomi, setiap individu dan keluarga harus membuat urutan prioritas pengeluaran berdasarkan tingkat kepentingan dan kemendesakan:\n- **Paling didahulukan**: kebutuhan mendesak yang tidak bisa ditunda (kesehatan, keselamatan)\n- **Berikutnya**: kebutuhan pokok harian (makan, tempat tinggal)\n- **Terakhir**: investasi atau keinginan (yang bisa ditunda)\nLangkah 4: Apakah Pak Hendra \"merugi\"? Secara perhitungan uang semata, ia kehilangan peluang keuntungan Rp300.000. Namun dalam skala prioritas, menjaga kesehatan anak jauh lebih bernilai daripada keuntungan finansial jangka pendek.\nLangkah 5: Jebakan pilihan B: \"pemborosan\" adalah pengeluaran yang tidak perlu atau berlebihan. Biaya kesehatan anak yang sakit jelas bukan pemborosan.\n\n**Materi terkait:**\n- **Skala prioritas** adalah urutan kebutuhan berdasarkan tingkat kepentingan, kebutuhan, dan kemampuan. Ini adalah keterampilan ekonomi dasar yang digunakan setiap hari — dari memilih mana yang dibeli duluan hingga menentukan kebijakan anggaran negara.\n- **Biaya peluang (opportunity cost)**: setiap pilihan selalu ada yang dikorbankan. Pak Hendra memilih kesehatan anak (pilihan) dan mengorbankan keuntungan bibit (biaya peluang). Ini bukan pemborosan — ini keputusan rasional berdasarkan prioritas.\n- **Kebutuhan mendesak vs. kebutuhan penting**: kebutuhan penting tapi tidak mendesak (investasi bibit) bisa ditunda. Kebutuhan mendesak (anak sakit) tidak bisa ditunda.\n- Prinsip skala prioritas digunakan juga dalam **Anggaran Pendapatan dan Belanja Negara (APBN)** — pemerintah harus memutuskan mana yang didanai lebih dulu dari pendapatan yang terbatas.\n\nInsight kunci: Kemampuan membuat **skala prioritas** adalah inti dari manajemen keuangan yang bijak — baik untuk individu, keluarga, maupun negara. Mendahulukan yang mendesak bukan tanda lemah, melainkan kecerdasan ekonomi.\nKenapa opsi lain salah: A salah karena keserakahan berarti mengambil lebih dari yang dibutuhkan, sedangkan Pak Hendra justru mengutamakan kesehatan anak; B salah karena pemborosan adalah pengeluaran tidak perlu, bukan biaya kesehatan mendesak; C salah karena koperasi adalah lembaga usaha bersama, tidak ada kaitannya dengan keputusan pribadi ini.\nJawaban akhir: **Skala prioritas — mendahulukan kebutuhan mendesak daripada keuntungan yang bisa ditunda**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sosiologi",
+    "subtopic": "Interaksi sosial",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Setiap Minggu pagi, warga Kampung Berseri berkumpul untuk melakukan kerja bakti — membersihkan selokan, memperbaiki jalan setapak, dan mengecat pagar. Mereka melakukannya secara sukarela, bergantian, dan tidak mendapat upah. Semua warga — tua muda, kaya miskin — ikut serta bersama-sama.\n\nKegiatan kerja bakti warga Kampung Berseri paling tepat menggambarkan bentuk interaksi sosial yang disebut ...",
+    "options": [
+      "Konflik sosial, karena warga dipaksa bekerja untuk kepentingan orang lain tanpa bayaran",
+      "Mobilitas sosial, karena warga yang rajin kerja bakti akan naik kelas sosialnya di masyarakat",
+      "Norma tertulis yang ditetapkan secara resmi oleh ketua RT dan ada sanksi hukum bagi yang tidak ikut",
+      "Gotong royong — kerja sama sukarela untuk kepentingan bersama tanpa mengharapkan imbalan pribadi"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Perhatikan ciri-ciri kegiatan kerja bakti dalam cerita: dilakukan bersama, sukarela (tidak dipaksa), bergantian, tidak ada upah, untuk kepentingan bersama (jalan dan selokan dipakai semua warga).\nLangkah 2: Ini adalah contoh klasik **gotong royong** — nilai budaya asli Indonesia yang menekankan kerja sama sukarela demi kepentingan bersama, tanpa mengutamakan keuntungan pribadi.\nLangkah 3: Gotong royong termasuk bentuk **interaksi sosial asosiatif** — membangun hubungan yang saling menguntungkan dan memperkuat ikatan sosial antar anggota komunitas.\nLangkah 4: Evaluasi pilihan lain: B salah karena tidak ada paksaan — sifatnya sukarela. C salah karena gotong royong bukan tentang naik kelas sosial. D salah karena tidak disebutkan ada sanksi resmi atau peraturan tertulis.\n\n**Materi terkait:**\n- **Gotong royong** adalah salah satu nilai budaya tertua dan paling kuat dalam masyarakat Indonesia. Tercermin dalam sila ke-3 Pancasila (Persatuan Indonesia) dan sila ke-5 (Keadilan Sosial). Di pedesaan, gotong royong masih hidup kuat dalam berbagai bentuk (panen bersama, membangun rumah bersama, dsb.).\n- **Interaksi sosial asosiatif** mencakup: kerja sama (*cooperation*), akomodasi, asimilasi, dan integrasi. Gotong royong adalah bentuk **kerja sama** yang khas Indonesia.\n- **Manfaat gotong royong**: mempercepat penyelesaian pekerjaan, mempererat hubungan sosial, mengurangi biaya (tidak perlu bayar pekerja), dan membangun rasa kepemilikan bersama terhadap lingkungan.\n- Gotong royong bisa terancam oleh modernisasi: urbanisasi dan kesibukan individu membuat warga semakin sulit meluangkan waktu untuk kegiatan komunal.\n\nInsight kunci: Gotong royong bukan hanya tradisi — ia adalah **modal sosial** (*social capital*) yang membuat komunitas lebih kuat dan tangguh menghadapi masalah bersama. Komunitas yang punya gotong royong tinggi biasanya lebih cepat pulih dari bencana atau kesulitan.\nJawaban akhir: **Gotong royong — kerja sama sukarela untuk kepentingan bersama**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Lembaga sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Keluarga Pak Suryo menjalani kehidupan yang melibatkan berbagai lembaga sosial: anak-anaknya bersekolah setiap hari (lembaga pendidikan), keluarga beribadah dan mengikuti pengajian (lembaga agama), Pak Suryo bekerja di perusahaan (lembaga ekonomi), dan seluruh keluarga tunduk pada hukum negara (lembaga politik/hukum). Namun, nilai-nilai dasar seperti kejujuran, rasa hormat, dan tanggung jawab pertama kali diajarkan oleh Ibu kepada anak-anak sejak mereka masih balita — jauh sebelum masuk sekolah.\"*\n\nLembaga sosial yang paling berperan dalam **membentuk nilai dan karakter dasar** anak-anak Pak Suryo sejak dini adalah ...",
+    "options": [
+      "Lembaga keluarga dan lembaga pendidikan, karena keduanya paling langsung dan terus-menerus membentuk nilai, kebiasaan, dan karakter anak sejak usia dini",
+      "Lembaga ekonomi (perusahaan), karena kondisi keuangan keluarga yang baik menentukan karakter positif anak",
+      "Lembaga hukum (pemerintah), karena hukum mendefinisikan apa yang boleh dan tidak boleh dilakukan oleh semua warga",
+      "Hanya lembaga agama, karena agama adalah satu-satunya sumber nilai moral yang diakui secara universal oleh semua orang, karena konflik sosial dianggap selesai sendiri tanpa komunikasi, aturan, atau pihak penengah"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Perhatikan kalimat kunci dalam teks: nilai dasar seperti kejujuran, rasa hormat, dan tanggung jawab diajarkan oleh ibu *sejak masih balita* — jauh sebelum masuk sekolah. Ini menunjukkan lembaga **keluarga** adalah yang pertama dan paling dasar dalam pembentukan karakter.\nLangkah 2: Setelah masuk sekolah, **lembaga pendidikan** mengambil peran besar: mengajarkan nilai-nilai secara terstruktur (mata pelajaran PPKN, agama, dsb.), membangun kebiasaan (disiplin, kerja keras), dan memberikan lingkungan sosial yang lebih luas.\nLangkah 3: Keduanya (keluarga + pendidikan) bekerja bersama dan berlangsung selama masa tumbuh kembang anak yang paling kritis — usia 0-12 tahun. Ini jauh lebih langsung dan berkelanjutan dibanding lembaga lain.\nLangkah 4: Evaluasi pilihan D: lembaga agama memang mengajarkan nilai moral, tetapi teks tidak menyebutkan bahwa agama adalah satu-satunya sumber nilai. Selain itu, nilai-nilai keluarga (diajarkan Ibu) tidak selalu bersumber dari agama saja.\nLangkah 5: Jebakan pilihan A: kondisi ekonomi memengaruhi kenyamanan hidup anak, tetapi bukan yang langsung membentuk nilai karakter. Anak dari keluarga kaya tidak otomatis punya karakter baik jika keluarganya tidak mengajarkan nilai dengan benar.\n\n**Materi terkait:**\n- **Lembaga sosial** adalah sistem aturan, norma, dan peran yang terorganisasi untuk memenuhi kebutuhan dasar masyarakat. Lima lembaga utama: keluarga, pendidikan, agama, ekonomi, dan politik/hukum.\n- **Lembaga keluarga** adalah yang pertama dan paling mendasar: sosialisasi nilai dimulai di sini. Dalam ilmu sosiologi, proses ini disebut *sosialisasi primer* — pembentukan identitas dan nilai dasar seseorang.\n- **Lembaga pendidikan** menjalankan *sosialisasi sekunder* — memperluas dan melengkapi nilai yang diterima dari keluarga, sekaligus mempersiapkan individu untuk kehidupan bermasyarakat yang lebih luas.\n- Kerjasama antara lembaga keluarga dan pendidikan adalah kunci keberhasilan pembentukan karakter anak: sekolah akan efektif jika nilai di rumah dan di sekolah konsisten dan saling mendukung.\n\nInsight kunci: Tidak ada lembaga tunggal yang cukup untuk membentuk karakter. Namun, **keluarga adalah fondasi pertama** yang paling menentukan — nilai yang ditanamkan di rumah sejak dini menjadi \"akar\" yang memengaruhi bagaimana seseorang merespons semua pengalaman selanjutnya.\nKenapa opsi lain salah: A terlalu berlebihan dalam mengaitkan ekonomi dengan karakter; B lembaga hukum mengatur perilaku melalui sanksi, bukan membentuk nilai dari dalam; D mengabaikan peran keluarga yang terbukti mendahului semua lembaga lain.\nJawaban akhir: **Lembaga keluarga (pembentukan awal sejak balita) dan lembaga pendidikan (pembentukan terstruktur dan berkelanjutan)**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Norma & nilai sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Dimas sering melihat teman-temannya meneruskan pesan di grup WhatsApp kelas tanpa memeriksa kebenarannya terlebih dahulu. Suatu hari, seseorang meneruskan informasi hoaks bahwa jadwal ujian berubah mendadak. Banyak teman yang panik dan salah mempersiapkan diri. Akibatnya, nilai ujian beberapa teman turun karena salah mempersiapkan materi yang dipelajari.\"*\n\nNilai sosial yang seharusnya diterapkan oleh Dimas dan teman-temannya dalam menggunakan media sosial adalah ...",
+    "options": [
+      "Tidak perlu memverifikasi informasi selama yang meneruskan adalah teman dekat yang sudah dipercaya",
+      "Meneruskan informasi sebanyak-banyaknya agar semua orang segera mengetahui berita terbaru, meski belum pasti kebenarannya, karena tindakan individu dianggap tidak berkaitan dengan tanggung jawab sosial di lingkungan bersama",
+      "Memverifikasi informasi sebelum meneruskan, karena menyebarkan hoaks melanggar nilai kejujuran dan tanggung jawab sosial — serta merugikan orang banyak",
+      "Keluar dari semua grup WhatsApp agar tidak terlibat dalam penyebaran informasi apapun dan tidak pernah bertanggung jawab"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi masalah dari skenario. Hoaks (informasi palsu) tentang jadwal ujian menyebar di grup WA kelas → banyak siswa panik dan nilai turun. Penyebabnya: informasi diteruskan tanpa verifikasi.\nLangkah 2: Apa nilai sosial yang dilanggar? Menyebarkan informasi yang belum diverifikasi melanggar:\n- **Nilai kejujuran**: informasi yang disebarkan ternyata tidak benar.\n- **Nilai tanggung jawab sosial**: penyebar tidak memikirkan dampak pesan pada orang lain.\n- **Nilai kepedulian**: tidak peduli akibat yang ditimbulkan oleh informasi yang salah.\nLangkah 3: Apa nilai yang seharusnya diterapkan? Sebelum meneruskan informasi penting (apalagi yang berdampak besar seperti jadwal ujian), seseorang seharusnya:\n- Cek ke sumber yang terpercaya (guru, website resmi, atau teman lain).\n- Tanya kepada yang lebih tahu.\n- Jika tidak yakin, lebih baik tidak meneruskan (*'when in doubt, don't share'*).\nLangkah 4: Jebakan pilihan A: kepercayaan kepada pengirim bukan jaminan kebenaran informasi. Teman pun bisa keliru meneruskan hoaks.\nLangkah 5: Jebakan pilihan D: menghindar dari tanggung jawab bukan solusi. Tidak ikut grup bukan berarti tidak perlu bertanggung jawab atas informasi yang kita teruskan di mana pun.\n\n**Materi terkait:**\n- **Hoaks (informasi palsu)** adalah informasi yang salah atau menyesatkan yang disebarkan seolah-olah benar. Hoaks bisa menyebabkan kepanikan, diskriminasi, dan kerugian nyata.\n- **Literasi digital**: kemampuan menggunakan teknologi secara cerdas dan bertanggung jawab, termasuk kemampuan mengevaluasi kebenaran informasi sebelum menyebarkannya.\n- **Cek fakta sederhana**: (1) periksa sumber aslinya, (2) cari informasi serupa di sumber lain yang terpercaya, (3) tanya kepada yang berwenang (guru, orang tua, instansi resmi).\n- **Tanggung jawab digital**: di era media sosial, setiap orang adalah *penyebar informasi potensial*. Dengan hak menyebarkan informasi, ada kewajiban untuk memastikan informasi itu benar.\n\nInsight kunci: **\"Share before you verify\"** adalah pola berbahaya di era media sosial. Satu pesan hoaks yang diteruskan bisa menjangkau ribuan orang dalam hitungan menit. Nilai *verifikasi sebelum menyebarkan* bukan hanya untuk menjaga diri sendiri, tetapi bentuk tanggung jawab kepada komunitas.\nKenapa opsi lain salah: A salah karena kepercayaan personal tidak menjamin kebenaran faktual; C adalah perilaku yang justru memperparah penyebaran hoaks; D menghindari masalah tapi bukan solusi yang membangun karakter bertanggung jawab.\nJawaban akhir: **Memverifikasi informasi sebelum meneruskan — menerapkan nilai kejujuran dan tanggung jawab sosial**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sosiologi",
+    "subtopic": "Mobilitas sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan riwayat tiga orang warga:\n\n- **Pak Arman:** anak seorang guru SD, dan setelah lulus kuliah ia menjadi guru SD di desa yang sama dengan ayahnya.\n- **Bu Dewi:** lahir dari keluarga petani sederhana, berhasil menyelesaikan sarjana akuntansi berkat beasiswa, dan kini bekerja sebagai akuntan di perusahaan kota besar dengan penghasilan tinggi.\n- **Pak Fandi:** dulu seorang pedagang sukses dengan penghasilan besar, kemudian bangkrut akibat salah investasi, dan kini bekerja sebagai buruh harian dengan penghasilan jauh lebih rendah.\n\nJenis mobilitas sosial yang dialami masing-masing orang secara berurutan (Pak Arman, Bu Dewi, Pak Fandi) adalah ...",
+    "options": [
+      "Pak Arman (tidak ada mobilitas sosial bermakna), Bu Dewi (vertikal ke atas), Pak Fandi (vertikal ke bawah)",
+      "Pak Arman (vertikal ke atas), Bu Dewi (horizontal), Pak Fandi (vertikal ke bawah)",
+      "Pak Arman (horizontal), Bu Dewi (vertikal ke atas), Pak Fandi (horizontal)",
+      "Pak Arman (tidak ada mobilitas), Bu Dewi (horizontal), Pak Fandi (vertikal ke bawah), karena tindakan individu dianggap tidak berkaitan dengan tanggung jawab sosial di lingkungan bersama"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Pahami jenis-jenis mobilitas sosial:\n- **Vertikal ke atas**: status sosial naik (misal: dari buruh menjadi manajer, dari petani menjadi dokter)\n- **Vertikal ke bawah**: status sosial turun (misal: dari pengusaha sukses menjadi buruh)\n- **Horizontal**: berpindah posisi dalam tingkat yang sama (misal: dokter pindah dari kota A ke kota B, profesi tidak berubah)\n- **Tidak ada mobilitas**: tetap di lapisan sosial yang sama dengan orang tua/sebelumnya\nLangkah 2: Analisis **Pak Arman**. Ayahnya guru SD, Pak Arman juga menjadi guru SD di desa yang sama. Profesi sama, tempat sama, level sosial sama → **tidak ada mobilitas sosial yang bermakna** (atau disebut *intragenerational stagnation* / reproduksi sosial).\nLangkah 3: Analisis **Bu Dewi**. Lahir dari keluarga petani sederhana (kelas bawah-menengah) → menjadi akuntan di kota besar dengan penghasilan tinggi (kelas menengah-atas). Ada perubahan status yang signifikan ke atas → **mobilitas vertikal ke atas**.\nLangkah 4: Analisis **Pak Fandi**. Dulu pedagang sukses (kelas menengah-atas) → bangkrut → kini buruh harian (kelas bawah). Ada perubahan status yang signifikan ke bawah → **mobilitas vertikal ke bawah**.\nLangkah 5: Jebakan pilihan A: Pak Arman tidak mengalami mobilitas *vertikal ke atas* — ia hanya mempertahankan posisi yang sama dengan ayahnya, bukan meningkat.\nLangkah 6: Jebakan pilihan B: Bu Dewi mengalami mobilitas *vertikal ke atas*, bukan horizontal. Horizontal berarti berpindah tanpa naik atau turun status.\n\n**Materi terkait:**\n- **Mobilitas sosial** adalah perpindahan individu atau kelompok dari satu posisi sosial ke posisi lain dalam struktur masyarakat. Bisa terjadi dalam satu generasi (*intragenerational*) atau lintas generasi (*intergenerational*).\n- **Faktor pendorong mobilitas vertikal ke atas**: pendidikan, kerja keras, peluang, koneksi sosial, keterampilan. Bu Dewi menggunakan beasiswa (akses pendidikan) sebagai \"lift\" sosialnya.\n- **Faktor penyebab mobilitas vertikal ke bawah**: kegagalan bisnis, krisis ekonomi, penyakit, masalah hukum, kebiasaan buruk. Pak Fandi terkena akibat salah investasi.\n- **Reproduksi sosial** (kasus Pak Arman): ketika anak tumbuh di lapisan sosial yang sama dengan orang tuanya. Ini bukan baik atau buruk — tergantung konteks. Tapi ini menunjukkan bahwa mobilitas tidak selalu terjadi hanya karena ada pendidikan.\n\nInsight kunci: Tiga kasus ini menggambarkan bahwa **mobilitas sosial tidak satu arah**. Ada yang naik (Bu Dewi), ada yang turun (Pak Fandi), dan ada yang tidak bergerak (Pak Arman). Yang paling berbahaya disalahpahami adalah Pak Arman — banyak yang mengira \"ikuti jejak orang tua\" = mobilitas ke atas, padahal itu reproduksi sosial (tidak ada perubahan).\nKenapa opsi lain salah: A salah karena Pak Arman tidak naik — ia tetap di level yang sama; B salah karena Bu Dewi bukan horizontal (ia naik secara signifikan); C salah karena Bu Dewi horizontal tidak tepat (ia naik dari petani ke akuntan).\nJawaban akhir: **Pak Arman = tidak ada mobilitas; Bu Dewi = vertikal ke atas; Pak Fandi = vertikal ke bawah**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Kependudukan",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel data dua pulau di Indonesia:\n\n| Pulau | Luas wilayah (km²) | Jumlah penduduk |\n|---|---|---|\n| Jawa | 130.000 | 152.000.000 jiwa |\n| Kalimantan | 540.000 | 18.000.000 jiwa |\n\n**Kepadatan penduduk** dihitung dengan rumus: jumlah penduduk ÷ luas wilayah (jiwa/km²).\n\nBerdasarkan data, pulau yang memiliki kepadatan penduduk lebih tinggi dan perkiraannya adalah ...",
+    "options": [
+      "Kalimantan, karena wilayahnya jauh lebih luas sehingga lebih banyak orang yang bisa ditampung, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+      "Jawa, dengan kepadatan sekitar 1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya sekitar 33 jiwa/km²",
+      "Keduanya sama padatnya karena jumlah penduduk berbanding lurus dengan luas wilayahnya",
+      "Jawa, dengan kepadatan sekitar 169 jiwa/km² yang sedikit lebih tinggi dari Kalimantan"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Gunakan rumus kepadatan penduduk yang diberikan:\nKepadatan = Jumlah penduduk ÷ Luas wilayah\nLangkah 2: Hitung kepadatan penduduk Jawa:\n$\\frac{152.000.000}{130.000} \\approx 1.169$ jiwa/km²\nLangkah 3: Hitung kepadatan penduduk Kalimantan:\n$\\frac{18.000.000}{540.000} \\approx 33$ jiwa/km²\nLangkah 4: Bandingkan: Jawa 1.169 jiwa/km² vs. Kalimantan 33 jiwa/km². Jawa **35× lebih padat** dari Kalimantan, meski Kalimantan 4× lebih luas dari Jawa.\nLangkah 5: Jebakan pilihan B: luas wilayah besar tidak berarti kepadatan tinggi — yang menentukan kepadatan adalah **rasio** antara penduduk dan luas, bukan angka absolut masing-masing.\n\n**Materi terkait:**\n- **Kepadatan penduduk** (population density) adalah rata-rata jumlah orang per satuan luas wilayah. Satuan: jiwa/km² atau orang/km².\n- **Persebaran penduduk Indonesia sangat tidak merata**: Pulau Jawa (7% luas Indonesia) dihuni oleh sekitar 56% penduduk Indonesia. Ini menyebabkan berbagai masalah: kemacetan, mahalnya lahan, dan tekanan pada infrastruktur di Jawa; sementara Kalimantan dan Papua masih relatif sangat jarang penduduknya.\n- **Program transmigrasi** adalah kebijakan pemerintah yang memindahkan penduduk dari daerah padat (Jawa, Bali) ke daerah jarang penduduk (Sumatra, Kalimantan, Papua) untuk meratakan persebaran penduduk dan membuka lahan baru.\n- **Dampak kepadatan tinggi**: tekanan pada lahan, kemacetan, polusi, mahalnya biaya hidup. Sebaliknya, wilayah jarang penduduk menghadapi kekurangan tenaga kerja dan lambatnya pembangunan.\n\nInsight kunci: **Kepadatan bukan soal angka absolut, tapi rasio**. Kalimantan 4× lebih luas dari Jawa, tetapi jumlah penduduknya hanya 1/8-nya — sehingga kepadatannya jauh lebih rendah. Ini seperti membagi pizza: yang penting berapa potongan per orang, bukan seberapa besar pizzanya.\nJawaban akhir: **Jawa, dengan kepadatan ±1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya ±33 jiwa/km²**.",
+    "content": {
+      "question": "Perhatikan tabel data dua pulau di Indonesia:\n\n| Pulau | Luas wilayah (km²) | Jumlah penduduk |\n|---|---|---|\n| Jawa | 130.000 | 152.000.000 jiwa |\n| Kalimantan | 540.000 | 18.000.000 jiwa |\n\n**Kepadatan penduduk** dihitung dengan rumus: jumlah penduduk ÷ luas wilayah (jiwa/km²).\n\nBerdasarkan data, pulau yang memiliki kepadatan penduduk lebih tinggi dan perkiraannya adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel data dua pulau di Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pulau"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Luas wilayah (km²)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jumlah penduduk"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jawa"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "130.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "152.000.000 jiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kalimantan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "540.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "18.000.000 jiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kepadatan penduduk dihitung dengan rumus: jumlah penduduk ÷ luas wilayah (jiwa/km²)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data, pulau yang memiliki kepadatan penduduk lebih tinggi dan perkiraannya adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Kalimantan, karena wilayahnya jauh lebih luas sehingga lebih banyak orang yang bisa ditampung, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya",
+        "Jawa, dengan kepadatan sekitar 1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya sekitar 33 jiwa/km²",
+        "Keduanya sama padatnya karena jumlah penduduk berbanding lurus dengan luas wilayahnya",
+        "Jawa, dengan kepadatan sekitar 169 jiwa/km² yang sedikit lebih tinggi dari Kalimantan"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kalimantan, karena wilayahnya jauh lebih luas sehingga lebih banyak orang yang bisa ditampung, karena data dianggap dapat disimpulkan dari kesan umum tanpa menghitung atau membandingkan nilainya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jawa, dengan kepadatan sekitar 1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya sekitar 33 jiwa/km²"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Keduanya sama padatnya karena jumlah penduduk berbanding lurus dengan luas wilayahnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jawa, dengan kepadatan sekitar 169 jiwa/km² yang sedikit lebih tinggi dari Kalimantan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Gunakan rumus kepadatan penduduk yang diberikan:\nKepadatan = Jumlah penduduk ÷ Luas wilayah\nLangkah 2: Hitung kepadatan penduduk Jawa:\n$\\frac{152.000.000}{130.000} \\approx 1.169$ jiwa/km²\nLangkah 3: Hitung kepadatan penduduk Kalimantan:\n$\\frac{18.000.000}{540.000} \\approx 33$ jiwa/km²\nLangkah 4: Bandingkan: Jawa 1.169 jiwa/km² vs. Kalimantan 33 jiwa/km². Jawa **35× lebih padat** dari Kalimantan, meski Kalimantan 4× lebih luas dari Jawa.\nLangkah 5: Jebakan pilihan B: luas wilayah besar tidak berarti kepadatan tinggi — yang menentukan kepadatan adalah **rasio** antara penduduk dan luas, bukan angka absolut masing-masing.\n\n**Materi terkait:**\n- **Kepadatan penduduk** (population density) adalah rata-rata jumlah orang per satuan luas wilayah. Satuan: jiwa/km² atau orang/km².\n- **Persebaran penduduk Indonesia sangat tidak merata**: Pulau Jawa (7% luas Indonesia) dihuni oleh sekitar 56% penduduk Indonesia. Ini menyebabkan berbagai masalah: kemacetan, mahalnya lahan, dan tekanan pada infrastruktur di Jawa; sementara Kalimantan dan Papua masih relatif sangat jarang penduduknya.\n- **Program transmigrasi** adalah kebijakan pemerintah yang memindahkan penduduk dari daerah padat (Jawa, Bali) ke daerah jarang penduduk (Sumatra, Kalimantan, Papua) untuk meratakan persebaran penduduk dan membuka lahan baru.\n- **Dampak kepadatan tinggi**: tekanan pada lahan, kemacetan, polusi, mahalnya biaya hidup. Sebaliknya, wilayah jarang penduduk menghadapi kekurangan tenaga kerja dan lambatnya pembangunan.\n\nInsight kunci: **Kepadatan bukan soal angka absolut, tapi rasio**. Kalimantan 4× lebih luas dari Jawa, tetapi jumlah penduduknya hanya 1/8-nya — sehingga kepadatannya jauh lebih rendah. Ini seperti membagi pizza: yang penting berapa potongan per orang, bukan seberapa besar pizzanya.\nJawaban akhir: **Jawa, dengan kepadatan ±1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya ±33 jiwa/km²**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Gunakan rumus kepadatan penduduk yang diberikan:\nKepadatan = Jumlah penduduk ÷ Luas wilayah\nLangkah 2: Hitung kepadatan penduduk Jawa:\n$\\frac{152.000.000}{130.000} \\approx 1.169$ jiwa/km²\nLangkah 3: Hitung kepadatan penduduk Kalimantan:\n$\\frac{18.000.000}{540.000} \\approx 33$ jiwa/km²\nLangkah 4: Bandingkan: Jawa 1.169 jiwa/km² vs. Kalimantan 33 jiwa/km². Jawa 35× lebih padat dari Kalimantan, meski Kalimantan 4× lebih luas dari Jawa.\nLangkah 5: Jebakan pilihan B: luas wilayah besar tidak berarti kepadatan tinggi — yang menentukan kepadatan adalah rasio antara penduduk dan luas, bukan angka absolut masing-masing."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Kepadatan penduduk (population density) adalah rata-rata jumlah orang per satuan luas wilayah. Satuan: jiwa/km² atau orang/km².\n- Persebaran penduduk Indonesia sangat tidak merata: Pulau Jawa (7% luas Indonesia) dihuni oleh sekitar 56% penduduk Indonesia. Ini menyebabkan berbagai masalah: kemacetan, mahalnya lahan, dan tekanan pada infrastruktur di Jawa; sementara Kalimantan dan Papua masih relatif sangat jarang penduduknya.\n- Program transmigrasi adalah kebijakan pemerintah yang memindahkan penduduk dari daerah padat (Jawa, Bali) ke daerah jarang penduduk (Sumatra, Kalimantan, Papua) untuk meratakan persebaran penduduk dan membuka lahan baru.\n- Dampak kepadatan tinggi: tekanan pada lahan, kemacetan, polusi, mahalnya biaya hidup. Sebaliknya, wilayah jarang penduduk menghadapi kekurangan tenaga kerja dan lambatnya pembangunan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Kepadatan bukan soal angka absolut, tapi rasio. Kalimantan 4× lebih luas dari Jawa, tetapi jumlah penduduknya hanya 1/8-nya — sehingga kepadatannya jauh lebih rendah. Ini seperti membagi pizza: yang penting berapa potongan per orang, bukan seberapa besar pizzanya.\nJawaban akhir: Jawa, dengan kepadatan ±1.169 jiwa/km² — jauh lebih padat dari Kalimantan yang hanya ±33 jiwa/km²."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Grafik sosial ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel data tingkat pendidikan dan kondisi ekonomi:\n\n| Tingkat pendidikan | Penghasilan rata-rata (Rp/bulan) | Angka pengangguran (%) |\n|---|---|---|\n| Tidak tamat SD | 900.000 | 8 |\n| Lulus SD | 1.400.000 | 6 |\n| Lulus SMP | 2.000.000 | 5 |\n| Lulus SMA | 3.200.000 | 4 |\n| Lulus Perguruan Tinggi | 6.500.000 | 2 |\n\nBerdasarkan data tabel, kesimpulan yang **paling tepat** adalah ...",
+    "options": [
+      "Pendidikan tidak memengaruhi penghasilan karena banyak orang sukses tanpa ijazah tinggi",
+      "Semakin tinggi tingkat pendidikan, angka pengangguran semakin tinggi karena lulusan perguruan tinggi lebih pemilih pekerjaan, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+      "Semakin tinggi tingkat pendidikan, rata-rata penghasilan semakin besar dan angka pengangguran semakin rendah — ini menunjukkan investasi pendidikan memberi manfaat ekonomi nyata",
+      "Data hanya berlaku di kota besar dan tidak bisa digunakan untuk memahami kondisi di pedesaan manapun"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Baca pola kolom **penghasilan rata-rata**: Rp900.000 → Rp1.400.000 → Rp2.000.000 → Rp3.200.000 → Rp6.500.000. Polanya jelas: **semakin tinggi pendidikan, semakin tinggi penghasilan**.\nLangkah 2: Baca pola kolom **angka pengangguran**: 8% → 6% → 5% → 4% → 2%. Polanya juga jelas: **semakin tinggi pendidikan, semakin rendah pengangguran**.\nLangkah 3: Kedua pola bergerak bersamaan secara konsisten → ada **korelasi positif antara pendidikan dan penghasilan**, dan **korelasi negatif antara pendidikan dan pengangguran**.\nLangkah 4: Apa artinya? Investasi waktu dan biaya untuk pendidikan yang lebih tinggi terbayar dalam bentuk: (1) penghasilan lebih besar dan (2) peluang mendapat pekerjaan lebih tinggi (pengangguran lebih rendah).\nLangkah 5: Jebakan pilihan B: data menunjukkan sebaliknya — pengangguran *turun* seiring pendidikan yang lebih tinggi, bukan naik. Pilihan B langsung terbantah oleh data.\n\n**Materi terkait:**\n- **Korelasi** dalam data sosial: dua hal berubah bersamaan secara konsisten. Pendidikan dan penghasilan berkorelasi positif (keduanya naik bersama). Pendidikan dan pengangguran berkorelasi negatif (pendidikan naik, pengangguran turun).\n- **Investasi pendidikan** (*human capital investment*): pengeluaran untuk pendidikan dianggap sebagai investasi jangka panjang yang menghasilkan \"keuntungan\" berupa penghasilan lebih tinggi selama masa kerja.\n- **Kualitas vs. kuantitas pendidikan**: data ini menunjukkan dampak *tingkat* pendidikan. Namun perlu diingat bahwa kualitas pendidikan juga sangat penting — lulusan perguruan tinggi dengan keterampilan tidak relevan bisa tetap menghadapi pengangguran.\n- **Perhatian**: korelasi tidak selalu berarti sebab-akibat langsung. Ada faktor lain yang ikut berperan (misalnya jaringan sosial, lokasi, jenis pekerjaan). Namun data menunjukkan tren umum yang konsisten.\n\nInsight kunci: Tabel ini memperlihatkan bahwa **pendidikan adalah salah satu investasi terbaik seseorang**. Setiap tambahan jenjang pendidikan konsisten meningkatkan penghasilan dan menurunkan risiko pengangguran. Ini bukan kebetulan — pendidikan meningkatkan kemampuan dan membuka pintu ke peluang yang lebih baik.\nKenapa opsi lain salah: A mengabaikan pola data yang konsisten dan jelas; B bertolak belakang dengan data; D membuat klaim yang tidak dapat diverifikasi dari informasi yang ada — data mungkin berlaku lebih umum.\nJawaban akhir: **Semakin tinggi pendidikan → penghasilan lebih besar dan pengangguran lebih rendah**.",
+    "content": {
+      "question": "Perhatikan tabel data tingkat pendidikan dan kondisi ekonomi:\n\n| Tingkat pendidikan | Penghasilan rata-rata (Rp/bulan) | Angka pengangguran (%) |\n|---|---|---|\n| Tidak tamat SD | 900.000 | 8 |\n| Lulus SD | 1.400.000 | 6 |\n| Lulus SMP | 2.000.000 | 5 |\n| Lulus SMA | 3.200.000 | 4 |\n| Lulus Perguruan Tinggi | 6.500.000 | 2 |\n\nBerdasarkan data tabel, kesimpulan yang **paling tepat** adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel data tingkat pendidikan dan kondisi ekonomi:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tingkat pendidikan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Penghasilan rata-rata (Rp/bulan)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Angka pengangguran (%)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tidak tamat SD"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "900.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lulus SD"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.400.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lulus SMP"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2.000.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lulus SMA"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3.200.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lulus Perguruan Tinggi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6.500.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data tabel, kesimpulan yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Pendidikan tidak memengaruhi penghasilan karena banyak orang sukses tanpa ijazah tinggi",
+        "Semakin tinggi tingkat pendidikan, angka pengangguran semakin tinggi karena lulusan perguruan tinggi lebih pemilih pekerjaan, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas",
+        "Semakin tinggi tingkat pendidikan, rata-rata penghasilan semakin besar dan angka pengangguran semakin rendah — ini menunjukkan investasi pendidikan memberi manfaat ekonomi nyata",
+        "Data hanya berlaku di kota besar dan tidak bisa digunakan untuk memahami kondisi di pedesaan manapun"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pendidikan tidak memengaruhi penghasilan karena banyak orang sukses tanpa ijazah tinggi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin tinggi tingkat pendidikan, angka pengangguran semakin tinggi karena lulusan perguruan tinggi lebih pemilih pekerjaan, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin tinggi tingkat pendidikan, rata-rata penghasilan semakin besar dan angka pengangguran semakin rendah — ini menunjukkan investasi pendidikan memberi manfaat ekonomi nyata"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Data hanya berlaku di kota besar dan tidak bisa digunakan untuk memahami kondisi di pedesaan manapun"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Baca pola kolom **penghasilan rata-rata**: Rp900.000 → Rp1.400.000 → Rp2.000.000 → Rp3.200.000 → Rp6.500.000. Polanya jelas: **semakin tinggi pendidikan, semakin tinggi penghasilan**.\nLangkah 2: Baca pola kolom **angka pengangguran**: 8% → 6% → 5% → 4% → 2%. Polanya juga jelas: **semakin tinggi pendidikan, semakin rendah pengangguran**.\nLangkah 3: Kedua pola bergerak bersamaan secara konsisten → ada **korelasi positif antara pendidikan dan penghasilan**, dan **korelasi negatif antara pendidikan dan pengangguran**.\nLangkah 4: Apa artinya? Investasi waktu dan biaya untuk pendidikan yang lebih tinggi terbayar dalam bentuk: (1) penghasilan lebih besar dan (2) peluang mendapat pekerjaan lebih tinggi (pengangguran lebih rendah).\nLangkah 5: Jebakan pilihan B: data menunjukkan sebaliknya — pengangguran *turun* seiring pendidikan yang lebih tinggi, bukan naik. Pilihan B langsung terbantah oleh data.\n\n**Materi terkait:**\n- **Korelasi** dalam data sosial: dua hal berubah bersamaan secara konsisten. Pendidikan dan penghasilan berkorelasi positif (keduanya naik bersama). Pendidikan dan pengangguran berkorelasi negatif (pendidikan naik, pengangguran turun).\n- **Investasi pendidikan** (*human capital investment*): pengeluaran untuk pendidikan dianggap sebagai investasi jangka panjang yang menghasilkan \"keuntungan\" berupa penghasilan lebih tinggi selama masa kerja.\n- **Kualitas vs. kuantitas pendidikan**: data ini menunjukkan dampak *tingkat* pendidikan. Namun perlu diingat bahwa kualitas pendidikan juga sangat penting — lulusan perguruan tinggi dengan keterampilan tidak relevan bisa tetap menghadapi pengangguran.\n- **Perhatian**: korelasi tidak selalu berarti sebab-akibat langsung. Ada faktor lain yang ikut berperan (misalnya jaringan sosial, lokasi, jenis pekerjaan). Namun data menunjukkan tren umum yang konsisten.\n\nInsight kunci: Tabel ini memperlihatkan bahwa **pendidikan adalah salah satu investasi terbaik seseorang**. Setiap tambahan jenjang pendidikan konsisten meningkatkan penghasilan dan menurunkan risiko pengangguran. Ini bukan kebetulan — pendidikan meningkatkan kemampuan dan membuka pintu ke peluang yang lebih baik.\nKenapa opsi lain salah: A mengabaikan pola data yang konsisten dan jelas; B bertolak belakang dengan data; D membuat klaim yang tidak dapat diverifikasi dari informasi yang ada — data mungkin berlaku lebih umum.\nJawaban akhir: **Semakin tinggi pendidikan → penghasilan lebih besar dan pengangguran lebih rendah**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca pola kolom penghasilan rata-rata: Rp900.000 → Rp1.400.000 → Rp2.000.000 → Rp3.200.000 → Rp6.500.000. Polanya jelas: semakin tinggi pendidikan, semakin tinggi penghasilan.\nLangkah 2: Baca pola kolom angka pengangguran: 8% → 6% → 5% → 4% → 2%. Polanya juga jelas: semakin tinggi pendidikan, semakin rendah pengangguran.\nLangkah 3: Kedua pola bergerak bersamaan secara konsisten → ada korelasi positif antara pendidikan dan penghasilan, dan korelasi negatif antara pendidikan dan pengangguran.\nLangkah 4: Apa artinya? Investasi waktu dan biaya untuk pendidikan yang lebih tinggi terbayar dalam bentuk: (1) penghasilan lebih besar dan (2) peluang mendapat pekerjaan lebih tinggi (pengangguran lebih rendah).\nLangkah 5: Jebakan pilihan B: data menunjukkan sebaliknya — pengangguran turun seiring pendidikan yang lebih tinggi, bukan naik. Pilihan B langsung terbantah oleh data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Korelasi dalam data sosial: dua hal berubah bersamaan secara konsisten. Pendidikan dan penghasilan berkorelasi positif (keduanya naik bersama). Pendidikan dan pengangguran berkorelasi negatif (pendidikan naik, pengangguran turun).\n- Investasi pendidikan (human capital investment): pengeluaran untuk pendidikan dianggap sebagai investasi jangka panjang yang menghasilkan \"keuntungan\" berupa penghasilan lebih tinggi selama masa kerja.\n- Kualitas vs. kuantitas pendidikan: data ini menunjukkan dampak tingkat pendidikan. Namun perlu diingat bahwa kualitas pendidikan juga sangat penting — lulusan perguruan tinggi dengan keterampilan tidak relevan bisa tetap menghadapi pengangguran.\n- Perhatian: korelasi tidak selalu berarti sebab-akibat langsung. Ada faktor lain yang ikut berperan (misalnya jaringan sosial, lokasi, jenis pekerjaan). Namun data menunjukkan tren umum yang konsisten."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Tabel ini memperlihatkan bahwa pendidikan adalah salah satu investasi terbaik seseorang. Setiap tambahan jenjang pendidikan konsisten meningkatkan penghasilan dan menurunkan risiko pengangguran. Ini bukan kebetulan — pendidikan meningkatkan kemampuan dan membuka pintu ke peluang yang lebih baik.\nKenapa opsi lain salah: A mengabaikan pola data yang konsisten dan jelas; B bertolak belakang dengan data; D membuat klaim yang tidak dapat diverifikasi dari informasi yang ada — data mungkin berlaku lebih umum.\nJawaban akhir: Semakin tinggi pendidikan → penghasilan lebih besar dan pengangguran lebih rendah."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Studi kasus",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ips-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bacalah studi kasus berikut:\n\n*\"Sebuah survei lingkungan menemukan bahwa warga RT 05 lebih sering membuang sampah ke sungai dibanding RT lain di kelurahan yang sama. Setelah diselidiki, ternyata RT 05 adalah satu-satunya RT yang tidak memiliki Tempat Pembuangan Sampah Sementara (TPS) di lingkungannya. RT lainnya semua sudah memiliki TPS.\"*\n\nKesimpulan yang **paling masuk akal** berdasarkan studi kasus ini adalah ...",
+    "options": [
+      "Warga RT 05 tidak peduli lingkungan karena kebiasaan membuang sampah sembarangan sudah menjadi budaya turun-temurun di sana, sehingga kesimpulan dianggap benar walaupun tidak sesuai dengan arah perubahan pada tabel atau grafik",
+      "Warga RT 05 lebih malas dari warga RT lain dan tidak mau berjalan sedikit lebih jauh untuk membuang sampah dengan benar",
+      "Masalah sampah di RT 05 bisa diselesaikan paling efektif hanya dengan denda berat dan pengawasan polisi 24 jam",
+      "Tidak adanya TPS di RT 05 kemungkinan besar menjadi faktor utama perilaku warga; pengadaan TPS adalah solusi yang lebih efektif dan mendasar daripada hukuman semata"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi fakta kunci dari studi kasus: RT 05 lebih banyak buang sampah ke sungai. Perbedaan dari RT lain: RT 05 tidak punya TPS, RT lain punya TPS. Ini adalah satu-satunya perbedaan yang disebutkan.\nLangkah 2: Gunakan logika sebab-akibat sederhana. Jika semua RT lain yang punya TPS tidak bermasalah, dan RT 05 yang tidak punya TPS bermasalah — maka kemungkinan besar ketiadaan TPS adalah faktor penyebab utama.\nLangkah 3: Bayangkan posisi warga RT 05. Jika tidak ada TPS terdekat dan TPS terdekat jauh → maka membuang sampah ke sungai (yang mungkin lebih dekat) menjadi pilihan praktis yang salah. Bukan karena tidak peduli, tetapi karena tidak ada fasilitas yang memudahkan mereka berbuat benar.\nLangkah 4: Kesimpulan: masalah infrastruktur (tidak ada TPS) menyebabkan perilaku yang salah. Solusi yang paling tepat adalah memperbaiki infrastruktur (adakan TPS), bukan hanya menghukum pelaku.\nLangkah 5: Jebakan pilihan A dan B: keduanya menyalahkan karakter warga (malas, tidak peduli, budaya buruk) tanpa mempertimbangkan faktor lingkungan/infrastruktur yang berbeda. Ini adalah **kesalahan atribusi** — menyalahkan individu ketika masalahnya sistemik.\n\n**Materi terkait:**\n- **Studi kasus** (*case study*) adalah metode analisis mendalam terhadap satu situasi atau kelompok untuk memahami faktor-faktor yang memengaruhinya. Kunci studi kasus: cari perbedaan antara kasus bermasalah dan yang tidak bermasalah.\n- **Faktor lingkungan vs. faktor karakter individu**: perilaku manusia dipengaruhi oleh lingkungan dan fasilitas yang tersedia. Kebijakan berbasis hukuman saja (pilihan C) sering tidak efektif jika masalah dasarnya adalah ketiadaan fasilitas.\n- **Pendekatan sistemik**: melihat masalah dari akar penyebabnya (tidak ada TPS) daripada hanya melihat gejala (sampah di sungai). Solusi sistemik lebih berkelanjutan.\n- **Contoh nyata**: program pemilahan sampah di Indonesia lebih berhasil di daerah yang dilengkapi tempat sampah terpisah (organik/anorganik) daripada di daerah yang hanya memberikan sosialisasi tanpa fasilitas pendukung.\n\nInsight kunci: **Perilaku manusia sangat dipengaruhi oleh ketersediaan fasilitas dan kemudahan (atau kesulitan) melakukan hal yang benar**. Sebelum menyalahkan karakter individu, kita perlu bertanya: apakah sistemnya sudah memudahkan orang berbuat benar? Inilah inti berpikir kritis dalam ilmu sosial.\nJawaban akhir: **Ketiadaan TPS adalah faktor utama; pengadaan TPS adalah solusi yang lebih mendasar dan efektif**."
+  }
+]

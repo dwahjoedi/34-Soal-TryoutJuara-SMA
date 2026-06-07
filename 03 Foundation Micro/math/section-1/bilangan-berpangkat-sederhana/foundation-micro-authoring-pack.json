@@ -1,0 +1,838 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "matematika",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan berpangkat sederhana",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai konsep bilangan berpangkat sederhana sesuai target SD kelas 4-6.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 5,
+    "requested_drill_questions_per_concept": 12,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "pangkat_dan_akar_dasar",
+      "concept_name": "Fondasi Bilangan berpangkat sederhana",
+      "concept_description": "Penguatan konsep inti bilangan berpangkat sederhana untuk level SD kelas 4-6.",
+      "topic": "Bilangan & Operasi",
+      "subtopic": "Bilangan berpangkat sederhana",
+      "target_error_tags": [
+        "pangkat_dianggap_kali",
+        "numeric_mismatch",
+        "akar_tidak_tepat",
+        "akar_hampir_benar",
+        "hanya_suku_pertama_pangkat",
+        "kuadrat_jumlah_salah"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "bilangan-berpangkat-sederhana-main-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-berpangkat-sederhana"
+      ],
+      "question": "**Nilai** $2^{4}$ adalah...",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "answer": 2,
+      "rationale": "$2^{4}=2x2x2x2=16$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pangkat_dianggap_kali",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 8 muncul jika kamu mengalikan 2×4 seolah pangkat sama dengan perkalian sekali.",
+            "micro_lesson": "$2^{4}$ artinya 2 dikalikan berulang sebanyak 4 kali.",
+            "retry_question": {
+              "question": "**Nilai** $2^{4}$ adalah...",
+              "options": [
+                "8",
+                "16",
+                "6",
+                "4"
+              ],
+              "answer": 1
+            }
+          },
+          "1": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 12 menghasilkan bilangan yang lebih kecil dari jawaban benar (16). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Nilai $2^{4}$ adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 24 menghasilkan bilangan yang lebih besar dari jawaban benar (16). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Nilai $2^{4}$ adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-main-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-berpangkat-sederhana"
+      ],
+      "question": "**Nilai** $3^{3}$ adalah...",
+      "options": [
+        "9",
+        "27",
+        "81",
+        "18"
+      ],
+      "answer": 1,
+      "rationale": "$3^{3}=27$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "pangkat_dianggap_kali",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 9 muncul jika kamu mengalikan 3×3 seolah pangkat sama dengan perkalian sekali.",
+            "micro_lesson": "$3^{3}$ artinya 3 dikalikan berulang sebanyak 3 kali.",
+            "retry_question": {
+              "question": "**Nilai** $3^{3}$ adalah...",
+              "options": [
+                "9",
+                "27",
+                "6",
+                "9"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 81 menghasilkan bilangan yang lebih besar dari jawaban benar (27). Itu berarti kemungkinan ada suku yang terhitung dua kali, operasi penggandaan/pangkat yang tidak diminta soal, atau langkah yang seharusnya mengurangi malah menjumlahkan. Ulangi pembacaan soal: «Nilai $3^{3}$ adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "numeric_mismatch",
+            "error_type": "strategy",
+            "diagnosis": "Memilih 18 menghasilkan bilangan yang lebih kecil dari jawaban benar (27). Itu berarti masih ada bagian operasi atau suku dari soal yang belum kamu hitung penuh, atau ada langkah yang terlalu banyak dikurangi. Ulangi pembacaan soal: «Nilai $3^{3}$ adalah...».",
+            "micro_lesson": "Tulis ulang langkah hitung dari awal, lalu cocokkan hasil akhir dengan opsi.",
+            "retry_question": {
+              "question": "**Hitung** 10 + 7 = ...",
+              "options": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-main-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-berpangkat-sederhana"
+      ],
+      "question": "Akar kuadrat dari 81 adalah...",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 2,
+      "rationale": "9 $x9=81$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "akar_tidak_tepat",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 7 tidak memenuhi 9×9=81 (akar kuadrat bulat dari 81 adalah 9).",
+            "micro_lesson": "Cari bilangan bulat yang jika dikuadratkan sama dengan bilangan di soal.",
+            "retry_question": {
+              "question": "Akar kuadrat dari 36 adalah...",
+              "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "akar_hampir_benar",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 8 dekat dengan akar sebenarnya; kemungkinan kamu menguji bilangan yang salah satu dari jawaban tepat.",
+            "micro_lesson": "Cek dengan mengkuadratkan kandidat: hasilnya harus sama dengan bilangan di soal.",
+            "retry_question": {
+              "question": "Akar kuadrat dari 49 adalah...",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "akar_hampir_benar",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 10 dekat dengan akar sebenarnya; kemungkinan kamu menguji bilangan yang salah satu dari jawaban tepat.",
+            "micro_lesson": "Cek dengan mengkuadratkan kandidat: hasilnya harus sama dengan bilangan di soal.",
+            "retry_question": {
+              "question": "Akar kuadrat dari 49 adalah...",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "answer": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-main-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-berpangkat-sederhana"
+      ],
+      "question": "**Nilai** $5^{2}$ + $4^{2}$ adalah...",
+      "options": [
+        "25",
+        "41",
+        "81",
+        "45"
+      ],
+      "answer": 1,
+      "rationale": "$25+16=41$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "hanya_suku_pertama_pangkat",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 25 muncul jika kamu baru menghitung suku pertama $5^{2}=25$ tetapi belum menambahkan suku kedua $4^{2}$.",
+            "micro_lesson": "Selesaikan tiap pangkat dulu, lalu jumlahkan semua suku sebelum memilih jawaban.",
+            "retry_question": {
+              "question": "**Nilai** $3^{2}+2^{2}$ adalah...",
+              "options": [
+                "9",
+                "13",
+                "25",
+                "36"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "kuadrat_jumlah_salah",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 81 sama dengan $( 5+4 )^2$ (dikuadratkan setelah dijumlah), bukan $5^{2}+4^{2}$ (jumlah dari masing-masing kuadrat).",
+            "micro_lesson": "Jangan kuadratkan penjumlahan basis dulu kecuali memang ditulis dalam kurung.",
+            "retry_question": {
+              "question": "**Nilai** $(2+3)^2$ adalah...",
+              "options": [
+                "10",
+                "25",
+                "13",
+                "5"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "jumlah_kuadrat_plus_basis_kedua",
+            "error_type": "strategy",
+            "diagnosis": "Jawaban 45 sama dengan hasil $5^{2}+4^{2}=41$ lalu ditambah $4$ lagi, seolah basis suku kedua dijumlahkan sekali lagi di luar kuadrat.",
+            "micro_lesson": "Jangan menambahkan basis mentah setelah kuadrat; yang dijumlahkan hanyalah nilai $5^{2}$ dan $4^{2}$.",
+            "retry_question": {
+              "question": "**Nilai** $5^{2}+4^{2}$ adalah...",
+              "options": [
+                "41",
+                "45",
+                "21",
+                "81"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-main-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "math",
+        "section-1",
+        "bilangan-berpangkat-sederhana"
+      ],
+      "question": "Akar pangkat tiga dari 64 adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "rationale": "$4^{3}=64$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "akar_pangkat_tiga_salah",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 2 tidak memenuhi pangkat tiga balik ke bilangan soal.",
+            "micro_lesson": "Cari bilangan bulat r sehingga r×r×r sama dengan bilangan di soal.",
+            "retry_question": {
+              "question": "Akar pangkat tiga dari 8 adalah...",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "answer": 1
+            }
+          },
+          "1": {
+            "error_tag": "akar_pangkat_tiga_dekat",
+            "error_type": "careless",
+            "diagnosis": "Jawaban 3 dekat akar pangkat tiga yang benar.",
+            "micro_lesson": "Uji dengan pangkat tiga: bilangan yang benar harus memenuhi r³ = nilai soal.",
+            "retry_question": {
+              "question": "Akar pangkat tiga dari 27 adalah...",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "answer": 2
+            }
+          },
+          "3": {
+            "error_tag": "akar_pangkat_tiga_salah",
+            "error_type": "concept",
+            "diagnosis": "Jawaban 8 tidak memenuhi pangkat tiga balik ke bilangan soal.",
+            "micro_lesson": "Cari bilangan bulat r sehingga r×r×r sama dengan bilangan di soal.",
+            "retry_question": {
+              "question": "Akar pangkat tiga dari 8 adalah...",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-01",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $10^{2}$ adalah...",
+      "options": [
+        "10",
+        "20",
+        "100",
+        "1000"
+      ],
+      "answer": 2,
+      "rationale": "$10^{2}=100$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pangkat_diartikan_kali_biasa"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-02",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $4^{2}$ adalah...",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "answer": 2,
+      "rationale": "$4^{2}=16$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "akar_tidak_dicocokkan"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-03",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "Akar kuadrat dari 49 adalah...",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "7 $x7=49$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_pangkat_salah"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-04",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $2^{5}$ adalah...",
+      "options": [
+        "16",
+        "24",
+        "32",
+        "64"
+      ],
+      "answer": 2,
+      "rationale": "$2^{5}=32$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pangkat_diartikan_kali_biasa"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-05",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "Akar kuadrat dari 121 adalah...",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "rationale": "11 $x11=121$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "akar_tidak_dicocokkan"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-06",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $6^{2}$ adalah...",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "answer": 3,
+      "rationale": "$6^{2}=36$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_pangkat_salah"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-07",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "Akar pangkat tiga dari 27 adalah...",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "9"
+      ],
+      "answer": 1,
+      "rationale": "$3^{3}=27$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pangkat_diartikan_kali_biasa"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-08",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $7^{2}$ - $3^{2}$ adalah...",
+      "options": [
+        "40",
+        "46",
+        "58",
+        "28"
+      ],
+      "answer": 0,
+      "rationale": "$49-9=40$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "akar_tidak_dicocokkan"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-09",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "medium",
+      "skillType": "reasoning",
+      "questionType": "multi_step",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $3^{2}$ + $2^{3}$ adalah...",
+      "options": [
+        "17",
+        "15",
+        "13",
+        "11"
+      ],
+      "answer": 0,
+      "rationale": "$9+8=17$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_pangkat_salah"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-10",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "Akar kuadrat dari 144 adalah...",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 2,
+      "rationale": "12 $x12=144$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "pangkat_diartikan_kali_biasa"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-11",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $1^{5}$ adalah...",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "10"
+      ],
+      "answer": 1,
+      "rationale": "1 pangkat berapa pun tetap 1.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "akar_tidak_dicocokkan"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    },
+    {
+      "questionId": "bilangan-berpangkat-sederhana-drill-12",
+      "subject": "matematika",
+      "topicId": null,
+      "topic": "Bilangan & Operasi",
+      "subtopicId": null,
+      "subtopic": "Bilangan berpangkat sederhana",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "pangkat_dan_akar_dasar"
+      ],
+      "question": "**Nilai** $9^{2}$ adalah...",
+      "options": [
+        "18",
+        "72",
+        "81",
+        "99"
+      ],
+      "answer": 2,
+      "rationale": "$9^{2}=81$.",
+      "microLoop": {
+        "concept_id": "pangkat_dan_akar_dasar",
+        "drill_focus": {
+          "source_error_tags": [
+            "operasi_campuran_pangkat_salah"
+          ],
+          "notes": "Penguatan makna pangkat, akar, dan operasi campuran sederhana."
+        }
+      }
+    }
+  ]
+}

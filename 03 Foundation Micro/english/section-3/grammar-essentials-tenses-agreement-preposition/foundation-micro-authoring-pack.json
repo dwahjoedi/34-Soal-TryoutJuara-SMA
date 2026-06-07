@@ -1,0 +1,436 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "bahasa_inggris",
+    "topic": "Grammar",
+    "subtopic": "Tenses",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa menguasai simple present/past dasar, subject-verb agreement, dan preposition waktu yang sering muncul di tryout.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "grammar_dasar_tense_agreement_preposition",
+      "concept_name": "Tense, agreement, dan preposition dasar",
+      "concept_description": "Menentukan bentuk kata kerja dan preposition berdasarkan sinyal waktu dan subjek.",
+      "topic": "Grammar",
+      "subtopic": "Tenses",
+      "target_error_tags": [
+        "lupa_s_untuk_she_he_it",
+        "salah_baca_sinyal_waktu",
+        "tertukar_in_on_at"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "eng-s3-main-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Subject-verb agreement",
+      "difficulty": "easy",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-3/grammar-essentials-tenses-agreement-preposition"
+      ],
+      "question": "Choose the correct sentence: \"She ... to school every day.\"",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "rationale": "Subjek \"She\" (orang ketiga tunggal) pada simple present memakai verb + s: goes.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "lupa_s_untuk_she_he_it",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih bentuk dasar verb tanpa -s untuk subjek tunggal.",
+            "micro_lesson": "Di simple present, he/she/it memakai verb + s/es. Contoh: she goes, he plays.",
+            "retry_question": {
+              "question": "Complete: \"He ... English on Monday.\"",
+              "options": [
+                "study",
+                "studies",
+                "studying",
+                "studied"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "salah_kelas_kata_verb",
+            "error_type": "strategy",
+            "diagnosis": "Kamu memakai bentuk -ing, padahal kalimat simple present membutuhkan verb utama biasa.",
+            "micro_lesson": "Bentuk -ing dipakai jika ada \"is/am/are\". Tanpa itu, pakai verb sesuai agreement.",
+            "retry_question": {
+              "question": "The correct sentence is ...",
+              "options": [
+                "She plays badminton.",
+                "She playing badminton.",
+                "She play badminton yesterday.",
+                "She played badminton every day."
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_baca_sinyal_waktu",
+            "error_type": "careless",
+            "diagnosis": "Kamu memilih past participle yang tidak cocok dengan pola kalimat.",
+            "micro_lesson": "Lihat sinyal \"every day\" -> simple present, bukan bentuk past participle.",
+            "retry_question": {
+              "question": "The time expression \"every morning\" usually uses ...",
+              "options": [
+                "simple present",
+                "past participle only",
+                "future perfect",
+                "passive is required"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-main-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Tenses",
+      "difficulty": "easy",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-3/grammar-essentials-tenses-agreement-preposition"
+      ],
+      "question": "Complete: \"They ... Bandung last week.\"",
+      "options": [
+        "visit",
+        "visits",
+        "visited",
+        "visiting"
+      ],
+      "answer": 2,
+      "rationale": "Sinyal waktu \"last week\" menunjukkan simple past, jadi bentuk yang tepat adalah visited.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "salah_baca_sinyal_waktu",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih bentuk present padahal ada penanda waktu lampau.",
+            "micro_lesson": "Jika ada yesterday, last week, ago -> biasanya simple past.",
+            "retry_question": {
+              "question": "Complete: \"We ... to Bali yesterday.\"",
+              "options": [
+                "go",
+                "goes",
+                "went",
+                "going"
+              ],
+              "answer": 2
+            }
+          },
+          "1": {
+            "error_tag": "agreement_tidak_relevan_tense",
+            "error_type": "strategy",
+            "diagnosis": "Kamu fokus pada -s agreement, tetapi lupa tense kalimat ini adalah past.",
+            "micro_lesson": "Cek urutan: lihat sinyal waktu dulu, baru bentuk verb.",
+            "retry_question": {
+              "question": "A sentence with \"last night\" should use ...",
+              "options": [
+                "simple past",
+                "simple present",
+                "verb + s is required",
+                "to be + ing always"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_kelas_kata_verb",
+            "error_type": "careless",
+            "diagnosis": "Bentuk -ing tidak tepat karena tidak ada \"were/are\" sebagai penanda continuous.",
+            "micro_lesson": "Gunakan bentuk verb lampau sederhana bila soal meminta kejadian selesai di masa lalu.",
+            "retry_question": {
+              "question": "Choose the correct one: \"She ... her grandma last month.\"",
+              "options": [
+                "visiting",
+                "visited",
+                "visit",
+                "visits"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-main-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Preposition",
+      "difficulty": "medium",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-3/grammar-essentials-tenses-agreement-preposition"
+      ],
+      "question": "Complete the sentence: \"The ceremony is ... Monday at 7 a.m.\"",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 1,
+      "rationale": "Untuk hari menggunakan preposition \"on\": on Monday.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "distractor_rules": {
+          "0": {
+            "error_tag": "tertukar_in_on_at",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih \"in\" yang biasanya untuk bulan/tahun atau area luas.",
+            "micro_lesson": "Gunakan on untuk hari/tanggal, at untuk jam, in untuk bulan/tahun.",
+            "retry_question": {
+              "question": "Choose the correct preposition: \"My birthday is ... July.\"",
+              "options": [
+                "in",
+                "on",
+                "at",
+                "by"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "tertukar_in_on_at",
+            "error_type": "careless",
+            "diagnosis": "Kamu memakai \"at\" yang cocok untuk jam, bukan untuk hari.",
+            "micro_lesson": "Pisahkan unit waktu: hari pakai on, jam pakai at.",
+            "retry_question": {
+              "question": "Choose the correct one: \"We study English ... Friday.\"",
+              "options": [
+                "in",
+                "on",
+                "at",
+                "to"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "preposition_tidak_tepat",
+            "error_type": "strategy",
+            "diagnosis": "Kata \"to\" bukan preposition waktu yang tepat pada konteks ini.",
+            "micro_lesson": "Untuk waktu, fokus pada pasangan baku in/on/at sesuai jenis waktunya.",
+            "retry_question": {
+              "question": "\"Class starts ... 8 o'clock.\" The correct preposition is ...",
+              "options": [
+                "at",
+                "on",
+                "in",
+                "to"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "eng-s3-drill-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Subject-verb agreement",
+      "difficulty": "easy",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "grammar_dasar_tense_agreement_preposition"
+      ],
+      "question": "He ... football every Sunday.",
+      "options": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "answer": 1,
+      "rationale": "He + simple present menggunakan verb + s.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "drill_focus": {
+          "source_error_tags": [
+            "lupa_s_untuk_she_he_it"
+          ],
+          "notes": "Penguatan agreement orang ketiga tunggal."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-drill-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Tenses",
+      "difficulty": "easy",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "grammar_dasar_tense_agreement_preposition"
+      ],
+      "question": "We ... a movie last night.",
+      "options": [
+        "watch",
+        "watched",
+        "watches",
+        "watching"
+      ],
+      "answer": 1,
+      "rationale": "\"Last night\" menandakan simple past -> watched.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_sinyal_waktu"
+          ],
+          "notes": "Deteksi sinyal waktu lampau."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-drill-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Preposition",
+      "difficulty": "easy",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "grammar_dasar_tense_agreement_preposition"
+      ],
+      "question": "My birthday is ... May.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "rationale": "Bulan menggunakan in -> in May.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "drill_focus": {
+          "source_error_tags": [
+            "tertukar_in_on_at"
+          ],
+          "notes": "Preposition untuk bulan/tahun."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-drill-04",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Preposition",
+      "difficulty": "medium",
+      "skillType": "grammar",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "grammar_dasar_tense_agreement_preposition"
+      ],
+      "question": "The test starts ... 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+      ],
+      "answer": 2,
+      "rationale": "Jam spesifik menggunakan at.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "drill_focus": {
+          "source_error_tags": [
+            "tertukar_in_on_at"
+          ],
+          "notes": "Preposition waktu spesifik."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s3-drill-05",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Grammar",
+      "subtopicId": null,
+      "subtopic": "Tenses",
+      "difficulty": "medium",
+      "skillType": "grammar",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "grammar_dasar_tense_agreement_preposition"
+      ],
+      "question": "The time expression that usually indicates simple past is ...",
+      "options": [
+        "every day",
+        "last week",
+        "usually",
+        "always"
+      ],
+      "answer": 1,
+      "rationale": "\"Last week\" adalah sinyal waktu lampau.",
+      "microLoop": {
+        "concept_id": "grammar_dasar_tense_agreement_preposition",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_baca_sinyal_waktu"
+          ],
+          "notes": "Membedakan sinyal present vs past."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "bahasa_inggris",
+    "topic": "Vocabulary",
+    "subtopic": "Word usage",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Siswa mampu mengenali relasi kata (sinonim, antonim, analogi sederhana) secara logis, bukan tebak kata.",
+    "requested_micro_concept_count": 1,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "relasi_makna_kata_verbal_reasoning",
+      "concept_name": "Relasi makna kata",
+      "concept_description": "Menentukan kesetaraan hubungan kata pada sinonim, antonim, dan analogi dasar.",
+      "topic": "Vocabulary",
+      "subtopic": "Word usage",
+      "target_error_tags": [
+        "pilih_kata_populer_bukan_relasi",
+        "salah_tipe_relasi_analogi",
+        "tidak_mengecek_lawan_makna"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "eng-s5-main-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-5/verbal-reasoning-synonym-antonym-analogy"
+      ],
+      "question": "The antonym of the word \"trust\" is ...",
+      "options": [
+        "doubt",
+        "believe",
+        "follow",
+        "help"
+      ],
+      "answer": 0,
+      "rationale": "\"Trust\" berlawanan makna paling dekat dengan \"doubt\".",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "tidak_mengecek_lawan_makna",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih kata yang justru searah makna, bukan kebalikan.",
+            "micro_lesson": "Untuk antonim, cek apakah makna opsi benar-benar berlawanan, bukan mirip.",
+            "retry_question": {
+              "question": "The antonym of \"high\" is ...",
+              "options": [
+                "low",
+                "tall",
+                "up",
+                "long"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "pilih_kata_populer_bukan_relasi",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan ini mungkin familiar, tetapi relasinya bukan lawan makna dari \"trust\".",
+            "micro_lesson": "Jangan pilih kata yang terasa dekat topik. Fokus pada tipe relasi yang diminta.",
+            "retry_question": {
+              "question": "If the question asks for the antonym of \"open\", the correct answer is ...",
+              "options": [
+                "close",
+                "door",
+                "window",
+                "house"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_tipe_relasi_analogi",
+            "error_type": "careless",
+            "diagnosis": "Kata ini bukan pasangan antonim terhadap \"trust\".",
+            "micro_lesson": "Periksa ulang: apakah opsi menunjukkan kebalikan makna, bukan hubungan lain (aksi/objek)?",
+            "retry_question": {
+              "question": "The antonym of \"full\" is ...",
+              "options": [
+                "empty",
+                "glass",
+                "water",
+                "drink"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-main-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Word usage",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-5/verbal-reasoning-synonym-antonym-analogy"
+      ],
+      "question": "Analogy: \"TRAIN : RAILROAD = TRUCK : ...\"",
+      "options": [
+        "highway",
+        "pilot",
+        "station",
+        "ticket"
+      ],
+      "answer": 0,
+      "rationale": "Relasinya adalah kendaraan dan jalurnya: train-railroad, truck-highway.",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "salah_tipe_relasi_analogi",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih profesi, padahal relasi yang diminta adalah kendaraan-jalur.",
+            "micro_lesson": "Ubah pasangan pertama jadi kalimat: \"Train berjalan di railroad.\" Cari pola yang sama.",
+            "retry_question": {
+              "question": "Analogy: \"BOAT : RIVER = CAR : ...\"",
+              "options": [
+                "road",
+                "driver",
+                "garage",
+                "window"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "pilih_kata_populer_bukan_relasi",
+            "error_type": "strategy",
+            "diagnosis": "Pilihanmu masih berkaitan dunia transportasi, tetapi bukan jalur khusus truck.",
+            "micro_lesson": "Bedakan kategori benda terkait vs relasi yang identik. Analogi menuntut relasi setara persis.",
+            "retry_question": {
+              "question": "\"PLANE : SKY = SHIP : ...\"",
+              "options": [
+                "sea",
+                "captain",
+                "port",
+                "ticket"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "tidak_mengecek_lawan_makna",
+            "error_type": "careless",
+            "diagnosis": "Kamu memilih objek pendukung perjalanan, bukan jalur kendaraan.",
+            "micro_lesson": "Untuk analogi, cek tipe hubungan: fungsi, tempat, bagian, atau lawan makna.",
+            "retry_question": {
+              "question": "\"BICYCLE : ROAD = TRAIN : ...\"",
+              "options": [
+                "railway",
+                "helmet",
+                "wheel",
+                "driver"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-main-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "english",
+        "section-5/verbal-reasoning-synonym-antonym-analogy"
+      ],
+      "question": "The most appropriate synonym for \"produce\" is ...",
+      "options": [
+        "make",
+        "break",
+        "throw",
+        "hide"
+      ],
+      "answer": 0,
+      "rationale": "\"Produce\" bermakna menghasilkan/membuat, sehingga sinonim terdekatnya adalah \"make\".",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "tidak_mengecek_lawan_makna",
+            "error_type": "concept",
+            "diagnosis": "Kamu memilih kata yang malah berlawanan makna.",
+            "micro_lesson": "Pastikan soal meminta sinonim atau antonim. \"Produce\" sinonimnya membuat, antonimnya menghancurkan.",
+            "retry_question": {
+              "question": "The synonym for \"start\" is ...",
+              "options": [
+                "begin",
+                "stop",
+                "close",
+                "drop"
+              ],
+              "answer": 0
+            }
+          },
+          "2": {
+            "error_tag": "pilih_kata_populer_bukan_relasi",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan ini tidak punya kesetaraan makna dengan \"produce\".",
+            "micro_lesson": "Uji cepat: jika kata diganti ke kalimat, apakah artinya tetap sama?",
+            "retry_question": {
+              "question": "\"The factory produces shoes.\" The word \"produces\" is closest to ...",
+              "options": [
+                "makes",
+                "throws",
+                "borrows",
+                "opens"
+              ],
+              "answer": 0
+            }
+          },
+          "3": {
+            "error_tag": "salah_tipe_relasi_analogi",
+            "error_type": "careless",
+            "diagnosis": "Kata ini tidak setara makna, hanya aksi lain yang tidak relevan.",
+            "micro_lesson": "Pada verbal reasoning, pilih opsi yang paling identik relasinya, bukan sekadar sesama kata kerja.",
+            "retry_question": {
+              "question": "The synonym for \"help\" is ...",
+              "options": [
+                "assist",
+                "ignore",
+                "damage",
+                "hide"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "eng-s5-drill-01",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_makna_kata_verbal_reasoning"
+      ],
+      "question": "The antonym of the word \"fully\" is ...",
+      "options": [
+        "partially",
+        "always",
+        "quickly",
+        "brightly"
+      ],
+      "answer": 0,
+      "rationale": "\"Fully\" berlawanan dengan \"partially\" pada derajat kelengkapan.",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "drill_focus": {
+          "source_error_tags": [
+            "tidak_mengecek_lawan_makna"
+          ],
+          "notes": "Latihan antonim tingkat dasar."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-drill-02",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Word usage",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_makna_kata_verbal_reasoning"
+      ],
+      "question": "Analogy: \"COMEDY : FUNNY = HORROR : ...\"",
+      "options": [
+        "scary",
+        "teacher",
+        "book",
+        "market"
+      ],
+      "answer": 0,
+      "rationale": "Relasinya genre dan sifat khasnya: comedy-funny, horror-scary.",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tipe_relasi_analogi"
+          ],
+          "notes": "Relasi kategori-sifat."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-drill-03",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "easy",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_makna_kata_verbal_reasoning"
+      ],
+      "question": "The synonym for \"rapid\" is ...",
+      "options": [
+        "fast",
+        "slow",
+        "weak",
+        "low"
+      ],
+      "answer": 0,
+      "rationale": "\"Rapid\" berarti cepat, sinonimnya \"fast\".",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "drill_focus": {
+          "source_error_tags": [
+            "pilih_kata_populer_bukan_relasi"
+          ],
+          "notes": "Penguatan sinonim inti."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-drill-04",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Word usage",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_makna_kata_verbal_reasoning"
+      ],
+      "question": "Analogy: \"TEACHER : SCHOOL = DOCTOR : ...\"",
+      "options": [
+        "hospital",
+        "book",
+        "chalk",
+        "student"
+      ],
+      "answer": 0,
+      "rationale": "Relasinya profesi dan tempat kerja utama.",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "drill_focus": {
+          "source_error_tags": [
+            "salah_tipe_relasi_analogi",
+            "pilih_kata_populer_bukan_relasi"
+          ],
+          "notes": "Relasi profesi-tempat."
+        }
+      }
+    },
+    {
+      "questionId": "eng-s5-drill-05",
+      "subject": "bahasa_inggris",
+      "topicId": null,
+      "topic": "Vocabulary",
+      "subtopicId": null,
+      "subtopic": "Synonym & antonym",
+      "difficulty": "medium",
+      "skillType": "vocabulary",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "relasi_makna_kata_verbal_reasoning"
+      ],
+      "question": "The antonym of \"borrow\" is ...",
+      "options": [
+        "lend",
+        "read",
+        "buy",
+        "sleep"
+      ],
+      "answer": 0,
+      "rationale": "Borrow (meminjam) berlawanan dengan lend (meminjamkan).",
+      "microLoop": {
+        "concept_id": "relasi_makna_kata_verbal_reasoning",
+        "drill_focus": {
+          "source_error_tags": [
+            "tidak_mengecek_lawan_makna"
+          ],
+          "notes": "Latihan lawan makna tindakan."
+        }
+      }
+    }
+  ]
+}

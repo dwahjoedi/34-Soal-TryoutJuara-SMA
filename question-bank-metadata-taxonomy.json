@@ -1,0 +1,807 @@
+{
+  "subjects": {
+    "matematika": {
+      "topics": [
+        {
+          "name": "Penalaran Kuantitatif",
+          "subtopics": [
+            "Analisis informasi numerik",
+            "Translasi cerita ke model matematika",
+            "Strategi jawaban antara vs jawaban akhir",
+            "Estimasi & kewajaran jawaban",
+            "Logika kuantitatif",
+            "Tabel kemungkinan",
+            "Logika deduktif",
+            "Silogisme",
+            "Problem campuran multi-konsep"
+          ]
+        },
+        {
+          "name": "Bilangan & Operasi",
+          "subtopics": [
+            "Operasi bilangan",
+            "Bilangan bulat",
+            "Bilangan rasional & irasional",
+            "Pecahan",
+            "Desimal & persen",
+            "FPB & KPK",
+            "Faktorisasi prima",
+            "Perbandingan & rasio",
+            "Skala & proporsi",
+            "Laju perubahan sederhana",
+            "Jarak, kecepatan & waktu",
+            "Bilangan berpangkat sederhana",
+            "Akar kuadrat & akar pangkat tiga",
+            "Notasi ilmiah sederhana"
+          ]
+        },
+        {
+          "name": "Himpunan & Diagram Venn",
+          "subtopics": [
+            "Konsep himpunan",
+            "Anggota & bukan anggota himpunan",
+            "Irisan himpunan",
+            "Gabungan himpunan",
+            "Komplemen himpunan",
+            "Selisih himpunan",
+            "Diagram Venn dua himpunan",
+            "Diagram Venn tiga himpunan",
+            "Soal cerita himpunan"
+          ]
+        },
+        {
+          "name": "Aljabar",
+          "subtopics": [
+            "Operasi aljabar",
+            "Bentuk aljabar",
+            "Persamaan linear satu variabel",
+            "Pertidaksamaan linear satu variabel",
+            "Sistem persamaan linear dua variabel",
+            "Eliminasi & substitusi",
+            "Persamaan kuadrat sederhana",
+            "Fungsi kuadrat dasar",
+            "Pola bilangan",
+            "Barisan aritmatika & geometri",
+            "Pola deret huruf",
+            "Relasi & fungsi",
+            "Domain, kodomain & range",
+            "Grafik fungsi sederhana"
+          ]
+        },
+        {
+          "name": "Koordinat, Gradien & Persamaan Garis",
+          "subtopics": [
+            "Koordinat Kartesius",
+            "Membaca titik pada bidang koordinat",
+            "Gradien garis",
+            "Persamaan garis lurus",
+            "Titik potong sumbu",
+            "Garis sejajar & tegak lurus",
+            "Grafik persamaan garis",
+            "Makna gradien dalam konteks"
+          ]
+        },
+        {
+          "name": "Geometri",
+          "subtopics": [
+            "Bangun datar",
+            "Keliling & luas bangun datar",
+            "Bangun ruang",
+            "Volume & luas permukaan",
+            "Jaring-jaring bangun ruang",
+            "Pengukuran & satuan",
+            "Sudut & garis",
+            "Garis sejajar & berpotongan",
+            "Teorema Pythagoras",
+            "Lingkaran, busur & juring",
+            "Bangun gabungan",
+            "Kekongruenan",
+            "Kesebangunan",
+            "Transformasi",
+            "Refleksi, translasi, rotasi & dilatasi",
+            "Koordinat & jarak pada bidang"
+          ]
+        },
+        {
+          "name": "Statistik & Peluang",
+          "subtopics": [
+            "Mean, median, modus",
+            "Range & sebaran data",
+            "Perubahan rata-rata",
+            "Kuartil",
+            "Jangkauan interkuartil",
+            "Rata-rata tertimbang",
+            "Penyajian & interpretasi data",
+            "Diagram batang",
+            "Diagram lingkaran",
+            "Histogram",
+            "Tabel & grafik",
+            "Peluang sederhana",
+            "Ruang sampel",
+            "Kejadian komplemen",
+            "Frekuensi relatif",
+            "Frekuensi harapan"
+          ]
+        },
+        {
+          "name": "Pemodelan Matematika",
+          "subtopics": [
+            "Translasi verbal ke model matematika",
+            "Aritmetika sosial",
+            "Literasi finansial",
+            "Diskon, pajak & biaya layanan",
+            "Untung, rugi & persentase",
+            "Perbandingan dalam konteks",
+            "Skala peta & miniatur",
+            "Jarak, kecepatan & waktu dalam konteks",
+            "Gerak relatif sederhana",
+            "Data dalam konteks nyata",
+            "Problem campuran multi-konsep"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "recall", "label": "Recall" },
+        { "value": "understanding", "label": "Understanding" },
+        { "value": "application", "label": "Application" },
+        { "value": "reasoning", "label": "Reasoning" },
+        { "value": "modeling", "label": "Modeling" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "multi_step_problem", "label": "Multi-step problem" }
+      ],
+      "question_types": [
+        { "value": "direct", "label": "Direct" },
+        { "value": "story_problem", "label": "Story problem" },
+        { "value": "multi_step", "label": "Multi-step" },
+        { "value": "visual_analysis", "label": "Visual analysis" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "logic_puzzle", "label": "Logic puzzle" },
+        { "value": "concept_check", "label": "Concept check" }
+      ]
+    },
+    "ipa": {
+      "topics": [
+        {
+          "name": "Inquiry & Literasi Sains",
+          "subtopics": [
+            "Variabel bebas, terikat & kontrol",
+            "Rancangan percobaan adil",
+            "Observasi vs inferensi",
+            "Membaca tabel percobaan",
+            "Membaca grafik sains",
+            "Menarik kesimpulan dari data",
+            "Evaluasi bukti ilmiah",
+            "Besaran, satuan & pengukuran",
+            "Data kualitatif & kuantitatif",
+            "Kesalahan pengukuran, paralaks & meniskus"
+          ]
+        },
+        {
+          "name": "Gerak, Gaya & Energi",
+          "subtopics": [
+            "Gerak lurus",
+            "Kelajuan & kecepatan sederhana",
+            "Gaya & pengaruhnya terhadap benda",
+            "Hukum Newton",
+            "Tekanan",
+            "Usaha & energi",
+            "Energi & transformasi energi",
+            "Daya",
+            "Kalor & perpindahan panas",
+            "Konduksi, konveksi & radiasi",
+            "Konduktor & isolator",
+            "Suhu & pemuaian",
+            "Grafik pemanasan",
+            "Pesawat sederhana"
+          ]
+        },
+        {
+          "name": "Listrik, Gelombang & Optik",
+          "subtopics": [
+            "Rangkaian listrik",
+            "Listrik statis",
+            "Listrik dinamis dasar",
+            "Hukum Ohm",
+            "Keselamatan listrik",
+            "Daya listrik",
+            "Magnet sederhana",
+            "Gelombang & bunyi",
+            "Pemantulan cahaya",
+            "Pembiasan cahaya",
+            "Cermin & lensa sederhana"
+          ]
+        },
+        {
+          "name": "Materi & Perubahannya",
+          "subtopics": [
+            "Struktur materi",
+            "Partikel penyusun zat",
+            "Unsur, senyawa, dan campuran",
+            "Sifat fisika & kimia zat",
+            "Perubahan fisika vs kimia",
+            "Reaksi kimia sederhana",
+            "Asam, basa & garam",
+            "Indikator asam-basa",
+            "Larutan & pemisahan campuran",
+            "Filtrasi, evaporasi, distilasi & kromatografi",
+            "Zat aditif & zat adiktif"
+          ]
+        },
+        {
+          "name": "Sistem Kehidupan",
+          "subtopics": [
+            "Ciri makhluk hidup",
+            "Klasifikasi makhluk hidup",
+            "Sel & jaringan",
+            "Organisasi kehidupan",
+            "Organ tumbuhan & fungsinya",
+            "Fotosintesis & respirasi tumbuhan",
+            "Sistem pencernaan",
+            "Sistem pernapasan",
+            "Sistem peredaran darah",
+            "Sistem gerak",
+            "Sistem ekskresi",
+            "Sistem organ manusia",
+            "Gangguan sistem organ",
+            "Pertumbuhan & perkembangan",
+            "Kesehatan & gaya hidup sehat"
+          ]
+        },
+        {
+          "name": "Ekologi & Pewarisan",
+          "subtopics": [
+            "Ekosistem",
+            "Komponen biotik & abiotik",
+            "Rantai makanan & jaring-jaring makanan",
+            "Aliran energi",
+            "Adaptasi & interaksi makhluk hidup",
+            "Simbiosis",
+            "Lingkungan & pencemaran",
+            "Perubahan iklim",
+            "Konservasi & pelestarian",
+            "Reproduksi makhluk hidup",
+            "Reproduksi tumbuhan",
+            "Reproduksi manusia",
+            "Pubertas",
+            "Pewarisan sifat",
+            "Genetika dasar",
+            "Genetika Mendel dasar",
+            "Genotipe & fenotipe",
+            "Diagram Punnett",
+            "Penentu jenis kelamin",
+            "Bioteknologi sederhana"
+          ]
+        },
+        {
+          "name": "Bumi & Alam Semesta",
+          "subtopics": [
+            "Rotasi & revolusi bumi",
+            "Fenomena astronomi sederhana",
+            "Cuaca & iklim",
+            "Sumber daya alam & kelestarian"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "recall", "label": "Recall" },
+        { "value": "understanding", "label": "Understanding" },
+        { "value": "application", "label": "Application" },
+        { "value": "reasoning", "label": "Reasoning" },
+        { "value": "concept_understanding", "label": "Concept understanding" },
+        { "value": "experiment_interpretation", "label": "Experiment interpretation" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "cause_effect_reasoning", "label": "Cause-effect reasoning" }
+      ],
+      "question_types": [
+        { "value": "direct", "label": "Direct" },
+        { "value": "multi_step", "label": "Multi-step" },
+        { "value": "visual_analysis", "label": "Visual analysis" },
+        { "value": "experiment_interpretation", "label": "Experiment interpretation" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "scenario_analysis", "label": "Scenario analysis" },
+        { "value": "concept_check", "label": "Concept check" }
+      ]
+    },
+    "bahasa_indonesia": {
+      "topics": [
+        {
+          "name": "Membaca Pemahaman",
+          "subtopics": [
+            "Ide pokok",
+            "Topik, judul & gagasan utama",
+            "Informasi tersurat",
+            "Informasi tersirat",
+            "Inferensi",
+            "Simpulan",
+            "Ringkasan",
+            "Tujuan penulis",
+            "Sikap & posisi penulis",
+            "Gagasan pokok & pendukung",
+            "Hubungan antar paragraf",
+            "Bukti pendukung dalam teks"
+          ]
+        },
+        {
+          "name": "Kemampuan Verbal",
+          "subtopics": [
+            "Sinonim kontekstual",
+            "Antonim kontekstual",
+            "Makna kata dalam konteks",
+            "Denotasi, konotasi & kiasan",
+            "Analogi verbal",
+            "Analogi bertingkat",
+            "Silogisme verbal",
+            "Negasi dalam silogisme",
+            "Klasifikasi kata",
+            "Kata beda",
+            "Missing word",
+            "Logika wacana",
+            "Ketepatan diksi"
+          ]
+        },
+        {
+          "name": "Kebahasaan",
+          "subtopics": [
+            "Tata kalimat",
+            "Kalimat efektif",
+            "Ejaan",
+            "Tanda baca",
+            "Kata baku & tidak baku",
+            "Imbuhan & bentuk kata",
+            "Kohesi & koherensi",
+            "Kata rujukan",
+            "Kata hubung",
+            "Fakta & opini"
+          ]
+        },
+        {
+          "name": "Struktur Teks",
+          "subtopics": [
+            "Narasi",
+            "Cerpen & cerita fantasi",
+            "Deskripsi",
+            "Eksposisi",
+            "Eksplanasi",
+            "Argumentasi",
+            "Persuasi",
+            "Prosedur",
+            "Laporan hasil observasi",
+            "Laporan percobaan",
+            "Berita",
+            "Iklan, slogan & poster",
+            "Surat pribadi & surat dinas",
+            "Puisi rakyat",
+            "Pidato persuasif"
+          ]
+        },
+        {
+          "name": "Analisis Teks",
+          "subtopics": [
+            "Kesimpulan",
+            "Hubungan antar paragraf",
+            "Sudut pandang & sikap penulis",
+            "Evaluasi kualitas informasi",
+            "Pro-kontra dalam teks",
+            "Kesesuaian pernyataan dengan teks",
+            "Pernyataan tidak sesuai",
+            "Nada & maksud kalimat",
+            "Eliminasi opsi jebakan"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "literal", "label": "Literal" },
+        { "value": "inferential", "label": "Inferential" },
+        { "value": "evaluative", "label": "Evaluative" },
+        { "value": "understanding", "label": "Understanding" },
+        { "value": "reasoning", "label": "Reasoning" },
+        { "value": "verbal_reasoning", "label": "Verbal reasoning" },
+        { "value": "contextual_vocabulary", "label": "Contextual vocabulary" }
+      ],
+      "question_types": [
+        { "value": "direct", "label": "Direct" },
+        { "value": "short_text", "label": "Short text" },
+        { "value": "long_text", "label": "Long text" },
+        { "value": "verbal_reasoning", "label": "Verbal reasoning" },
+        { "value": "functional_text", "label": "Functional text" },
+        { "value": "text_analysis", "label": "Text analysis" },
+        { "value": "concept_check", "label": "Concept check" }
+      ]
+    },
+    "bahasa_inggris": {
+      "topics": [
+        {
+          "name": "Reading Comprehension",
+          "subtopics": [
+            "Main idea",
+            "Detail",
+            "Detail information",
+            "Inference",
+            "Vocabulary in context",
+            "Implied meaning",
+            "Writer's purpose",
+            "Reference words",
+            "Cause-effect",
+            "Sequence",
+            "Compare-contrast",
+            "Best title",
+            "Evidence from text"
+          ]
+        },
+        {
+          "name": "Grammar",
+          "subtopics": [
+            "Tenses",
+            "Simple present",
+            "Present continuous",
+            "Simple past",
+            "Past continuous",
+            "Simple future",
+            "Future continuous",
+            "Present perfect",
+            "Subject-verb agreement",
+            "Modal verbs",
+            "Articles",
+            "Pronouns",
+            "Preposition",
+            "Prepositions",
+            "Conjunctions",
+            "Passive voice",
+            "Conditional sentences",
+            "If clauses",
+            "Type 1 conditional",
+            "Type 2 conditional",
+            "Comparative & superlative",
+            "Imperative & declarative sentences",
+            "Simple & compound sentences"
+          ]
+        },
+        {
+          "name": "Vocabulary",
+          "subtopics": [
+            "Synonym & antonym",
+            "Vocabulary in context",
+            "Context clues",
+            "Word usage",
+            "Word formation",
+            "Word family",
+            "Collocation",
+            "Part of speech",
+            "Tone: positive, negative, neutral"
+          ]
+        },
+        {
+          "name": "Interpersonal Language",
+          "subtopics": [
+            "Greeting & introduction",
+            "Asking & giving information",
+            "Time and date",
+            "Direction",
+            "Apology & gratitude",
+            "Opinion",
+            "Preference",
+            "Comparison",
+            "Compliment",
+            "Suggestion",
+            "Agreement & disagreement",
+            "Invitation",
+            "Permission",
+            "Recommendation",
+            "Warning, caution, prohibition & obligation",
+            "Politeness & tone"
+          ]
+        },
+        {
+          "name": "Functional Text",
+          "subtopics": [
+            "Announcement",
+            "Notice & warning",
+            "Label",
+            "Invitation & short message",
+            "Greeting card",
+            "Procedure text",
+            "Dialogue",
+            "Short text comprehension"
+          ]
+        },
+        {
+          "name": "Text Types",
+          "subtopics": [
+            "Narrative text",
+            "Descriptive text",
+            "Informational text",
+            "Persuasive text",
+            "Character trait",
+            "Story problem & resolution",
+            "Descriptive details"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "grammar", "label": "Grammar" },
+        { "value": "comprehension", "label": "Comprehension" },
+        { "value": "vocabulary", "label": "Vocabulary" },
+        { "value": "literal", "label": "Literal" },
+        { "value": "inferential", "label": "Inferential" },
+        { "value": "contextual_reasoning", "label": "Contextual reasoning" },
+        { "value": "communicative_function", "label": "Communicative function" }
+      ],
+      "question_types": [
+        { "value": "direct", "label": "Direct" },
+        { "value": "short_text", "label": "Short text" },
+        { "value": "long_text", "label": "Long text" },
+        { "value": "dialogue", "label": "Dialogue" },
+        { "value": "functional_text", "label": "Functional text" },
+        { "value": "cloze", "label": "Cloze" },
+        { "value": "concept_check", "label": "Concept check" }
+      ]
+    },
+    "ips": {
+      "topics": [
+        {
+          "name": "Geografi",
+          "subtopics": [
+            "Peta & denah",
+            "Komponen peta",
+            "Letak astronomis & geografis",
+            "Wilayah & lokasi",
+            "Kondisi geografis Indonesia",
+            "Kondisi geografis ASEAN",
+            "Iklim & bentuk muka bumi",
+            "Interaksi ruang",
+            "Konektivitas wilayah",
+            "Mobilitas penduduk",
+            "Lingkungan hidup & sumber daya",
+            "Potensi wilayah",
+            "Mitigasi bencana",
+            "Pelestarian lingkungan"
+          ]
+        },
+        {
+          "name": "Sejarah",
+          "subtopics": [
+            "Sejarah Indonesia",
+            "Masa praaksara",
+            "Hindu-Buddha di Indonesia",
+            "Islam di Indonesia",
+            "Kolonialisme",
+            "Pergerakan nasional",
+            "Proklamasi",
+            "Kronologi peristiwa",
+            "Sebab-akibat sejarah",
+            "Tokoh & perubahan sosial",
+            "Warisan budaya & nasionalisme",
+            "Interpretasi sumber sejarah"
+          ]
+        },
+        {
+          "name": "Ekonomi",
+          "subtopics": [
+            "Ekonomi dasar",
+            "Kebutuhan & keinginan",
+            "Kelangkaan",
+            "Skala prioritas",
+            "Tindakan, motif & prinsip ekonomi",
+            "Kegiatan ekonomi",
+            "Produksi, distribusi & konsumsi",
+            "Pelaku ekonomi",
+            "Peran konsumen & produsen",
+            "Permintaan & penawaran",
+            "Pasar & harga",
+            "Uang",
+            "Lembaga keuangan dasar",
+            "Perdagangan antardaerah",
+            "Perdagangan internasional dasar",
+            "Kerja sama ekonomi regional",
+            "Ekonomi digital"
+          ]
+        },
+        {
+          "name": "Sosiologi",
+          "subtopics": [
+            "Interaksi sosial",
+            "Kontak & komunikasi",
+            "Kerja sama, persaingan, konflik & akomodasi",
+            "Lembaga sosial",
+            "Norma & nilai sosial",
+            "Keberagaman sosial budaya",
+            "Toleransi",
+            "Mobilitas sosial",
+            "Perubahan sosial",
+            "Dampak teknologi"
+          ]
+        },
+        {
+          "name": "Regional, Global & Isu Kontemporer",
+          "subtopics": [
+            "ASEAN",
+            "Globalisasi",
+            "Isu regional",
+            "Isu global",
+            "Tantangan pembangunan",
+            "Dampak sosial ekonomi teknologi",
+            "Kemajemukan budaya"
+          ]
+        },
+        {
+          "name": "Interpretasi Data Sosial",
+          "subtopics": [
+            "Grafik sosial ekonomi",
+            "Tabel penduduk",
+            "Peta tematik",
+            "Timeline sejarah",
+            "Infografik sederhana",
+            "Kependudukan",
+            "Studi kasus",
+            "5W1H",
+            "Data vs opini",
+            "Kesimpulan berbasis data"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "recall", "label": "Recall" },
+        { "value": "understanding", "label": "Understanding" },
+        { "value": "application", "label": "Application" },
+        { "value": "reasoning", "label": "Reasoning" },
+        { "value": "multi_step_problem", "label": "Multi-step problem" },
+        { "value": "source_interpretation", "label": "Source interpretation" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "cause_effect_reasoning", "label": "Cause-effect reasoning" }
+      ],
+      "question_types": [
+        { "value": "direct", "label": "Direct" },
+        { "value": "story_problem", "label": "Story problem" },
+        { "value": "multi_step", "label": "Multi-step" },
+        { "value": "visual_analysis", "label": "Visual analysis" },
+        { "value": "map_analysis", "label": "Map analysis" },
+        { "value": "data_interpretation", "label": "Data interpretation" },
+        { "value": "source_analysis", "label": "Source analysis" },
+        { "value": "case_analysis", "label": "Case analysis" },
+        { "value": "concept_check", "label": "Concept check" }
+      ]
+    },
+    "survei_karakter": {
+      "topics": [
+        {
+          "name": "Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia",
+          "subtopics": [
+            "Akhlak kepada Tuhan",
+            "Akhlak kepada manusia",
+            "Kejujuran",
+            "Amanah & tanggung jawab",
+            "Menghargai martabat orang lain",
+            "Bertindak sesuai norma"
+          ]
+        },
+        {
+          "name": "Integritas & Tanggung Jawab",
+          "subtopics": [
+            "Kejujuran dalam situasi sulit",
+            "Tanggung jawab terhadap tugas",
+            "Konsistensi antara ucapan dan tindakan",
+            "Mengakui kesalahan",
+            "Menghindari kecurangan",
+            "Akuntabilitas dalam situasi sulit"
+          ]
+        },
+        {
+          "name": "Empati & Kepedulian Sosial",
+          "subtopics": [
+            "Membantu teman",
+            "Menghargai perbedaan",
+            "Mendengarkan pendapat orang lain",
+            "Peduli lingkungan sekolah",
+            "Sikap inklusif",
+            "Empati dan keadilan"
+          ]
+        },
+        {
+          "name": "Kedisiplinan & Regulasi Diri",
+          "subtopics": [
+            "Mengatur waktu",
+            "Mengikuti aturan",
+            "Mengelola emosi",
+            "Bertahan saat menghadapi kesulitan",
+            "Prioritas belajar",
+            "Manajemen waktu",
+            "Resiliensi"
+          ]
+        },
+        {
+          "name": "Mandiri",
+          "subtopics": [
+            "Regulasi diri",
+            "Inisiatif belajar",
+            "Manajemen waktu mandiri",
+            "Mengatasi tugas sulit",
+            "Menentukan prioritas",
+            "Bertanggung jawab atas pilihan pribadi"
+          ]
+        },
+        {
+          "name": "Kolaborasi & Komunikasi",
+          "subtopics": [
+            "Kerja kelompok",
+            "Musyawarah",
+            "Menyampaikan pendapat dengan sopan",
+            "Menerima kritik",
+            "Menyelesaikan konflik",
+            "Komunikasi asertif",
+            "Kepemimpinan dalam kelompok"
+          ]
+        },
+        {
+          "name": "Bergotong Royong",
+          "subtopics": [
+            "Kolaborasi",
+            "Kepedulian",
+            "Berbagi peran",
+            "Kontribusi dalam kelompok",
+            "Membantu anggota kelompok",
+            "Menyelesaikan masalah bersama"
+          ]
+        },
+        {
+          "name": "Pengambilan Keputusan",
+          "subtopics": [
+            "Memilih respons paling bertanggung jawab",
+            "Menimbang akibat tindakan",
+            "Mengutamakan keselamatan",
+            "Bersikap adil",
+            "Menghadapi tekanan teman sebaya"
+          ]
+        },
+        {
+          "name": "Berkebhinekaan Global",
+          "subtopics": [
+            "Menghargai perbedaan budaya dan latar belakang",
+            "Menjadi jembatan antar kelompok berbeda",
+            "Menolak diskriminasi dan prasangka",
+            "Inklusivitas aktif",
+            "Perspektif terbuka terhadap keberagaman",
+            "Menghormati identitas orang lain"
+          ]
+        },
+        {
+          "name": "Kreatif",
+          "subtopics": [
+            "Mengusulkan solusi alternatif",
+            "Melihat masalah dari sudut pandang baru",
+            "Berani mencoba cara yang tidak konvensional",
+            "Memanfaatkan sumber yang ada secara inovatif",
+            "Adaptasi terhadap situasi yang berubah",
+            "Inisiatif dalam situasi buntu"
+          ]
+        },
+        {
+          "name": "Bernalar Kritis",
+          "subtopics": [
+            "Memverifikasi informasi sebelum bertindak",
+            "Menyampaikan pandangan berdasarkan alasan",
+            "Menolak tekanan kelompok tanpa dasar",
+            "Membedakan fakta dari asumsi",
+            "Evaluasi tindakan berdasarkan bukti",
+            "Tidak menyebarkan informasi yang belum terverifikasi"
+          ]
+        }
+      ],
+      "skill_types": [
+        { "value": "self_reflection", "label": "Self reflection" },
+        { "value": "moral_reasoning", "label": "Moral reasoning" },
+        { "value": "social_reasoning", "label": "Social reasoning" },
+        { "value": "case_analysis", "label": "Case analysis" },
+        { "value": "decision_making", "label": "Decision making" },
+        { "value": "creative_thinking", "label": "Creative thinking" },
+        { "value": "critical_thinking", "label": "Critical thinking" }
+      ],
+      "question_types": [
+        { "value": "situational_judgment", "label": "Situational judgment" },
+        { "value": "case_analysis", "label": "Case analysis" },
+        { "value": "self_assessment", "label": "Self assessment" },
+        { "value": "priority_choice", "label": "Priority choice" },
+        { "value": "response_evaluation", "label": "Response evaluation" }
+      ]
+    }
+  }
+}

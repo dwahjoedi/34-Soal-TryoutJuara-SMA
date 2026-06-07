@@ -1,0 +1,445 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "tangki"
+    ],
+    "is_active": true,
+    "question": "Tim kebun sekolah memakai tangki penyimpanan air hujan. Awalnya tangki kosong. Pada hari pertama, air mengisi $\\frac{1}{4}$ bagian dari kapasitas penuh. Pada hari kedua, setelah hujan deras, air bertambah sebanyak $\\frac{1}{6}$ bagian dari kapasitas penuh. Setelah kedua pengisian itu, ketua tim mencatat bahwa tangki masih kurang $98$ liter lagi agar benar-benar penuh. Kapasitas penuh tangki tersebut adalah ...",
+    "options": [
+      "168 liter",
+      "120 liter",
+      "140 liter",
+      "180 liter"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Jumlah bagian terisi adalah $\\frac{1}{4}+\\frac{1}{6}$.\nLangkah 2: Samakan penyebut: $\\frac{3}{12}+\\frac{2}{12}=\\frac{5}{12}$.\nLangkah 3: Bagian yang masih kosong sampai penuh adalah $1-\\frac{5}{12}=\\frac{7}{12}$.\nLangkah 4: Informasi *kurang $98$ liter* berarti $\\frac{7}{12}C=98$, sehingga $C=98\\times\\frac{12}{7}=168$ liter.\nLangkah 5: Cek balik: $\\frac{7}{12}\\times168=98$, sesuai catatan tim.\n**Materi terkait:**\n- Pecahan sebagai bagian dari keseluruhan kapasitas.\nInsight kunci: Informasi *kurang sekian liter sampai penuh* sering berarti bagian ruang kosong, bukan bagian air yang sudah ada.\nKenapa opsi lain salah: Opsi lain biasanya muncul dari salah menyamakan penyebut atau salah membalik pecahan saat mencari total.\nJawaban akhir: **168 liter**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "kpk"
+    ],
+    "is_active": true,
+    "question": "Di depan gerbang sekolah dipasang tiga lonceng kecil untuk jadwal istirahat. Ketiga lonceng berbunyi bersamaan pada pukul 10.05. Lonceng A berbunyi lagi setiap $12$ menit, lonceng B setiap $16$ menit, dan lonceng C setiap $24$ menit. Petugas piket mencatat setiap kali ketiganya berbunyi bersamaan. Untuk pertama kali setelah pukul 10.05, ketiganya berbunyi bersamaan lagi pada pukul ...",
+    "options": [
+      "10.41",
+      "10.53",
+      "10.49",
+      "10.57"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Soal ini bertanya *kapan bertemu lagi*, jadi gunakan **KPK** dari $12$, $16$, dan $24$ menit.\nLangkah 2: Faktorisasi: $12=2^2\\times3$, $16=2^4$, $24=2^3\\times3$.\nLangkah 3: **KPK** $=2^4\\times3=48$ menit.\nLangkah 4: Tambahkan $48$ menit ke 10.05, diperoleh **10.53**.\nLangkah 5: Cek: $48$ memang kelipatan $12$, $16$, dan $24$, jadi waktu sinkron benar.\n**Materi terkait:**\n- **KPK** untuk periode berulang yang harus sinkron.\nInsight kunci: Setelah **KPK** ditemukan, langkah terakhir hanya penjumlahan waktu dengan hati-hati pada menit yang melewati 60.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah **KPK** atau salah menambahkan menit ke jam semula.\nJawaban akhir: **10.53**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "rasio"
+    ],
+    "is_active": true,
+    "question": "Di toko alat tulis, perbandingan banyak pena hitam dan pena warna pada rak pembukaan adalah $5:7$. Setelah terjual $12$ pena hitam, perbandingan hitam : warna menjadi $1:2$. Pemilik toko ingin memesan ulang stok hitam sesuai kondisi awal. Banyak pena hitam pada saat rak pertama kali diisi adalah ...",
+    "options": [
+      "24",
+      "32",
+      "40",
+      "45"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Misalkan banyak pena hitam awal $=5k$ dan pena warna $=7k$.\nLangkah 2: Setelah terjual $12$ hitam, banyak hitam menjadi $5k-12$, warna tetap $7k$.\nLangkah 3: Rasio baru $\\frac{5k-12}{7k}=\\frac{1}{2}$.\nLangkah 4: Kalikan silang: $2(5k-12)=7k \\Rightarrow 10k-24=7k \\Rightarrow 3k=24 \\Rightarrow k=8$.\nLangkah 5: Pena hitam awal $=5k=40$. Cek balik: setelah jual $12$ menjadi $28$, rasio $28:56=1:2$, sesuai.\n**Materi terkait:**\n- **Rasio** dengan model $ak$ dan $bk$.\nInsight kunci: Pastikan perubahan jumlah hanya memengaruhi pihak yang disebut cerita, sementara pihak lain tetap.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah menyelesaikan persamaan dari kalikan silang.\nJawaban akhir: **40**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "persen"
+    ],
+    "is_active": true,
+    "question": "Sebuah koperasi membeli snack dengan harga modal Rp200.000 per kardus berisi $40$ bungkus. Jika koperasi ingin untung $25\\%$ dari harga modal per kardus, lalu menjual ecer dengan harga sama tiap bungkus, harga jual per bungkus adalah ...",
+    "options": [
+      "Rp5.500",
+      "Rp5.750",
+      "Rp6.000",
+      "Rp6.250"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Harga modal per bungkus $=\\frac{200000}{40}=5000$.\nLangkah 2: Untung $25\\%$ dari modal per bungkus $=0{,}25\\times5000=1250$.\nLangkah 3: Harga jual per bungkus $=5000+1250=6250$.\nLangkah 4: Jadi harga jualnya Rp6.250 per bungkus.\nLangkah 5: Cek balik: untung per bungkus memang $1250$, proporsinya $25\\%$ dari $5000$.\n**Materi terkait:**\n- **Persen untung** dihitung dari basis modal yang benar.\nInsight kunci: Modal per unit sering disembunyikan dalam informasi *per kardus* dan *isi kardus*.\nKenapa opsi lain salah: Opsi lain biasanya muncul jika untung dihitung dari harga kardus total tanpa dibagi $40$.\nJawaban akhir: **Rp6.250**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-f",
+      "operasi"
+    ],
+    "is_active": true,
+    "question": "Diberikan $x=(-18)+14$ dan $y=48\\div(-6)$. Nilai dari ekspresi $-2x-y$ adalah ...",
+    "options": [
+      "12",
+      "16",
+      "14",
+      "18"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Hitung $x=(-18)+14=-4$.\nLangkah 2: Hitung $y=48\\div(-6)=-8$.\nLangkah 3: Substitusi ke ekspresi: $-2x-y=-2(-4)-(-8)$.\nLangkah 4: Diperoleh $8+8=16$.\nLangkah 5: Jadi nilai ekspresinya $16$.\n**Materi terkait:**\n- Substitusi nilai variabel dari definisi yang diberikan.\n- Operasi tanda negatif pada perkalian dan pengurangan.\nInsight kunci: Ubah soal menjadi dua tahap: cari nilai variabel dulu, baru substitusi ke ekspresi akhir.\nKenapa opsi lain salah: Opsi lain biasanya berasal dari salah tanda saat menghitung $-2x$ atau saat mengurangkan bilangan negatif.\nJawaban akhir: **16**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "mean"
+    ],
+    "is_active": true,
+    "question": "Nilai ulangan Matematika Dina selama lima kali berturut-turut adalah $82$, $86$, $84$, $90$, dan $88$. Jika ia ingin rata-rata enam ulangan menjadi tepat $87$, nilai yang harus ia raih pada ulangan keenam adalah ...",
+    "options": [
+      "94",
+      "96",
+      "98",
+      "92"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Jumlah lima nilai awal $=82+86+84+90+88=430$.\nLangkah 2: Total target enam nilai $=6\\times87=522$.\nLangkah 3: Nilai keenam $=522-430=92$.\nLangkah 4: Cek balik: $(430+92)/6=522/6=87$, sesuai.\nLangkah 5: Jadi jawabannya **92**.\n**Materi terkait:**\n- Strategi total untuk mencapai rata-rata target.\nInsight kunci: Hitung total lama dulu, baru bandingkan dengan total yang harus dicapai.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah menjumlah lima nilai awal atau salah menghitung total target.\nJawaban akhir: **92**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Penyajian & interpretasi data",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-f",
+      "pie"
+    ],
+    "is_active": true,
+    "question": "Sebuah survei memiliki $40$ responden. Diagram lingkaran menyatakan sudut pusat kategori A $=90^\\circ$, kategori B $=60^\\circ$, kategori C $=30^\\circ$, dan sisanya kategori D. Banyak responden kategori D adalah ...",
+    "options": [
+      "20",
+      "14",
+      "16",
+      "18"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Jumlah sudut pada lingkaran penuh adalah $360^\\circ$.\nLangkah 2: Jumlahkan sudut kategori yang sudah diketahui: $90^\\circ+60^\\circ+30^\\circ=180^\\circ$.\nLangkah 3: Sudut kategori D adalah $360^\\circ-180^\\circ=180^\\circ$, artinya setengah lingkaran.\nLangkah 4: Banyak responden D $=\\frac{180}{360}\\times40=20$.\nLangkah 5: Cek: $20$ orang memang setengah dari $40$, konsisten dengan sudut $180^\\circ$.\n**Materi terkait:**\n- Diagram lingkaran: sudut pusat sebanding dengan banyak data.\nInsight kunci: Jika sudut D $180^\\circ$, proporsinya otomatis $\\frac{1}{2}$ total data.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah menjumlah sudut atau salah mengalikan proporsi ke total responden.\nJawaban akhir: **20**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-f",
+      "peluang",
+      "peluang-dadu"
+    ],
+    "is_active": true,
+    "question": "Sebuah dadu bersisi enam dilempar dua kali. Peluang lemparan pertama menghasilkan **bilangan prima** dan lemparan kedua menghasilkan bilangan lebih dari $4$ adalah ...",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pada dadu, bilangan prima yang mungkin adalah $2$, $3$, dan $5$. Jadi peluang lemparan pertama prima adalah $\\frac{3}{6}=\\frac{1}{2}$.\nLangkah 2: Bilangan yang lebih dari $4$ adalah $5$ dan $6$. Jadi peluang lemparan kedua lebih dari $4$ adalah $\\frac{2}{6}=\\frac{1}{3}$.\nLangkah 3: Dua lemparan dadu saling **independen**, artinya hasil lemparan pertama tidak mengubah peluang lemparan kedua. Karena dua syarat harus terjadi berurutan, kalikan peluangnya.\nLangkah 4: Hasilnya $\\frac{1}{2}\\times\\frac{1}{3}=\\frac{1}{6}$. Jadi peluang yang diminta adalah $\\frac{1}{6}$.\n**Materi terkait:**\n- Untuk kejadian berurutan yang independen, peluang dikalikan.\n- Bedakan kejadian independen seperti lempar dadu dengan pengambilan tanpa pengembalian yang penyebutnya berubah.\nInsight kunci: Jebakan soal ini adalah mencampur daftar hasil prima dengan daftar hasil lebih dari $4$ seolah-olah terjadi pada satu lemparan saja. Padahal ada dua lemparan, sehingga setiap syarat punya ruang sampel sendiri. Menulis peluang tiap tahap membuat proses lebih jelas.\nKenapa opsi lain salah: $\\frac{1}{3}$ hanya memakai peluang lemparan kedua, $\\frac{1}{4}$ muncul dari salah menghitung banyak bilangan prima, dan $\\frac{2}{3}$ terlalu besar karena tidak mengalikan dua syarat.\nJawaban akhir: **$\\frac{1}{6}$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "plsv"
+    ],
+    "is_active": true,
+    "question": "Sebuah bilangan jika dikurangi $7$, hasilnya sama dengan $\\frac{1}{3}$ dari bilangan itu ditambah $5$. Bilangan tersebut adalah ...",
+    "options": [
+      "21",
+      "24",
+      "27",
+      "18"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Misalkan bilangannya $x$.\nLangkah 2: Terjemahkan: $x-7=\\frac{x}{3}+5$.\nLangkah 3: Kalikan semua suku dengan $3$: $3x-21=x+15$.\nLangkah 4: Kurangkan $x$ dan tambahkan $21$: $2x=36$, jadi $x=18$.\nLangkah 5: Cek balik: $18-7=11$ dan $\\frac{18}{3}+5=6+5=11$, konsisten.\n**Materi terkait:**\n- **PLSV** dari model verbal pecahan.\nInsight kunci: Menghilangkan penyebut dengan mengalikan semua suku sering membuat aljabar lebih rapi.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah operasi saat membersihkan pecahan.\nJawaban akhir: **18**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-f",
+      "fpb-vs-kpk"
+    ],
+    "is_active": true,
+    "question": "Kata kunci manakah yang paling mengarah pada penggunaan **KPK** (bukan FPB) dalam model matematika?",
+    "options": [
+      "Menentukan kapan tiga alarm dengan periode berbeda akan berbunyi bersamaan lagi",
+      "Membagi $120$ permen dan $84$ cokelat ke dalam kotak identik sebanyak-banyaknya tanpa sisa",
+      "Mencari potongan pita terpanjang yang sama untuk dua pita agar tidak ada sisa",
+      "Membagi $48$ murid menjadi kelompok sama besar dengan murid perempuan dan laki-laki seimbang"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: **KPK** dipakai untuk sinkronisasi periode berulang seperti *berbunyi bersama lagi*.\nLangkah 2: Opsi pembagian merata tanpa sisa biasanya berhubungan dengan **FPB**.\nLangkah 3: Potongan pita sama tanpa sisa juga berhubungan dengan **FPB**.\nLangkah 4: Pembagian murid seimbang tidak otomatis memakai **KPK**.\nLangkah 5: Jadi jawaban yang tepat adalah opsi tentang alarm berulang.\n**Materi terkait:**\n- Bedakan **FPB** (pembagi terbesar) dan **KPK** (kelipatan terkecil).\nInsight kunci: Jika soal menanyakan *kapan bertemu lagi*, pikirkan kelipatan bersama.\nKenapa opsi lain salah: Opsi lain memuat konteks pembagian/ faktor persekutuan yang lebih cocok untuk **FPB**.\nJawaban akhir: **Menentukan kapan tiga alarm dengan periode berbeda akan berbunyi bersamaan lagi**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-f",
+      "pola",
+      "pola-visual"
+    ],
+    "is_active": true,
+    "question": "Pola ubin dibuat dari sebuah persegi $n\\times n$, lalu ditambahkan satu baris berisi $n$ ubin pada keempat sisinya. Untuk pola ke-$5$, banyak ubin seluruhnya adalah ...",
+    "options": [
+      "40",
+      "45",
+      "42",
+      "48"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Untuk pola ke-$5$, bagian tengahnya adalah persegi $5\\times5$. Banyak ubin bagian tengah berarti $5^2=25$ ubin.\nLangkah 2: Ada empat tambahan baris di sekeliling persegi, masing-masing berisi $5$ ubin. Jadi tambahan ubin adalah $4\\times5=20$ ubin.\nLangkah 3: Jumlahkan bagian tengah dan tambahan sisi: $25+20=45$. Ini sama dengan bentuk umum $n^2+4n$, tetapi kita membangunnya dari cerita pola, bukan langsung substitusi rumus.\nLangkah 4: Jadi banyak ubin pada pola ke-$5$ adalah $45$.\n**Materi terkait:**\n- Pada **pola bilangan visual**, ubah gambar atau deskripsi menjadi bagian-bagian yang mudah dihitung.\n- Rumus bisa muncul dari struktur pola, bukan harus diberikan sejak awal.\nInsight kunci: Soal ini menguji kemampuan memodelkan pola dari bentuk. Siswa yang hanya mencari selisih angka mungkin bingung karena daftar suku tidak diberikan. Cara aman adalah menghitung bagian persegi dan tambahan sisi secara terpisah.\nKenapa opsi lain salah: $40$ biasanya muncul jika hanya tiga sisi tambahan dihitung, $42$ dari salah menjumlah bagian tengah, dan $48$ dari menambah sudut dua kali.\nJawaban akhir: **45**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "trapesium"
+    ],
+    "is_active": true,
+    "question": "Sebuah kolam ikan dangkal berbentuk trapesium memiliki sisi sejajar $22\\,\\text{m}$ dan $10\\,\\text{m}$, serta tinggi $8\\,\\text{m}$. Luas permukaan air di kolam tersebut adalah ...",
+    "options": [
+      "112 $\\text{m}^2$",
+      "120 $\\text{m}^2$",
+      "128 $\\text{m}^2$",
+      "136 $\\text{m}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Rumus luas trapesium $L=\\frac{1}{2}(a+b)t$.\nLangkah 2: Substitusi $a=22$, $b=10$, $t=8$.\nLangkah 3: $a+b=32$.\nLangkah 4: $L=\\frac{1}{2}\\times32\\times8=16\\times8=128$.\nLangkah 5: Jadi luasnya $128\\,\\text{m}^2$.\n**Materi terkait:**\n- Tinggi trapesium tegak lurus kedua sisi sejajar.\nInsight kunci: Faktor $\\frac{1}{2}$ sering terlupakan saat tergesa-gesa.\nKenapa opsi lain salah: Opsi lain biasanya hasil lupa faktor setengah atau salah menjumlah sisi sejajar.\nJawaban akhir: **128 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-f",
+      "lingkaran"
+    ],
+    "is_active": true,
+    "question": "Roda sepeda memiliki diameter $35\\,\\text{cm}$. Jika $\\pi=\\frac{22}{7}$, keliling roda tersebut adalah ...",
+    "options": [
+      "110 cm",
+      "100 cm",
+      "105 cm",
+      "115 cm"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Keliling lingkaran $K=\\pi d$.\nLangkah 2: Substitusi $d=35$ dan $\\pi=\\frac{22}{7}$.\nLangkah 3: $K=\\frac{22}{7}\\times35=22\\times5$.\nLangkah 4: Hitung $22\\times5=110$.\nLangkah 5: Jadi kelilingnya $110\\,\\text{cm}$.\n**Materi terkait:**\n- Diameter dan jari-jari saling berkaitan, tetapi rumus $K=\\pi d$ langsung memakai diameter.\nInsight kunci: Saat $d$ kelipatan $7$ dan $\\pi=\\frac{22}{7}$, faktor sering menyederhanakan rapi.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah substitusi atau memakai $r$ dan $d$ tertukar.\nJawaban akhir: **110 cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "segitiga-siku"
+    ],
+    "is_active": true,
+    "question": "Sebuah tanda parkir berbentuk segitiga siku-siku memiliki kedua kaki siku-siku berturut-turut $7\\,\\text{dm}$ dan $24\\,\\text{dm}$. Luas tanda tersebut adalah ...",
+    "options": [
+      "72 $\\text{dm}^2$",
+      "80 $\\text{dm}^2$",
+      "84 $\\text{dm}^2$",
+      "96 $\\text{dm}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pada segitiga siku-siku, dua kaki siku-siku bisa dipakai sebagai alas dan tinggi.\nLangkah 2: Luas $L=\\frac{1}{2}\\times7\\times24$.\nLangkah 3: Hitung $7\\times24=168$.\nLangkah 4: Ambil setengahnya: $\\frac{168}{2}=84$.\nLangkah 5: Jadi luasnya $84\\,\\text{dm}^2$.\n**Materi terkait:**\n- Luas segitiga membutuhkan alas dan tinggi yang saling tegak lurus.\nInsight kunci: Segitiga $7$-$24$-$25$ adalah triple Pythagoras, tetapi untuk luas cukup dua kaki siku-siku.\nKenapa opsi lain salah: Opsi lain biasanya hasil lupa faktor $\\frac{1}{2}$ atau salah memilih pasangan alas-tinggi.\nJawaban akhir: **84 $\\text{dm}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "kerucut"
+    ],
+    "is_active": true,
+    "question": "Dalam rapat persiapan kegiatan sekolah, panitia mencatat data secara bertahap dan tidak selalu dalam urutan yang memudahkan hitung. Siswa diminta mengekstrak informasi kunci, menyusun model, lalu menyelesaikan pertanyaan inti berikut. Cetakan pasir berbentuk kerucut dipakai di festival seni. Jari-jari alas $6\\,\\text{cm}$ dan tinggi $14\\,\\text{cm}$. Jika $\\pi=\\frac{22}{7}$, volume pasir yang memenuhi cetakan tersebut adalah ...",
+    "options": [
+      "480 $\\text{cm}^3$",
+      "504 $\\text{cm}^3$",
+      "520 $\\text{cm}^3$",
+      "528 $\\text{cm}^3$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Volume kerucut $V=\\frac{1}{3}\\pi r^2 h$.\nLangkah 2: Substitusi $r=6$, $h=14$, $\\pi=\\frac{22}{7}$: $V=\\frac{1}{3}\\times\\frac{22}{7}\\times36\\times14$.\nLangkah 3: Sederhanakan $\\frac{14}{7}=2$, jadi $V=\\frac{1}{3}\\times22\\times36\\times2$.\nLangkah 4: Hitung $22\\times36=792$, lalu $792\\times2=1584$, lalu bagi $3$: $1584/3=528$.\nLangkah 5: Jadi volumenya $528\\,\\text{cm}^3$.\n**Materi terkait:**\n- Faktor $\\frac{1}{3}$ khas volume kerucut.\nInsight kunci: Sederhanakan $\\pi r^2 h$ sebelum membagi $3$ agar angka lebih kecil.\nKenapa opsi lain salah: Opsi lain biasanya hasil lupa faktor $\\frac{1}{3}$ atau salah menyederhanakan $\\pi$.\nJawaban akhir: **528 $\\text{cm}^3$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-f",
+      "balok",
+      "kubus-satuan"
+    ],
+    "is_active": true,
+    "question": "Sebuah kotak berbentuk balok berukuran panjang $12$ cm, lebar $8$ cm, dan tinggi $4$ cm akan diisi kubus kecil tanpa celah. Jika setiap kubus kecil memiliki rusuk $2$ cm, banyak kubus kecil yang dapat masuk adalah ...",
+    "options": [
+      "36 kubus",
+      "48 kubus",
+      "54 kubus",
+      "64 kubus"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Hitung berapa kubus kecil yang muat pada tiap arah balok. Pada panjang $12$ cm muat $12\\div2=6$ kubus kecil.\nLangkah 2: Pada lebar $8$ cm muat $8\\div2=4$ kubus kecil, dan pada tinggi $4$ cm muat $4\\div2=2$ kubus kecil.\nLangkah 3: Karena kubus kecil mengisi ruang tiga dimensi, kalikan banyaknya pada tiga arah: $6\\times4\\times2=48$ kubus.\nLangkah 4: Jadi banyak kubus kecil yang dapat masuk adalah $48$ kubus.\n**Materi terkait:**\n- Mengisi balok dengan kubus satuan dapat dihitung dari banyak kubus pada panjang, lebar, dan tinggi.\n- Ini setara dengan membandingkan volume, tetapi cara arah per arah lebih mudah dipahami dan menghindari salah satuan.\nInsight kunci: Soal ini meminta banyak benda kecil, bukan volume akhir dalam $\\text{cm}^3$. Jika siswa hanya menghitung volume balok $12\\times8\\times4$, ia masih harus membaginya dengan volume satu kubus kecil. Menghitung per arah membuat struktur susunannya lebih terlihat.\nKenapa opsi lain salah: $36$ biasanya muncul jika tinggi tidak dihitung, $54$ dari salah membagi salah satu sisi, dan $64$ dari mengira semua arah memuat jumlah kubus yang sama.\nJawaban akhir: **48 kubus**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-f",
+      "gabungan"
+    ],
+    "is_active": true,
+    "question": "Sebuah taman berbentuk persegi panjang $20\\,\\text{m}\\times14\\,\\text{m}$ dengan setengah lingkaran menempel pada salah satu sisi $14\\,\\text{m}$. Jika pagar dipasang hanya pada batas luar taman dan tidak pada garis sambungan kedua bangun, panjang pagar yang dibutuhkan adalah ...",
+    "options": [
+      "$62$ m",
+      "$70$ m",
+      "$76$ m",
+      "$84$ m"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Soal menanyakan panjang pagar, jadi gunakan **keliling luar**, bukan luas. Garis diameter setengah lingkaran tidak dihitung karena menjadi sambungan dengan persegi panjang.\nLangkah 2: Bagian lurus yang dipagari adalah dua sisi panjang $20+20$ dan satu sisi lebar $14$, total $54$ m.\nLangkah 3: Busur setengah lingkaran berdiameter $14$ m panjangnya $\\frac{1}{2}\\times\\frac{22}{7}\\times14=22$ m.\nLangkah 4: Total pagar $=54+22=76$ m.\n**Materi terkait:**\n- Keliling bangun gabungan hanya menghitung batas luar.\n- Sisi yang menempel di dalam gabungan tidak dihitung sebagai pagar luar.\nInsight kunci: Dengan bentuk yang sama, pertanyaan berbeda dapat membutuhkan strategi berbeda. Luas dan keliling tidak boleh tertukar.\nKenapa opsi lain salah: Opsi lain muncul jika busur dilupakan, diameter dihitung dua kali, atau luas setengah lingkaran dipakai.\nJawaban akhir: **$76$ m**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Problem campuran multi-konsep",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "kecepatan"
+    ],
+    "is_active": true,
+    "question": "Kurir sekolah menguji rute pengiriman dokumen. Pada percobaan pertama, ia menempuh $12\\,\\text{km}$ dalam $20$ menit dengan kecepatan konstan. Keesokan harinya, ia harus menempuh jarak lebih jauh dengan kecepatan yang sama persis, dan waktu mengemudi yang tersedia $2$ jam $15$ menit tanpa berhenti. Jarak yang dapat ditempuh adalah ...",
+    "options": [
+      "72 km",
+      "81 km",
+      "78 km",
+      "84 km"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Ubah $20$ menit ke jam: $\\frac{20}{60}=\\frac{1}{3}$ jam.\nLangkah 2: Kecepatan $v=\\frac{12}{1/3}=36$ km/jam.\nLangkah 3: Waktu kedua $2$ jam $15$ menit $=2{,}25$ jam $=\\frac{9}{4}$ jam.\nLangkah 4: Jarak $s=v\\times t=36\\times\\frac{9}{4}=9\\times9=81$ km.\nLangkah 5: Cek proporsi: waktu kedua $135$ menit adalah $6{,}75$ kali $20$ menit? $135/20=6.75$, $12\\times6.75=81$, konsisten.\n**Materi terkait:**\n- Konsistensi satuan waktu sebelum memakai rumus kecepatan.\nInsight kunci: Cari $v$ dari data pertama, lalu pakai $v$ yang sama untuk pertanyaan kedua.\nKenapa opsi lain salah: Opsi lain biasanya muncul dari salah konversi menit ke jam.\nJawaban akhir: **81 km**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Sistem persamaan linear dua variabel",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-f",
+      "spldv"
+    ],
+    "is_active": true,
+    "question": "Di kantin sekolah, dua transaksi tercatat sebagai berikut. Transaksi pertama: $3$ bungkus kue dan $2$ botol susu totalnya Rp130.000. Transaksi kedua: $5$ bungkus kue dan $2$ botol susu totalnya Rp190.000. Harga satu bungkus kue adalah ...",
+    "options": [
+      "Rp20.000",
+      "Rp25.000",
+      "Rp35.000",
+      "Rp30.000"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Misalkan harga kue $k$ (ribu rupiah) dan susu $s$ (ribu rupiah). Maka $3k+2s=130$ dan $5k+2s=190$ (dalam ribu).\nLangkah 2: Kurangkan persamaan kedua dengan pertama: $(5k+2s)-(3k+2s)=190-130$, sehingga $2k=60$.\nLangkah 3: Diperoleh $k=30$ (ribu rupiah).\nLangkah 4: Artinya harga satu bungkus kue Rp30.000.\nLangkah 5: Cek balik: substitusi $k=30$ ke persamaan pertama: $90+2s=130$ sehingga $2s=40$, $s=20$, lalu cek persamaan kedua: $150+40=190$, benar.\n**Materi terkait:**\n- **SPLDV** dengan koefisien sama pada satu variabel memudahkan eliminasi.\nInsight kunci: Jika satu variabel punya koefisien sama, kurangkan langsung untuk menghilangkan variabel itu.\nKenapa opsi lain salah: Opsi lain biasanya hasil salah eliminasi atau salah membagi konstanta.\nJawaban akhir: **Rp30.000**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan berpangkat sederhana",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-f",
+      "pangkat"
+    ],
+    "is_active": true,
+    "question": "Didefinisikan $a=2^6$, $b=3^3$, dan $c=5^2$. Nilai dari $a+b-c$ adalah ...",
+    "options": [
+      "66",
+      "60",
+      "63",
+      "69"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Hitung $a=2^6=64$.\nLangkah 2: Hitung $b=3^3=27$ dan $c=5^2=25$.\nLangkah 3: Substitusikan ke bentuk yang diminta: $a+b-c=64+27-25$.\nLangkah 4: Hitung bertahap: $64+27=91$, lalu $91-25=66$.\nLangkah 5: Jadi nilainya $66$.\n**Materi terkait:**\n- Operasi campuran setelah menghitung bilangan berpangkat.\nInsight kunci: Selesaikan nilai pangkat terlebih dahulu sebelum penjumlahan dan pengurangan.\nKenapa opsi lain salah: Opsi lain biasanya akibat salah hitung salah satu bilangan berpangkat.\nJawaban akhir: **66**."
+  }
+]

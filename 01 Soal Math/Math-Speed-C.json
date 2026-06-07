@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Aljabar",
+    "subtopic": "Operasi aljabar",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-speed-c",
+      "operasi-simbol"
+    ],
+    "is_active": true,
+    "question": "Operasi $[a \\otimes b]$ didefinisikan sebagai: kalikan bilangan pertama dengan $3$, lalu kurangi dengan dua kali bilangan kedua. Jika hasil dari $[(x \\otimes 4) \\otimes 5] = 11$, nilai $x$ adalah ...",
+    "options": [
+      "$5$",
+      "$7$",
+      "$9$",
+      "$11$"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Kerjakan operasi bagian luar lebih dulu dengan memisalkan $(x \\otimes 4)=P$. Maka $[P \\otimes 5]=11$ berarti $3P-2(5)=11$.\nLangkah 2: Selesaikan nilai $P$: $3P-10=11$, sehingga $3P=21$ dan $P=7$. Ini baru nilai hasil operasi dalam, bukan nilai $x$.\nLangkah 3: Kembalikan ke operasi awal: $x \\otimes 4=7$. Berdasarkan definisi, $3x-2(4)=7$, jadi $3x-8=7$.\nLangkah 4: Selesaikan persamaan: $3x=15$, maka $x=5$.\nLangkah 5: Cek singkat: $5\\otimes4=15-8=7$, lalu $7\\otimes5=21-10=11$. Cocok dengan soal.\n**Materi terkait:**\n- Operasi simbol harus dibaca dari definisinya, bukan dari bentuk simbolnya.\n- Untuk operasi bertingkat, gunakan strategi **working backwards** atau pemisalan sementara.\nInsight kunci: Jangan langsung mengganti semua angka sekaligus tanpa melihat urutan kurung. Operasi paling luar memberi petunjuk nilai operasi bagian dalam, lalu baru nilai variabel dicari.\nKenapa opsi lain salah: $7$ adalah hasil sementara $(x\\otimes4)$, bukan $x$; $9$ dan $11$ muncul jika operasi simbol dianggap seperti perkalian biasa atau jika langkah balik dilewati.\nJawaban akhir: **$5$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-speed-c",
+      "kpk"
+    ],
+    "is_active": true,
+    "question": "Lampu A menyala setiap $8$ detik, lampu B setiap $12$ detik, dan lampu C setiap $15$ detik. Pada pukul 20.00, ketiga lampu menyala bersamaan. Lampu B rusak tepat setelah ketiganya menyala bersama untuk ketiga kalinya, termasuk yang pukul 20.00. Jika dihitung sejak pukul 20.00, pada detik keberapa lampu A dan C menyala bersamaan untuk kelima kalinya?",
+    "options": [
+      "$120$ detik",
+      "$480$ detik",
+      "$240$ detik",
+      "$600$ detik"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Fokus pada pertanyaan akhir: yang diminta adalah pertemuan lampu A dan C, bukan A, B, dan C. Informasi lampu B rusak adalah jebakan karena terlihat penting.\nLangkah 2: Waktu A dan C menyala bersama ditentukan oleh **KPK** dari $8$ dan $15$. Karena $8=2^3$ dan $15=3\\times5$, KPK-nya $2^3\\times3\\times5=120$ detik.\nLangkah 3: Urutan menyala bersama A dan C sejak pukul 20.00 adalah detik $0$ sebagai pertama, $120$ sebagai kedua, $240$ sebagai ketiga, $360$ sebagai keempat, dan $480$ sebagai kelima.\nLangkah 4: Jadi kelima kalinya terjadi pada detik ke-$480$.\nLangkah 5: Cek jebakan: rusaknya B tidak mengubah jadwal A dan C karena yang ditanya bukan ketiga lampu bersama.\n**Materi terkait:**\n- KPK dipakai untuk mencari waktu pertemuan beberapa siklus.\n- Jika kejadian awal dihitung sebagai pertama, maka kejadian kelima adalah empat selang setelah awal.\nInsight kunci: Pada soal siklus, baca dulu objek mana yang benar-benar ditanyakan. Detail tambahan bisa sengaja dibuat untuk menguji apakah siswa fokus pada model yang tepat.\nKenapa opsi lain salah: $120$ adalah selang satu pertemuan; $240$ adalah pertemuan ketiga; $600$ muncul jika keliru menghitung lima selang setelah detik $0$.\nJawaban akhir: **$480$ detik**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-speed-c",
+      "rasio"
+    ],
+    "is_active": true,
+    "question": "Di sebuah kotak, perbandingan jumlah bola merah dan bola biru adalah $3:4$. Setelah $\\frac{1}{3}$ dari bola merah diambil dan ditambahkan $20$ bola biru baru, perbandingan bola merah dan bola biru menjadi $1:3$. Jumlah total bola dalam kotak sekarang adalah ...",
+    "options": [
+      "$60$",
+      "$70$",
+      "$80$",
+      "$90$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Misalkan bola merah awal $=3n$ dan bola biru awal $=4n$. Bentuk ini dipakai karena perbandingan awalnya $3:4$.\nLangkah 2: Sebanyak $\\frac{1}{3}$ bola merah diambil, berarti sisa merah $3n-\\frac{1}{3}(3n)=3n-n=2n$.\nLangkah 3: Bola biru bertambah $20$, sehingga jumlah biru sekarang $4n+20$.\nLangkah 4: Gunakan rasio baru: $\\frac{2n}{4n+20}=\\frac{1}{3}$. Kalikan silang: $6n=4n+20$, maka $2n=20$ dan $n=10$.\nLangkah 5: Jumlah sekarang adalah merah $2n=20$ dan biru $4n+20=60$, sehingga total $20+60=80$.\n**Materi terkait:**\n- Rasio sering lebih mudah dimodelkan dengan unit, misalnya $3n$ dan $4n$.\n- Jika ada pengambilan dan penambahan, lakukan perubahan jumlah sebelum membentuk rasio baru.\nInsight kunci: Kunci soal ini adalah membedakan jumlah awal dan jumlah setelah perubahan. Rasio baru tidak boleh langsung diterapkan pada jumlah awal tanpa memperbarui merah dan biru.\nKenapa opsi lain salah: $60$ biasanya muncul jika hanya menghitung bola biru akhir; $70$ dapat muncul dari salah mengambil $\\frac{1}{3}$; $90$ muncul jika penambahan biru dihitung tetapi pengambilan merah diabaikan.\nJawaban akhir: **$80$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-speed-c",
+      "geometri"
+    ],
+    "is_active": true,
+    "question": "Sebuah persegi besar memiliki keliling $80$ cm. Di dalam persegi tersebut terdapat empat persegi kecil identik yang diletakkan di setiap sudutnya. Jika luas daerah yang tidak tertutup oleh empat persegi kecil tersebut adalah $256\\,\\text{cm}^2$, keliling satu persegi kecil adalah ...",
+    "options": [
+      "$20$ cm",
+      "$16$ cm",
+      "$12$ cm",
+      "$24$ cm"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Dari keliling persegi besar $80$ cm, panjang sisinya adalah $80\\div4=20$ cm. Luas persegi besar berarti $20\\times20=400\\,\\text{cm}^2$.\nLangkah 2: Daerah yang tidak tertutup empat persegi kecil luasnya $256\\,\\text{cm}^2$. Jadi luas total empat persegi kecil adalah $400-256=144\\,\\text{cm}^2$.\nLangkah 3: Karena ada empat persegi kecil identik, luas satu persegi kecil adalah $144\\div4=36\\,\\text{cm}^2$.\nLangkah 4: Jika luas persegi kecil $36\\,\\text{cm}^2$, maka sisinya $6$ cm karena $6\\times6=36$.\nLangkah 5: Keliling satu persegi kecil adalah $4\\times6=24$ cm.\n**Materi terkait:**\n- Luas bangun gabungan sering diselesaikan dengan mencari luas total, lalu mengurangkan bagian yang diketahui.\n- Untuk persegi, luas $=s^2$ dan keliling $=4s$.\nInsight kunci: Jangan langsung membagi keliling persegi besar ke persegi kecil. Informasi kunci justru ada pada selisih luas: total luas kecil diperoleh dari luas besar dikurangi daerah sisa.\nKenapa opsi lain salah: $20$ cm adalah sisi persegi besar, bukan keliling persegi kecil; $16$ dan $12$ muncul jika salah membagi luas atau langsung memakai angka sisa tanpa mencari sisi.\nJawaban akhir: **$24$ cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-speed-c",
+      "rata-rata"
+    ],
+    "is_active": true,
+    "question": "Nilai rata-rata ulangan Matematika $10$ siswa adalah $76$. Jika nilai satu siswa tertinggi tidak dihitung, rata-ratanya turun menjadi $74$. Jika nilai satu siswa terendah tidak dihitung dari $10$ siswa awal, rata-ratanya naik menjadi $77$. Selisih nilai siswa tertinggi dan terendah adalah ...",
+    "options": [
+      "$27$",
+      "$20$",
+      "$25$",
+      "$30$"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Rata-rata berarti total nilai dibagi banyak siswa. Total nilai $10$ siswa adalah $10\\times76=760$.\nLangkah 2: Jika nilai tertinggi tidak dihitung, tersisa $9$ siswa dengan rata-rata $74$. Total $9$ siswa itu adalah $9\\times74=666$.\nLangkah 3: Nilai tertinggi adalah selisih total awal dan total tanpa tertinggi: $760-666=94$.\nLangkah 4: Jika nilai terendah tidak dihitung, total $9$ siswa adalah $9\\times77=693$. Maka nilai terendah adalah $760-693=67$.\nLangkah 5: Selisih tertinggi dan terendah adalah $94-67=27$.\n**Materi terkait:**\n- Untuk soal rata-rata lanjutan, ubah rata-rata menjadi **total nilai** lebih dulu.\n- Menghapus satu data berarti membandingkan total awal dengan total baru.\nInsight kunci: Rata-rata bukan angka yang berdiri sendiri; ia berasal dari total. Dengan berpindah ke total, data yang hilang dapat ditemukan secara sistematis.\nKenapa opsi lain salah: $20$ dan $25$ biasanya muncul dari mengurangkan rata-rata saja; $30$ dapat muncul jika salah memakai jumlah siswa $10$ untuk kondisi yang sebenarnya tinggal $9$ siswa.\nJawaban akhir: **$27$**."
+  }
+]

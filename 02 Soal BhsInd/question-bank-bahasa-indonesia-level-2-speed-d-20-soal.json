@@ -1,0 +1,462 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 1-4:\n\nParagraf 1\nSejak awal semester, ruang baca sekolah sebenarnya tidak pernah benar-benar kosong. Namun, sebagian siswa datang hanya untuk menunggu jam pelajaran berikutnya sambil berbincang cukup keras. Rak buku tersusun rapi, tetapi buku yang sama terus-menerus dipinjam karena judul lain jarang disentuh. Petugas perpustakaan mencatat bahwa pengunjung harian tinggi, sedangkan lama membaca rata-rata hanya belasan menit.\n\nParagraf 2\nMelihat pola itu, tim literasi tidak menambah koleksi dulu. Mereka justru mengubah tata ruang: meja diskusi dipindah ke teras terbuka, sudut \"baca sunyi\" diberi pembatas tanaman, dan setiap rak diberi kartu rekomendasi berisi alasan singkat mengapa buku itu menarik. Pada pekan pertama, beberapa siswa protes karena merasa aturan baru terlalu mengatur. Tetapi pada pekan ketiga, antrean peminjaman judul nonfavorit mulai terlihat.\n\nParagraf 3\nMenjelang evaluasi bulanan, data menunjukkan perubahan yang tidak sepenuhnya seragam. Jumlah pengunjung naik tipis, tetapi durasi membaca rata-rata bertambah hampir dua kali lipat. Menariknya, siswa yang sebelumnya paling sering bercakap-cakap justru menjadi sukarelawan penjaga sudut baca sunyi. Kepala sekolah menyimpulkan bahwa budaya membaca tidak tumbuh hanya dari menambah buku, melainkan dari menata kebiasaan dan suasana yang mendukung perhatian.\n\nInferensi paling kuat dari data pada paragraf 3 adalah ...",
+      "options": [
+        "Penambahan jumlah buku selalu menjadi faktor utama peningkatan minat baca.",
+        "Perubahan perilaku membaca lebih dipengaruhi desain kebiasaan dan lingkungan daripada sekadar kuantitas kunjungan.",
+        "Program literasi gagal karena kenaikan jumlah pengunjung tidak terlalu besar.",
+        "Siswa sukarelawan dipilih karena nilainya paling tinggi di semua mata pelajaran."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Catat data inti paragraf 3: pengunjung naik tipis, tetapi durasi membaca naik hampir dua kali lipat.\nLangkah 2: Perubahan paling signifikan terjadi pada kualitas aktivitas membaca (durasi/fokus), bukan pada lonjakan jumlah orang.\nLangkah 3: Hubungkan dengan paragraf 2: intervensi tim bukan menambah buku, melainkan menata ruang dan kebiasaan.\nLangkah 4: Dari dua bukti itu, inferensi terkuat adalah faktor penataan lingkungan dan kebiasaan lebih berpengaruh pada kedalaman membaca.\nLangkah 5: Opsi benar harus menjelaskan hubungan sebab-akibat antarparagraf, bukan sekadar mengutip satu angka.\n**Materi terkait:**\n- Inferensi kuat dibangun dari minimal dua bukti lintas paragraf.\n- Data kuantitatif (jumlah pengunjung) perlu dibaca bersama data kualitatif (durasi/fokus).\n- Dalam teks evaluatif, indikator keberhasilan tidak selalu angka yang paling mudah terlihat.\nInsight kunci: Saat teks menyajikan beberapa indikator, jawaban paling tepat adalah yang menangkap **indikator paling bermakna terhadap tujuan program**.\nKenapa opsi lain salah: A bertentangan dengan isi (tidak ada penambahan buku sebagai langkah utama). C terlalu cepat menyimpulkan gagal, padahal kualitas membaca meningkat. D tidak didukung teks sama sekali.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 1-4:\n\nParagraf 1\nSejak awal semester, ruang baca sekolah sebenarnya tidak pernah benar-benar kosong. Namun, sebagian siswa datang hanya untuk menunggu jam pelajaran berikutnya sambil berbincang cukup keras. Rak buku tersusun rapi, tetapi buku yang sama terus-menerus dipinjam karena judul lain jarang disentuh. Petugas perpustakaan mencatat bahwa pengunjung harian tinggi, sedangkan lama membaca rata-rata hanya belasan menit.\n\nParagraf 2\nMelihat pola itu, tim literasi tidak menambah koleksi dulu. Mereka justru mengubah tata ruang: meja diskusi dipindah ke teras terbuka, sudut \"baca sunyi\" diberi pembatas tanaman, dan setiap rak diberi kartu rekomendasi berisi alasan singkat mengapa buku itu menarik. Pada pekan pertama, beberapa siswa protes karena merasa aturan baru terlalu mengatur. Tetapi pada pekan ketiga, antrean peminjaman judul nonfavorit mulai terlihat.\n\nParagraf 3\nMenjelang evaluasi bulanan, data menunjukkan perubahan yang tidak sepenuhnya seragam. Jumlah pengunjung naik tipis, tetapi durasi membaca rata-rata bertambah hampir dua kali lipat. Menariknya, siswa yang sebelumnya paling sering bercakap-cakap justru menjadi sukarelawan penjaga sudut baca sunyi. Kepala sekolah menyimpulkan bahwa budaya membaca tidak tumbuh hanya dari menambah buku, melainkan dari menata kebiasaan dan suasana yang mendukung perhatian.\n\nHubungan fungsi paragraf 1 dan paragraf 2 paling tepat adalah ...",
+      "options": [
+        "Paragraf 1 menyajikan masalah awal, paragraf 2 menyajikan intervensi yang dirancang menanggapi masalah itu.",
+        "Paragraf 1 berisi simpulan akhir, paragraf 2 hanya pengulangan data tanpa tindakan baru.",
+        "Paragraf 1 berisi prosedur langkah demi langkah, paragraf 2 berisi latar tokoh utama.",
+        "Paragraf 1 dan 2 membahas dua peristiwa yang tidak saling terkait."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Identifikasi isi utama paragraf 1: masalah kualitas aktivitas membaca (ramai, durasi pendek, pilihan buku sempit).\nLangkah 2: Identifikasi isi utama paragraf 2: tindakan tim literasi yang spesifik untuk mengatasi masalah tadi (ubah tata ruang, kartu rekomendasi, pemisahan area).\nLangkah 3: Cocokkan relasi logis: masalah -> intervensi.\nLangkah 4: Opsi benar harus menunjukkan keterkaitan sebab-akibat antarbagiannya.\n**Materi terkait:**\n- Hubungan antarparagraf dapat berupa masalah-solusi, klaim-bukti, atau sebab-akibat.\n- Kata transisi seperti \"Melihat pola itu\" biasanya menandai respons terhadap paragraf sebelumnya.\nInsight kunci: Pertanyaan hubungan paragraf menuntut pembaca membaca **fungsi**, bukan sekadar topik umum.\nKenapa opsi lain salah: B, C, D tidak sesuai fungsi isi masing-masing paragraf.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Tujuan penulis",
+    "skill_type": "evaluative",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 1-4:\n\nParagraf 1\nSejak awal semester, ruang baca sekolah sebenarnya tidak pernah benar-benar kosong. Namun, sebagian siswa datang hanya untuk menunggu jam pelajaran berikutnya sambil berbincang cukup keras. Rak buku tersusun rapi, tetapi buku yang sama terus-menerus dipinjam karena judul lain jarang disentuh. Petugas perpustakaan mencatat bahwa pengunjung harian tinggi, sedangkan lama membaca rata-rata hanya belasan menit.\n\nParagraf 2\nMelihat pola itu, tim literasi tidak menambah koleksi dulu. Mereka justru mengubah tata ruang: meja diskusi dipindah ke teras terbuka, sudut \"baca sunyi\" diberi pembatas tanaman, dan setiap rak diberi kartu rekomendasi berisi alasan singkat mengapa buku itu menarik. Pada pekan pertama, beberapa siswa protes karena merasa aturan baru terlalu mengatur. Tetapi pada pekan ketiga, antrean peminjaman judul nonfavorit mulai terlihat.\n\nParagraf 3\nMenjelang evaluasi bulanan, data menunjukkan perubahan yang tidak sepenuhnya seragam. Jumlah pengunjung naik tipis, tetapi durasi membaca rata-rata bertambah hampir dua kali lipat. Menariknya, siswa yang sebelumnya paling sering bercakap-cakap justru menjadi sukarelawan penjaga sudut baca sunyi. Kepala sekolah menyimpulkan bahwa budaya membaca tidak tumbuh hanya dari menambah buku, melainkan dari menata kebiasaan dan suasana yang mendukung perhatian.\n\nTujuan utama penulis menyusun bacaan tersebut adalah ...",
+      "options": [
+        "Membuktikan bahwa siswa yang ramai sebaiknya dikeluarkan dari perpustakaan sekolah.",
+        "Menjelaskan bahwa perbaikan budaya baca memerlukan strategi perilaku dan lingkungan, bukan hanya penambahan koleksi.",
+        "Meyakinkan pembaca bahwa protes siswa pasti membuat semua program literasi gagal.",
+        "Membandingkan harga buku cetak dan buku digital di perpustakaan kota."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Temukan gagasan yang ditegaskan pada simpulan akhir teks.\nLangkah 2: Kalimat kunci menyatakan budaya membaca tumbuh dari penataan kebiasaan dan suasana, bukan sekadar menambah buku.\nLangkah 3: Paragraf 1-2-3 dibangun untuk mendukung klaim tersebut: masalah awal, intervensi, lalu data perubahan.\nLangkah 4: Maka tujuan penulis adalah menjelaskan model perbaikan yang lebih tepat sasaran.\n**Materi terkait:**\n- Tujuan penulis sering tampak jelas pada kalimat simpulan atau penegasan akhir.\n- Struktur argumen membantu menilai apakah teks bermaksud mengajak, menjelaskan, atau mengkritik.\nInsight kunci: Untuk soal tujuan penulis, lihat **apa yang ingin diyakinkan penulis setelah semua bukti disajikan**.\nKenapa opsi lain salah: A dan C terlalu ekstrem dan tidak menjadi tujuan teks. D di luar konteks bacaan.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 1-4:\n\nParagraf 1\nSejak awal semester, ruang baca sekolah sebenarnya tidak pernah benar-benar kosong. Namun, sebagian siswa datang hanya untuk menunggu jam pelajaran berikutnya sambil berbincang cukup keras. Rak buku tersusun rapi, tetapi buku yang sama terus-menerus dipinjam karena judul lain jarang disentuh. Petugas perpustakaan mencatat bahwa pengunjung harian tinggi, sedangkan lama membaca rata-rata hanya belasan menit.\n\nParagraf 2\nMelihat pola itu, tim literasi tidak menambah koleksi dulu. Mereka justru mengubah tata ruang: meja diskusi dipindah ke teras terbuka, sudut \"baca sunyi\" diberi pembatas tanaman, dan setiap rak diberi kartu rekomendasi berisi alasan singkat mengapa buku itu menarik. Pada pekan pertama, beberapa siswa protes karena merasa aturan baru terlalu mengatur. Tetapi pada pekan ketiga, antrean peminjaman judul nonfavorit mulai terlihat.\n\nParagraf 3\nMenjelang evaluasi bulanan, data menunjukkan perubahan yang tidak sepenuhnya seragam. Jumlah pengunjung naik tipis, tetapi durasi membaca rata-rata bertambah hampir dua kali lipat. Menariknya, siswa yang sebelumnya paling sering bercakap-cakap justru menjadi sukarelawan penjaga sudut baca sunyi. Kepala sekolah menyimpulkan bahwa budaya membaca tidak tumbuh hanya dari menambah buku, melainkan dari menata kebiasaan dan suasana yang mendukung perhatian.\n\nInformasi tersurat yang tepat berdasarkan bacaan adalah ...",
+      "options": [
+        "Tim literasi langsung menambah koleksi buku baru sebelum mengubah tata ruang.",
+        "Pada pekan ketiga, antrean peminjaman judul nonfavorit mulai terlihat.",
+        "Jumlah pengunjung perpustakaan turun drastis setelah aturan baru diterapkan.",
+        "Kepala sekolah melarang area diskusi terbuka untuk semua siswa."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Cari kalimat yang tertulis langsung di teks.\nLangkah 2: Bacaan menyebut jelas bahwa pada pekan ketiga antrean judul nonfavorit mulai terlihat.\nLangkah 3: Opsi B sesuai tepat dengan data tersurat.\n**Materi terkait:**\n- Soal tersurat menuntut kecermatan, terutama pada kata waktu dan urutan kejadian.\n- Jangan tertukar dengan inferensi atau asumsi pribadi.\nInsight kunci: Jika diminta informasi tersurat, pilih opsi yang dapat ditunjuk langsung pada kalimat teks.\nKenapa opsi lain salah: A bertentangan (teks menyebut tidak menambah koleksi dulu), C-D tidak didukung teks.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 5-8:\n\nParagraf 1\nDalam dua tahun terakhir, warga Kampung Jernih beberapa kali mengalami banjir kilat. Saat hujan deras, air dari saluran kecil meluap karena banyak mulut drainase tertutup daun dan sampah rumah tangga. Sebagian warga menyalahkan kontur jalan yang lebih rendah, sementara yang lain menyebut kebiasaan membuang sampah sembarangan sebagai sebab utama.\n\nParagraf 2\nKelompok pemuda kampung lalu mengusulkan audit sederhana: selama tiga pekan, mereka memetakan titik genangan, waktu hujan, serta kondisi drainase sebelum dan sesudah kerja bakti. Hasilnya cukup jelas. Titik yang dibersihkan rutin menunjukkan tinggi genangan lebih rendah dan surut lebih cepat, meskipun intensitas hujan tidak banyak berbeda. Data itu dipresentasikan di balai warga dengan grafik buatan tangan.\n\nParagraf 3\nMeski data sudah dipaparkan, perubahan perilaku tidak langsung terjadi. Beberapa rumah masih menaruh kantong sampah di bibir saluran pada malam hari agar mudah diangkut pagi-pagi. Ketua RT kemudian mengubah pendekatan: bukan lagi menegur lewat pengeras suara, melainkan menunjuk \"penjaga blok\" yang bertugas mengingatkan tetangga terdekat secara personal. Dua bulan kemudian, frekuensi genangan masih ada, tetapi durasinya memendek dan titik terdampak berkurang.\n\nHubungan paling tepat antara paragraf 2 dan paragraf 3 adalah ...",
+      "options": [
+        "Paragraf 2 menyajikan bukti teknis, paragraf 3 menunjukkan tantangan perubahan perilaku serta penyesuaian strategi sosial.",
+        "Paragraf 2 dan 3 sama-sama hanya berisi definisi banjir tanpa data lapangan.",
+        "Paragraf 2 menolak penggunaan data, paragraf 3 membuktikan data selalu salah.",
+        "Paragraf 2 berisi akhir cerita, paragraf 3 kembali ke pengantar masalah awal."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Fungsi paragraf 2 adalah pembuktian berbasis data audit lapangan.\nLangkah 2: Fungsi paragraf 3 bukan mengulang data, tetapi menunjukkan bahwa data saja belum cukup mengubah kebiasaan warga.\nLangkah 3: Paragraf 3 menambahkan dimensi sosial: pendekatan personal lewat penjaga blok.\nLangkah 4: Jadi relasi keduanya adalah bukti teknis -> tantangan implementasi -> strategi sosial lanjutan.\nLangkah 5: Ini memperlihatkan bahwa solusi masalah lingkungan membutuhkan kombinasi data dan pendekatan perilaku.\n**Materi terkait:**\n- Hubungan antar paragraf tingkat lanjut sering melibatkan pergeseran fokus (teknis ke sosial).\n- Kata transisi \"Meski ...\" menandai kontras terhadap harapan sebelumnya.\nInsight kunci: Bacaan argumentatif kuat biasanya berkembang dari bukti ke penyesuaian strategi, bukan berhenti pada data awal.\nKenapa opsi lain salah: B dan C bertentangan dengan isi data nyata. D tidak tepat karena paragraf 3 tidak kembali ke pengantar, tetapi melanjutkan solusi.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 5-8:\n\nParagraf 1\nDalam dua tahun terakhir, warga Kampung Jernih beberapa kali mengalami banjir kilat. Saat hujan deras, air dari saluran kecil meluap karena banyak mulut drainase tertutup daun dan sampah rumah tangga. Sebagian warga menyalahkan kontur jalan yang lebih rendah, sementara yang lain menyebut kebiasaan membuang sampah sembarangan sebagai sebab utama.\n\nParagraf 2\nKelompok pemuda kampung lalu mengusulkan audit sederhana: selama tiga pekan, mereka memetakan titik genangan, waktu hujan, serta kondisi drainase sebelum dan sesudah kerja bakti. Hasilnya cukup jelas. Titik yang dibersihkan rutin menunjukkan tinggi genangan lebih rendah dan surut lebih cepat, meskipun intensitas hujan tidak banyak berbeda. Data itu dipresentasikan di balai warga dengan grafik buatan tangan.\n\nParagraf 3\nMeski data sudah dipaparkan, perubahan perilaku tidak langsung terjadi. Beberapa rumah masih menaruh kantong sampah di bibir saluran pada malam hari agar mudah diangkut pagi-pagi. Ketua RT kemudian mengubah pendekatan: bukan lagi menegur lewat pengeras suara, melainkan menunjuk \"penjaga blok\" yang bertugas mengingatkan tetangga terdekat secara personal. Dua bulan kemudian, frekuensi genangan masih ada, tetapi durasinya memendek dan titik terdampak berkurang.\n\nInferensi paling masuk akal tentang perubahan pendekatan ketua RT adalah ...",
+      "options": [
+        "Ketua RT menilai data drainase tidak relevan sehingga harus diabaikan sepenuhnya.",
+        "Ketua RT memahami bahwa perubahan kebiasaan warga butuh mekanisme pengawasan sosial yang lebih dekat.",
+        "Ketua RT ingin memindahkan seluruh warga ke kawasan yang lebih tinggi.",
+        "Ketua RT berhenti melibatkan pemuda kampung dalam program kebersihan."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca alasan perubahan pendekatan: data sudah dipaparkan, tetapi perilaku belum banyak berubah.\nLangkah 2: Ketua RT mengganti cara dari pengumuman umum menjadi pengingat personal melalui penjaga blok.\nLangkah 3: Ini menandakan ia melihat masalah utama bukan lagi pengetahuan data, melainkan kepatuhan kebiasaan sehari-hari.\nLangkah 4: Maka inferensi terkuat adalah perlunya mekanisme sosial yang dekat agar perubahan perilaku terjadi.\nLangkah 5: Opsi lain memasukkan tindakan ekstrem/baru yang tidak ditunjukkan teks.\n**Materi terkait:**\n- Inferensi kebijakan sering menilai \"mengapa strategi berubah\", bukan hanya \"apa strateginya\".\n- Ketika data tidak otomatis mengubah perilaku, intervensi sosial biasanya diperkuat.\nInsight kunci: Teks kompleks sering menguji kemampuan membaca **alasan di balik keputusan**, bukan sekadar urutan kejadian.\nKenapa opsi lain salah: A bertentangan dengan pemakaian data sebelumnya, C-D tidak memiliki bukti pada bacaan.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Kesimpulan",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 5-8:\n\nParagraf 1\nDalam dua tahun terakhir, warga Kampung Jernih beberapa kali mengalami banjir kilat. Saat hujan deras, air dari saluran kecil meluap karena banyak mulut drainase tertutup daun dan sampah rumah tangga. Sebagian warga menyalahkan kontur jalan yang lebih rendah, sementara yang lain menyebut kebiasaan membuang sampah sembarangan sebagai sebab utama.\n\nParagraf 2\nKelompok pemuda kampung lalu mengusulkan audit sederhana: selama tiga pekan, mereka memetakan titik genangan, waktu hujan, serta kondisi drainase sebelum dan sesudah kerja bakti. Hasilnya cukup jelas. Titik yang dibersihkan rutin menunjukkan tinggi genangan lebih rendah dan surut lebih cepat, meskipun intensitas hujan tidak banyak berbeda. Data itu dipresentasikan di balai warga dengan grafik buatan tangan.\n\nParagraf 3\nMeski data sudah dipaparkan, perubahan perilaku tidak langsung terjadi. Beberapa rumah masih menaruh kantong sampah di bibir saluran pada malam hari agar mudah diangkut pagi-pagi. Ketua RT kemudian mengubah pendekatan: bukan lagi menegur lewat pengeras suara, melainkan menunjuk \"penjaga blok\" yang bertugas mengingatkan tetangga terdekat secara personal. Dua bulan kemudian, frekuensi genangan masih ada, tetapi durasinya memendek dan titik terdampak berkurang.\n\nKesimpulan paling tepat dari keseluruhan bacaan adalah ...",
+      "options": [
+        "Banjir kampung hanya bisa diatasi jika kontur jalan diubah total.",
+        "Data lapangan penting, tetapi keberhasilan pengurangan genangan juga bergantung pada perubahan kebiasaan warga.",
+        "Kerja bakti sebaiknya dihentikan karena tidak berpengaruh sama sekali.",
+        "Masalah genangan akan hilang sendiri selama hujan tidak terlalu deras."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Gabungkan inti paragraf 2 (bukti teknis dari audit) dan paragraf 3 (tantangan perilaku + pendekatan personal).\nLangkah 2: Teks menunjukkan perbaikan drainase berdampak, tetapi dampak maksimal baru terlihat saat pendekatan sosial diperkuat.\nLangkah 3: Jadi kesimpulan utama bukan salah satu faktor saja, melainkan kombinasi data dan perubahan kebiasaan.\nLangkah 4: Opsi B paling lengkap menangkap dua dimensi itu.\n**Materi terkait:**\n- Kesimpulan teks panjang biasanya bersifat sintesis, bukan kutipan satu kalimat.\n- Gunakan semua paragraf untuk menguji kelengkapan opsi.\nInsight kunci: Jawaban terbaik pada soal kesimpulan sering berbentuk **gabungan faktor**, bukan klaim tunggal yang terlalu menyederhanakan.\nKenapa opsi lain salah: A, C, D bersifat mutlak dan tidak sejalan dengan bukti bacaan.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 5-8:\n\nParagraf 1\nDalam dua tahun terakhir, warga Kampung Jernih beberapa kali mengalami banjir kilat. Saat hujan deras, air dari saluran kecil meluap karena banyak mulut drainase tertutup daun dan sampah rumah tangga. Sebagian warga menyalahkan kontur jalan yang lebih rendah, sementara yang lain menyebut kebiasaan membuang sampah sembarangan sebagai sebab utama.\n\nParagraf 2\nKelompok pemuda kampung lalu mengusulkan audit sederhana: selama tiga pekan, mereka memetakan titik genangan, waktu hujan, serta kondisi drainase sebelum dan sesudah kerja bakti. Hasilnya cukup jelas. Titik yang dibersihkan rutin menunjukkan tinggi genangan lebih rendah dan surut lebih cepat, meskipun intensitas hujan tidak banyak berbeda. Data itu dipresentasikan di balai warga dengan grafik buatan tangan.\n\nParagraf 3\nMeski data sudah dipaparkan, perubahan perilaku tidak langsung terjadi. Beberapa rumah masih menaruh kantong sampah di bibir saluran pada malam hari agar mudah diangkut pagi-pagi. Ketua RT kemudian mengubah pendekatan: bukan lagi menegur lewat pengeras suara, melainkan menunjuk \"penjaga blok\" yang bertugas mengingatkan tetangga terdekat secara personal. Dua bulan kemudian, frekuensi genangan masih ada, tetapi durasinya memendek dan titik terdampak berkurang.\n\nInformasi tersurat yang tepat adalah ...",
+      "options": [
+        "Audit drainase dilakukan selama tiga pekan sebelum data dipresentasikan.",
+        "Semua warga langsung berubah perilaku setelah presentasi data pertama.",
+        "Kelompok pemuda menghentikan kerja bakti setelah bulan pertama.",
+        "Dua bulan kemudian jumlah titik terdampak genangan justru bertambah."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Cari informasi yang tertulis langsung dalam teks.\nLangkah 2: Paragraf 2 secara eksplisit menyebut audit dilakukan selama tiga pekan.\nLangkah 3: Opsi A sesuai persis dengan informasi tersurat tersebut.\n**Materi terkait:**\n- Pada soal literal, ketelitian waktu (tiga pekan, dua bulan) sangat menentukan.\n- Opsi jebakan sering mengubah arah data (naik jadi turun, langsung jadi bertahap).\nInsight kunci: Pilih opsi yang bisa ditunjuk langsung ke kalimat bacaan, bukan hasil tafsir tambahan.\nKenapa opsi lain salah: B bertentangan (teks menyebut perubahan tidak langsung), C dan D tidak sesuai data bacaan.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Struktur Teks",
+    "subtopic": "Argumentasi",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 9-12:\n\nParagraf 1\nPerdebatan tentang tugas rumah sering terjebak pada dua kubu yang sama-sama keras: satu kubu ingin tugas diperbanyak agar siswa terbiasa disiplin, kubu lain ingin tugas ditiadakan agar siswa tidak tertekan. Dua posisi ini tampak berlawanan, tetapi keduanya sama-sama menyederhanakan persoalan.\n\nParagraf 2\nMasalah utama bukan banyak atau sedikitnya tugas, melainkan kualitas rancangan tugas. Tugas yang hanya menyalin definisi dari buku memang menambah beban tanpa menambah pemahaman. Sebaliknya, tugas yang meminta siswa mengamati lingkungan rumah, mewawancarai anggota keluarga, atau membandingkan dua sumber bacaan dapat memperkuat keterampilan berpikir.\n\nParagraf 3\nSekolah yang berhasil biasanya menetapkan batas durasi tugas mingguan, lalu memastikan tiap tugas punya tujuan belajar yang jelas. Guru juga diminta meninjau ulang apakah umpan balik yang diberikan benar-benar membantu siswa memperbaiki cara berpikir, bukan sekadar memperbaiki jawaban akhir. Dengan cara ini, tugas rumah tidak menjadi hukuman tambahan, melainkan jembatan antara belajar di kelas dan kehidupan sehari-hari.\n\nPernyataan yang paling tepat menggambarkan pola argumentasi penulis adalah ...",
+      "options": [
+        "Penulis menolak semua bentuk tugas rumah karena dianggap tidak manusiawi.",
+        "Penulis memindahkan fokus dari perdebatan kuantitas ke kualitas desain tugas serta mekanisme umpan balik.",
+        "Penulis hanya menyampaikan opini pribadi tanpa menawarkan kriteria yang dapat diuji.",
+        "Penulis membandingkan nilai ujian antarnegara sebagai bukti utama."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca paragraf 1 untuk melihat titik mula argumen: dua kubu ekstrem dipertanyakan.\nLangkah 2: Paragraf 2 memberi poros baru: kualitas tugas lebih penting daripada sekadar jumlah.\nLangkah 3: Paragraf 3 melengkapi dengan kriteria operasional (batas durasi, tujuan jelas, umpan balik bermakna).\nLangkah 4: Jadi pola argumentasi bergerak dari kritik dikotomi -> redefinisi masalah -> kriteria solusi.\nLangkah 5: Opsi B paling sesuai dengan pergerakan logis tersebut.\n**Materi terkait:**\n- Pada teks argumentatif, lihat bagaimana penulis membangun ulang pertanyaan utama.\n- Argumen kuat biasanya menyertakan indikator yang bisa diterapkan.\nInsight kunci: Jika penulis mengkritik dua kubu, periksa apakah ia menawarkan **kerangka ketiga** yang lebih tepat.\nKenapa opsi lain salah: A bertentangan dengan isi (penulis tidak menolak total). C salah karena ada kriteria jelas. D tidak muncul dalam teks.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 9-12:\n\nParagraf 1\nPerdebatan tentang tugas rumah sering terjebak pada dua kubu yang sama-sama keras: satu kubu ingin tugas diperbanyak agar siswa terbiasa disiplin, kubu lain ingin tugas ditiadakan agar siswa tidak tertekan. Dua posisi ini tampak berlawanan, tetapi keduanya sama-sama menyederhanakan persoalan.\n\nParagraf 2\nMasalah utama bukan banyak atau sedikitnya tugas, melainkan kualitas rancangan tugas. Tugas yang hanya menyalin definisi dari buku memang menambah beban tanpa menambah pemahaman. Sebaliknya, tugas yang meminta siswa mengamati lingkungan rumah, mewawancarai anggota keluarga, atau membandingkan dua sumber bacaan dapat memperkuat keterampilan berpikir.\n\nParagraf 3\nSekolah yang berhasil biasanya menetapkan batas durasi tugas mingguan, lalu memastikan tiap tugas punya tujuan belajar yang jelas. Guru juga diminta meninjau ulang apakah umpan balik yang diberikan benar-benar membantu siswa memperbaiki cara berpikir, bukan sekadar memperbaiki jawaban akhir. Dengan cara ini, tugas rumah tidak menjadi hukuman tambahan, melainkan jembatan antara belajar di kelas dan kehidupan sehari-hari.\n\nHubungan paling tepat antara paragraf 2 dan paragraf 3 adalah ...",
+      "options": [
+        "Paragraf 2 berisi contoh masalah, paragraf 3 berisi ilustrasi tokoh fiksi.",
+        "Paragraf 2 menjelaskan prinsip kualitas tugas, paragraf 3 menerjemahkannya menjadi praktik kebijakan sekolah.",
+        "Paragraf 2 menolak gagasan pada paragraf 3 secara total.",
+        "Paragraf 2 dan 3 sama-sama hanya mengulang kalimat pada paragraf 1."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca fungsi paragraf 2: menegaskan prinsip bahwa kualitas rancangan tugas adalah inti.\nLangkah 2: Baca fungsi paragraf 3: memberi implementasi konkret atas prinsip itu (durasi, tujuan, umpan balik).\nLangkah 3: Relasi logisnya adalah prinsip -> operasionalisasi.\nLangkah 4: Opsi B menangkap pola tersebut secara lengkap.\n**Materi terkait:**\n- Relasi paragraf bisa berupa konsep-teknik, klaim-kebijakan, atau teori-praktik.\n- Paragraf lanjutan sering berfungsi menjawab pertanyaan \"bagaimana caranya?\".\nInsight kunci: Jika paragraf kedua menjawab \"apa yang penting\", paragraf ketiga sering menjawab \"bagaimana menerapkannya\".\nKenapa opsi lain salah: A tidak ada tokoh fiksi. C tidak ada pertentangan total. D mengabaikan fungsi baru pada paragraf 2-3.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Tujuan penulis",
+    "skill_type": "evaluative",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 9-12:\n\nParagraf 1\nPerdebatan tentang tugas rumah sering terjebak pada dua kubu yang sama-sama keras: satu kubu ingin tugas diperbanyak agar siswa terbiasa disiplin, kubu lain ingin tugas ditiadakan agar siswa tidak tertekan. Dua posisi ini tampak berlawanan, tetapi keduanya sama-sama menyederhanakan persoalan.\n\nParagraf 2\nMasalah utama bukan banyak atau sedikitnya tugas, melainkan kualitas rancangan tugas. Tugas yang hanya menyalin definisi dari buku memang menambah beban tanpa menambah pemahaman. Sebaliknya, tugas yang meminta siswa mengamati lingkungan rumah, mewawancarai anggota keluarga, atau membandingkan dua sumber bacaan dapat memperkuat keterampilan berpikir.\n\nParagraf 3\nSekolah yang berhasil biasanya menetapkan batas durasi tugas mingguan, lalu memastikan tiap tugas punya tujuan belajar yang jelas. Guru juga diminta meninjau ulang apakah umpan balik yang diberikan benar-benar membantu siswa memperbaiki cara berpikir, bukan sekadar memperbaiki jawaban akhir. Dengan cara ini, tugas rumah tidak menjadi hukuman tambahan, melainkan jembatan antara belajar di kelas dan kehidupan sehari-hari.\n\nTujuan penulis dalam paragraf 1 terutama untuk ...",
+      "options": [
+        "Menetapkan salah satu kubu sebagai pemenang debat secara mutlak.",
+        "Memperlihatkan bahwa perdebatan yang terlalu hitam-putih tidak cukup menyelesaikan masalah.",
+        "Menyampaikan data kuantitatif hasil nilai tugas rumah di semua sekolah.",
+        "Membuktikan bahwa semua siswa menolak tugas rumah."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Cermati fungsi paragraf 1 sebagai pembuka argumen.\nLangkah 2: Penulis menampilkan dua kubu ekstrem lalu menyatakan keduanya menyederhanakan persoalan.\nLangkah 3: Ini berarti paragraf 1 dipakai untuk membuka ruang perspektif ketiga yang lebih nuansa.\nLangkah 4: Jadi tujuan utamanya adalah mengkritik pola debat hitam-putih.\n**Materi terkait:**\n- Pada teks argumentatif, paragraf pembuka sering memetakan posisi yang akan dikoreksi.\n- Tujuan paragraf berbeda dari tujuan keseluruhan teks, tetapi saling mendukung.\nInsight kunci: Pertanyaan tujuan penulis per paragraf menuntut pembaca mengenali **fungsi retoris** setiap bagian teks.\nKenapa opsi lain salah: A, C, D tidak sesuai isi paragraf 1.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 9-12:\n\nParagraf 1\nPerdebatan tentang tugas rumah sering terjebak pada dua kubu yang sama-sama keras: satu kubu ingin tugas diperbanyak agar siswa terbiasa disiplin, kubu lain ingin tugas ditiadakan agar siswa tidak tertekan. Dua posisi ini tampak berlawanan, tetapi keduanya sama-sama menyederhanakan persoalan.\n\nParagraf 2\nMasalah utama bukan banyak atau sedikitnya tugas, melainkan kualitas rancangan tugas. Tugas yang hanya menyalin definisi dari buku memang menambah beban tanpa menambah pemahaman. Sebaliknya, tugas yang meminta siswa mengamati lingkungan rumah, mewawancarai anggota keluarga, atau membandingkan dua sumber bacaan dapat memperkuat keterampilan berpikir.\n\nParagraf 3\nSekolah yang berhasil biasanya menetapkan batas durasi tugas mingguan, lalu memastikan tiap tugas punya tujuan belajar yang jelas. Guru juga diminta meninjau ulang apakah umpan balik yang diberikan benar-benar membantu siswa memperbaiki cara berpikir, bukan sekadar memperbaiki jawaban akhir. Dengan cara ini, tugas rumah tidak menjadi hukuman tambahan, melainkan jembatan antara belajar di kelas dan kehidupan sehari-hari.\n\nInformasi tersurat yang tepat adalah ...",
+      "options": [
+        "Penulis menyebut tugas menyalin definisi dapat menambah beban tanpa menambah pemahaman.",
+        "Penulis menyatakan semua tugas rumah harus dihapus pada semester berikutnya.",
+        "Paragraf 3 menegaskan bahwa umpan balik guru tidak terlalu penting.",
+        "Teks menyimpulkan bahwa durasi tugas sebaiknya tidak pernah dibatasi."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Cari pernyataan yang benar-benar tertulis langsung pada bacaan.\nLangkah 2: Paragraf 2 memuat kalimat eksplisit tentang tugas menyalin definisi yang menambah beban tanpa menambah pemahaman.\nLangkah 3: Opsi A tepat karena sama dengan isi teks.\n**Materi terkait:**\n- Informasi tersurat dapat dikenali lewat kecocokan frasa kunci yang sangat dekat.\n- Opsi salah biasanya mengubah satu kata kunci penting (misal: penting -> tidak penting).\nInsight kunci: Untuk soal literal, ketelitian pada kata penegas seperti \"tanpa\", \"bukan\", atau \"melainkan\" sangat menentukan.\nKenapa opsi lain salah: B, C, D bertentangan dengan isi bacaan.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Analisis Teks",
+    "subtopic": "Sudut pandang & sikap penulis",
+    "skill_type": "inferential",
+    "question_type": "dialogue",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 13-16:\n\nParagraf 1\n\"Kita tampil sepuluh menit lagi,\" kata Alya sambil merapikan map presentasi. Nando menatap layar laptop, lalu menggeleng pelan. \"Data grafiknya belum sinkron. Kalau dipaksakan, kita malah bingung sendiri saat ditanya juri,\" ujarnya.\n\nParagraf 2\nRani yang sejak tadi diam akhirnya membuka catatan cadangan. \"Aku sudah ringkas tiga poin inti tanpa grafik. Kalau waktu mepet, kita pakai versi ringkas dulu, grafik detail menyusul saat sesi tanya jawab,\" katanya. Alya menarik napas panjang, tampak ragu sebentar, lalu mengangguk. \"Baik. Yang penting alur penjelasan tetap utuh.\"\n\nParagraf 3\nBeberapa menit setelah presentasi dimulai, listrik di aula sempat padam sesaat. Tim mereka tetap melanjutkan pemaparan dengan papan ringkas yang disiapkan Rani. Seusai sesi, juri justru memuji cara tim itu menjaga ketenangan dan transisi penjelasan meski ada gangguan teknis.\n\nSikap penulis terhadap keputusan menggunakan versi ringkas paling tepat disimpulkan sebagai ...",
+      "options": [
+        "Menyayangkan keputusan itu karena dianggap menurunkan kualitas presentasi secara total.",
+        "Mendukung keputusan adaptif yang menjaga alur utama ketika kondisi tidak ideal.",
+        "Netral mutlak tanpa memberi petunjuk hasil atas keputusan tim.",
+        "Menuduh tim sengaja mencari alasan agar tidak menampilkan data."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Perhatikan bagaimana peristiwa sesudah keputusan diceritakan oleh penulis.\nLangkah 2: Setelah keputusan versi ringkas diambil, terjadi gangguan listrik; tim tetap bisa melanjutkan presentasi.\nLangkah 3: Juri memuji ketenangan dan transisi penjelasan. Ini sinyal evaluatif yang positif terhadap keputusan adaptif tadi.\nLangkah 4: Maka sikap penulis cenderung mendukung keputusan yang fleksibel namun tetap menjaga inti.\nLangkah 5: Opsi lain tidak sesuai karena teks memberi hasil jelas dan bernada apresiatif.\n**Materi terkait:**\n- Sikap penulis dapat dibaca lewat konsekuensi yang disorot pada akhir cerita.\n- Narasi evaluatif sering menyisipkan penilaian melalui respons tokoh lain (di sini: juri).\nInsight kunci: Dalam teks naratif, penilaian penulis sering tidak dinyatakan langsung, tetapi tampak dari **hasil yang diberi sorotan positif/negatif**.\nKenapa opsi lain salah: A dan D bertentangan dengan hasil cerita, C salah karena ada petunjuk evaluatif jelas.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "dialogue",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 13-16:\n\nParagraf 1\n\"Kita tampil sepuluh menit lagi,\" kata Alya sambil merapikan map presentasi. Nando menatap layar laptop, lalu menggeleng pelan. \"Data grafiknya belum sinkron. Kalau dipaksakan, kita malah bingung sendiri saat ditanya juri,\" ujarnya.\n\nParagraf 2\nRani yang sejak tadi diam akhirnya membuka catatan cadangan. \"Aku sudah ringkas tiga poin inti tanpa grafik. Kalau waktu mepet, kita pakai versi ringkas dulu, grafik detail menyusul saat sesi tanya jawab,\" katanya. Alya menarik napas panjang, tampak ragu sebentar, lalu mengangguk. \"Baik. Yang penting alur penjelasan tetap utuh.\"\n\nParagraf 3\nBeberapa menit setelah presentasi dimulai, listrik di aula sempat padam sesaat. Tim mereka tetap melanjutkan pemaparan dengan papan ringkas yang disiapkan Rani. Seusai sesi, juri justru memuji cara tim itu menjaga ketenangan dan transisi penjelasan meski ada gangguan teknis.\n\nInferensi paling kuat tentang peran Rani dalam tim adalah ...",
+      "options": [
+        "Rani berperan sebagai penengah yang menyiapkan rencana cadangan agar tim tetap berjalan.",
+        "Rani cenderung pasif karena hanya mengikuti keputusan Alya dan Nando.",
+        "Rani menjadi penyebab gangguan teknis karena mengubah materi mendadak.",
+        "Rani menolak seluruh penggunaan data selama presentasi."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Kumpulkan bukti tindakan Rani: ia membuka catatan cadangan, menawarkan versi ringkas, dan solusi itu dipakai saat gangguan.\nLangkah 2: Tindakan tersebut menunjukkan inisiatif strategis, bukan kepasifan.\nLangkah 3: Solusi cadangan terbukti efektif ketika listrik padam, sehingga kontribusi Rani bersifat krusial bagi kelangsungan presentasi.\nLangkah 4: Inferensi paling tepat adalah Rani berperan sebagai penengah sekaligus penyedia plan B.\n**Materi terkait:**\n- Inferensi peran tokoh dibangun dari pola tindakan, bukan satu dialog terpisah.\n- Dalam kerja tim, peran strategis sering terlihat saat krisis.\nInsight kunci: Tokoh yang menyiapkan opsi alternatif sebelum masalah membesar biasanya memegang fungsi stabilisasi tim.\nKenapa opsi lain salah: B bertentangan dengan inisiatif Rani, C tidak didukung teks, D terlalu ekstrem karena Rani tidak menolak data secara permanen.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "dialogue",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 13-16:\n\nParagraf 1\n\"Kita tampil sepuluh menit lagi,\" kata Alya sambil merapikan map presentasi. Nando menatap layar laptop, lalu menggeleng pelan. \"Data grafiknya belum sinkron. Kalau dipaksakan, kita malah bingung sendiri saat ditanya juri,\" ujarnya.\n\nParagraf 2\nRani yang sejak tadi diam akhirnya membuka catatan cadangan. \"Aku sudah ringkas tiga poin inti tanpa grafik. Kalau waktu mepet, kita pakai versi ringkas dulu, grafik detail menyusul saat sesi tanya jawab,\" katanya. Alya menarik napas panjang, tampak ragu sebentar, lalu mengangguk. \"Baik. Yang penting alur penjelasan tetap utuh.\"\n\nParagraf 3\nBeberapa menit setelah presentasi dimulai, listrik di aula sempat padam sesaat. Tim mereka tetap melanjutkan pemaparan dengan papan ringkas yang disiapkan Rani. Seusai sesi, juri justru memuji cara tim itu menjaga ketenangan dan transisi penjelasan meski ada gangguan teknis.\n\nHubungan fungsi paragraf 2 dan paragraf 3 paling tepat adalah ...",
+      "options": [
+        "Paragraf 2 memperkenalkan solusi antisipatif, paragraf 3 menunjukkan validasi solusi itu dalam situasi nyata.",
+        "Paragraf 2 menutup konflik, paragraf 3 membuka konflik baru tanpa kaitan.",
+        "Paragraf 2 berisi latar tempat, paragraf 3 berisi definisi teknis presentasi.",
+        "Paragraf 2 dan 3 hanya mengulang ucapan Alya tanpa peristiwa tambahan."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Tentukan peran paragraf 2: muncul rencana cadangan dari Rani.\nLangkah 2: Lihat paragraf 3: rencana cadangan benar-benar dipakai saat listrik padam.\nLangkah 3: Jadi paragraf 3 berfungsi menguji sekaligus membuktikan efektivitas solusi dari paragraf 2.\nLangkah 4: Relasi ini dikenal sebagai proposal solusi -> pembuktian pada kejadian.\n**Materi terkait:**\n- Hubungan antarparagraf dapat berupa prediksi (rencana) yang tervalidasi oleh kejadian berikutnya.\n- Dalam narasi, fungsi paragraf sering bergerak dari keputusan ke konsekuensi.\nInsight kunci: Jika sebuah paragraf menawarkan strategi, cek paragraf berikutnya untuk melihat apakah strategi itu berhasil atau gagal.\nKenapa opsi lain salah: B, C, D mengabaikan kesinambungan alur cerita dan fungsi bukti di paragraf 3.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "dialogue",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 13-16:\n\nParagraf 1\n\"Kita tampil sepuluh menit lagi,\" kata Alya sambil merapikan map presentasi. Nando menatap layar laptop, lalu menggeleng pelan. \"Data grafiknya belum sinkron. Kalau dipaksakan, kita malah bingung sendiri saat ditanya juri,\" ujarnya.\n\nParagraf 2\nRani yang sejak tadi diam akhirnya membuka catatan cadangan. \"Aku sudah ringkas tiga poin inti tanpa grafik. Kalau waktu mepet, kita pakai versi ringkas dulu, grafik detail menyusul saat sesi tanya jawab,\" katanya. Alya menarik napas panjang, tampak ragu sebentar, lalu mengangguk. \"Baik. Yang penting alur penjelasan tetap utuh.\"\n\nParagraf 3\nBeberapa menit setelah presentasi dimulai, listrik di aula sempat padam sesaat. Tim mereka tetap melanjutkan pemaparan dengan papan ringkas yang disiapkan Rani. Seusai sesi, juri justru memuji cara tim itu menjaga ketenangan dan transisi penjelasan meski ada gangguan teknis.\n\nInformasi tersurat yang tepat adalah ...",
+      "options": [
+        "Juri membatalkan sesi karena tim tidak menampilkan grafik sama sekali.",
+        "Listrik di aula sempat padam sesaat saat presentasi berlangsung.",
+        "Alya menolak keras usulan Rani hingga akhir presentasi.",
+        "Nando menghapus semua data agar presentasi lebih singkat."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Cari fakta yang tertulis langsung pada paragraf 3.\nLangkah 2: Teks menyebut jelas listrik sempat padam sesaat saat presentasi.\nLangkah 3: Opsi B adalah informasi tersurat yang tepat.\n**Materi terkait:**\n- Soal tersurat meminta pembaca mengambil fakta literal.\n- Tetap waspadai opsi yang terdengar dramatis tetapi tidak ada di teks.\nInsight kunci: Bedakan peristiwa yang benar-benar disebut dari asumsi tentang peristiwa itu.\nKenapa opsi lain salah: A, C, D tidak didukung isi dialog/paragraf.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 17-20:\n\nParagraf 1\nLaporan mingguan kantin sekolah menunjukkan hal yang tampak bertentangan. Penjualan minuman kemasan menurun 18% sejak program \"Bawa Tumbler\" dimulai, tetapi total transaksi kantin justru naik 7%. Pada rapat OSIS, sebagian anggota menilai data ini aneh karena mereka mengira penurunan minuman kemasan otomatis menurunkan omzet.\n\nParagraf 2\nPengelola kantin kemudian memecah data per kategori. Ternyata pembelian makanan ringan buatan dapur sekolah meningkat tajam, terutama pada jam istirahat kedua. Selain itu, siswa yang membawa tumbler cenderung membeli paket camilan karena tidak perlu lagi mengalokasikan uang untuk minuman kemasan. Guru kewirausahaan mencatat bahwa perubahan pilihan belanja ini lebih dipengaruhi pola kebiasaan baru daripada promosi harga.\n\nParagraf 3\nWalau demikian, pengelola tidak langsung menyebut program berhasil sepenuhnya. Mereka menemukan satu masalah: antrean pengisian air minum menumpuk di satu titik dispenser, sehingga beberapa siswa terlambat kembali ke kelas. Solusi sementara yang diusulkan adalah menambah satu dispenser di sisi timur dan membuat jalur antre berbeda untuk isi ulang cepat. Evaluasi lanjutan akan dilakukan dua pekan lagi.\n\nInferensi paling tepat terkait sikap pengelola kantin adalah ...",
+      "options": [
+        "Pengelola menutup kemungkinan perbaikan karena data omzet sudah naik.",
+        "Pengelola cenderung berbasis data: mengakui dampak positif sekaligus menindak masalah operasional yang tersisa.",
+        "Pengelola berasumsi semua siswa akan setuju tanpa perlu evaluasi ulang.",
+        "Pengelola menilai antrean dispenser bukan bagian dari program sehingga diabaikan."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca pola tindakan pengelola: memecah data kategori, menafsirkan perubahan perilaku belanja, lalu tetap memeriksa kendala antrean.\nLangkah 2: Pengelola tidak berhenti pada kabar baik (transaksi naik), tetapi juga mengidentifikasi titik masalah dan menyiapkan solusi.\nLangkah 3: Ini menunjukkan sikap evaluatif berbasis data, bukan klaim keberhasilan mutlak.\nLangkah 4: Inferensi terbaik adalah opsi yang menangkap dua sisi itu: positif dan korektif.\n**Materi terkait:**\n- Inferensi sikap institusi dapat dilihat dari keputusan tindak lanjut.\n- Teks laporan sering menilai keberhasilan secara bertahap, bukan hitam-putih.\nInsight kunci: Sikap paling kredibel dalam teks evaluasi adalah yang mampu menggabungkan apresiasi hasil dan perbaikan berkelanjutan.\nKenapa opsi lain salah: A, C, D bertentangan dengan adanya usulan dispenser tambahan dan evaluasi dua pekan lagi.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 17-20:\n\nParagraf 1\nLaporan mingguan kantin sekolah menunjukkan hal yang tampak bertentangan. Penjualan minuman kemasan menurun 18% sejak program \"Bawa Tumbler\" dimulai, tetapi total transaksi kantin justru naik 7%. Pada rapat OSIS, sebagian anggota menilai data ini aneh karena mereka mengira penurunan minuman kemasan otomatis menurunkan omzet.\n\nParagraf 2\nPengelola kantin kemudian memecah data per kategori. Ternyata pembelian makanan ringan buatan dapur sekolah meningkat tajam, terutama pada jam istirahat kedua. Selain itu, siswa yang membawa tumbler cenderung membeli paket camilan karena tidak perlu lagi mengalokasikan uang untuk minuman kemasan. Guru kewirausahaan mencatat bahwa perubahan pilihan belanja ini lebih dipengaruhi pola kebiasaan baru daripada promosi harga.\n\nParagraf 3\nWalau demikian, pengelola tidak langsung menyebut program berhasil sepenuhnya. Mereka menemukan satu masalah: antrean pengisian air minum menumpuk di satu titik dispenser, sehingga beberapa siswa terlambat kembali ke kelas. Solusi sementara yang diusulkan adalah menambah satu dispenser di sisi timur dan membuat jalur antre berbeda untuk isi ulang cepat. Evaluasi lanjutan akan dilakukan dua pekan lagi.\n\nHubungan paling tepat antara paragraf 1 dan 2 adalah ...",
+      "options": [
+        "Paragraf 1 menampilkan anomali data, paragraf 2 menjelaskan penyebab logis di balik anomali tersebut.",
+        "Paragraf 1 dan 2 membahas topik berbeda sehingga tidak dapat dihubungkan.",
+        "Paragraf 1 berisi simpulan akhir, paragraf 2 berisi pengantar masalah.",
+        "Paragraf 2 membantah seluruh data pada paragraf 1 tanpa bukti tambahan."
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Paragraf 1 memunculkan kondisi yang tampak kontradiktif (minuman kemasan turun, transaksi total naik).\nLangkah 2: Paragraf 2 memecah data dan menunjukkan mekanisme yang menjelaskan kontradiksi itu (pembelian camilan naik).\nLangkah 3: Jadi fungsi paragraf 2 adalah penjelasan kausal atas anomali paragraf 1.\nLangkah 4: Opsi A paling tepat karena menangkap relasi problem-data dan penjelasannya.\n**Materi terkait:**\n- Dalam teks laporan, paragraf awal sering memunculkan temuan, paragraf berikutnya memberi interpretasi.\n- Relasi antarbagiannya bisa berupa pertanyaan implisit -> jawaban berbasis data.\nInsight kunci: Jika sebuah data tampak \"aneh\", paragraf lanjutan biasanya menyajikan konteks yang membuat data itu masuk akal.\nKenapa opsi lain salah: B-D tidak sesuai dengan kesinambungan argumen pada teks.\nJawaban akhir: **A**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kebahasaan",
+    "subtopic": "Makna kata dalam konteks",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 17-20:\n\nParagraf 1\nLaporan mingguan kantin sekolah menunjukkan hal yang tampak bertentangan. Penjualan minuman kemasan menurun 18% sejak program \"Bawa Tumbler\" dimulai, tetapi total transaksi kantin justru naik 7%. Pada rapat OSIS, sebagian anggota menilai data ini aneh karena mereka mengira penurunan minuman kemasan otomatis menurunkan omzet.\n\nParagraf 2\nPengelola kantin kemudian memecah data per kategori. Ternyata pembelian makanan ringan buatan dapur sekolah meningkat tajam, terutama pada jam istirahat kedua. Selain itu, siswa yang membawa tumbler cenderung membeli paket camilan karena tidak perlu lagi mengalokasikan uang untuk minuman kemasan. Guru kewirausahaan mencatat bahwa perubahan pilihan belanja ini lebih dipengaruhi pola kebiasaan baru daripada promosi harga.\n\nParagraf 3\nWalau demikian, pengelola tidak langsung menyebut program berhasil sepenuhnya. Mereka menemukan satu masalah: antrean pengisian air minum menumpuk di satu titik dispenser, sehingga beberapa siswa terlambat kembali ke kelas. Solusi sementara yang diusulkan adalah menambah satu dispenser di sisi timur dan membuat jalur antre berbeda untuk isi ulang cepat. Evaluasi lanjutan akan dilakukan dua pekan lagi.\n\nMakna kata *menumpuk* pada kalimat \"antrean pengisian air minum menumpuk di satu titik dispenser\" adalah ...",
+      "options": [
+        "berkurang perlahan",
+        "berkumpul menjadi padat",
+        "berpindah tempat",
+        "berjalan lebih cepat"
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca konteks kalimat: akibat dari antrean adalah siswa terlambat kembali ke kelas.\nLangkah 2: Ini menunjukkan antrean tidak lancar karena orang berkumpul padat pada satu titik.\nLangkah 3: Jadi makna *menumpuk* dalam konteks ini adalah **berkumpul menjadi padat**.\n**Materi terkait:**\n- Makna kata kontekstual dipahami dari akibat yang mengikuti kata tersebut.\n- Kata kerja dalam laporan sering menggambarkan kondisi operasional.\nInsight kunci: Jika ragu makna kata, lihat \"dampak\" yang disebut pada kalimat setelahnya.\nKenapa opsi lain salah: A, C, D tidak sesuai dampak keterlambatan yang dijelaskan.\nJawaban akhir: **B**."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Kesimpulan",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-2-speed-d"
+    ],
+    "is_active": true,
+    "content": {
+      "question": "Bacaan untuk soal 17-20:\n\nParagraf 1\nLaporan mingguan kantin sekolah menunjukkan hal yang tampak bertentangan. Penjualan minuman kemasan menurun 18% sejak program \"Bawa Tumbler\" dimulai, tetapi total transaksi kantin justru naik 7%. Pada rapat OSIS, sebagian anggota menilai data ini aneh karena mereka mengira penurunan minuman kemasan otomatis menurunkan omzet.\n\nParagraf 2\nPengelola kantin kemudian memecah data per kategori. Ternyata pembelian makanan ringan buatan dapur sekolah meningkat tajam, terutama pada jam istirahat kedua. Selain itu, siswa yang membawa tumbler cenderung membeli paket camilan karena tidak perlu lagi mengalokasikan uang untuk minuman kemasan. Guru kewirausahaan mencatat bahwa perubahan pilihan belanja ini lebih dipengaruhi pola kebiasaan baru daripada promosi harga.\n\nParagraf 3\nWalau demikian, pengelola tidak langsung menyebut program berhasil sepenuhnya. Mereka menemukan satu masalah: antrean pengisian air minum menumpuk di satu titik dispenser, sehingga beberapa siswa terlambat kembali ke kelas. Solusi sementara yang diusulkan adalah menambah satu dispenser di sisi timur dan membuat jalur antre berbeda untuk isi ulang cepat. Evaluasi lanjutan akan dilakukan dua pekan lagi.\n\nKesimpulan paling tepat dari keseluruhan bacaan adalah ...",
+      "options": [
+        "Program sekolah cukup dinilai dari satu indikator agar evaluasi lebih sederhana.",
+        "Perubahan kebiasaan belanja akibat program membawa efek campuran: ada manfaat ekonomi sekaligus tantangan operasional yang perlu disempurnakan.",
+        "Program \"Bawa Tumbler\" gagal total karena masih ada antrean di dispenser.",
+        "Kenaikan transaksi kantin membuktikan promosi harga menjadi faktor paling dominan."
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Ringkas hasil positif pada paragraf 1-2: transaksi total naik dan pola belanja bergeser.\nLangkah 2: Tambahkan catatan paragraf 3: masih ada masalah antrean yang memengaruhi ketepatan waktu siswa.\nLangkah 3: Kesimpulan harus mencakup dua sisi sekaligus, bukan menonjolkan satu sisi saja.\nLangkah 4: Opsi B paling lengkap karena memuat manfaat dan kebutuhan perbaikan lanjutan.\n**Materi terkait:**\n- Kesimpulan komprehensif tidak ekstrem; ia menimbang seluruh data dalam teks.\n- Teks evaluatif sering berakhir dengan rencana tindak lanjut, tanda bahwa proses belum final.\nInsight kunci: Ketika teks memuat \"namun\" atau \"walau demikian\", kesimpulan biasanya bersifat seimbang, bukan mutlak.\nKenapa opsi lain salah: A terlalu menyederhanakan, C terlalu mutlak negatif, D bertentangan dengan teks yang menyebut kebiasaan lebih berpengaruh daripada promosi.\nJawaban akhir: **B**."
+    }
+  }
+]

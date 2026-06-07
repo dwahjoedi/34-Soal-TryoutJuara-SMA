@@ -1,0 +1,447 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "rasio"
+    ],
+    "is_active": true,
+    "question": "Perbandingan jumlah buku fiksi dan nonfiksi adalah $3:5$. Setelah ditambah 18 buku fiksi, perbandingan menjadi $4:5$. Banyak buku fiksi mula-mula adalah ...",
+    "options": [
+      "54",
+      "48",
+      "60",
+      "72"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Misalkan buku fiksi dan nonfiksi mula-mula berturut-turut $3k$ dan $5k$.\nLangkah 2: Setelah ditambah 18 buku fiksi, banyaknya menjadi $3k+18$ dan $5k$.\nLangkah 3: Gunakan rasio baru: $\\frac{3k+18}{5k}=\\frac{4}{5}$.\nLangkah 4: Kalikan silang: $15k+90=20k$, sehingga $k=18$.\nLangkah 5: Buku fiksi mula-mula $=3k=54$.\n**Materi terkait:**\n- Rasio dapat dimodelkan sebagai $ak$ dan $bk$.\n- Perubahan jumlah harus dimasukkan sebelum membuat persamaan.\nInsight kunci: Model variabel membuat soal rasio lebih terstruktur. Setelah model benar, penyelesaian aljabarnya menjadi singkat. Cara ini efektif untuk banyak soal perubahan rasio.\nKenapa opsi lain salah: Opsi lain berasal dari salah memasukkan perubahan +18 atau salah kalikan silang.\nJawaban akhir: **54**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "kpk"
+    ],
+    "is_active": true,
+    "question": "Tiga alarm berbunyi bersama pada pukul 06.00. Alarm A berbunyi tiap 12 menit, alarm B tiap 18 menit, dan alarm C tiap 30 menit. Untuk ketiga kalinya setelah pukul 06.00, ketiganya berbunyi bersama pada pukul ...",
+    "options": [
+      "12.00",
+      "15.00",
+      "18.00",
+      "21.00"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Cari selang pertemuan dengan KPK(12,18,30).\nLangkah 2: Faktorisasi: $12=2^2\\times3$, $18=2\\times3^2$, $30=2\\times3\\times5$.\nLangkah 3: KPK = $2^2\\times3^2\\times5=180$ menit = 3 jam.\nLangkah 4: Setelah 06.00, pertemuan terjadi pada 09.00, 12.00, lalu 15.00.\nLangkah 5: Pertemuan ketiga setelah 06.00 adalah pukul 15.00.\n**Materi terkait:**\n- KPK dipakai untuk kejadian periodik bertemu kembali.\n- Konversi menit ke jam membantu membaca waktu akhir.\nInsight kunci: Setelah KPK didapat, siswa tetap harus teliti membaca urutan kejadian. Frasa \"ketiga kalinya setelah\" sering jadi jebakan hitung. Timeline sederhana sangat membantu.\nKenapa opsi lain salah: Opsi lain muncul dari salah urutan hitungan kejadian atau salah konversi menit-jam.\nJawaban akhir: **15.00**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "pecahan"
+    ],
+    "is_active": true,
+    "question": "Sebuah tangki terisi $\\frac{3}{8}$ bagian pada pagi hari, lalu ditambah lagi $\\frac{1}{4}$ bagian. Setelah dipakai 35 liter, sisa air menjadi $\\frac{1}{2}$ bagian tangki. Kapasitas tangki adalah ...",
+    "options": [
+      "240 liter",
+      "260 liter",
+      "280 liter",
+      "320 liter"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Air setelah pengisian adalah $\\frac{3}{8}+\\frac{1}{4}=\\frac{5}{8}$ bagian.\nLangkah 2: Setelah dipakai, sisa $\\frac{1}{2}$, jadi bagian yang dipakai $\\frac{5}{8}-\\frac{1}{2}=\\frac{1}{8}$.\nLangkah 3: Jika $\\frac{1}{8}$ sama dengan 35 liter, kapasitas total $=35\\times8=280$ liter.\nLangkah 4: Cek balik: $\\frac{5}{8}\\times280=175$ liter, dipakai 35 sisa 140 liter.\nLangkah 5: Karena $\\frac{1}{2}\\times280=140$, hasilnya konsisten.\n**Materi terkait:**\n- Operasi pecahan butuh penyebut sama.\n- Selisih bagian sering menjadi kunci soal tangki.\nInsight kunci: Soal pecahan cerita bisa disederhanakan dengan mencari bagian yang berubah. Setelah bagian diketahui, total dicari dengan operasi kebalikan. Teknik ini menghemat langkah dan mengurangi salah hitung.\nKenapa opsi lain salah: Opsi lain muncul dari salah menghitung selisih pecahan atau salah membalik operasi saat mencari total.\nJawaban akhir: **280 liter**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "persen"
+    ],
+    "is_active": true,
+    "question": "Harga modal sebuah tas Rp320.000. Tas itu diberi markup $25\\%$, lalu diskon $10\\%$ dari harga setelah markup, kemudian dikenai pajak layanan $11\\%$ dari harga setelah diskon. Harga akhir yang dibayar pembeli adalah ...",
+    "options": [
+      "Rp396.000",
+      "Rp402.000",
+      "Rp405.600",
+      "Rp399.600"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Harga setelah markup: $320000\\times1{,}25=400000$.\nLangkah 2: Harga setelah diskon: $400000\\times0{,}9=360000$.\nLangkah 3: Pajak layanan: $0{,}11\\times360000=39600$.\nLangkah 4: Harga akhir: $360000+39600=399600$.\nLangkah 5: Jadi pembeli membayar Rp399.600.\n**Materi terkait:**\n- Persen berurutan memakai basis nilai yang berubah.\n- Markup, diskon, dan pajak harus diproses sesuai urutan.\nInsight kunci: Soal persen bertahap menilai ketelitian urutan, bukan hitungan berat. Menjumlahkan persen langsung adalah kesalahan umum. Cara aman adalah hitung satu tahap lalu lanjut tahap berikutnya.\nKenapa opsi lain salah: Opsi lain berasal dari penggunaan basis persen yang salah atau urutan tahap yang tertukar.\nJawaban akhir: **Rp399.600**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "pola-bilangan"
+    ],
+    "is_active": true,
+    "question": "Sebuah pola panggung dibuat dari persegi $n\\times n$ dan dua jalur tambahan sepanjang $n$ ubin. Untuk panggung ke-$12$, banyak ubin yang dibutuhkan adalah ...",
+    "options": [
+      "156",
+      "168",
+      "164",
+      "172"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Persegi utama $12\\times12$ memerlukan $144$ ubin.\nLangkah 2: Dua jalur tambahan masing-masing sepanjang $12$ ubin, sehingga tambahan ubin $=2\\times12=24$.\nLangkah 3: Total ubin $=144+24=168$.\nLangkah 4: Jadi banyak ubin untuk panggung ke-$12$ adalah $168$.\n**Materi terkait:**\n- Pola kuadrat sering berasal dari susunan persegi ditambah bagian tepi.\n- Model $n^2+2n$ dapat dibangun dari gambar, bukan hanya diberikan sebagai rumus.\nInsight kunci: Perspektif visual membuat siswa harus memahami asal rumus. Ini mengurangi kecenderungan menghafal substitusi $n$ saja.\nKenapa opsi lain salah: $156$ muncul jika hanya menambah $12$; $164$ dan $172$ berasal dari tambahan jalur yang salah.\nJawaban akhir: **168**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "fpb"
+    ],
+    "is_active": true,
+    "question": "Panitia memiliki 96 pensil, 144 penghapus, dan 168 penggaris. Semua akan dibagi ke paket identik tanpa sisa dengan isi tiap jenis sama banyak. Banyak paket maksimal yang dapat dibuat adalah ...",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "24"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Karena ingin paket identik maksimal, kita cari FPB dari 96, 144, dan 168.\nLangkah 2: Faktorisasi: $96=2^5\\times3$, $144=2^4\\times3^2$, $168=2^3\\times3\\times7$.\nLangkah 3: FPB adalah faktor sama dengan pangkat terkecil: $2^3\\times3=24$.\nLangkah 4: Jadi paket maksimal adalah 24 paket.\nLangkah 5: Cek: $96/24=4$, $144/24=6$, $168/24=7$, semua bulat.\n**Materi terkait:**\n- FPB untuk pembagian merata menjadi kelompok terbanyak.\n- Verifikasi pembagian akhir memastikan jawaban benar.\nInsight kunci: Menentukan konsep FPB/KPK di awal adalah langkah paling penting. Setelah konsep tepat, perhitungan menjadi jelas dan singkat.\nKenapa opsi lain salah: Opsi lain bukan faktor persekutuan terbesar yang membagi ketiga bilangan sekaligus.\nJawaban akhir: **24**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "trapesium"
+    ],
+    "is_active": true,
+    "question": "Luas trapesium adalah $216\\,\\text{cm}^2$ dan tingginya 12 cm. Jika selisih dua sisi sejajar adalah 6 cm, maka sisi sejajar yang lebih panjang adalah ...",
+    "options": [
+      "21 cm",
+      "18 cm",
+      "20 cm",
+      "24 cm"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Rumus luas trapesium: $L=\\frac{1}{2}(a+b)t$.\nLangkah 2: Substitusi: $216=\\frac{1}{2}(a+b)(12)=6(a+b)$ sehingga $a+b=36$.\nLangkah 3: Diketahui selisih sisi: $a-b=6$.\nLangkah 4: Jumlahkan persamaan: $(a+b)+(a-b)=36+6$ sehingga $2a=42$ dan $a=21$.\nLangkah 5: Jadi sisi sejajar yang lebih panjang adalah 21 cm.\n**Materi terkait:**\n- Soal geometri sering memerlukan kombinasi dengan aljabar.\n- Informasi jumlah dan selisih cocok diselesaikan sistem persamaan.\nInsight kunci: Setelah rumus luas dipakai, sisa soal berubah jadi aljabar sederhana. Ini pola penting untuk soal geometri menengah.\nKenapa opsi lain salah: Opsi lain berasal dari kesalahan menyusun persamaan jumlah-selisih atau salah hitung.\nJawaban akhir: **21 cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "lingkaran"
+    ],
+    "is_active": true,
+    "question": "Roda sepeda berdiameter $56\\,\\text{cm}$ berputar 10 kali tanpa tergelincir. Jika $\\pi=\\frac{22}{7}$, jarak tempuhnya adalah ...",
+    "options": [
+      "16,8 m",
+      "18,4 m",
+      "17,6 m",
+      "19,2 m"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Keliling roda per putaran: $K=\\pi d=\\frac{22}{7}\\times56=176\\,\\text{cm}$.\nLangkah 2: Jarak untuk 10 putaran: $176\\times10=1760\\,\\text{cm}$.\nLangkah 3: Ubah ke meter: $1760\\,\\text{cm}=17{,}6\\,\\text{m}$.\nLangkah 4: Jadi jarak tempuhnya 17,6 m.\n**Materi terkait:**\n- Jarak roda = jumlah putaran x keliling.\n- Konversi satuan perlu diperhatikan di akhir.\nInsight kunci: Model sederhana dengan keliling lingkaran membuat soal putaran jadi mudah. Kesalahan paling sering ada di konversi cm ke m.\nKenapa opsi lain salah: Opsi lain muncul dari salah hitung keliling atau salah konversi satuan.\nJawaban akhir: **17,6 m**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "segitiga"
+    ],
+    "is_active": true,
+    "question": "Segitiga sama kaki memiliki keliling 50 cm dan alas 16 cm. Luas segitiga tersebut adalah ...",
+    "options": [
+      "108 $\\text{cm}^2$",
+      "112 $\\text{cm}^2$",
+      "128 $\\text{cm}^2$",
+      "120 $\\text{cm}^2$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Misal sisi kaki segitiga $s$, maka $2s+16=50$ sehingga $s=17$.\nLangkah 2: Tinggi membagi alas 16 cm menjadi dua bagian 8 cm.\nLangkah 3: Gunakan Pythagoras: $t^2+8^2=17^2$ sehingga $t^2=289-64=225$.\nLangkah 4: Diperoleh $t=15$ cm.\nLangkah 5: Luas segitiga $=\\frac{1}{2}\\times16\\times15=120\\,\\text{cm}^2$.\n**Materi terkait:**\n- Sifat segitiga sama kaki membantu menemukan tinggi.\n- Pythagoras digunakan saat tinggi belum diketahui langsung.\nInsight kunci: Soal ini menuntut perubahan strategi dari keliling ke tinggi, lalu ke luas. Pemecahan bertahap sangat penting.\nKenapa opsi lain salah: Opsi lain muncul karena salah mencari tinggi atau lupa faktor $\\frac{1}{2}$.\nJawaban akhir: **120 $\\text{cm}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "tabung",
+      "debit"
+    ],
+    "is_active": true,
+    "question": "Tabung berjari-jari $7\\,\\text{cm}$ dan tinggi $24\\,\\text{cm}$ diisi air dengan debit $154\\,\\text{cm}^3$/menit. Gunakan $\\pi=\\frac{22}{7}$. Waktu yang diperlukan hingga penuh adalah ...",
+    "options": [
+      "24 menit",
+      "22 menit",
+      "26 menit",
+      "28 menit"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Volume tabung: $V=\\pi r^2h=\\frac{22}{7}\\times7^2\\times24=3696\\,\\text{cm}^3$.\nLangkah 2: Waktu isi: $t=\\frac{V}{Q}=\\frac{3696}{154}$.\nLangkah 3: Hasil pembagian $=24$ menit.\nLangkah 4: Jadi waktu yang diperlukan adalah 24 menit.\nLangkah 5: Cek: $154\\times24=3696$, sesuai volume.\n**Materi terkait:**\n- Volume tabung menghubungkan geometri dan kapasitas.\n- Debit menghubungkan volume dan waktu.\nInsight kunci: Soal ini menggabungkan konsep bangun ruang dengan pengukuran laju. Menuliskan satuan di tiap langkah membantu menjaga akurasi.\nKenapa opsi lain salah: Opsi lain berasal dari salah hitung volume atau salah membagi dengan debit.\nJawaban akhir: **24 menit**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "balok",
+      "rusuk-balok-kontekstual"
+    ],
+    "is_active": true,
+    "question": "Sebuah akuarium berbentuk balok memiliki panjang $18$ cm, lebar $12$ cm, dan tinggi $6$ cm. Rina menempel pita pada seluruh rusuk akuarium. Jika ia memiliki pita $150$ cm, sisa pita setelah semua rusuk tertutup adalah ...",
+    "options": [
+      "18 cm",
+      "6 cm",
+      "12 cm",
+      "24 cm"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Balok memiliki $12$ rusuk, tetapi lebih mudah dihitung dengan rumus total rusuk $4(p+l+t)$. Rumus ini berarti ada empat rusuk untuk panjang, empat untuk lebar, dan empat untuk tinggi.\nLangkah 2: Hitung total rusuk akuarium: $4(18+12+6)=4\\times36=144$ cm. Jadi pita yang dibutuhkan untuk menutup semua rusuk adalah $144$ cm.\nLangkah 3: Rina memiliki $150$ cm pita. Sisa pita adalah $150-144=6$ cm.\nLangkah 4: Jadi sisa pita setelah semua rusuk tertutup adalah $6$ cm.\n**Materi terkait:**\n- Total rusuk balok bukan volume dan bukan luas permukaan; konsepnya adalah panjang semua garis tepi.\n- Dalam soal konteks, hitung kebutuhan dahulu, lalu bandingkan dengan persediaan.\nInsight kunci: Perspektif soal ini mengubah bangun ruang menjadi kebutuhan bahan. Siswa perlu mengenali bahwa pita menempel pada rusuk, bukan menutup sisi. Jika salah memilih volume atau luas permukaan, jawabannya akan jauh dari makna cerita.\nKenapa opsi lain salah: $12$ dan $18$ memakai salah satu ukuran balok saja, sedangkan $24$ dapat muncul dari menghitung sebagian rusuk tanpa mengurangkan dari pita awal.\nJawaban akhir: **6 cm**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Bangun datar",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-j",
+      "gabungan-bangun"
+    ],
+    "is_active": true,
+    "question": "Sebuah taman berbentuk persegi panjang $24\\,\\text{m}\\times14\\,\\text{m}$ ditambah setengah lingkaran berdiameter 14 m di salah satu sisi pendek. Jika $\\pi=\\frac{22}{7}$, luas taman adalah ...",
+    "options": [
+      "389 $\\text{m}^2$",
+      "397 $\\text{m}^2$",
+      "413 $\\text{m}^2$",
+      "405 $\\text{m}^2$"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Luas persegi panjang: $24\\times14=336\\,\\text{m}^2$.\nLangkah 2: Setengah lingkaran memiliki jari-jari 7 m.\nLangkah 3: Luas setengah lingkaran: $\\frac{1}{2}\\times\\frac{22}{7}\\times7^2=77\\,\\text{m}^2$.\nLangkah 4: Luas total taman: $336+77=413\\,\\text{m}^2$? Cek opsi, angka ini ada di daftar jawaban.\nLangkah 5: Karena perhitungan tepat, luas taman adalah $413\\,\\text{m}^2$.\n**Materi terkait:**\n- Bangun gabungan diselesaikan dengan menjumlah komponen.\n- Diameter harus diubah ke jari-jari sebelum rumus lingkaran.\nInsight kunci: Soal gabungan menuntut kemampuan memecah bentuk kompleks menjadi bentuk dasar. Ketelitian data lingkaran sangat penting.\nKenapa opsi lain salah: Opsi lain muncul dari salah menentukan jari-jari atau lupa faktor setengah.\nJawaban akhir: **413 $\\text{m}^2$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "mean"
+    ],
+    "is_active": true,
+    "question": "Rata-rata 7 nilai adalah 82. Enam nilai yang sudah diketahui: 78, 80, 84, 86, 79, 85. Nilai ketujuh adalah ...",
+    "options": [
+      "82",
+      "80",
+      "84",
+      "86"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Total nilai yang dibutuhkan: $7\\times82=574$.\nLangkah 2: Jumlah enam nilai diketahui: $78+80+84+86+79+85=492$.\nLangkah 3: Nilai ketujuh = $574-492=82$.\nLangkah 4: Jadi nilai ketujuh adalah 82.\n**Materi terkait:**\n- Hubungan rata-rata dan total data.\n- Soal nilai hilang diselesaikan dengan selisih total.\nInsight kunci: Strategi total membuat soal rata-rata menjadi cepat dan akurat. Tidak perlu menebak angka satu per satu.\nKenapa opsi lain salah: Opsi lain berasal dari salah menjumlah data diketahui atau salah total target.\nJawaban akhir: **82**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Penyajian & interpretasi data",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "math-level-2-speed-j",
+      "diagram-lingkaran"
+    ],
+    "is_active": true,
+    "question": "Pada diagram lingkaran hobi siswa (total 240 siswa), sudut untuk Sains $144^\\circ$ dan Bahasa $96^\\circ$. Sisanya untuk Olahraga. Banyak siswa yang memilih Olahraga adalah ...",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Sudut total lingkaran $=360^\\circ$.\nLangkah 2: Sudut Olahraga $=360^\\circ-144^\\circ-96^\\circ=120^\\circ$.\nLangkah 3: Proporsi Olahraga $=\\frac{120}{360}=\\frac{1}{3}$.\nLangkah 4: Banyak siswa Olahraga $=\\frac{1}{3}\\times240=80$.\nLangkah 5: Jadi jawabannya 80 siswa.\n**Materi terkait:**\n- Sudut pada pie chart menyatakan proporsi data.\n- Ubah sudut ke fraksi sebelum mengalikan total.\nInsight kunci: Membaca diagram lingkaran membutuhkan ketelitian pada sudut sisa. Jika proporsi benar, hitungan akhir akan mudah.\nKenapa opsi lain salah: Opsi lain muncul dari salah mencari sudut sisa atau salah mengubah proporsi.\nJawaban akhir: **80**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "peluang",
+      "peluang-independen"
+    ],
+    "is_active": true,
+    "question": "Sebuah spinner bernomor $1$ sampai $8$ diputar sekali, lalu sebuah koin dilempar sekali. Peluang spinner berhenti pada kelipatan $4$ dan koin menunjukkan sisi gambar adalah ...",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{16}$",
+      "$\\frac{1}{8}$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Kelipatan $4$ dari bilangan $1$ sampai $8$ adalah $4$ dan $8$. Jadi peluang spinner berhenti pada kelipatan $4$ adalah $\\frac{2}{8}=\\frac{1}{4}$.\nLangkah 2: Koin memiliki dua sisi yang sama mungkin, yaitu angka dan gambar. Peluang muncul sisi gambar adalah $\\frac{1}{2}$.\nLangkah 3: Kedua kejadian ini **independen** karena hasil spinner tidak memengaruhi hasil koin. Karena dua syarat harus terjadi bersama, kalikan peluangnya.\nLangkah 4: Peluangnya $\\frac{1}{4}\\times\\frac{1}{2}=\\frac{1}{8}$.\n**Materi terkait:**\n- Kejadian gabungan dengan kata ?dan? biasanya membutuhkan perkalian peluang.\n- Untuk alat berbeda seperti spinner dan koin, ruang sampelnya dihitung terpisah.\nInsight kunci: Soal ini memberi perspektif selain mengambil bola dari kotak. Jebakan utamanya adalah berhenti pada peluang spinner saja, padahal masih ada syarat koin. Menulis peluang tiap alat membuat syarat tidak ada yang tertinggal.\nKenapa opsi lain salah: $\\frac{1}{4}$ hanya menghitung spinner, $\\frac{1}{2}$ hanya menghitung koin, dan $\\frac{1}{16}$ muncul dari mengira hanya satu angka yang memenuhi kelipatan $4$.\nJawaban akhir: **$\\frac{1}{8}$**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "plsv"
+    ],
+    "is_active": true,
+    "question": "Di sebuah kelas, jumlah stiker yang diterima setiap pemenang sama banyak. Setelah setiap pemenang mendapat $7$ stiker, guru masih mengurangi $9$ stiker untuk cadangan, sehingga stiker yang terpakai tercatat $40$. Banyak pemenang adalah ...",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Misalkan banyak pemenang $=x$. Setiap pemenang mendapat $7$ stiker, sehingga kebutuhan awal $7x$.\nLangkah 2: Setelah dikurangi $9$ stiker untuk cadangan, jumlah terpakai menjadi $40$, maka modelnya $7x-9=40$.\nLangkah 3: Tambahkan $9$ pada kedua sisi: $7x=49$.\nLangkah 4: Bagi dengan $7$, diperoleh $x=7$.\n**Materi terkait:**\n- Persamaan linear dapat muncul dari pembagian hadiah atau biaya per orang.\n- Bedakan jumlah per orang, banyak orang, dan pengurangan tetap.\nInsight kunci: Konteks membantu menentukan arti variabel. Jangan hanya melihat angka $7$ dan $9$; pahami operasi yang terjadi.\nKenapa opsi lain salah: $5,6,$ dan $8$ tidak membuat $7x-9=40$ benar.\nJawaban akhir: **7**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "reasoning",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-j",
+      "modulo"
+    ],
+    "is_active": true,
+    "question": "Jika suatu bilangan $n$ saat dibagi 9 bersisa 4, maka sisa pembagian dari $3n+5$ oleh 9 adalah ...",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Dari soal, $n\\equiv4\\pmod 9$.\nLangkah 2: Hitung $3n+5\\equiv3(4)+5=12+5=17\\pmod 9$.\nLangkah 3: Sisa 17 saat dibagi 9 adalah 8.\nLangkah 4: Jadi sisanya 8.\n**Materi terkait:**\n- Konsep sisa pembagian (modulo) mempermudah hitungan.\n- Nilai dapat diganti dengan bilangan kongruen.\nInsight kunci: Soal modulo bisa cepat selesai jika langsung memakai sifat kongruensi. Tidak perlu mencari nilai asli bilangan.\nKenapa opsi lain salah: Opsi lain muncul dari kesalahan operasi modulo atau tidak mengurangi hasil ke rentang sisa yang benar.\nJawaban akhir: **8**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Pengukuran & satuan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": [
+      "math-level-2-speed-j",
+      "kecepatan",
+      "debit"
+    ],
+    "is_active": true,
+    "question": "Sebuah keran mengalirkan $24$ liter air dalam $40$ menit dengan debit tetap. Debit keran tersebut dalam liter per jam adalah ...",
+    "options": [
+      "48 liter/jam",
+      "36 liter/jam",
+      "51 liter/jam",
+      "57 liter/jam"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Satuan yang diminta adalah liter per jam, jadi waktu $40$ menit harus diubah menjadi jam. Nilainya $40\\div60=\\frac{2}{3}$ jam.\nLangkah 2: Debit berarti banyak air per satuan waktu. Maka debitnya $24\\div\\frac{2}{3}$ liter per jam.\nLangkah 3: Membagi dengan pecahan sama dengan mengalikan kebalikannya: $24\\times\\frac{3}{2}=36$. Jadi debit keran adalah $36$ liter/jam.\nLangkah 4: Hasil ini masuk akal karena dalam $40$ menit mengalir $24$ liter, maka dalam $60$ menit jumlahnya lebih banyak, yaitu $36$ liter.\n**Materi terkait:**\n- Debit, kecepatan, dan laju produksi sama-sama memakai ide **jumlah per waktu**.\n- Kunci utamanya adalah menyamakan satuan waktu sebelum membagi.\nInsight kunci: Perspektif soal ini memakai laju air, bukan kendaraan. Namun struktur konsepnya sama: ubah waktu ke satuan yang diminta, lalu hitung per satuan waktu. Perkiraan masuk akal membantu mengecek bahwa hasil harus lebih dari $24$ liter/jam.\nKenapa opsi lain salah: $48$ muncul jika $40$ menit dianggap setengah jam, sedangkan $51$ dan $57$ berasal dari konversi menit ke jam yang tidak tepat.\nJawaban akhir: **36 liter/jam**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Perbandingan dalam konteks",
+    "skill_type": "multi_step_problem",
+    "question_type": "multi_step",
+    "tags": [
+      "math-level-2-speed-j",
+      "umur",
+      "rasio-berubah"
+    ],
+    "is_active": true,
+    "question": "Dua keranjang berisi permen dengan perbandingan banyak permen keranjang A dan B adalah $7:3$. Setelah masing-masing keranjang ditambah $6$ permen, perbandingannya menjadi $9:5$. Jumlah permen semula di kedua keranjang adalah ...",
+    "options": [
+      "28 permen",
+      "32 permen",
+      "34 permen",
+      "30 permen"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Misalkan banyak permen semula di keranjang A dan B adalah $7k$ dan $3k$. Model rasio ini membuat kedua jumlah tetap mengikuti perbandingan awal.\nLangkah 2: Setelah masing-masing ditambah $6$ permen, jumlahnya menjadi $7k+6$ dan $3k+6$. Tambahan harus diberikan ke kedua keranjang, bukan hanya salah satu.\nLangkah 3: Gunakan rasio baru: $\\frac{7k+6}{3k+6}=\\frac{9}{5}$. Kalikan silang sehingga $5(7k+6)=9(3k+6)$.\nLangkah 4: Sederhanakan persamaan: $35k+30=27k+54$, sehingga $8k=24$ dan $k=3$.\nLangkah 5: Jumlah permen semula adalah $7k+3k=10k=30$ permen.\n**Materi terkait:**\n- Pada rasio yang berubah karena penambahan sama, gunakan variabel skala untuk kondisi awal.\n- Penambahan yang sama tidak membuat rasio bertambah dengan cara yang sama; harus dimodelkan sebagai jumlah baru.\nInsight kunci: Soal ini menuntut model sebelum dan sesudah perubahan. Siswa yang hanya menjumlahkan angka rasio akan kehilangan efek penambahan $6$ pada kedua keranjang. Persamaan rasio menjaga hubungan kedua kondisi secara tepat.\nKenapa opsi lain salah: $28$ dan $32$ muncul dari salah kalikan silang, sedangkan $34$ biasanya berasal dari menjumlahkan setelah penambahan lalu dianggap sebagai jumlah awal.\nJawaban akhir: **30 permen**."
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Translasi verbal ke model matematika",
+    "skill_type": "reasoning",
+    "question_type": "concept_check",
+    "tags": [
+      "math-level-2-speed-j",
+      "strategi"
+    ],
+    "is_active": true,
+    "question": "Pada soal \"jumlah dua bilangan 50 dan selisihnya 14\", strategi yang paling tepat untuk hasil cepat dan akurat adalah ...",
+    "options": [
+      "Membuat model $x+y=50$ dan $x-y=14$, lalu menyelesaikannya",
+      "Menebak pasangan bilangan yang jumlahnya 50, lalu mengecek selisihnya satu per satu sampai cocok",
+      "Membagi 50 dengan 14 karena dua angka pada soal dianggap cukup untuk langsung dibandingkan sebagai rasio",
+      "Mengalikan 50 dan 14 untuk mendapatkan satu bilangan besar, lalu mencoba memecahnya menjadi dua bagian"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Informasi \"jumlah\" dan \"selisih\" paling tepat diterjemahkan menjadi dua persamaan linear.\nLangkah 2: Dengan model $x+y=50$ dan $x-y=14$, solusi bisa didapat sistematis.\nLangkah 3: Jumlahkan persamaan: $2x=64$, sehingga $x=32$ dan $y=18$.\nLangkah 4: Verifikasi: $32+18=50$ dan $32-18=14$.\nLangkah 5: Jadi strategi terbaik adalah membuat model persamaan.\n**Materi terkait:**\n- Translasi verbal ke model matematika adalah inti problem solving.\n- Strategi sistematis lebih andal daripada menebak.\nInsight kunci: Soal non-rutin lebih mudah jika diubah dulu ke model matematika. Model memberi langkah yang jelas dan mudah dicek.\nKenapa opsi lain salah: Opsi lain tidak memanfaatkan informasi soal secara matematis dan berisiko menghasilkan jawaban keliru.\nJawaban akhir: **Membuat model $x+y=50$ dan $x-y=14$, lalu menyelesaikannya**."
+  }
+]

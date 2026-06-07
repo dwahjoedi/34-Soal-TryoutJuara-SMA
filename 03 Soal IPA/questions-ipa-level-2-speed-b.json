@@ -1,0 +1,2778 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data sederhana dari kebun sekolah berikut.\n\n| Organisme | Minggu 1 | Minggu 4 |\n|---|---:|---:|\n| Rumput | 120 rumpun | 95 rumpun |\n| Belalang | 80 ekor | 140 ekor |\n| Katak | 30 ekor | 18 ekor |\n\nJika rantai makan utamanya rumput -> belalang -> katak, kesimpulan paling masuk akal adalah ...",
+    "options": [
+      "Rumput berkurang karena katak memakan rumput secara langsung.",
+      "Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang.",
+      "Belalang naik karena cuaca hangat membuat belalang lebih aktif, tanpa memperhatikan perubahan jumlah katak.",
+      "Jumlah katak turun karena tempat berlindungnya berkurang, sedangkan jumlah belalang tidak banyak memengaruhi katak."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Baca pola data dulu: rumput turun, belalang naik, katak turun. Kita tidak boleh langsung menebak tanpa melihat hubungan rantai makan.\nLangkah 2: Pada rantai rumput -> belalang -> katak, katak adalah pemangsa belalang. Jika katak berkurang, belalang cenderung lebih sedikit dimangsa.\nLangkah 3: Saat belalang naik, konsumsi rumput naik juga, sehingga jumlah rumput bisa menurun seperti data.\nLangkah 4: Pola sebab-akibat ini cocok dengan opsi pertama.\nLangkah 5: Opsi lain memuat hubungan makan yang tidak sesuai (katak bukan pemakan rumput) atau perubahan biologis yang tidak ilmiah.\n**Materi terkait:**\n- Dalam **jaring-jaring makanan**, perubahan satu populasi bisa memicu efek berantai ke tingkat trofik lain.\n- Data populasi membantu kita menyusun inferensi sebab-akibat, bukan sekadar menghafal definisi.\nInsight kunci: Gunakan urutan pemangsa-mangsa untuk menafsirkan data populasi.\nKenapa opsi lain salah: Opsi B salah relasi makan; C dan D tidak sesuai proses biologi dasar.\nJawaban akhir: **Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang.**",
+    "content": {
+      "question": "Perhatikan data sederhana dari kebun sekolah berikut.\n\nJika rantai makan utamanya rumput -> belalang -> katak, kesimpulan paling masuk akal adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data sederhana dari kebun sekolah berikut."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Organisme"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Minggu 1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Minggu 4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rumput"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "120 rumpun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "95 rumpun"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Belalang"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "80 ekor"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "140 ekor"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Katak"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "30 ekor"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "18 ekor"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika rantai makan utamanya rumput -> belalang -> katak, kesimpulan paling masuk akal adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Rumput berkurang karena katak memakan rumput secara langsung.",
+        "Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang.",
+        "Belalang naik karena cuaca hangat membuat belalang lebih aktif, tanpa memperhatikan perubahan jumlah katak.",
+        "Jumlah katak turun karena tempat berlindungnya berkurang, sedangkan jumlah belalang tidak banyak memengaruhi katak."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rumput berkurang karena katak memakan rumput secara langsung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Belalang naik karena cuaca hangat membuat belalang lebih aktif, tanpa memperhatikan perubahan jumlah katak."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah katak turun karena tempat berlindungnya berkurang, sedangkan jumlah belalang tidak banyak memengaruhi katak."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca pola data dulu: rumput turun, belalang naik, katak turun. Kita tidak boleh langsung menebak tanpa melihat hubungan rantai makan.\nLangkah 2: Pada rantai rumput -> belalang -> katak, katak adalah pemangsa belalang. Jika katak berkurang, belalang cenderung lebih sedikit dimangsa.\nLangkah 3: Saat belalang naik, konsumsi rumput naik juga, sehingga jumlah rumput bisa menurun seperti data.\nLangkah 4: Pola sebab-akibat ini cocok dengan opsi pertama.\nLangkah 5: Opsi lain memuat hubungan makan yang tidak sesuai (katak bukan pemakan rumput) atau perubahan biologis yang tidak ilmiah.\n**Materi terkait:**\n- Dalam **jaring-jaring makanan**, perubahan satu populasi bisa memicu efek berantai ke tingkat trofik lain.\n- Data populasi membantu kita menyusun inferensi sebab-akibat, bukan sekadar menghafal definisi.\nInsight kunci: Gunakan urutan pemangsa-mangsa untuk menafsirkan data populasi.\nKenapa opsi lain salah: Opsi B salah relasi makan; C dan D tidak sesuai proses biologi dasar.\nJawaban akhir: **Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang.**",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca pola data dulu: rumput turun, belalang naik, katak turun. Kita tidak boleh langsung menebak tanpa melihat hubungan rantai makan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Pada rantai rumput -> belalang -> katak, katak adalah pemangsa belalang. Jika katak berkurang, belalang cenderung lebih sedikit dimangsa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Saat belalang naik, konsumsi rumput naik juga, sehingga jumlah rumput bisa menurun seperti data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Pola sebab-akibat ini cocok dengan opsi pertama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Opsi lain memuat hubungan makan yang tidak sesuai (katak bukan pemakan rumput) atau perubahan biologis yang tidak ilmiah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Dalam "
+              },
+              {
+                "type": "text",
+                "text": "jaring-jaring makanan",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", perubahan satu populasi bisa memicu efek berantai ke tingkat trofik lain."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Data populasi membantu kita menyusun inferensi sebab-akibat, bukan sekadar menghafal definisi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Gunakan urutan pemangsa-mangsa untuk menafsirkan data populasi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Opsi B salah relasi makan; C dan D tidak sesuai proses biologi dasar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Katak berkurang sehingga tekanan pemangsaan pada belalang turun, lalu belalang naik dan rumput makin berkurang.",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Tumbuhan hijau membuat makanan melalui fotosintesis. Bahan utama dari lingkungan yang diperlukan adalah ...",
+    "options": [
+      "oksigen dan nitrogen dari udara yang banyak terdapat di sekitar tumbuhan.",
+      "garam mineral dan uap air yang terlihat di lingkungan sekitar daun.",
+      "karbon monoksida dan cahaya.",
+      "karbon dioksida, air, dan cahaya"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Fotosintesis adalah proses tumbuhan membuat makanan.\nLangkah 2: Pada level SD, komponen utama yang perlu diingat adalah air, karbon dioksida, dan cahaya matahari.\nLangkah 3: Opsi yang memuat tiga komponen ini adalah jawaban benar.\n**Materi terkait:**\n- Hasil utama fotosintesis adalah makanan tumbuhan dan oksigen.\n- Daun berklorofil berperan penting menangkap energi cahaya.\nInsight kunci: Ingat paket utama fotosintesis: air + karbon dioksida + cahaya.\nJawaban akhir: **karbon dioksida, air, dan cahaya**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "application",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Raka mendorong mobil mainan dengan gaya dorong yang sama pada dua lintasan: keramik halus dan karpet tebal. Pada keramik mobil menempuh 3,2 m, pada karpet 1,1 m. Penjelasan paling tepat adalah ...",
+    "options": [
+      "Karpet memberi gaya gesek lebih besar sehingga gerak lebih cepat berhenti.",
+      "Keramik menghilangkan gaya gravitasi.",
+      "Karpet membuat massa mobil bertambah dua kali lipat, karena pengamatan hanya menekankan jarak tempuh, bukan arah dan besar gaya.",
+      "Keramik menghasilkan energi baru dari lantai."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Gaya dorong dibuat sama, jadi pembeda utama adalah jenis permukaan lintasan.\nLangkah 2: Karpet lebih kasar daripada keramik, sehingga gaya gesek pada mobil lebih besar.\nLangkah 3: Gesek lebih besar membuat energi gerak cepat berkurang, sehingga jarak tempuh lebih pendek.\nLangkah 4: Jadi opsi yang menekankan perbedaan gaya gesek adalah yang benar.\n**Materi terkait:**\n- **Gaya gesek** bisa membantu (rem, berjalan) tetapi juga bisa menghambat gerak.\n- Dalam percobaan, variabel lain dijaga tetap agar pengaruh satu faktor lebih jelas.\nInsight kunci: Saat gaya dorong sama tetapi jarak berbeda, periksa gaya penghambat seperti gesekan.\nKenapa opsi lain salah: B, C, D tidak sesuai konsep gaya dasar dan variabel percobaan.\nJawaban akhir: **Karpet memberi gaya gesek lebih besar sehingga gerak lebih cepat berhenti.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Empat peristiwa berikut diamati di dapur sekolah:\n(1) Es batu mencair.\n(2) Gula larut dalam air hangat.\n(3) Telur direbus hingga matang.\n(4) Kertas dipotong kecil-kecil.\nPasangan peristiwa yang paling tepat menunjukkan **perubahan kimia** dan **perubahan fisika** berturut-turut adalah ...",
+    "options": [
+      "(2) dan (1), karena gula yang larut tampak hilang sehingga sering dikira sudah menjadi zat baru.",
+      "(1) dan (3).",
+      "(3) dan (1)",
+      "(4) dan (2)."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Perubahan kimia umumnya menghasilkan zat/sifat baru yang sulit kembali seperti semula.\nLangkah 2: Telur matang (3) adalah contoh perubahan kimia karena struktur bahan berubah permanen.\nLangkah 3: Perubahan fisika mengubah wujud/bentuk tanpa membentuk zat baru, misalnya es mencair (1).\nLangkah 4: Maka urutan kimia lalu fisika yang benar adalah (3) dan (1).\nLangkah 5: Opsi lain mencampur urutan atau menganggap pelarutan sebagai kimia utama pada konteks ini.\n**Materi terkait:**\n- Perubahan fisika: mencair, membeku, memotong, melipat.\n- Perubahan kimia: pembusukan, pembakaran, pemasakan tertentu seperti telur matang.\nInsight kunci: Bedakan muncul zat baru vs hanya ubah bentuk/wujud.\nKenapa opsi lain salah: B dan C menukar kategori/urutan; D berisi dua peristiwa fisika.\nJawaban akhir: **(3) dan (1)**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Siswa merakit dua rangkaian dengan 1 baterai dan 2 lampu identik.\n- Rangkaian A: seri\n- Rangkaian B: paralel\nSaat satu lampu dilepas, hasil pengamatan: pada A kedua lampu padam, pada B satu lampu masih menyala. Kesimpulan yang tepat adalah ...",
+    "options": [
+      "Rangkaian seri cenderung lebih terang dari paralel karena arus dibagi dua, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi.",
+      "Pada paralel, baterai bekerja lebih lambat jika satu lampu dilepas.",
+      "Rangkaian paralel memiliki jalur cabang sehingga arus masih bisa lewat cabang lain.",
+      "Kedua rangkaian sebenarnya sama, hasil hanya kebetulan."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pada seri, arus melewati satu jalur. Jika satu komponen dilepas, jalur putus total.\nLangkah 2: Pada paralel, ada lebih dari satu cabang. Saat satu cabang putus, cabang lain masih bisa membentuk jalur tertutup.\nLangkah 3: Data pengamatan sesuai teori ini: di paralel, satu lampu tetap menyala.\nLangkah 4: Jadi kesimpulan yang tepat adalah adanya jalur cabang pada paralel.\n**Materi terkait:**\n- Seri: satu jalur, sederhana, sensitif putus.\n- Paralel: beberapa jalur, lebih andal saat salah satu cabang rusak.\nInsight kunci: Cocokkan hasil eksperimen dengan struktur jalur arus pada tiap rangkaian.\nKenapa opsi lain salah: B salah generalisasi terang; C dan D bertentangan dengan data percobaan.\nJawaban akhir: **Rangkaian paralel memiliki jalur cabang sehingga arus masih bisa lewat cabang lain.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Pergantian siang dan malam terutama disebabkan oleh ...",
+    "options": [
+      "rotasi bumi pada porosnya",
+      "revolusi Bumi mengelilingi Matahari, karena siswa sering mengira gerak tahunan Bumi menyebabkan siang dan malam.",
+      "awan menutupi Matahari sehingga sebagian wilayah tampak gelap sementara.",
+      "debu letusan gunung berapi menghalangi cahaya Matahari dalam waktu singkat."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Rotasi adalah gerak bumi berputar pada porosnya.\nLangkah 2: Saat bagian bumi menghadap matahari terjadi siang, saat membelakangi terjadi malam.\nLangkah 3: Jadi pergantian siang-malam disebabkan rotasi bumi.\n**Materi terkait:**\n- Revolusi bumi lebih terkait perubahan musim dan lama satu tahun.\nInsight kunci: Siang-malam = rotasi, bukan revolusi.\nJawaban akhir: **rotasi bumi pada porosnya**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Setelah lari 10 menit, frekuensi napas Intan meningkat dari 18 kali/menit menjadi 30 kali/menit. Penjelasan paling tepat adalah ...",
+    "options": [
+      "Paru-paru bekerja lebih lambat saat tubuh lelah, sehingga tubuh mencoba bernapas lebih cepat setelah aktivitas.",
+      "Jantung memompa lebih lambat agar hemat energi.",
+      "Otot memakai energi yang hampir sama seperti saat istirahat karena gerak lari berlangsung singkat.",
+      "Tubuh membutuhkan lebih banyak oksigen dan pembuangan karbon dioksida lebih cepat."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Saat berlari, otot bekerja lebih keras dan butuh lebih banyak energi.\nLangkah 2: Proses penyediaan energi sel memerlukan oksigen dan menghasilkan karbon dioksida.\nLangkah 3: Karena itu frekuensi napas meningkat untuk memasok oksigen dan membuang karbon dioksida lebih cepat.\nLangkah 4: Jadi opsi pertama paling sesuai secara fisiologi dasar.\n**Materi terkait:**\n- Sistem pernapasan dan peredaran darah bekerja sama saat aktivitas fisik meningkat.\nInsight kunci: Napas lebih cepat saat olahraga adalah respons normal kebutuhan metabolisme meningkat.\nKenapa opsi lain salah: B, C, D bertentangan dengan fungsi dasar tubuh saat aktivitas fisik.\nJawaban akhir: **Tubuh membutuhkan lebih banyak oksigen dan pembuangan karbon dioksida lebih cepat.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Lingkungan & pencemaran",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Data kualitas air kolam desa dicatat selama 3 hari.\n\n| Hari | Oksigen terlarut (mg/L) | Ikan lemah (ekor) |\n|---|---:|---:|\n| 1 | 7,0 | 2 |\n| 2 | 5,2 | 9 |\n| 3 | 4,1 | 17 |\n\nInferensi paling tepat dari data tersebut adalah ...",
+    "options": [
+      "Jumlah ikan lemah naik karena oksigen terlarut meningkat tajam.",
+      "Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah.",
+      "Oksigen terlarut tidak berhubungan secara langsung dengan kondisi ikan, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain.",
+      "Ikan lemah karena kolam terlalu jernih, bukan faktor oksigen."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Amati tren: dari hari 1 ke 3, oksigen terlarut turun (7,0 -> 4,1).\nLangkah 2: Pada saat yang sama, ikan lemah naik (2 -> 17).\nLangkah 3: Pola berlawanan ini menunjukkan hubungan negatif: oksigen menurun, gejala stres ikan meningkat.\nLangkah 4: Maka inferensi paling kuat adalah penurunan oksigen terlarut berkaitan dengan kenaikan ikan lemah.\nLangkah 5: Opsi lain bertentangan langsung dengan data tabel.\n**Materi terkait:**\n- Ikan mengambil oksigen terlarut lewat insang.\n- Kualitas air memengaruhi kesehatan organisme akuatik.\n- Data deret waktu membantu melihat pola sebab-akibat awal.\nInsight kunci: Gunakan arah tren data sebelum menyimpulkan, jangan menebak dari satu angka.\nKenapa opsi lain salah: B membalik tren; C menolak pola jelas; D tidak didukung data yang diberikan.\nJawaban akhir: **Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah.**",
+    "content": {
+      "question": "Data kualitas air kolam desa dicatat selama 3 hari.\n\nInferensi paling tepat dari data tersebut adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data kualitas air kolam desa dicatat selama 3 hari."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hari"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Oksigen terlarut (mg/L)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ikan lemah (ekor)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "7,0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5,2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "9"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "4,1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "17"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Inferensi paling tepat dari data tersebut adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Jumlah ikan lemah naik karena oksigen terlarut meningkat tajam.",
+        "Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah.",
+        "Oksigen terlarut tidak berhubungan secara langsung dengan kondisi ikan, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain.",
+        "Ikan lemah karena kolam terlalu jernih, bukan faktor oksigen."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jumlah ikan lemah naik karena oksigen terlarut meningkat tajam."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Oksigen terlarut tidak berhubungan secara langsung dengan kondisi ikan, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ikan lemah karena kolam terlalu jernih, bukan faktor oksigen."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Amati tren: dari hari 1 ke 3, oksigen terlarut turun (7,0 -> 4,1).\nLangkah 2: Pada saat yang sama, ikan lemah naik (2 -> 17).\nLangkah 3: Pola berlawanan ini menunjukkan hubungan negatif: oksigen menurun, gejala stres ikan meningkat.\nLangkah 4: Maka inferensi paling kuat adalah penurunan oksigen terlarut berkaitan dengan kenaikan ikan lemah.\nLangkah 5: Opsi lain bertentangan langsung dengan data tabel.\n**Materi terkait:**\n- Ikan mengambil oksigen terlarut lewat insang.\n- Kualitas air memengaruhi kesehatan organisme akuatik.\n- Data deret waktu membantu melihat pola sebab-akibat awal.\nInsight kunci: Gunakan arah tren data sebelum menyimpulkan, jangan menebak dari satu angka.\nKenapa opsi lain salah: B membalik tren; C menolak pola jelas; D tidak didukung data yang diberikan.\nJawaban akhir: **Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah.**",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Amati tren: dari hari 1 ke 3, oksigen terlarut turun (7,0 -> 4,1)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Pada saat yang sama, ikan lemah naik (2 -> 17)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pola berlawanan ini menunjukkan hubungan negatif: oksigen menurun, gejala stres ikan meningkat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Maka inferensi paling kuat adalah penurunan oksigen terlarut berkaitan dengan kenaikan ikan lemah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Opsi lain bertentangan langsung dengan data tabel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Ikan mengambil oksigen terlarut lewat insang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kualitas air memengaruhi kesehatan organisme akuatik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Data deret waktu membantu melihat pola sebab-akibat awal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Gunakan arah tren data sebelum menyimpulkan, jangan menebak dari satu angka."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B membalik tren; C menolak pola jelas; D tidak didukung data yang diberikan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Semakin rendah oksigen terlarut, semakin banyak ikan yang menunjukkan gejala lemah.",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "concept_understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Pada lampu senter, energi utama berubah dari ...",
+    "options": [
+      "kimia baterai -> listrik -> cahaya (serta sedikit panas)",
+      "cahaya -> kimia -> listrik.",
+      "panas -> bunyi -> cahaya.",
+      "gerak tangan -> nuklir -> cahaya, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Baterai menyimpan energi kimia.\nLangkah 2: Saat senter dinyalakan, energi kimia diubah menjadi energi listrik dalam rangkaian.\nLangkah 3: Di lampu LED/bohlam, listrik diubah menjadi cahaya dan sedikit panas.\nLangkah 4: Urutan ini sesuai opsi pertama.\n**Materi terkait:**\n- Banyak alat rumah tangga melibatkan transformasi energi bertahap.\nInsight kunci: Telusuri sumber awal energi pada alat, lalu urutkan perubahan sampai keluaran.\nKenapa opsi lain salah: Tidak sesuai alur kerja senter secara ilmiah.\nJawaban akhir: **kimia baterai -> listrik -> cahaya (serta sedikit panas)**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Campuran pasir dan air paling mudah dipisahkan dengan cara ...",
+    "options": [
+      "penguapan total sebagian besar komponen.",
+      "mendinginkan campuran agar pasir lebih mudah mengendap di dasar wadah.",
+      "filtrasi (penyaringan)",
+      "mengaduk campuran agar pasir berkumpul dan lebih mudah dipisahkan."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pasir tidak larut dalam air sehingga membentuk campuran heterogen.\nLangkah 2: Pada campuran heterogen padat-cair seperti ini, metode sederhana yang efektif adalah penyaringan.\nLangkah 3: Kertas saring menahan partikel pasir, sedangkan air lewat.\nLangkah 4: Jadi jawabannya adalah filtrasi.\n**Materi terkait:**\n- Metode pemisahan disesuaikan dengan sifat campuran (larut/tidak larut, ukuran partikel).\nInsight kunci: Kenali dulu jenis campuran sebelum memilih metode pemisahan.\nJawaban akhir: **filtrasi (penyaringan)**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Data pengamatan bunyi bel sekolah:\n\n| Jarak dari sumber (m) | Kuat bunyi yang dirasakan |\n|---:|---|\n| 5 | sangat keras |\n| 15 | sedang |\n| 30 | pelan |\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Semakin jauh, bunyi cenderung makin tinggi nadanya.",
+      "Jarak tidak memengaruhi bunyi yang didengar secara langsung, karena perubahan bunyi atau cahaya dilihat dari sumbernya saja.",
+      "Bunyi tidak merambat melalui udara.",
+      "Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Tabel menunjukkan pola jarak meningkat (5 -> 30 m) dan bunyi terasa makin lemah.\nLangkah 2: Ini berarti energi bunyi yang sampai ke pendengar berkurang seiring bertambahnya jarak.\nLangkah 3: Data tidak membahas perubahan nada, hanya kuat-lemahnya bunyi.\nLangkah 4: Maka kesimpulan paling tepat adalah intensitas cenderung berkurang saat jarak bertambah.\n**Materi terkait:**\n- Bunyi merambat melalui medium seperti udara.\n- Kuat bunyi dipengaruhi jarak, hambatan, dan sumber bunyi.\nInsight kunci: Bedakan konsep kuat bunyi (intensitas) dengan tinggi nada (frekuensi).\nKenapa opsi lain salah: B mencampur dengan nada; C dan D bertentangan dengan data dan konsep dasar bunyi.\nJawaban akhir: **Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang.**",
+    "content": {
+      "question": "Data pengamatan bunyi bel sekolah:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan bunyi bel sekolah:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jarak dari sumber (m)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kuat bunyi yang dirasakan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sangat keras"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sedang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "30"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "pelan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Semakin jauh, bunyi cenderung makin tinggi nadanya.",
+        "Jarak tidak memengaruhi bunyi yang didengar secara langsung, karena perubahan bunyi atau cahaya dilihat dari sumbernya saja.",
+        "Bunyi tidak merambat melalui udara.",
+        "Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin jauh, bunyi cenderung makin tinggi nadanya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jarak tidak memengaruhi bunyi yang didengar secara langsung, karena perubahan bunyi atau cahaya dilihat dari sumbernya saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bunyi tidak merambat melalui udara."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Tabel menunjukkan pola jarak meningkat (5 -> 30 m) dan bunyi terasa makin lemah.\nLangkah 2: Ini berarti energi bunyi yang sampai ke pendengar berkurang seiring bertambahnya jarak.\nLangkah 3: Data tidak membahas perubahan nada, hanya kuat-lemahnya bunyi.\nLangkah 4: Maka kesimpulan paling tepat adalah intensitas cenderung berkurang saat jarak bertambah.\n**Materi terkait:**\n- Bunyi merambat melalui medium seperti udara.\n- Kuat bunyi dipengaruhi jarak, hambatan, dan sumber bunyi.\nInsight kunci: Bedakan konsep kuat bunyi (intensitas) dengan tinggi nada (frekuensi).\nKenapa opsi lain salah: B mencampur dengan nada; C dan D bertentangan dengan data dan konsep dasar bunyi.\nJawaban akhir: **Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang.**",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Tabel menunjukkan pola jarak meningkat (5 -> 30 m) dan bunyi terasa makin lemah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Ini berarti energi bunyi yang sampai ke pendengar berkurang seiring bertambahnya jarak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Data tidak membahas perubahan nada, hanya kuat-lemahnya bunyi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Maka kesimpulan paling tepat adalah intensitas cenderung berkurang saat jarak bertambah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Bunyi merambat melalui medium seperti udara."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kuat bunyi dipengaruhi jarak, hambatan, dan sumber bunyi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Bedakan konsep kuat bunyi (intensitas) dengan tinggi nada (frekuensi)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B mencampur dengan nada; C dan D bertentangan dengan data dan konsep dasar bunyi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Semakin jauh dari sumber bunyi, intensitas bunyi yang diterima cenderung berkurang.",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Dua sendok (logam dan kayu) dimasukkan ke teh panas selama 2 menit. Ujung sendok logam terasa lebih panas daripada kayu. Penjelasan terbaik adalah ...",
+    "options": [
+      "Kayu menghasilkan dingin dari dalam.",
+      "Logam konduktor panas lebih baik, sedangkan kayu cenderung isolator.",
+      "Teh panas hanya bisa memanaskan benda berwarna perak, karena permukaan benda dikira memberi dorongan tambahan saat benda bergerak.",
+      "Kayu memantulkan sebagian besar panas tanpa tersisa."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Panas berpindah melalui konduksi pada benda padat.\nLangkah 2: Logam umumnya menghantarkan panas lebih cepat daripada kayu.\nLangkah 3: Karena itu ujung sendok logam lebih cepat terasa panas.\nLangkah 4: Kayu bukan pembuat dingin; kayu adalah penghantar panas yang lebih buruk.\n**Materi terkait:**\n- Konduktor baik dipakai pada bagian yang butuh transfer panas.\n- Isolator dipakai untuk pegangan agar lebih aman disentuh.\nInsight kunci: Perbedaan rasa panas sering menunjukkan beda kemampuan menghantarkan kalor.\nKenapa opsi lain salah: B, C, D tidak sesuai konsep perpindahan panas.\nJawaban akhir: **Logam konduktor panas lebih baik, sedangkan kayu cenderung isolator.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Data denyut nadi (kali/menit) dua siswa:\n\n| Kondisi | Siswa A | Siswa B |\n|---|---:|---:|\n| Istirahat | 78 | 80 |\n| Setelah lari 5 menit | 122 | 128 |\n| 6 menit setelah berhenti | 88 | 102 |\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Siswa B lebih bugar karena nadi pemulihannya tetap jauh di atas istirahat.",
+      "Aktivitas fisik tidak memengaruhi denyut nadi kedua siswa.",
+      "Data tidak dapat dipakai secara langsung untuk melihat respons tubuh terhadap olahraga, karena tubuh dikira sedang menghemat energi saat aktivitas berubah.",
+      "Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Saat istirahat, nadi A dan B hampir sama (78 dan 80).\nLangkah 2: Setelah lari, keduanya naik tajam (122 dan 128), jadi aktivitas jelas memengaruhi kerja jantung.\nLangkah 3: Pada menit pemulihan, A turun ke 88 (selisih 10 dari istirahat), B turun ke 102 (selisih 22 dari istirahat).\nLangkah 4: Karena selisih A lebih kecil, A lebih cepat kembali mendekati kondisi awal dalam data ini.\nLangkah 5: Maka kesimpulan paling kuat adalah opsi pertama.\n**Materi terkait:**\n- Denyut nadi mencerminkan respons sistem peredaran darah terhadap kebutuhan oksigen.\n- Pemulihan nadi adalah indikator sederhana respons kebugaran, meski bukan satu-satunya indikator.\nInsight kunci: Lihat dua fase data sekaligus: kenaikan saat aktivitas dan kedekatan ke baseline saat pemulihan.\nKenapa opsi lain salah: B menafsir terbalik; C dan D bertentangan dengan pola data yang jelas.\nJawaban akhir: **Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat.**",
+    "content": {
+      "question": "Data denyut nadi (kali/menit) dua siswa:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data denyut nadi (kali/menit) dua siswa:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Siswa A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Siswa B"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Istirahat"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "78"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "80"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Setelah lari 5 menit"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "122"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "128"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6 menit setelah berhenti"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "88"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "102"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Siswa B lebih bugar karena nadi pemulihannya tetap jauh di atas istirahat.",
+        "Aktivitas fisik tidak memengaruhi denyut nadi kedua siswa.",
+        "Data tidak dapat dipakai secara langsung untuk melihat respons tubuh terhadap olahraga, karena tubuh dikira sedang menghemat energi saat aktivitas berubah.",
+        "Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Siswa B lebih bugar karena nadi pemulihannya tetap jauh di atas istirahat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aktivitas fisik tidak memengaruhi denyut nadi kedua siswa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Data tidak dapat dipakai secara langsung untuk melihat respons tubuh terhadap olahraga, karena tubuh dikira sedang menghemat energi saat aktivitas berubah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Saat istirahat, nadi A dan B hampir sama (78 dan 80).\nLangkah 2: Setelah lari, keduanya naik tajam (122 dan 128), jadi aktivitas jelas memengaruhi kerja jantung.\nLangkah 3: Pada menit pemulihan, A turun ke 88 (selisih 10 dari istirahat), B turun ke 102 (selisih 22 dari istirahat).\nLangkah 4: Karena selisih A lebih kecil, A lebih cepat kembali mendekati kondisi awal dalam data ini.\nLangkah 5: Maka kesimpulan paling kuat adalah opsi pertama.\n**Materi terkait:**\n- Denyut nadi mencerminkan respons sistem peredaran darah terhadap kebutuhan oksigen.\n- Pemulihan nadi adalah indikator sederhana respons kebugaran, meski bukan satu-satunya indikator.\nInsight kunci: Lihat dua fase data sekaligus: kenaikan saat aktivitas dan kedekatan ke baseline saat pemulihan.\nKenapa opsi lain salah: B menafsir terbalik; C dan D bertentangan dengan pola data yang jelas.\nJawaban akhir: **Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat.**",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Saat istirahat, nadi A dan B hampir sama (78 dan 80)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Setelah lari, keduanya naik tajam (122 dan 128), jadi aktivitas jelas memengaruhi kerja jantung."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pada menit pemulihan, A turun ke 88 (selisih 10 dari istirahat), B turun ke 102 (selisih 22 dari istirahat)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Karena selisih A lebih kecil, A lebih cepat kembali mendekati kondisi awal dalam data ini."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Maka kesimpulan paling kuat adalah opsi pertama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Denyut nadi mencerminkan respons sistem peredaran darah terhadap kebutuhan oksigen."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pemulihan nadi adalah indikator sederhana respons kebugaran, meski bukan satu-satunya indikator."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Lihat dua fase data sekaligus: kenaikan saat aktivitas dan kedekatan ke baseline saat pemulihan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B menafsir terbalik; C dan D bertentangan dengan pola data yang jelas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Keduanya menunjukkan kenaikan nadi saat aktivitas; pemulihan A lebih cepat karena lebih mendekati nadi istirahat.",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "recall",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Perbedaan yang tepat antara cuaca dan iklim adalah ...",
+    "options": [
+      "Cuaca diamati harian/jangka pendek, sedangkan iklim adalah pola cuaca jangka panjang.",
+      "Cuaca cenderung sama sepanjang tahun, iklim berubah setiap jam, karena posisi benda langit dilihat dari tampaknya saja, bukan susunannya.",
+      "Cuaca lebih cocok untuk daerah dingin, sedangkan iklim lebih cocok untuk daerah tropis.",
+      "Cuaca adalah suhu saja, iklim adalah angin saja."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Cuaca menggambarkan kondisi atmosfer saat ini atau harian (misalnya hari ini hujan).\nLangkah 2: Iklim adalah pola rata-rata cuaca jangka panjang suatu wilayah.\nLangkah 3: Jadi perbedaan utamanya pada skala waktu dan pola.\n**Materi terkait:**\n- Contoh iklim: tropis cenderung hangat dan lembap.\nInsight kunci: Cuaca = sesaat, iklim = pola panjang.\nJawaban akhir: **Cuaca diamati harian/jangka pendek, sedangkan iklim adalah pola cuaca jangka panjang.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Bebek memiliki kaki berselaput, sedangkan ayam tidak. Penjelasan adaptasi paling tepat adalah ...",
+    "options": [
+      "Kaki berselaput membantu bebek menahan posisi tubuh saat berada di air, tetapi bukan alat untuk mengambil oksigen.",
+      "Ayam tidak berselaput karena lebih sering berjalan di tanah kering, sehingga bentuk kakinya berbeda dari bebek.",
+      "Kaki berselaput membantu bebek bergerak lebih efisien di air sesuai habitatnya.",
+      "Sebagian besar burung seharusnya memiliki kaki berselaput yang sama."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Adaptasi adalah ciri yang membantu makhluk hidup bertahan pada lingkungannya.\nLangkah 2: Bebek banyak beraktivitas di perairan dangkal; selaput kaki membantu mendorong air saat berenang.\nLangkah 3: Ayam lebih dominan berjalan/mengais di darat, sehingga kebutuhan bentuk kaki berbeda.\nLangkah 4: Jadi pernyataan yang mengaitkan struktur kaki dengan habitat paling tepat.\n**Materi terkait:**\n- Adaptasi dapat berupa bentuk tubuh, perilaku, atau fungsi tubuh.\nInsight kunci: Hubungkan ciri tubuh dengan fungsi dan habitat, bukan menggeneralisasi semua hewan harus sama.\nKenapa opsi lain salah: B, C, D bertentangan dengan anatomi dan konsep adaptasi dasar.\nJawaban akhir: **Kaki berselaput membantu bebek bergerak lebih efisien di air sesuai habitatnya.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Sifat fisika & kimia zat",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Hasil uji tiga bahan untuk gagang panci:\n\n| Bahan | Cepat panas saat disentuh | Kuat secara mekanik |\n|---|---|---|\n| A (logam tipis) | Ya | Ya |\n| B (kayu padat) | Tidak | Ya |\n| C (plastik lunak) | Tidak | Kurang |\n\nBahan paling tepat untuk gagang panci adalah ...",
+    "options": [
+      "A, karena paling cepat menghantarkan panas.",
+      "B, karena tidak cepat panas dan cukup kuat",
+      "C, karena paling lunak sehingga nyaman.",
+      "A atau C sama baiknya karena sama-sama bahan buatan."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Gagang panci idealnya tidak cepat menghantarkan panas agar tangan aman.\nLangkah 2: Selain itu, bahan harus cukup kuat agar tidak mudah patah saat dipakai.\nLangkah 3: Dari tabel, B memenuhi dua syarat: tidak cepat panas dan kuat.\nLangkah 4: A cepat panas (kurang aman), C kurang kuat (kurang tahan).\nLangkah 5: Maka pilihan terbaik adalah B.\n**Materi terkait:**\n- Pemilihan bahan teknologi sederhana mempertimbangkan lebih dari satu sifat fisik.\n- Isolator panas dan kekuatan mekanik sering dipertimbangkan bersama.\nInsight kunci: Jangan fokus satu sifat saja; gabungkan aspek keselamatan dan ketahanan.\nKenapa opsi lain salah: A berisiko panas; C kurang kuat; D tidak berbasis data tabel.\nJawaban akhir: **B, karena tidak cepat panas dan cukup kuat**.",
+    "content": {
+      "question": "Hasil uji tiga bahan untuk gagang panci:\n\nBahan paling tepat untuk gagang panci adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hasil uji tiga bahan untuk gagang panci:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bahan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Cepat panas saat disentuh"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kuat secara mekanik"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "A (logam tipis)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ya"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ya"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "B (kayu padat)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tidak"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Ya"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "C (plastik lunak)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tidak"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kurang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bahan paling tepat untuk gagang panci adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "A, karena paling cepat menghantarkan panas.",
+        "B, karena tidak cepat panas dan cukup kuat",
+        "C, karena paling lunak sehingga nyaman.",
+        "A atau C sama baiknya karena sama-sama bahan buatan."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, karena paling cepat menghantarkan panas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "B, karena tidak cepat panas dan cukup kuat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "C, karena paling lunak sehingga nyaman."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A atau C sama baiknya karena sama-sama bahan buatan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Gagang panci idealnya tidak cepat menghantarkan panas agar tangan aman.\nLangkah 2: Selain itu, bahan harus cukup kuat agar tidak mudah patah saat dipakai.\nLangkah 3: Dari tabel, B memenuhi dua syarat: tidak cepat panas dan kuat.\nLangkah 4: A cepat panas (kurang aman), C kurang kuat (kurang tahan).\nLangkah 5: Maka pilihan terbaik adalah B.\n**Materi terkait:**\n- Pemilihan bahan teknologi sederhana mempertimbangkan lebih dari satu sifat fisik.\n- Isolator panas dan kekuatan mekanik sering dipertimbangkan bersama.\nInsight kunci: Jangan fokus satu sifat saja; gabungkan aspek keselamatan dan ketahanan.\nKenapa opsi lain salah: A berisiko panas; C kurang kuat; D tidak berbasis data tabel.\nJawaban akhir: **B, karena tidak cepat panas dan cukup kuat**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Gagang panci idealnya tidak cepat menghantarkan panas agar tangan aman."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Selain itu, bahan harus cukup kuat agar tidak mudah patah saat dipakai."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Dari tabel, B memenuhi dua syarat: tidak cepat panas dan kuat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: A cepat panas (kurang aman), C kurang kuat (kurang tahan)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Maka pilihan terbaik adalah B."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pemilihan bahan teknologi sederhana mempertimbangkan lebih dari satu sifat fisik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Isolator panas dan kekuatan mekanik sering dipertimbangkan bersama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Jangan fokus satu sifat saja; gabungkan aspek keselamatan dan ketahanan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: A berisiko panas; C kurang kuat; D tidak berbasis data tabel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "B, karena tidak cepat panas dan cukup kuat",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Keselamatan listrik",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Tindakan paling aman saat tangan basah dan ingin mencabut steker adalah ...",
+    "options": [
+      "Keringkan tangan terlebih dahulu, lalu pegang bagian kepala steker saat mencabut.",
+      "Langsung cabut steker dengan tangan basah agar cepat, karena susunan alat dikira kurang mengubah arah rambat atau aliran energi.",
+      "Tarik kabelnya sekuat mungkin dari jauh.",
+      "Semprot air ke steker agar tidak panas."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Air dapat meningkatkan risiko hantaran listrik pada kondisi tertentu.\nLangkah 2: Karena itu, tangan perlu dikeringkan dulu sebelum menyentuh steker.\nLangkah 3: Saat mencabut, pegang kepala steker, bukan menarik kabelnya agar tidak merusak isolasi.\nLangkah 4: Jadi opsi paling aman adalah opsi kedua.\n**Materi terkait:**\n- Keselamatan listrik dasar penting dalam aktivitas rumah dan sekolah.\nInsight kunci: Prioritaskan mengurangi risiko kontak listrik dan kerusakan kabel.\nJawaban akhir: **Keringkan tangan terlebih dahulu, lalu pegang bagian kepala steker saat mencabut.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Di gudang sekolah, peti dinaikkan ke truk setinggi 1 meter.\nPilihan alat:\n- Cara A: diangkat langsung dengan gaya besar.\n- Cara B: menggunakan bidang miring panjang 4 meter sehingga gaya dorong lebih kecil.\nPernyataan paling tepat adalah ...",
+    "options": [
+      "Bidang miring membuat usaha nol karena gaya jadi kecil.",
+      "Mengangkat langsung cenderung membutuhkan gaya paling kecil.",
+      "Bidang miring membuat peti terasa lebih ringan karena permukaannya lebih licin daripada lantai biasa.",
+      "Bidang miring mengurangi kebutuhan gaya sesaat, tetapi jarak tempuh dorong menjadi lebih panjang."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Pesawat sederhana seperti bidang miring membantu pekerjaan dengan menukar besar gaya dan jarak tempuh.\nLangkah 2: Saat panjang lintasan diperbesar, gaya dorong yang diperlukan bisa lebih kecil dibanding angkat langsung.\nLangkah 3: Namun gaya kecil itu bekerja pada jarak lebih panjang, jadi bukan berarti tidak ada usaha sama sekali.\nLangkah 4: Karena itu pernyataan paling tepat adalah gaya lebih kecil tetapi jarak dorong lebih panjang.\nLangkah 5: Opsi lain menyalahi prinsip dasar pesawat sederhana.\n**Materi terkait:**\n- Pesawat sederhana memberi keuntungan mekanis, bukan menciptakan energi gratis.\n- Contoh sehari-hari: papan miring, katrol, pengungkit.\nInsight kunci: Keuntungan mekanis adalah kompromi gaya dan jarak, bukan menghilangkan kerja total.\nKenapa opsi lain salah: B salah karena usaha tidak nol; C berlawanan konsep; D tidak relevan ilmiah.\nJawaban akhir: **Bidang miring mengurangi kebutuhan gaya sesaat, tetapi jarak tempuh dorong menjadi lebih panjang.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Kesehatan & gaya hidup sehat",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Dua siswa memiliki kebiasaan berbeda selama 1 bulan.\n- Siswa P: tidur cukup, minum air putih teratur, olahraga 3 kali seminggu.\n- Siswa Q: sering begadang, jarang minum air, hampir tidak olahraga.\nPrediksi paling masuk akal terkait kebugaran harian adalah ...",
+    "options": [
+      "Siswa Q cenderung lebih bugar karena tubuh terbiasa capek.",
+      "Kebiasaan tidur dan minum tidak memengaruhi kesehatan secara langsung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan.",
+      "Siswa P cenderung memiliki kebugaran dan pemulihan tubuh lebih baik dibanding Q.",
+      "Olahraga membuat tubuh cenderung lebih lemah karena energi habis."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Kebugaran dipengaruhi pola hidup: tidur, hidrasi, dan aktivitas fisik.\nLangkah 2: Siswa P menunjukkan tiga kebiasaan yang mendukung fungsi tubuh dan pemulihan.\nLangkah 3: Siswa Q memiliki kebiasaan yang cenderung menurunkan kebugaran harian.\nLangkah 4: Maka prediksi paling masuk akal adalah P cenderung lebih bugar.\n**Materi terkait:**\n- Gaya hidup sehat membantu kerja sistem tubuh tetap seimbang.\n- Kebugaran bukan hanya olahraga, tetapi juga tidur dan hidrasi.\nInsight kunci: Gunakan pola sebab-akibat biologis sederhana dari kebiasaan harian.\nKenapa opsi lain salah: B, C, D bertentangan dengan prinsip kesehatan dasar yang terbukti secara umum.\nJawaban akhir: **Siswa P cenderung memiliki kebugaran dan pemulihan tubuh lebih baik dibanding Q.**"
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-b"
+    ],
+    "is_active": true,
+    "question": "Data pemakaian air di kelas selama 4 hari:\n\n| Hari | Pemakaian air (liter) |\n|---|---:|\n| Senin | 120 |\n| Selasa | 118 |\n| Rabu | 95 |\n| Kamis | 92 |\n\nPada hari Rabu kelas mulai menjalankan program matikan keran saat sabun tangan. Kesimpulan paling masuk akal adalah ...",
+    "options": [
+      "Program cenderung gagal total karena data tidak berubah secara langsung.",
+      "Program hemat air kemungkinan berkontribusi menurunkan pemakaian air.",
+      "Pemakaian turun karena air berubah jadi tidak terlihat.",
+      "Data ini membuktikan air tidak dibutuhkan lagi di sekolah."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Bandingkan sebelum program (Senin-Selasa sekitar 118-120 L) dan sesudah mulai program (Rabu-Kamis 92-95 L).\nLangkah 2: Terlihat penurunan yang konsisten setelah program dijalankan.\nLangkah 3: Ini mendukung inferensi bahwa program hemat air berkontribusi pada penurunan pemakaian.\nLangkah 4: Namun secara ilmiah, kata yang tepat adalah kemungkinan berkontribusi, bukan klaim berlebihan tanpa kontrol sempurna.\nLangkah 5: Opsi lain tidak logis atau bertentangan dengan data.\n**Materi terkait:**\n- Pelestarian sumber daya dapat dimulai dari kebiasaan kecil berbasis data.\n- Interpretasi data perlu hati-hati: kuatkan inferensi tanpa klaim berlebihan.\nInsight kunci: Gunakan pola sebelum-sesudah untuk menyusun kesimpulan yang masuk akal dan proporsional.\nKenapa opsi lain salah: B berlawanan data; C dan D tidak ilmiah.\nJawaban akhir: **Program hemat air kemungkinan berkontribusi menurunkan pemakaian air.**",
+    "content": {
+      "question": "Data pemakaian air di kelas selama 4 hari:\n\nPada hari Rabu kelas mulai menjalankan program matikan keran saat sabun tangan. Kesimpulan paling masuk akal adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pemakaian air di kelas selama 4 hari:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hari"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pemakaian air (liter)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Senin"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "120"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Selasa"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "118"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rabu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "95"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kamis"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "92"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pada hari Rabu kelas mulai menjalankan program matikan keran saat sabun tangan. Kesimpulan paling masuk akal adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Program cenderung gagal total karena data tidak berubah secara langsung.",
+        "Program hemat air kemungkinan berkontribusi menurunkan pemakaian air.",
+        "Pemakaian turun karena air berubah jadi tidak terlihat.",
+        "Data ini membuktikan air tidak dibutuhkan lagi di sekolah."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Program cenderung gagal total karena data tidak berubah secara langsung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Program hemat air kemungkinan berkontribusi menurunkan pemakaian air."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pemakaian turun karena air berubah jadi tidak terlihat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Data ini membuktikan air tidak dibutuhkan lagi di sekolah."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Bandingkan sebelum program (Senin-Selasa sekitar 118-120 L) dan sesudah mulai program (Rabu-Kamis 92-95 L).\nLangkah 2: Terlihat penurunan yang konsisten setelah program dijalankan.\nLangkah 3: Ini mendukung inferensi bahwa program hemat air berkontribusi pada penurunan pemakaian.\nLangkah 4: Namun secara ilmiah, kata yang tepat adalah kemungkinan berkontribusi, bukan klaim berlebihan tanpa kontrol sempurna.\nLangkah 5: Opsi lain tidak logis atau bertentangan dengan data.\n**Materi terkait:**\n- Pelestarian sumber daya dapat dimulai dari kebiasaan kecil berbasis data.\n- Interpretasi data perlu hati-hati: kuatkan inferensi tanpa klaim berlebihan.\nInsight kunci: Gunakan pola sebelum-sesudah untuk menyusun kesimpulan yang masuk akal dan proporsional.\nKenapa opsi lain salah: B berlawanan data; C dan D tidak ilmiah.\nJawaban akhir: **Program hemat air kemungkinan berkontribusi menurunkan pemakaian air.**",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan sebelum program (Senin-Selasa sekitar 118-120 L) dan sesudah mulai program (Rabu-Kamis 92-95 L)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Terlihat penurunan yang konsisten setelah program dijalankan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Ini mendukung inferensi bahwa program hemat air berkontribusi pada penurunan pemakaian."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Namun secara ilmiah, kata yang tepat adalah kemungkinan berkontribusi, bukan klaim berlebihan tanpa kontrol sempurna."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Opsi lain tidak logis atau bertentangan dengan data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pelestarian sumber daya dapat dimulai dari kebiasaan kecil berbasis data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Interpretasi data perlu hati-hati: kuatkan inferensi tanpa klaim berlebihan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Gunakan pola sebelum-sesudah untuk menyusun kesimpulan yang masuk akal dan proporsional."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B berlawanan data; C dan D tidak ilmiah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Program hemat air kemungkinan berkontribusi menurunkan pemakaian air.",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

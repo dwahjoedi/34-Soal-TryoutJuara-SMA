@@ -1,0 +1,4819 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "understanding",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Siswa mengukur jarak lari di lapangan pada waktu berbeda.\n\n| Siswa | Jarak (m) | Waktu (s) |\n|---|---:|---:|\n| Andi | 50 | 10 |\n| Budi | 50 | 12 |\n| Citra | 50 | 8 |\n\nSiapa yang berlari paling cepat (kecepatan rata-rata terbesar)?",
+    "options": [
+      "Budi.",
+      "Andi.",
+      "Citra",
+      "Sebagian besar sama cepat karena jaraknya sama."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Kecepatan rata-rata membandingkan jarak dengan waktu pada jarak yang sama.\nLangkah 2: Waktu paling pendek berarti paling cepat jika jarak sama.\nLangkah 3: Citra 8 s paling pendek dibanding 10 s dan 12 s.\n**Materi terkait:**\n- Kecepatan sederhana: semakin singkat waktu tempuh jarak tetap, semakin besar kecepatannya.\n- Membaca tabel untuk membandingkan angka.\nInsight kunci: Bandingkan waktu pada jarak sama untuk menilai cepat-lambat.\nKenapa opsi lain salah: Budi waktu paling lama jadi paling lambat; Andi di tengah; jarak sama tidak otomatis kecepatan sama jika waktunya beda.\nJawaban akhir: **Citra**.",
+    "content": {
+      "question": "Siswa mengukur jarak lari di lapangan pada waktu berbeda.\n\nSiapa yang berlari paling cepat (kecepatan rata-rata terbesar)?",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Siswa mengukur jarak lari di lapangan pada waktu berbeda."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Siswa"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jarak (m)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Waktu (s)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Andi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "50"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Budi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "50"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "12"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Citra"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "50"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Siapa yang berlari paling cepat (kecepatan rata-rata terbesar)?"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Budi.",
+        "Andi.",
+        "Citra",
+        "Sebagian besar sama cepat karena jaraknya sama."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Budi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Andi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Citra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sebagian besar sama cepat karena jaraknya sama."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Kecepatan rata-rata membandingkan jarak dengan waktu pada jarak yang sama.\nLangkah 2: Waktu paling pendek berarti paling cepat jika jarak sama.\nLangkah 3: Citra 8 s paling pendek dibanding 10 s dan 12 s.\n**Materi terkait:**\n- Kecepatan sederhana: semakin singkat waktu tempuh jarak tetap, semakin besar kecepatannya.\n- Membaca tabel untuk membandingkan angka.\nInsight kunci: Bandingkan waktu pada jarak sama untuk menilai cepat-lambat.\nKenapa opsi lain salah: Budi waktu paling lama jadi paling lambat; Andi di tengah; jarak sama tidak otomatis kecepatan sama jika waktunya beda.\nJawaban akhir: **Citra**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Kecepatan rata-rata membandingkan jarak dengan waktu pada jarak yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Waktu paling pendek berarti paling cepat jika jarak sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Citra 8 s paling pendek dibanding 10 s dan 12 s."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kecepatan sederhana: semakin singkat waktu tempuh jarak tetap, semakin besar kecepatannya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Membaca tabel untuk membandingkan angka."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Bandingkan waktu pada jarak sama untuk menilai cepat-lambat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Budi waktu paling lama jadi paling lambat; Andi di tengah; jarak sama tidak otomatis kecepatan sama jika waktunya beda."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Citra",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Guru mencelupkan sendok besi panas ke air dingin. Air mendidih kecil di permukaan sendok, tetapi tidak muncul endapan baru dan zat kimia air tetap sama.\n\nPengamatan ini paling tepat digolongkan sebagai ...",
+    "options": [
+      "perubahan fisika karena terjadi perpindahan panas dan penguapan air",
+      "perubahan kimia karena ada gelembung.",
+      "perubahan kimia karena besi berkarat.",
+      "perubahan kimia karena air panas menghasilkan gelembung yang tampak seperti zat baru."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Gelembung di sini berasal dari pendidihan air di permukaan panas, bukan reaksi pembentukan zat baru pada sendok.\nLangkah 2: Tidak ada zat baru yang wajib diidentifikasi dari reaksi kimia sendok-air dalam pengamatan singkat ini.\nLangkah 3: Panas mengalir dan air menguap termasuk perubahan wujud/fisika.\n**Materi terkait:**\n- Perubahan fisika: bentuk, suhu, wujud, tanpa zat baru.\n- Perubahan kimia: karat, pembakaran lengkap dengan produk baru, dsb.\nInsight kunci: Gelembung uap air saja belum otomatis bukti reaksi kimia zat padat.\nKenapa opsi lain salah: A salah klasifikasi sebab; C karat tidak disebutkan; D menguap bisa kembali mengembun, bukan hilang selamanya sebagai bukti kimia.\nJawaban akhir: **perubahan fisika karena terjadi perpindahan panas dan penguapan air**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "understanding",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Percobaan: ujung kutub utara batang magnet A didekatkan ke ujung X batang magnet B. Kedua ujung saling tolak.\n\nKesimpulan yang paling tepat tentang X adalah ...",
+    "options": [
+      "X cenderung kutub selatan.",
+      "X bisa utara atau selatan, karena gaya tolak terlihat seperti akibat magnet yang sangat kuat.",
+      "X tidak bermagnet.",
+      "X pasti kutub utara"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Kutub sejenis pada magnet saling menolak.\nLangkah 2: Ujung yang didekatkan adalah utara A.\nLangkah 3: Tolakan berarti ujung X sejenis dengan utara, yaitu utara juga.\n**Materi terkait:**\n- Kutub magnet: tarik beda jenis, tolak sama jenis.\nInsight kunci: Tolakan = kutub sejenis.\nKenapa opsi lain salah: Selatan akan ditarik utara; tidak ambigu jika tolak jelas; benda tidak magnet biasanya tidak memberi pola tolak magnet kuat seperti kutub.\nJawaban akhir: **X pasti kutub utara**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "understanding",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Dua pot tanaman sama jenis diberi air sama. Pot P ditutup kantong hitam 3 hari, pot Q tidak. Setelah 3 hari daun P lebih pucat.\n\nData ini mengarah pada kesimpulan bahwa tanaman membutuhkan ...",
+    "options": [
+      "hanya air untuk warna daun.",
+      "cahaya dalam proses membuat makanan di daun",
+      "tanah yang lebih banyak.",
+      "suhu kantong hitam saja tanpa cahaya, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Perlakuan beda utama adalah cahaya (kantong hitam mengurangi cahaya).\nLangkah 2: Warna daun pucat berkurangnya klorofil/aktivitas fotosintesis.\nLangkah 3: Hubungan paling masuk akal: cahaya dibutuhkan.\n**Materi terkait:**\n- Fotosintesis membutuhkan cahaya; daun hijau berperan menangkap cahaya.\nInsight kunci: Kontrol percobaan: satu faktor berbeda (cahaya).\nKenapa opsi lain salah: Air sama; tanah tidak diubah; suhu bukan penjelasan utama dibanding hilangnya cahaya.\nJawaban akhir: **cahaya dalam proses membuat makanan di daun**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Hasil sampling serangga di kebun (jumlah per 10 menit):\n\n| Waktu | Kupu-kupu | Semut |\n|---|---:|---:|\n| Pagi | 6 | 40 |\n| Siang | 2 | 55 |\n\nPernyataan yang paling didukung data adalah ...",
+    "options": [
+      "Kupu-kupu jarang ada di kebun.",
+      "Semut memakan kupu-kupu sehingga kupu-kupu hilang, karena perubahan habitat dikira hanya memengaruhi tempat tinggal, bukan makanan.",
+      "Cuaca tidak mempengaruhi aktivitas serangga.",
+      "Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Bandingkan angka antar waktu untuk spesies yang sama.\nLangkah 2: Semut 40 vs 55 naik; kupu-kupu 6 vs 2 turun.\nLangkah 3: Hanya pernyataan tentang semut dan siang yang konsisten dengan angka.\n**Materi terkait:**\n- Interpretasi tabel: jangan klaim di luar data.\nInsight kunci: Sebutkan pola yang langsung terlihat di tabel.\nKenapa opsi lain salah: B salah karena kupu-kupu ada; C tidak dibuktikan data; D bertentangan dengan perubahan jumlah.\nJawaban akhir: **Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama**.",
+    "content": {
+      "question": "Hasil sampling serangga di kebun (jumlah per 10 menit):\n\nPernyataan yang paling didukung data adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hasil sampling serangga di kebun (jumlah per 10 menit):"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Waktu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kupu-kupu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Semut"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pagi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "40"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Siang"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "55"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pernyataan yang paling didukung data adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Kupu-kupu jarang ada di kebun.",
+        "Semut memakan kupu-kupu sehingga kupu-kupu hilang, karena perubahan habitat dikira hanya memengaruhi tempat tinggal, bukan makanan.",
+        "Cuaca tidak mempengaruhi aktivitas serangga.",
+        "Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kupu-kupu jarang ada di kebun."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semut memakan kupu-kupu sehingga kupu-kupu hilang, karena perubahan habitat dikira hanya memengaruhi tempat tinggal, bukan makanan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cuaca tidak mempengaruhi aktivitas serangga."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Bandingkan angka antar waktu untuk spesies yang sama.\nLangkah 2: Semut 40 vs 55 naik; kupu-kupu 6 vs 2 turun.\nLangkah 3: Hanya pernyataan tentang semut dan siang yang konsisten dengan angka.\n**Materi terkait:**\n- Interpretasi tabel: jangan klaim di luar data.\nInsight kunci: Sebutkan pola yang langsung terlihat di tabel.\nKenapa opsi lain salah: B salah karena kupu-kupu ada; C tidak dibuktikan data; D bertentangan dengan perubahan jumlah.\nJawaban akhir: **Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan angka antar waktu untuk spesies yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Semut 40 vs 55 naik; kupu-kupu 6 vs 2 turun."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Hanya pernyataan tentang semut dan siang yang konsisten dengan angka."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Interpretasi tabel: jangan klaim di luar data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Sebutkan pola yang langsung terlihat di tabel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B salah karena kupu-kupu ada; C tidak dibuktikan data; D bertentangan dengan perubahan jumlah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "Semut lebih banyak terlihat saat siang dibanding pagi pada metode yang sama",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "application",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Siswa menakar air hujan harian selama seminggu (mm):\n\nSen 0, Sel 12, Rab 0, Kam 5, Jum 0, Sab 30, Min 0.\n\nHari dengan presipitasi terbesar adalah ...",
+    "options": [
+      "Selasa, karena itu hari pertama yang menunjukkan hujan cukup besar setelah Senin tidak hujan.",
+      "Sabtu",
+      "Kamis.",
+      "Rabu."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Cari nilai maksimum dalam kolom data.\nLangkah 2: 30 mm pada Sabtu lebih besar dari 12, 5, dan 0.\n**Materi terkait:**\n- Pengukuran curah hujan sederhana dan membaca deret angka.\nInsight kunci: Maksimum data = hari paling basah menurut catatan.\nKenapa opsi lain salah: Selasa 12 bukan maks; Kamis 5; Rabu 0.\nJawaban akhir: **Sabtu**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Campuran pasir dan garam dilarutkan dalam air, diaduk, lalu disaring. Filtrat diuapkan perlahan.\n\n| Langkah | Pengamatan |\n|---|---|\n| Setelah saring | Residu pasir di kertas saring |\n| Setelah uapkan filtrat | Padatan putih di wadah |\n\nKesimpulan proses yang paling tepat adalah ...",
+    "options": [
+      "garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan",
+      "pasir larut dalam air lalu mengendap sebagai padatan putih, karena perubahan bentuk diperlakukan seperti perubahan jenis zat.",
+      "garam tertahan saringan dan pasir menguap bersama air.",
+      "air menghilangkan sifat magnet garam sehingga putih."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Pasir tidak larut umumnya sehingga tertahan saringan.\nLangkah 2: Garam larut melewati saringan sebagai filtrat.\nLangkah 3: Mengeringkan filtrat meninggalkan kristal garam.\n**Materi terkait:**\n- Pemisahan campuran: filtrasi + penguapan pelarut.\nInsight kunci: Ikuti alur larut vs tidak larut lalu uapkan pelarut.\nKenapa opsi lain salah: Pasir tidak menjadi padatan putih larutan; garam tidak tertahan jika larut; tidak ada hubungan magnet relevan.\nJawaban akhir: **garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan**.",
+    "content": {
+      "question": "Campuran pasir dan garam dilarutkan dalam air, diaduk, lalu disaring. Filtrat diuapkan perlahan.\n\nKesimpulan proses yang paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Campuran pasir dan garam dilarutkan dalam air, diaduk, lalu disaring. Filtrat diuapkan perlahan."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Langkah"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Setelah saring"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Residu pasir di kertas saring"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Setelah uapkan filtrat"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Padatan putih di wadah"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan proses yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan",
+        "pasir larut dalam air lalu mengendap sebagai padatan putih, karena perubahan bentuk diperlakukan seperti perubahan jenis zat.",
+        "garam tertahan saringan dan pasir menguap bersama air.",
+        "air menghilangkan sifat magnet garam sehingga putih."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "pasir larut dalam air lalu mengendap sebagai padatan putih, karena perubahan bentuk diperlakukan seperti perubahan jenis zat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "garam tertahan saringan dan pasir menguap bersama air."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "air menghilangkan sifat magnet garam sehingga putih."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Pasir tidak larut umumnya sehingga tertahan saringan.\nLangkah 2: Garam larut melewati saringan sebagai filtrat.\nLangkah 3: Mengeringkan filtrat meninggalkan kristal garam.\n**Materi terkait:**\n- Pemisahan campuran: filtrasi + penguapan pelarut.\nInsight kunci: Ikuti alur larut vs tidak larut lalu uapkan pelarut.\nKenapa opsi lain salah: Pasir tidak menjadi padatan putih larutan; garam tidak tertahan jika larut; tidak ada hubungan magnet relevan.\nJawaban akhir: **garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Pasir tidak larut umumnya sehingga tertahan saringan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Garam larut melewati saringan sebagai filtrat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Mengeringkan filtrat meninggalkan kristal garam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pemisahan campuran: filtrasi + penguapan pelarut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Ikuti alur larut vs tidak larut lalu uapkan pelarut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Pasir tidak menjadi padatan putih larutan; garam tidak tertahan jika larut; tidak ada hubungan magnet relevan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "garam lolos saringan dan terkumpul setelah air menguap, pasir tertahan",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Tiga lampu identik dirangkai seri dengan satu baterai. Amperemeter menunjuk arus $I$. Lampu L2 dilepas (rangkaian terbuka di posisi itu).\n\n| Keadaan | Bacaan arus |\n|---|---|\n| L2 terpasang | $I$ positif |\n| L2 dilepas | 0 |\n\nPernyataan yang paling selaras data adalah ...",
+    "options": [
+      "arus tetap sama karena baterai sama.",
+      "lampu lain tetap menyala terang tanpa L2, karena susunan alat dikira kurang mengubah arah rambat atau aliran energi.",
+      "rangkaian seri terbuka memutus aliran muatan sehingga arus nol",
+      "arus naik tanpa batas setelah L2 dilepas."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Rangkaian seri satu jalur; jika terbuka, tidak ada lintasan tertutup.\nLangkah 2: Data arus 0 setelah dilepas konsisten dengan rangkaian terbuka.\nLangkah 3: Tidak ada arus berarti tidak ada lampu menyala normal.\n**Materi terkait:**\n- Rangkaian seri: satu putus semua terhenti.\n- Arus membutuhkan lintasan tertutup.\nInsight kunci: Seri + buka = henti total.\nKenapa opsi lain salah: Arus tidak sama nol vs positif; lampu tidak tetap menyala jika terbuka; arus tidak naik tanpa lintasan.\nJawaban akhir: **rangkaian seri terbuka memutus aliran muatan sehingga arus nol**.",
+    "content": {
+      "question": "Tiga lampu identik dirangkai seri dengan satu baterai. Amperemeter menunjuk arus $I$. Lampu L2 dilepas (rangkaian terbuka di posisi itu).\n\nPernyataan yang paling selaras data adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga lampu identik dirangkai seri dengan satu baterai. Amperemeter menunjuk arus $I$. Lampu L2 dilepas (rangkaian terbuka di posisi itu)."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Keadaan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bacaan arus"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "L2 terpasang"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "$I$ positif"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "L2 dilepas"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pernyataan yang paling selaras data adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "arus tetap sama karena baterai sama.",
+        "lampu lain tetap menyala terang tanpa L2, karena susunan alat dikira kurang mengubah arah rambat atau aliran energi.",
+        "rangkaian seri terbuka memutus aliran muatan sehingga arus nol",
+        "arus naik tanpa batas setelah L2 dilepas."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "arus tetap sama karena baterai sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "lampu lain tetap menyala terang tanpa L2, karena susunan alat dikira kurang mengubah arah rambat atau aliran energi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "rangkaian seri terbuka memutus aliran muatan sehingga arus nol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "arus naik tanpa batas setelah L2 dilepas."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Rangkaian seri satu jalur; jika terbuka, tidak ada lintasan tertutup.\nLangkah 2: Data arus 0 setelah dilepas konsisten dengan rangkaian terbuka.\nLangkah 3: Tidak ada arus berarti tidak ada lampu menyala normal.\n**Materi terkait:**\n- Rangkaian seri: satu putus semua terhenti.\n- Arus membutuhkan lintasan tertutup.\nInsight kunci: Seri + buka = henti total.\nKenapa opsi lain salah: Arus tidak sama nol vs positif; lampu tidak tetap menyala jika terbuka; arus tidak naik tanpa lintasan.\nJawaban akhir: **rangkaian seri terbuka memutus aliran muatan sehingga arus nol**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Rangkaian seri satu jalur; jika terbuka, tidak ada lintasan tertutup."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Data arus 0 setelah dilepas konsisten dengan rangkaian terbuka."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Tidak ada arus berarti tidak ada lampu menyala normal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Rangkaian seri: satu putus semua terhenti."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Arus membutuhkan lintasan tertutup."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Seri + buka = henti total."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Arus tidak sama nol vs positif; lampu tidak tetap menyala jika terbuka; arus tidak naik tanpa lintasan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "rangkaian seri terbuka memutus aliran muatan sehingga arus nol",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Danau kecil: data ikan herbivor (H) dan ikan karnivor (K) selama musim tanpa penangkapan manusia.\n\n| Bulan | H (per transek) | K (per transek) |\n|---|---:|---:|\n| 1 | 120 | 15 |\n| 2 | 90 | 22 |\n| 3 | 55 | 28 |\n\nJika K memangsa H, pola yang paling masuk akal adalah ...",
+    "options": [
+      "H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia",
+      "K turun karena H memakan K.",
+      "H naik karena K menghasilkan fitoplankton, karena ciri makhluk hidup dilihat dari bentuk luarnya saja.",
+      "K dan H tidak saling mempengaruhi."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: H menurun drastis, K naik bertahap.\nLangkah 2: Model rantai: pemangsa naik saat mangsa masih cukup lalu mangsa menipis.\nLangkah 3: Pola konsisten dengan peningkatan K dan penurunan H.\n**Materi terkait:**\n- Dinamika populasi sederhana dalam jaring makan.\nInsight kunci: Arah konsumsi menentukan tanda sebab-akibat yang masuk akal.\nKenapa opsi lain salah: H bukan pemangsa K; K tidak memproduksi makanan primer; data menunjukkan korelasi terarah.\nJawaban akhir: **H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia**.",
+    "content": {
+      "question": "Danau kecil: data ikan herbivor (H) dan ikan karnivor (K) selama musim tanpa penangkapan manusia.\n\nJika K memangsa H, pola yang paling masuk akal adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Danau kecil: data ikan herbivor (H) dan ikan karnivor (K) selama musim tanpa penangkapan manusia."
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bulan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "H (per transek)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "K (per transek)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "120"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "90"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "22"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "55"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "28"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika K memangsa H, pola yang paling masuk akal adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia",
+        "K turun karena H memakan K.",
+        "H naik karena K menghasilkan fitoplankton, karena ciri makhluk hidup dilihat dari bentuk luarnya saja.",
+        "K dan H tidak saling mempengaruhi."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "K turun karena H memakan K."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "H naik karena K menghasilkan fitoplankton, karena ciri makhluk hidup dilihat dari bentuk luarnya saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "K dan H tidak saling mempengaruhi."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: H menurun drastis, K naik bertahap.\nLangkah 2: Model rantai: pemangsa naik saat mangsa masih cukup lalu mangsa menipis.\nLangkah 3: Pola konsisten dengan peningkatan K dan penurunan H.\n**Materi terkait:**\n- Dinamika populasi sederhana dalam jaring makan.\nInsight kunci: Arah konsumsi menentukan tanda sebab-akibat yang masuk akal.\nKenapa opsi lain salah: H bukan pemangsa K; K tidak memproduksi makanan primer; data menunjukkan korelasi terarah.\nJawaban akhir: **H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: H menurun drastis, K naik bertahap."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Model rantai: pemangsa naik saat mangsa masih cukup lalu mangsa menipis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pola konsisten dengan peningkatan K dan penurunan H."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Dinamika populasi sederhana dalam jaring makan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Arah konsumsi menentukan tanda sebab-akibat yang masuk akal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: H bukan pemangsa K; K tidak memproduksi makanan primer; data menunjukkan korelasi terarah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "H turun seiring tekanan pemangsaan, sementara K naik karena makanan relatif tersedia",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Percobaan: balok didorong di permukaan kasar dengan gaya sama. Pada percobaan 1 balok bermassa 1 kg, percobaan 2 balok bermassa 2 kg. Jarak tempuh setelah dorongan berhenti lebih pendek pada percobaan 2.\n\nVariabel terkendali yang paling penting disebutkan adalah ...",
+    "options": [
+      "warna balok yang berbeda.",
+      "suhu ruangan yang berubah drastis.",
+      "massa balok sebagai variabel bebas, gaya dan permukaan dijaga sama",
+      "bentuk balok dari kubus menjadi bola, karena permukaan benda dikira memberi dorongan tambahan saat benda bergerak."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Soal menyatakan gaya sama dan permukaan sama, massa beda.\nLangkah 2: Variabel yang sengaja diubah adalah massa.\nLangkah 3: Yang lain seharusnya terkendali agar kesimpulan valid.\n**Materi terkait:**\n- Desain percobaan: variabel bebas, terkendali, respons.\nInsight kunci: Identifikasi apa yang diubah vs dijaga.\nKenapa opsi lain salah: Warna tidak disebut diperlakuan; suhu tidak disebut; bentuk tidak diubah menurut narasi.\nJawaban akhir: **massa balok sebagai variabel bebas, gaya dan permukaan dijaga sama**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Setelah aktivitas lompat tali 3 menit, frekuensi napas dicatat per menit:\n\n| Waktu setelah selesai | Napas per menit |\n|---|---:|\n| 0 menit | 28 |\n| 2 menit | 22 |\n| 5 menit | 18 |\n\nInterpretasi fisiologis paling tepat untuk fase 0–2 menit adalah ...",
+    "options": [
+      "pernapasan turun karena oksigen tidak dibutuhkan secara langsung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan.",
+      "data menunjukkan sistem pencernaan bekerja lebih keras.",
+      "napas turun karena suhu darah turun drastis.",
+      "tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Setelah olahraga, kebutuhan energi dan oksigen tinggi sesaat.\nLangkah 2: Frekuensi napas masih tinggi di 0 menit lalu menurun.\nLangkah 3: Pola pemulihan konsisten dengan kebutuhan oksigen pasca aktivitas.\n**Materi terkait:**\n- Respirasi sel dan pernapasan: memasok oksigen, membuang CO2 lebih cepat saat aktivitas.\nInsight kunci: Puncak napas setelah aktivitas = fase pemulihan awal.\nKenapa opsi lain salah: Oksigen tetap dibutuhkan; bukan sistem pencernaan; penurunan bertahap bukan bukti suhu darah drastis.\nJawaban akhir: **tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas**.",
+    "content": {
+      "question": "Setelah aktivitas lompat tali 3 menit, frekuensi napas dicatat per menit:\n\nInterpretasi fisiologis paling tepat untuk fase 0–2 menit adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Setelah aktivitas lompat tali 3 menit, frekuensi napas dicatat per menit:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Waktu setelah selesai"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Napas per menit"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0 menit"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "28"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2 menit"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "22"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5 menit"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "18"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Interpretasi fisiologis paling tepat untuk fase 0–2 menit adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "pernapasan turun karena oksigen tidak dibutuhkan secara langsung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan.",
+        "data menunjukkan sistem pencernaan bekerja lebih keras.",
+        "napas turun karena suhu darah turun drastis.",
+        "tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "pernapasan turun karena oksigen tidak dibutuhkan secara langsung, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "data menunjukkan sistem pencernaan bekerja lebih keras."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "napas turun karena suhu darah turun drastis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Setelah olahraga, kebutuhan energi dan oksigen tinggi sesaat.\nLangkah 2: Frekuensi napas masih tinggi di 0 menit lalu menurun.\nLangkah 3: Pola pemulihan konsisten dengan kebutuhan oksigen pasca aktivitas.\n**Materi terkait:**\n- Respirasi sel dan pernapasan: memasok oksigen, membuang CO2 lebih cepat saat aktivitas.\nInsight kunci: Puncak napas setelah aktivitas = fase pemulihan awal.\nKenapa opsi lain salah: Oksigen tetap dibutuhkan; bukan sistem pencernaan; penurunan bertahap bukan bukti suhu darah drastis.\nJawaban akhir: **tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Setelah olahraga, kebutuhan energi dan oksigen tinggi sesaat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Frekuensi napas masih tinggi di 0 menit lalu menurun."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pola pemulihan konsisten dengan kebutuhan oksigen pasca aktivitas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Respirasi sel dan pernapasan: memasok oksigen, membuang CO2 lebih cepat saat aktivitas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Puncak napas setelah aktivitas = fase pemulihan awal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Oksigen tetap dibutuhkan; bukan sistem pencernaan; penurunan bertahap bukan bukti suhu darah drastis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "tubuh masih membutuhkan oksigen lebih banyak untuk pulih dari aktivitas",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Asam basa & pH",
+    "skill_type": "reasoning",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Larutan A (pH 3), B (pH 7), dan C (pH 10) masing-masing 10 mL dicampur dengan 1 tetes indikator yang sama. Warna yang diharapkan paling kontras antara asam dan basa kuat lemah tidak disebutkan, tetapi indikator ini merah di asam dan biru di basa.\n\nPrediksi urutan warna dari asam ke netral ke basa adalah ...",
+    "options": [
+      "Sebagian besar merah karena volume sama.",
+      "merah → hijau netral → biru",
+      "biru → merah → kuning.",
+      "Sebagian besar biru karena dicampur."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: pH 3 asam, 7 netral, 10 basa menurut skala umum.\nLangkah 2: Indikator merah di asam, biru di basa; netral biasanya perantara.\nLangkah 3: Urutan A, B, C mengikuti pH naik.\n**Materi terkait:**\n- Skala pH dan indikator sederhana.\nInsight kunci: Ikut skala pH lalu petakan ke perilaku indikator yang diberi soal.\nKenapa opsi lain salah: Volume sama tidak menyamakan pH; urutan pH tidak boleh dibalik tanpa alasan; campuran per larutan terpisah dalam narasi.\nJawaban akhir: **merah → hijau netral → biru**."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Tongkat vertikal panjangnya 1 m ditancapkan di tanah datar pada jam yang sama selama 3 hari cerah. Panjang bayangan diukur:\n\n| Hari | Bayangan (cm) |\n|---|---:|\n| 1 | 42 |\n| 2 | 38 |\n| 3 | 35 |\n\nJika ini terjadi menjelang periode matahari lebih tinggi di siang hari di wilayah tersebut, interpretasi geometris sederhana adalah ...",
+    "options": [
+      "bumi berhenti berotasi selama 3 hari.",
+      "sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek",
+      "tongkat memanjang setiap hari.",
+      "cahaya matahari tidak mengenai tongkat pada hari 3, karena gejala yang tampak saat pengamatan dikira cukup menjelaskan seluruh peristiwa."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Bayangan memendek dari 42 ke 35 cm.\nLangkah 2: Bayangan lebih pendek biasanya saat matahari lebih tinggi di langit.\nLangkah 3: Pola konsisten dengan perubahan sudut cahaya harian musiman/siang.\n**Materi terkait:**\n- Gerak semu matahari dan bayangan; rotasi bumi.\nInsight kunci: Panjang bayangan berbanding terbalik dengan ketinggian matahari sederhana.\nKenapa opsi lain salah: Rotasi tidak berhenti; tongkat panjang tetap 1 m; bayangan masih ada.\nJawaban akhir: **sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek**.",
+    "content": {
+      "question": "Tongkat vertikal panjangnya 1 m ditancapkan di tanah datar pada jam yang sama selama 3 hari cerah. Panjang bayangan diukur:\n\nJika ini terjadi menjelang periode matahari lebih tinggi di siang hari di wilayah tersebut, interpretasi geometris sederhana adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tongkat vertikal panjangnya 1 m ditancapkan di tanah datar pada jam yang sama selama 3 hari cerah. Panjang bayangan diukur:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hari"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bayangan (cm)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "42"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "38"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "35"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika ini terjadi menjelang periode matahari lebih tinggi di siang hari di wilayah tersebut, interpretasi geometris sederhana adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "bumi berhenti berotasi selama 3 hari.",
+        "sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek",
+        "tongkat memanjang setiap hari.",
+        "cahaya matahari tidak mengenai tongkat pada hari 3, karena gejala yang tampak saat pengamatan dikira cukup menjelaskan seluruh peristiwa."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "bumi berhenti berotasi selama 3 hari."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "tongkat memanjang setiap hari."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "cahaya matahari tidak mengenai tongkat pada hari 3, karena gejala yang tampak saat pengamatan dikira cukup menjelaskan seluruh peristiwa."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Bayangan memendek dari 42 ke 35 cm.\nLangkah 2: Bayangan lebih pendek biasanya saat matahari lebih tinggi di langit.\nLangkah 3: Pola konsisten dengan perubahan sudut cahaya harian musiman/siang.\n**Materi terkait:**\n- Gerak semu matahari dan bayangan; rotasi bumi.\nInsight kunci: Panjang bayangan berbanding terbalik dengan ketinggian matahari sederhana.\nKenapa opsi lain salah: Rotasi tidak berhenti; tongkat panjang tetap 1 m; bayangan masih ada.\nJawaban akhir: **sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bayangan memendek dari 42 ke 35 cm."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Bayangan lebih pendek biasanya saat matahari lebih tinggi di langit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pola konsisten dengan perubahan sudut cahaya harian musiman/siang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Gerak semu matahari dan bayangan; rotasi bumi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Panjang bayangan berbanding terbalik dengan ketinggian matahari sederhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Rotasi tidak berhenti; tongkat panjang tetap 1 m; bayangan masih ada."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "sudut datang cahaya matahari relatif lebih tinggi sehingga bayangan memendek",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Gelas berisi air dipukul pelan. Tinggi air divariasikan; frekuensi bunyi yang terdengar (relatif) dicatat:\n\n| Tinggi air | Bunyi (relatif) |\n|---|---|\n| Rendah | lebih rendah |\n| Sedang | sedang |\n| Tinggi | lebih tinggi |\n\nKesimpulan tentang sistem getar-udara pada percobaan ini yang paling tepat adalah ...",
+    "options": [
+      "air menyerap sebagian besar bunyi sehingga frekuensi tidak berubah, karena bahan alat dikira selalu memberi hasil yang sama jika ukurannya mirip.",
+      "semakin banyak air semakin besar kolom udara di atasnya.",
+      "bunyi hanya tergantung warna gelas.",
+      "kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Air naik memendekkan ruang udara di atas permukaan air dalam gelas.\nLangkah 2: Ruang udara lebih pendek sering beresonansi lebih tinggi pada mode sederhana.\nLangkah 3: Data bunyi lebih tinggi saat air tinggi cocok dengan kolom udara pendek.\n**Materi terkait:**\n- Bunyi dan medium; panjang kolom udara mempengaruhi nada.\nInsight kunci: Perhatikan panjang kolom udara bebas, bukan hanya volume air total abstrak.\nKenapa opsi lain salah: Pola frekuensi berubah; air tinggi memendekkan udara di atas; warna gelas bukan variabel percobaan.\nJawaban akhir: **kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik**.",
+    "content": {
+      "question": "Gelas berisi air dipukul pelan. Tinggi air divariasikan; frekuensi bunyi yang terdengar (relatif) dicatat:\n\nKesimpulan tentang sistem getar-udara pada percobaan ini yang paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Gelas berisi air dipukul pelan. Tinggi air divariasikan; frekuensi bunyi yang terdengar (relatif) dicatat:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tinggi air"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Bunyi (relatif)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rendah"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "lebih rendah"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sedang"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sedang"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tinggi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "lebih tinggi"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan tentang sistem getar-udara pada percobaan ini yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "air menyerap sebagian besar bunyi sehingga frekuensi tidak berubah, karena bahan alat dikira selalu memberi hasil yang sama jika ukurannya mirip.",
+        "semakin banyak air semakin besar kolom udara di atasnya.",
+        "bunyi hanya tergantung warna gelas.",
+        "kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "air menyerap sebagian besar bunyi sehingga frekuensi tidak berubah, karena bahan alat dikira selalu memberi hasil yang sama jika ukurannya mirip."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "semakin banyak air semakin besar kolom udara di atasnya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "bunyi hanya tergantung warna gelas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Air naik memendekkan ruang udara di atas permukaan air dalam gelas.\nLangkah 2: Ruang udara lebih pendek sering beresonansi lebih tinggi pada mode sederhana.\nLangkah 3: Data bunyi lebih tinggi saat air tinggi cocok dengan kolom udara pendek.\n**Materi terkait:**\n- Bunyi dan medium; panjang kolom udara mempengaruhi nada.\nInsight kunci: Perhatikan panjang kolom udara bebas, bukan hanya volume air total abstrak.\nKenapa opsi lain salah: Pola frekuensi berubah; air tinggi memendekkan udara di atas; warna gelas bukan variabel percobaan.\nJawaban akhir: **kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Air naik memendekkan ruang udara di atas permukaan air dalam gelas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Ruang udara lebih pendek sering beresonansi lebih tinggi pada mode sederhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Data bunyi lebih tinggi saat air tinggi cocok dengan kolom udara pendek."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Bunyi dan medium; panjang kolom udara mempengaruhi nada."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Perhatikan panjang kolom udara bebas, bukan hanya volume air total abstrak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Pola frekuensi berubah; air tinggi memendekkan udara di atas; warna gelas bukan variabel percobaan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "kolom udara di atas air memendek saat air tinggi sehingga frekuensi naik",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Kesehatan & gaya hidup sehat",
+    "skill_type": "application",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Dua kelompok siswa sama usia: kelompok X tidur 9 jam rata-rata, kelompok Y 6 jam. Tes konsentrasi skor 1–10 setelah seminggu:\n\n| Kelompok | Skor rata-rata |\n|---|---:|\n| X | 8.1 |\n| Y | 6.0 |\n\nInferensi sehat yang paling hati-hati dari data adalah ...",
+    "options": [
+      "pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini",
+      "tidur pendek cenderung membuat IQ turun permanen.",
+      "skor hanya dipengaruhi makanan, bukan tidur, karena gejala yang terlihat sering dikira hanya akibat rasa lelah.",
+      "kelompok Y cenderung jarang belajar, karena gejala yang terlihat sering dikira hanya akibat rasa lelah."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Hanya satu faktor tidur yang dibedakan menurut narasi.\nLangkah 2: Skor X lebih tinggi dari Y.\nLangkah 3: Inferensi harus tidak berlebihan: korelasi, bukan penyebab mutlak.\n**Materi terkait:**\n- Kesehatan: tidur dan fungsi kognitif sederhana.\nInsight kunci: Bahasa ilmiah data: korelasi vs kausal pasti.\nKenapa opsi lain salah: Klaim permanen dan pasti tidak didukung; faktor lain tidak diukur; asumsi perilaku tidak ada data.\nJawaban akhir: **pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini**.",
+    "content": {
+      "question": "Dua kelompok siswa sama usia: kelompok X tidur 9 jam rata-rata, kelompok Y 6 jam. Tes konsentrasi skor 1–10 setelah seminggu:\n\nInferensi sehat yang paling hati-hati dari data adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dua kelompok siswa sama usia: kelompok X tidur 9 jam rata-rata, kelompok Y 6 jam. Tes konsentrasi skor 1–10 setelah seminggu:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Skor rata-rata"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "X"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "8.1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Y"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6.0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Inferensi sehat yang paling hati-hati dari data adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini",
+        "tidur pendek cenderung membuat IQ turun permanen.",
+        "skor hanya dipengaruhi makanan, bukan tidur, karena gejala yang terlihat sering dikira hanya akibat rasa lelah.",
+        "kelompok Y cenderung jarang belajar, karena gejala yang terlihat sering dikira hanya akibat rasa lelah."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "tidur pendek cenderung membuat IQ turun permanen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "skor hanya dipengaruhi makanan, bukan tidur, karena gejala yang terlihat sering dikira hanya akibat rasa lelah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "kelompok Y cenderung jarang belajar, karena gejala yang terlihat sering dikira hanya akibat rasa lelah."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Hanya satu faktor tidur yang dibedakan menurut narasi.\nLangkah 2: Skor X lebih tinggi dari Y.\nLangkah 3: Inferensi harus tidak berlebihan: korelasi, bukan penyebab mutlak.\n**Materi terkait:**\n- Kesehatan: tidur dan fungsi kognitif sederhana.\nInsight kunci: Bahasa ilmiah data: korelasi vs kausal pasti.\nKenapa opsi lain salah: Klaim permanen dan pasti tidak didukung; faktor lain tidak diukur; asumsi perilaku tidak ada data.\nJawaban akhir: **pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Hanya satu faktor tidur yang dibedakan menurut narasi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Skor X lebih tinggi dari Y."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Inferensi harus tidak berlebihan: korelasi, bukan penyebab mutlak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Kesehatan: tidur dan fungsi kognitif sederhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Bahasa ilmiah data: korelasi vs kausal pasti."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Klaim permanen dan pasti tidak didukung; faktor lain tidak diukur; asumsi perilaku tidak ada data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "pola tidur lebih panjang berkorelasi dengan skor konsentrasi lebih tinggi pada kelompok ini",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Empat batang logam sama panjang dan diameter dicelupkan ujungnya ke lilin leleh setelah dipanaskan ujung lain dalam air mendidih selama 5 menit. Kedalaman leleh lilin (mm) dicatat:\n\n| Logam | Kedalaman leleh (mm) |\n|---|---:|\n| P | 4 |\n| Q | 9 |\n| R | 15 |\n| S | 22 |\n\nSebagai perambat panas terbaik dalam percobaan ini, urutan dari terbaik ke terburuk adalah ...",
+    "options": [
+      "P, Q, R, S.",
+      "Sebagian besar sama karena air mendidih sama.",
+      "S, R, Q, P",
+      "R, P, S, Q."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Semakin dalam lilin meleleh, semakin banyak panas sampai ke ujung dalam waktu sama.\nLangkah 2: Perambat panas lebih baik mengantarkan energi termal lebih jauh.\nLangkah 3: S paling dalam jadi terbaik, lalu R, Q, P.\n**Materi terkait:**\n- Konduksi panas pada padatan; percobaan perbandingan logam.\nInsight kunci: Gunakan kedalaman leleh sebagai proxy panas sampai ujung.\nKenapa opsi lain salah: Urutan terbalik membingungkan terbaik-terburuk; air sama tidak membuat hasil sama pada logam beda; D acak tanpa dukungan data.\nJawaban akhir: **S, R, Q, P**.",
+    "content": {
+      "question": "Empat batang logam sama panjang dan diameter dicelupkan ujungnya ke lilin leleh setelah dipanaskan ujung lain dalam air mendidih selama 5 menit. Kedalaman leleh lilin (mm) dicatat:\n\nSebagai perambat panas terbaik dalam percobaan ini, urutan dari terbaik ke terburuk adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Empat batang logam sama panjang dan diameter dicelupkan ujungnya ke lilin leleh setelah dipanaskan ujung lain dalam air mendidih selama 5 menit. Kedalaman leleh lilin (mm) dicatat:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Logam"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kedalaman leleh (mm)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "9"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "R"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "S"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "22"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sebagai perambat panas terbaik dalam percobaan ini, urutan dari terbaik ke terburuk adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "P, Q, R, S.",
+        "Sebagian besar sama karena air mendidih sama.",
+        "S, R, Q, P",
+        "R, P, S, Q."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P, Q, R, S."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sebagian besar sama karena air mendidih sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "S, R, Q, P"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "R, P, S, Q."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Semakin dalam lilin meleleh, semakin banyak panas sampai ke ujung dalam waktu sama.\nLangkah 2: Perambat panas lebih baik mengantarkan energi termal lebih jauh.\nLangkah 3: S paling dalam jadi terbaik, lalu R, Q, P.\n**Materi terkait:**\n- Konduksi panas pada padatan; percobaan perbandingan logam.\nInsight kunci: Gunakan kedalaman leleh sebagai proxy panas sampai ujung.\nKenapa opsi lain salah: Urutan terbalik membingungkan terbaik-terburuk; air sama tidak membuat hasil sama pada logam beda; D acak tanpa dukungan data.\nJawaban akhir: **S, R, Q, P**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Semakin dalam lilin meleleh, semakin banyak panas sampai ke ujung dalam waktu sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Perambat panas lebih baik mengantarkan energi termal lebih jauh."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: S paling dalam jadi terbaik, lalu R, Q, P."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Konduksi panas pada padatan; percobaan perbandingan logam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Gunakan kedalaman leleh sebagai proxy panas sampai ujung."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Urutan terbalik membingungkan terbaik-terburuk; air sama tidak membuat hasil sama pada logam beda; D acak tanpa dukungan data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "S, R, Q, P",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Usaha & energi",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Lift sekolah mengangkat beban uji tetap. Daya motor dicatat konstan. Data:\n\n| Massa beban (kg) | Waktu naik 3 m (s) |\n|---|---:|\n| 20 | 6 |\n| 30 | 9 |\n| 40 | 12 |\n\nUsaha gravitasi untuk naik 3 m sebanding massa. Jika daya motor $P = W/t$ konstan, pola data menunjukkan bahwa ...",
+    "options": [
+      "perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama",
+      "waktu turun saat massa naik berarti usaha nol.",
+      "massa tidak mempengaruhi usaha pada ketinggian sama, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama.",
+      "daya naik linear tanpa bergantung waktu."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Usaha melawan gravitasi naik vertikal sekitar $W = m g h$ dengan $h$ sama.\nLangkah 2: Perbandingan: 20/6, 30/9, 40/12 sama-sama 10/3 dalam satuan yang konsisten (kg/s proporsional ke $m/t$).\nLangkah 3: $m$ naik 1.5 kali, $t$ naik 1.5 kali, sehingga $m/t$ dan $mgh/t$ stabil.\n**Materi terkait:**\n- Usaha, energi potensial, daya sederhana.\nInsight kunci: Cek rasio massa-waktu pada ketinggian tetap.\nKenapa opsi lain salah: Usaha tidak nol; massa mempengaruhi usaha; daya melibatkan waktu jelas.\nJawaban akhir: **perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama**.",
+    "content": {
+      "question": "Lift sekolah mengangkat beban uji tetap. Daya motor dicatat konstan. Data:\n\nUsaha gravitasi untuk naik 3 m sebanding massa. Jika daya motor $P = W/t$ konstan, pola data menunjukkan bahwa ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Lift sekolah mengangkat beban uji tetap. Daya motor dicatat konstan. Data:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Massa beban (kg)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Waktu naik 3 m (s)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "20"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "6"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "30"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "9"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "40"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "12"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Usaha gravitasi untuk naik 3 m sebanding massa. Jika daya motor $P = W/t$ konstan, pola data menunjukkan bahwa ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama",
+        "waktu turun saat massa naik berarti usaha nol.",
+        "massa tidak mempengaruhi usaha pada ketinggian sama, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama.",
+        "daya naik linear tanpa bergantung waktu."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "waktu turun saat massa naik berarti usaha nol."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "massa tidak mempengaruhi usaha pada ketinggian sama, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "daya naik linear tanpa bergantung waktu."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Usaha melawan gravitasi naik vertikal sekitar $W = m g h$ dengan $h$ sama.\nLangkah 2: Perbandingan: 20/6, 30/9, 40/12 sama-sama 10/3 dalam satuan yang konsisten (kg/s proporsional ke $m/t$).\nLangkah 3: $m$ naik 1.5 kali, $t$ naik 1.5 kali, sehingga $m/t$ dan $mgh/t$ stabil.\n**Materi terkait:**\n- Usaha, energi potensial, daya sederhana.\nInsight kunci: Cek rasio massa-waktu pada ketinggian tetap.\nKenapa opsi lain salah: Usaha tidak nol; massa mempengaruhi usaha; daya melibatkan waktu jelas.\nJawaban akhir: **perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Usaha melawan gravitasi naik vertikal sekitar $W = m g h$ dengan $h$ sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Perbandingan: 20/6, 30/9, 40/12 sama-sama 10/3 dalam satuan yang konsisten (kg/s proporsional ke $m/t$)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: $m$ naik 1.5 kali, $t$ naik 1.5 kali, sehingga $m/t$ dan $mgh/t$ stabil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Usaha, energi potensial, daya sederhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Cek rasio massa-waktu pada ketinggian tetap."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Usaha tidak nol; massa mempengaruhi usaha; daya melibatkan waktu jelas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "perbandingan massa dan waktu menjaga $mg \\cdot h / t$ mendekati konstanta yang sama",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Reaksi kimia",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Batang magnesium dimasukkan ke larutan asam asetat encer dalam botol tertutup longgar. Massa batang dan massa larutan dicatat beberapa saat:\n\n| Waktu (menit) | Massa batang Mg (g) | Massa larutan+cawan (g) |\n|---|---:|---:|\n| 0 | 5.0 | 102.0 |\n| 10 | 3.8 | 103.0 |\n| 20 | 2.6 | 104.0 |\n\nHukum kekekalan massa dalam sistem tertutup longgar ini paling tepat dijelaskan sebagai ...",
+    "options": [
+      "massa total Mg plus larutan harus tetap persis sama tanpa syarat, karena zat yang masih terlihat dikira belum mengalami perubahan sama sekali.",
+      "penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar",
+      "massa larutan turun karena asam menghilang dari alam semesta.",
+      "massa Mg naik karena menyerap asam dari udara."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Mg turun 1.2 g per 10 menit, larutan naik 1.0 g per 10 menit; tidak sama persis.\nLangkah 2: Reaksi Mg + asam menghasilkan ion magnesium dalam larutan dan gas hidrogen.\nLangkah 3: Botol longgar: H2 bisa keluar sehingga total sistem tidak tertutup rapat; pola penjelasan harus memuat migrasi massa dan gas.\n**Materi terkait:**\n- Reaksi logam-asam; kekekalan massa pada sistem tertutup vs kebocoran gas.\nInsight kunci: Bedakan sistem tertutup ideal dengan percobaan nyata longgar.\nKenapa opsi lain salah: Total terbuka tidak wajib konstan; asam tidak hilang ajaib; Mg tidak naik menurut data.\nJawaban akhir: **penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar**.",
+    "content": {
+      "question": "Batang magnesium dimasukkan ke larutan asam asetat encer dalam botol tertutup longgar. Massa batang dan massa larutan dicatat beberapa saat:\n\nHukum kekekalan massa dalam sistem tertutup longgar ini paling tepat dijelaskan sebagai ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Batang magnesium dimasukkan ke larutan asam asetat encer dalam botol tertutup longgar. Massa batang dan massa larutan dicatat beberapa saat:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Waktu (menit)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Massa batang Mg (g)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Massa larutan+cawan (g)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5.0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "102.0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3.8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "103.0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "20"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2.6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "104.0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hukum kekekalan massa dalam sistem tertutup longgar ini paling tepat dijelaskan sebagai ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "massa total Mg plus larutan harus tetap persis sama tanpa syarat, karena zat yang masih terlihat dikira belum mengalami perubahan sama sekali.",
+        "penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar",
+        "massa larutan turun karena asam menghilang dari alam semesta.",
+        "massa Mg naik karena menyerap asam dari udara."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "massa total Mg plus larutan harus tetap persis sama tanpa syarat, karena zat yang masih terlihat dikira belum mengalami perubahan sama sekali."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "massa larutan turun karena asam menghilang dari alam semesta."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "massa Mg naik karena menyerap asam dari udara."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Mg turun 1.2 g per 10 menit, larutan naik 1.0 g per 10 menit; tidak sama persis.\nLangkah 2: Reaksi Mg + asam menghasilkan ion magnesium dalam larutan dan gas hidrogen.\nLangkah 3: Botol longgar: H2 bisa keluar sehingga total sistem tidak tertutup rapat; pola penjelasan harus memuat migrasi massa dan gas.\n**Materi terkait:**\n- Reaksi logam-asam; kekekalan massa pada sistem tertutup vs kebocoran gas.\nInsight kunci: Bedakan sistem tertutup ideal dengan percobaan nyata longgar.\nKenapa opsi lain salah: Total terbuka tidak wajib konstan; asam tidak hilang ajaib; Mg tidak naik menurut data.\nJawaban akhir: **penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Mg turun 1.2 g per 10 menit, larutan naik 1.0 g per 10 menit; tidak sama persis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Reaksi Mg + asam menghasilkan ion magnesium dalam larutan dan gas hidrogen."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Botol longgar: H2 bisa keluar sehingga total sistem tidak tertutup rapat; pola penjelasan harus memuat migrasi massa dan gas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Reaksi logam-asam; kekekalan massa pada sistem tertutup vs kebocoran gas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Bedakan sistem tertutup ideal dengan percobaan nyata longgar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Total terbuka tidak wajib konstan; asam tidak hilang ajaib; Mg tidak naik menurut data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "penurunan massa Mg sebanding dengan kenaikan massa larutan karena atom Mg masuk larutan sebagai ion dan gas H2 ringan kebanyakan terlontar dari botol longgar",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Lingkungan & pencemaran",
+    "skill_type": "reasoning",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Sungai kecil: indeks keanekaragaman makroben bentik (semakin tinggi makin sehat) dan BOD (semakin tinggi makin banyak bahan organik terurai):\n\n| Stasiun | Indeks | BOD (mg/L) |\n|---|---:|---:|\n| Hulu | 2.4 | 3 |\n| Tengah | 1.1 | 18 |\n| Hilir | 0.6 | 35 |\n\nKesimpulan terintegrasi yang paling tepat adalah ...",
+    "options": [
+      "sungai paling sehat di hilir karena BOD tinggi.",
+      "BOD lebih banyak dipengaruhi suhu air, sedangkan bahan organik hanya memengaruhi warna air.",
+      "kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD",
+      "indeks tinggi cenderung berarti BOD tinggi, karena perubahan populasi sering dikira hanya dipengaruhi cuaca setempat."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Indeks turun dari hulu ke hilir; BOD naik.\nLangkah 2: Keduanya konsisten dengan penurunan kualitas ekologis ke hilir pada interpretasi umum parameter ini.\nLangkah 3: Pilih pernyataan yang menggabungkan dua metrik.\n**Materi terkait:**\n- Pencemaran air; indikator sederhana kualitas perairan.\nInsight kunci: Dua indikator saling menguatkan jika arah interpretasinya konsisten.\nKenapa opsi lain salah: BOD tinggi biasanya beban organik besar, bukan sehat; BOD terdefinisi terkait organik; indeks dan BOD tidak selalu naik bersamaan.\nJawaban akhir: **kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD**.",
+    "content": {
+      "question": "Sungai kecil: indeks keanekaragaman makroben bentik (semakin tinggi makin sehat) dan BOD (semakin tinggi makin banyak bahan organik terurai):\n\nKesimpulan terintegrasi yang paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sungai kecil: indeks keanekaragaman makroben bentik (semakin tinggi makin sehat) dan BOD (semakin tinggi makin banyak bahan organik terurai):"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Stasiun"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Indeks"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "BOD (mg/L)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hulu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2.4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Tengah"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "18"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hilir"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0.6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "35"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan terintegrasi yang paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "sungai paling sehat di hilir karena BOD tinggi.",
+        "BOD lebih banyak dipengaruhi suhu air, sedangkan bahan organik hanya memengaruhi warna air.",
+        "kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD",
+        "indeks tinggi cenderung berarti BOD tinggi, karena perubahan populasi sering dikira hanya dipengaruhi cuaca setempat."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "sungai paling sehat di hilir karena BOD tinggi."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "BOD lebih banyak dipengaruhi suhu air, sedangkan bahan organik hanya memengaruhi warna air."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "indeks tinggi cenderung berarti BOD tinggi, karena perubahan populasi sering dikira hanya dipengaruhi cuaca setempat."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "Langkah 1: Indeks turun dari hulu ke hilir; BOD naik.\nLangkah 2: Keduanya konsisten dengan penurunan kualitas ekologis ke hilir pada interpretasi umum parameter ini.\nLangkah 3: Pilih pernyataan yang menggabungkan dua metrik.\n**Materi terkait:**\n- Pencemaran air; indikator sederhana kualitas perairan.\nInsight kunci: Dua indikator saling menguatkan jika arah interpretasinya konsisten.\nKenapa opsi lain salah: BOD tinggi biasanya beban organik besar, bukan sehat; BOD terdefinisi terkait organik; indeks dan BOD tidak selalu naik bersamaan.\nJawaban akhir: **kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Indeks turun dari hulu ke hilir; BOD naik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Keduanya konsisten dengan penurunan kualitas ekologis ke hilir pada interpretasi umum parameter ini."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pilih pernyataan yang menggabungkan dua metrik."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pencemaran air; indikator sederhana kualitas perairan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Dua indikator saling menguatkan jika arah interpretasinya konsisten."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: BOD tinggi biasanya beban organik besar, bukan sehat; BOD terdefinisi terkait organik; indeks dan BOD tidak selalu naik bersamaan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban akhir: "
+              },
+              {
+                "type": "text",
+                "text": "kualitas perairan menurun ke arah hilir berdasarkan penurunan indeks dan lonjakan BOD",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ipa-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Perhatikan sketsa sinar pada **cermin datar** (garis vertikal). Garis putus-putus adalah **garis normal** tegak lurus cermin. Sinar datang dari kiri membentuk **sudut $35^\\circ$** antara sinar datang dan garis normal di sisi kiri cermin. Sinar pantul digambar di sisi kanan normal.\n\nAgar gambar memenuhi **hukum pemantulan** (sudut datang = sudut pantul terhadap normal), sudut antara sinar pantul dan garis normal di sisi kanan harus ...",
+    "options": [
+      "$55^\\circ$, karena sudut keliru dihitung terhadap permukaan cermin, bukan terhadap garis normal.",
+      "$70^\\circ$",
+      "$90^\\circ$",
+      "$35^\\circ$"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca sketsa: sinar datang sudah diberi sudut terhadap normal di satu sisi cermin.\nLangkah 2: Pada cermin datar, hukum pemantulan menyatakan sudut datang sama besar dengan sudut pantul, keduanya diukur terhadap garis normal di titik tangkap.\nLangkah 3: Karena sudut datang $35^\\circ$ terhadap normal, sudut pantul terhadap normal juga harus $35^\\circ$.\n**Materi terkait:**\n- Pemantulan cahaya pada permukaan; garis normal; sudut datang dan sudut pantul.\nInsight kunci: Selalu ukur sudut terhadap normal, bukan terhadap permukaan cermin, kecuali soal secara eksplisit memberi yang lain—di sini sudut sudah terhadap normal.\nKenapa opsi lain salah: $55^\\circ$ adalah pelengkap ke $90^\\circ$ terhadap permukaan, bukan pasangan pantul untuk sudut datang $35^\\circ$ terhadap normal; $70^\\circ$ dan $90^\\circ$ tidak memenuhi kesetaraan sudut datang–pantul.\nJawaban akhir: **$35^\\circ$**."
+  }
+]

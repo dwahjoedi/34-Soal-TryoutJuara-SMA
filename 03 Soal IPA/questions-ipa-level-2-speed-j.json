@@ -1,0 +1,2265 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "pernapasan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Lala berada di dekat jalan raya yang berdebu. Setelah beberapa menit, ia batuk dan memilih memakai masker ketika harus menunggu jemputan. Guru IPA menjelaskan bahwa hidung dan saluran pernapasan memiliki cara melindungi tubuh dari debu.\n\nAlasan paling tepat memakai masker pada situasi tersebut adalah ...",
+    "options": [
+      "Masker membantu mengurangi debu yang masuk ke saluran pernapasan sehingga kerja penyaring alami tubuh tidak terlalu berat",
+      "Masker membuat udara masuk lebih lambat sehingga debu yang berat tertinggal sebelum mencapai paru-paru.",
+      "Masker menahan sebagian udara sehingga debu tidak sempat bergerak masuk ke hidung.",
+      "Debu cenderung tertahan oleh bulu hidung sehingga masker hanya diperlukan saat debu sangat tebal."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Debu di udara dapat masuk ke hidung dan saluran pernapasan saat kita bernapas. Tubuh memang memiliki penyaring alami seperti rambut hidung dan lendir.\n\nLangkah 2: Jika debu terlalu banyak, saluran pernapasan dapat terganggu. Batuk adalah salah satu respons tubuh untuk mengeluarkan benda asing atau iritan.\n\nLangkah 3: Masker membantu mengurangi jumlah debu yang masuk. Dengan begitu, hidung dan saluran pernapasan tidak bekerja terlalu berat menyaring udara kotor.\n\nLangkah 4: Jadi memakai masker di tempat berdebu merupakan tindakan pencegahan yang masuk akal.\n\n**Materi terkait:**\n- **Sistem pernapasan** mengambil oksigen dan mengeluarkan karbon dioksida.\n- Hidung membantu menyaring, menghangatkan, dan melembapkan udara.\n- Udara bersih membantu paru-paru bekerja lebih baik.\n\nInsight kunci: Pencegahan gangguan pernapasan dimulai dari mengurangi paparan penyebabnya. Masker tidak menggantikan paru-paru, tetapi membantu menyaring udara sebelum masuk ke tubuh.\n\nKenapa opsi lain salah: B salah karena paru-paru tetap membutuhkan oksigen. C tidak ilmiah. D salah karena debu dapat mengganggu saluran pernapasan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "pencernaan"
+    ],
+    "is_active": true,
+    "question": "Riko makan roti, telur, dan sayur saat sarapan. Guru menjelaskan bahwa setelah makanan dicerna, zat makanan diserap terutama di usus halus lalu diedarkan ke seluruh tubuh.\n\nPernyataan yang paling tepat adalah ...",
+    "options": [
+      "Usus halus terutama menyimpan makanan sementara sebelum sisa makanan masuk ke usus besar.",
+      "Makanan langsung dipakai otot setelah ditelan, sehingga proses di usus tidak terlalu penting.",
+      "Darah hanya berhubungan dengan pernapasan, sedangkan hasil pencernaan bergerak sendiri ke seluruh tubuh.",
+      "Usus halus berperan penting menyerap sari makanan yang kemudian dibawa darah ke sel-sel tubuh"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Makanan perlu dicerna agar menjadi bagian yang lebih sederhana. Bagian sederhana inilah yang dapat diserap tubuh.\n\nLangkah 2: Usus halus adalah tempat utama penyerapan sari makanan. Permukaannya mendukung penyerapan agar zat makanan masuk ke darah.\n\nLangkah 3: Darah membawa sari makanan ke sel-sel tubuh. Sel menggunakan zat makanan untuk energi, pertumbuhan, dan perbaikan tubuh.\n\nLangkah 4: Jadi sistem pencernaan dan peredaran darah saling bekerja sama.\n\n**Materi terkait:**\n- **Pencernaan** mengubah makanan menjadi bentuk yang dapat diserap.\n- **Usus halus** menyerap sari makanan.\n- Darah membantu mengedarkan zat makanan ke seluruh tubuh.\n\nInsight kunci: Tubuh bekerja sebagai sistem. Pencernaan tidak selesai saat makanan hancur; sari makanan harus diserap dan diedarkan agar berguna bagi sel tubuh.\n\nKenapa opsi lain salah: B salah karena usus halus menyerap sari makanan. C terlalu sederhana dan tidak benar. D salah karena darah mengangkut hasil penyerapan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Pertumbuhan & perkembangan",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "pertumbuhan",
+      "data",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Tiga kelompok biji kacang hijau ditanam selama 7 hari.\n\nData pengamatan:\n- Kelompok A: tanah lembap, cahaya cukup, 18 dari 20 biji berkecambah.\n- Kelompok B: tanah kering, cahaya cukup, 5 dari 20 biji berkecambah.\n- Kelompok C: tanah lembap, cahaya sangat kurang, 16 dari 20 biji berkecambah tetapi batang kecambah pucat dan lemah.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Cahaya menjadi faktor utama karena biji yang mendapat cahaya lebih mudah diamati pertumbuhannya, karena tubuh dikira sedang menghemat energi saat aktivitas berubah.",
+      "Tanah kering cenderung menghasilkan kecambah paling kuat.",
+      "Air membantu biji berkecambah, sedangkan cahaya cukup membantu kecambah tumbuh lebih sehat setelah muncul",
+      "Kecambah pucat dan lemah menunjukkan pertumbuhan paling sehat."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan A dan B. Keduanya mendapat cahaya cukup, tetapi A tanahnya lembap dan B tanahnya kering. A jauh lebih banyak berkecambah, sehingga air membantu proses perkecambahan.\n\nLangkah 2: Bandingkan A dan C. Keduanya tanah lembap dan banyak biji berkecambah, tetapi C kurang cahaya sehingga kecambahnya pucat dan lemah.\n\nLangkah 3: Ini menunjukkan bahwa air penting untuk biji mulai berkecambah, sementara cahaya cukup penting untuk pertumbuhan sehat setelah kecambah muncul.\n\nLangkah 4: Kesimpulan harus membaca dua pola sekaligus, bukan hanya satu kelompok data.\n\nLangkah 5: Opsi A paling lengkap karena membedakan kebutuhan saat perkecambahan dan pertumbuhan lanjut.\n\n**Materi terkait:**\n- Biji membutuhkan air untuk memulai perkecambahan.\n- Setelah daun berkembang, cahaya membantu fotosintesis.\n- Pertumbuhan sehat tidak hanya dilihat dari jumlah yang tumbuh, tetapi juga kondisi batang dan daun.\n\nInsight kunci: Data percobaan sering menyimpan lebih dari satu hubungan. Bandingkan kelompok yang hanya berbeda satu faktor agar penyebabnya lebih jelas.\n\nKenapa opsi lain salah: B mengabaikan peran air. C berlawanan dengan data. D salah karena pucat dan lemah bukan tanda sehat.",
+    "content": {
+      "question": "Tiga kelompok biji kacang hijau ditanam selama 7 hari.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga kelompok biji kacang hijau ditanam selama 7 hari."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tanah lembap, cahaya cukup, 18 dari 20 biji berkecambah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tanah kering, cahaya cukup, 5 dari 20 biji berkecambah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tanah lembap, cahaya sangat kurang, 16 dari 20 biji berkecambah tetapi batang kecambah pucat dan lemah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Cahaya menjadi faktor utama karena biji yang mendapat cahaya lebih mudah diamati pertumbuhannya, karena tubuh dikira sedang menghemat energi saat aktivitas berubah.",
+        "Tanah kering cenderung menghasilkan kecambah paling kuat.",
+        "Air membantu biji berkecambah, sedangkan cahaya cukup membantu kecambah tumbuh lebih sehat setelah muncul",
+        "Kecambah pucat dan lemah menunjukkan pertumbuhan paling sehat."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cahaya menjadi faktor utama karena biji yang mendapat cahaya lebih mudah diamati pertumbuhannya, karena tubuh dikira sedang menghemat energi saat aktivitas berubah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tanah kering cenderung menghasilkan kecambah paling kuat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Air membantu biji berkecambah, sedangkan cahaya cukup membantu kecambah tumbuh lebih sehat setelah muncul"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kecambah pucat dan lemah menunjukkan pertumbuhan paling sehat."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan A dan B. Keduanya mendapat cahaya cukup, tetapi A tanahnya lembap dan B tanahnya kering. A jauh lebih banyak berkecambah, sehingga air membantu proses perkecambahan.\n\nLangkah 2: Bandingkan A dan C. Keduanya tanah lembap dan banyak biji berkecambah, tetapi C kurang cahaya sehingga kecambahnya pucat dan lemah.\n\nLangkah 3: Ini menunjukkan bahwa air penting untuk biji mulai berkecambah, sementara cahaya cukup penting untuk pertumbuhan sehat setelah kecambah muncul.\n\nLangkah 4: Kesimpulan harus membaca dua pola sekaligus, bukan hanya satu kelompok data.\n\nLangkah 5: Opsi A paling lengkap karena membedakan kebutuhan saat perkecambahan dan pertumbuhan lanjut.\n\n**Materi terkait:**\n- Biji membutuhkan air untuk memulai perkecambahan.\n- Setelah daun berkembang, cahaya membantu fotosintesis.\n- Pertumbuhan sehat tidak hanya dilihat dari jumlah yang tumbuh, tetapi juga kondisi batang dan daun.\n\nInsight kunci: Data percobaan sering menyimpan lebih dari satu hubungan. Bandingkan kelompok yang hanya berbeda satu faktor agar penyebabnya lebih jelas.\n\nKenapa opsi lain salah: B mengabaikan peran air. C berlawanan dengan data. D salah karena pucat dan lemah bukan tanda sehat.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Bandingkan A dan B. Keduanya mendapat cahaya cukup, tetapi A tanahnya lembap dan B tanahnya kering. A jauh lebih banyak berkecambah, sehingga air membantu proses perkecambahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Bandingkan A dan C. Keduanya tanah lembap dan banyak biji berkecambah, tetapi C kurang cahaya sehingga kecambahnya pucat dan lemah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Ini menunjukkan bahwa air penting untuk biji mulai berkecambah, sementara cahaya cukup penting untuk pertumbuhan sehat setelah kecambah muncul."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Kesimpulan harus membaca dua pola sekaligus, bukan hanya satu kelompok data."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Opsi A paling lengkap karena membedakan kebutuhan saat perkecambahan dan pertumbuhan lanjut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Biji membutuhkan air untuk memulai perkecambahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Setelah daun berkembang, cahaya membantu fotosintesis."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pertumbuhan sehat tidak hanya dilihat dari jumlah yang tumbuh, tetapi juga kondisi batang dan daun."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Data percobaan sering menyimpan lebih dari satu hubungan. Bandingkan kelompok yang hanya berbeda satu faktor agar penyebabnya lebih jelas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B mengabaikan peran air. C berlawanan dengan data. D salah karena pucat dan lemah bukan tanda sehat."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem organ manusia",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "indra"
+    ],
+    "is_active": true,
+    "question": "Saat memegang gelas berisi air es, tangan Dina terasa dingin. Indra yang membantu Dina merasakan suhu dingin tersebut adalah ...",
+    "options": [
+      "Hidung.",
+      "Kulit",
+      "Lidah, karena lidah juga dapat merasakan dingin saat menyentuh makanan atau minuman dingin.",
+      "Telinga."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Rangsang yang diterima Dina adalah suhu dingin dari gelas berisi air es. Rangsang suhu diterima oleh indra peraba.\n\nLangkah 2: Indra peraba terdapat pada **kulit**. Kulit dapat merasakan sentuhan, tekanan, panas, dingin, dan rasa sakit.\n\nLangkah 3: Karena Dina merasakan dingin melalui tangan, indra yang bekerja adalah kulit.\n\n**Materi terkait:**\n- **Kulit** adalah indra peraba.\n- **Hidung** untuk mencium bau, **lidah** untuk mengecap rasa, dan **telinga** untuk mendengar bunyi.\n- Indra membantu tubuh mengenali perubahan lingkungan dan meresponsnya.\n\nInsight kunci: Setiap indra memiliki jenis rangsang utama. Untuk suhu panas atau dingin, petunjuknya mengarah pada kulit.\n\nKenapa opsi lain salah: Hidung mendeteksi bau, lidah mendeteksi rasa, dan telinga mendeteksi bunyi."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "adaptasi",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Di daerah pantai berangin, beberapa tanaman memiliki batang lentur dan daun yang tidak terlalu lebar. Tanaman tersebut tetap dapat tumbuh walaupun sering terkena hembusan angin kuat.\n\nCiri tersebut paling tepat dipahami sebagai ...",
+    "options": [
+      "Tanda tanaman tidak membutuhkan cahaya matahari.",
+      "Adaptasi yang membantu tanaman mengurangi risiko patah atau rusak akibat angin",
+      "Bukti bahwa sebagian besar tanaman pantai tidak memiliki akar.",
+      "Ciri yang membuat tanaman pantai lebih mudah mengikuti arah angin, tetapi tidak berkaitan langsung dengan kebutuhan air."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lingkungan pantai sering memiliki angin cukup kuat. Tanaman di tempat seperti ini menghadapi tekanan mekanik dari hembusan angin.\n\nLangkah 2: Batang lentur dapat membantu tanaman mengikuti arah angin tanpa mudah patah. Daun yang tidak terlalu lebar juga dapat mengurangi dorongan angin pada tanaman.\n\nLangkah 3: Ciri yang membantu makhluk hidup bertahan di lingkungannya disebut **adaptasi**.\n\nLangkah 4: Jadi ciri pada tanaman pantai tersebut adalah adaptasi terhadap angin kuat.\n\n**Materi terkait:**\n- Adaptasi dapat berupa bentuk tubuh, fungsi bagian tubuh, atau perilaku.\n- Lingkungan pantai memberi tantangan seperti angin, garam, dan panas.\n- Ciri makhluk hidup biasanya berkaitan dengan tempat hidupnya.\n\nInsight kunci: Untuk memahami adaptasi, hubungkan ciri makhluk hidup dengan tantangan lingkungannya. Batang lentur berguna jika lingkungan sering berangin.\n\nKenapa opsi lain salah: B tidak berhubungan dengan ciri yang disebutkan. C terlalu mutlak dan tidak benar. D tidak ilmiah."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "ekosistem",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di kolam sekolah, tanaman air tumbuh sangat banyak hingga menutupi permukaan kolam. Beberapa ikan terlihat sering muncul ke permukaan. Guru menduga pertukaran oksigen di kolam terganggu.\n\nTindakan paling tepat adalah ...",
+    "options": [
+      "Menutup seluruh kolam dengan plastik agar tidak ada daun jatuh.",
+      "Menambah tanaman air sebanyak mungkin sampai ikan tidak bisa berenang.",
+      "Mengurangi tanaman air secara teratur agar cahaya dan pertukaran gas di kolam lebih seimbang",
+      "Mengurangi sebagian ikan agar kolam tampak lebih lapang, tanpa mengubah jumlah tanaman air, karena perubahan populasi dikaitkan terutama dengan cuaca setempat."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Tanaman air memang dapat berperan dalam ekosistem kolam. Namun jika terlalu banyak dan menutupi permukaan, cahaya dan pertukaran gas dapat terganggu.\n\nLangkah 2: Ikan yang sering muncul ke permukaan bisa menjadi petunjuk bahwa kondisi air kurang nyaman, salah satunya karena oksigen terlarut berkurang.\n\nLangkah 3: Mengurangi tanaman air secara teratur membantu menjaga keseimbangan. Tujuannya bukan menghilangkan semua tanaman, tetapi mengatur jumlahnya.\n\nLangkah 4: Ekosistem kolam membutuhkan keseimbangan antara tumbuhan, hewan, air, cahaya, dan udara.\n\n**Materi terkait:**\n- Ekosistem tersusun dari komponen biotik dan abiotik.\n- Oksigen terlarut penting bagi ikan dan organisme air.\n- Terlalu banyak satu komponen dapat mengganggu keseimbangan ekosistem.\n\nInsight kunci: Sesuatu yang bermanfaat dalam jumlah tepat bisa mengganggu jika berlebihan. Keseimbangan adalah kunci dalam ekosistem.\n\nKenapa opsi lain salah: B menghalangi cahaya dan udara. C memperparah masalah. D salah karena ikan membutuhkan oksigen dalam air."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Konservasi & pelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "konservasi",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi sebuah hutan bambu, banyak panda merah kecil bergantung pada bambu muda dan pohon berlubang untuk berlindung. Setelah sebagian hutan dibuka menjadi kebun sayur, bambu muda berkurang dan tempat berlindung makin sedikit. Petugas konservasi ingin menjaga populasi hewan tersebut.\n\nLangkah yang paling tepat adalah ...",
+    "options": [
+      "Memberi makan sekali seminggu tanpa memperbaiki habitat.",
+      "Memindahkan sebagian besar hewan ke kandang sempit agar mudah dihitung, karena ciri makhluk hidup dilihat dari bentuk luarnya saja.",
+      "Menebang sisa bambu agar kebun sayur lebih rapi.",
+      "Memulihkan hutan bambu, menjaga pohon berlubang, dan membatasi pembukaan lahan di habitat penting"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah utama adalah berkurangnya bambu muda dan tempat berlindung. Keduanya merupakan bagian penting dari habitat hewan.\n\nLangkah 2: Jika makanan dan tempat berlindung berkurang, hewan lebih sulit bertahan hidup dan berkembang biak.\n\nLangkah 3: Solusi konservasi harus memperbaiki habitat, bukan hanya memberi bantuan sementara. Memulihkan hutan bambu menyediakan makanan, sedangkan menjaga pohon berlubang menyediakan tempat berlindung.\n\nLangkah 4: Membatasi pembukaan lahan di habitat penting mencegah kerusakan berulang.\n\nLangkah 5: Opsi A paling tepat karena menyentuh kebutuhan hidup hewan secara menyeluruh.\n\n**Materi terkait:**\n- **Konservasi** berarti menjaga makhluk hidup dan habitatnya.\n- Habitat menyediakan makanan, air, tempat berlindung, dan tempat berkembang biak.\n- Pelestarian yang baik mengatasi penyebab penurunan populasi.\n\nInsight kunci: Melindungi hewan tidak cukup hanya menyelamatkan individunya. Habitat yang mendukung kehidupan hewan harus dijaga agar populasi dapat bertahan lama.\n\nKenapa opsi lain salah: B hanya sementara. C dapat membuat hewan stres dan tidak memulihkan habitat. D memperparah hilangnya makanan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "gerak",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Tiga pelari menempuh lintasan lurus dengan jarak yang sama, yaitu 100 m.\n\nData waktu tempuh:\n- Pelari A: 20 detik.\n- Pelari B: 25 detik.\n- Pelari C: 40 detik.\n\nJika jaraknya sama, urutan kecepatan dari paling besar ke paling kecil adalah ...",
+    "options": [
+      "A, B, C",
+      "C, B, A.",
+      "B, A, C.",
+      "A, C, B, karena A memang paling cepat, tetapi B dan C tertukar saat membandingkan waktu tempuh."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kecepatan berhubungan dengan jarak dan waktu melalui rumus $v = \\frac{d}{t}$.\n\nLangkah 2: Jarak ketiga pelari sama, yaitu 100 m. Jika jarak sama, pelari dengan waktu paling singkat memiliki kecepatan paling besar.\n\nLangkah 3: Waktu paling singkat adalah A, lalu B, lalu C. Jadi kecepatan terbesar hingga terkecil adalah A, B, C.\n\nLangkah 4: Ini menunjukkan bahwa waktu lebih kecil berarti gerak lebih cepat jika jarak tempuh sama.\n\n**Materi terkait:**\n- **Kecepatan** adalah jarak yang ditempuh tiap satuan waktu.\n- Jika jarak tetap, waktu lebih singkat berarti kecepatan lebih tinggi.\n- Satuan kecepatan dapat berupa m/s atau km/jam.\n\nInsight kunci: Pada soal gerak, periksa dulu apakah jarak atau waktu yang sama. Hubungan yang dipakai bergantung pada data yang dibuat tetap.\n\nKenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti waktu tempuh dari yang tercepat ke terlambat.",
+    "content": {
+      "question": "Tiga pelari menempuh lintasan lurus dengan jarak yang sama, yaitu 100 m.\n\nData waktu tempuh:\n\nJika jaraknya sama, urutan kecepatan dari paling besar ke paling kecil adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga pelari menempuh lintasan lurus dengan jarak yang sama, yaitu 100 m."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data waktu tempuh:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pelari A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "20 detik."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pelari B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "25 detik."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pelari C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "40 detik."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika jaraknya sama, urutan kecepatan dari paling besar ke paling kecil adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "A, B, C",
+        "C, B, A.",
+        "B, A, C.",
+        "A, C, B, karena A memang paling cepat, tetapi B dan C tertukar saat membandingkan waktu tempuh."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, B, C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "C, B, A."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "B, A, C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A, C, B, karena A memang paling cepat, tetapi B dan C tertukar saat membandingkan waktu tempuh."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Kecepatan berhubungan dengan jarak dan waktu melalui rumus $v = \\frac{d}{t}$.\n\nLangkah 2: Jarak ketiga pelari sama, yaitu 100 m. Jika jarak sama, pelari dengan waktu paling singkat memiliki kecepatan paling besar.\n\nLangkah 3: Waktu paling singkat adalah A, lalu B, lalu C. Jadi kecepatan terbesar hingga terkecil adalah A, B, C.\n\nLangkah 4: Ini menunjukkan bahwa waktu lebih kecil berarti gerak lebih cepat jika jarak tempuh sama.\n\n**Materi terkait:**\n- **Kecepatan** adalah jarak yang ditempuh tiap satuan waktu.\n- Jika jarak tetap, waktu lebih singkat berarti kecepatan lebih tinggi.\n- Satuan kecepatan dapat berupa m/s atau km/jam.\n\nInsight kunci: Pada soal gerak, periksa dulu apakah jarak atau waktu yang sama. Hubungan yang dipakai bergantung pada data yang dibuat tetap.\n\nKenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti waktu tempuh dari yang tercepat ke terlambat.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Kecepatan berhubungan dengan jarak dan waktu melalui rumus $v = \\frac{d}{t}$."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Jarak ketiga pelari sama, yaitu 100 m. Jika jarak sama, pelari dengan waktu paling singkat memiliki kecepatan paling besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Waktu paling singkat adalah A, lalu B, lalu C. Jadi kecepatan terbesar hingga terkecil adalah A, B, C."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Ini menunjukkan bahwa waktu lebih kecil berarti gerak lebih cepat jika jarak tempuh sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Kecepatan",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah jarak yang ditempuh tiap satuan waktu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Jika jarak tetap, waktu lebih singkat berarti kecepatan lebih tinggi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Satuan kecepatan dapat berupa m/s atau km/jam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pada soal gerak, periksa dulu apakah jarak atau waktu yang sama. Hubungan yang dipakai bergantung pada data yang dibuat tetap."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B membalik urutan. C dan D tidak mengikuti waktu tempuh dari yang tercepat ke terlambat."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "gaya"
+    ],
+    "is_active": true,
+    "question": "Sebuah plastisin berbentuk bola ditekan dengan telapak tangan hingga menjadi pipih. Setelah itu plastisin digulung lagi menjadi bentuk panjang.\n\nPeristiwa tersebut menunjukkan bahwa gaya dapat ...",
+    "options": [
+      "Mengubah bentuk benda",
+      "Menghilangkan massa benda.",
+      "Membuat plastisin kehilangan sebagian massa sehingga bentuknya lebih mudah berubah.",
+      "Membuat benda tidak membutuhkan ruang."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Plastisin awalnya berbentuk bola. Setelah ditekan, bentuknya berubah menjadi pipih.\n\nLangkah 2: Saat digulung, bentuknya berubah lagi menjadi panjang. Perubahan ini terjadi karena ada gaya dari tangan.\n\nLangkah 3: Massa plastisin tidak hilang dan zatnya tetap plastisin. Yang berubah adalah bentuknya.\n\nLangkah 4: Jadi peristiwa tersebut menunjukkan gaya dapat mengubah bentuk benda.\n\n**Materi terkait:**\n- Gaya dapat mengubah bentuk benda, arah gerak, kecepatan, atau membuat benda diam menjadi bergerak.\n- Benda lunak seperti plastisin mudah berubah bentuk saat diberi gaya.\n- Perubahan bentuk tidak selalu berarti terbentuk zat baru.\n\nInsight kunci: Gaya tidak hanya berhubungan dengan gerak. Gaya juga dapat mengubah bentuk benda, terutama pada bahan yang lunak.\n\nKenapa opsi lain salah: Massa tidak hilang. Plastisin tidak berubah menjadi air. Semua benda tetap membutuhkan ruang."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "tuas",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Sebuah pengungkit digunakan untuk mengangkat batu yang sama. Posisi titik tumpu diubah-ubah.\n\nData pengamatan:\n- Percobaan A: titik tumpu jauh dari batu, gaya terasa sangat besar.\n- Percobaan B: titik tumpu agak dekat batu, gaya terasa sedang.\n- Percobaan C: titik tumpu paling dekat batu, gaya terasa paling kecil.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Titik tumpu harus cenderung jauh dari beban agar gaya paling kecil.",
+      "Pada tuas, titik tumpu yang lebih dekat ke beban dapat membuat gaya kuasa yang dibutuhkan lebih kecil",
+      "Pengungkit mengangkat batu tanpa perlu gaya, karena jarak atau bentuk benda sering dikira lebih menentukan daripada gaya yang bekerja.",
+      "Letak titik tumpu tidak memengaruhi kemudahan mengangkat beban."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Beban yang diangkat sama, yaitu batu yang sama. Faktor yang berubah adalah letak titik tumpu.\n\nLangkah 2: Data menunjukkan semakin dekat titik tumpu ke batu, gaya yang terasa semakin kecil. Percobaan C paling mudah karena titik tumpunya paling dekat beban.\n\nLangkah 3: Pada tuas, jarak antara kuasa, titik tumpu, dan beban memengaruhi keuntungan mekanis. Posisi titik tumpu yang tepat dapat memperkecil gaya yang dibutuhkan.\n\nLangkah 4: Pengungkit tetap membutuhkan gaya, tetapi susunan yang tepat membuat pekerjaan lebih mudah.\n\nLangkah 5: Kesimpulan harus mengikuti pola data dari A sampai C.\n\n**Materi terkait:**\n- Tuas memiliki tiga bagian: titik tumpu, beban, dan kuasa.\n- Mengubah posisi titik tumpu dapat mengubah besar gaya yang diperlukan.\n- Contoh tuas adalah jungkat-jungkit, linggis, gunting, dan pembuka tutup botol.\n\nInsight kunci: Pesawat sederhana bekerja karena susunan gaya dan jarak. Pada pengungkit, posisi titik tumpu dapat menentukan apakah pekerjaan terasa berat atau ringan.\n\nKenapa opsi lain salah: B berlawanan dengan data. C salah karena tetap perlu gaya. D salah karena data menunjukkan letak titik tumpu berpengaruh.",
+    "content": {
+      "question": "Sebuah pengungkit digunakan untuk mengangkat batu yang sama. Posisi titik tumpu diubah-ubah.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sebuah pengungkit digunakan untuk mengangkat batu yang sama. Posisi titik tumpu diubah-ubah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "titik tumpu jauh dari batu, gaya terasa sangat besar."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "titik tumpu agak dekat batu, gaya terasa sedang."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Percobaan C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "titik tumpu paling dekat batu, gaya terasa paling kecil."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Titik tumpu harus cenderung jauh dari beban agar gaya paling kecil.",
+        "Pada tuas, titik tumpu yang lebih dekat ke beban dapat membuat gaya kuasa yang dibutuhkan lebih kecil",
+        "Pengungkit mengangkat batu tanpa perlu gaya, karena jarak atau bentuk benda sering dikira lebih menentukan daripada gaya yang bekerja.",
+        "Letak titik tumpu tidak memengaruhi kemudahan mengangkat beban."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Titik tumpu harus cenderung jauh dari beban agar gaya paling kecil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pada tuas, titik tumpu yang lebih dekat ke beban dapat membuat gaya kuasa yang dibutuhkan lebih kecil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pengungkit mengangkat batu tanpa perlu gaya, karena jarak atau bentuk benda sering dikira lebih menentukan daripada gaya yang bekerja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Letak titik tumpu tidak memengaruhi kemudahan mengangkat beban."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Beban yang diangkat sama, yaitu batu yang sama. Faktor yang berubah adalah letak titik tumpu.\n\nLangkah 2: Data menunjukkan semakin dekat titik tumpu ke batu, gaya yang terasa semakin kecil. Percobaan C paling mudah karena titik tumpunya paling dekat beban.\n\nLangkah 3: Pada tuas, jarak antara kuasa, titik tumpu, dan beban memengaruhi keuntungan mekanis. Posisi titik tumpu yang tepat dapat memperkecil gaya yang dibutuhkan.\n\nLangkah 4: Pengungkit tetap membutuhkan gaya, tetapi susunan yang tepat membuat pekerjaan lebih mudah.\n\nLangkah 5: Kesimpulan harus mengikuti pola data dari A sampai C.\n\n**Materi terkait:**\n- Tuas memiliki tiga bagian: titik tumpu, beban, dan kuasa.\n- Mengubah posisi titik tumpu dapat mengubah besar gaya yang diperlukan.\n- Contoh tuas adalah jungkat-jungkit, linggis, gunting, dan pembuka tutup botol.\n\nInsight kunci: Pesawat sederhana bekerja karena susunan gaya dan jarak. Pada pengungkit, posisi titik tumpu dapat menentukan apakah pekerjaan terasa berat atau ringan.\n\nKenapa opsi lain salah: B berlawanan dengan data. C salah karena tetap perlu gaya. D salah karena data menunjukkan letak titik tumpu berpengaruh.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Beban yang diangkat sama, yaitu batu yang sama. Faktor yang berubah adalah letak titik tumpu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Data menunjukkan semakin dekat titik tumpu ke batu, gaya yang terasa semakin kecil. Percobaan C paling mudah karena titik tumpunya paling dekat beban."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Pada tuas, jarak antara kuasa, titik tumpu, dan beban memengaruhi keuntungan mekanis. Posisi titik tumpu yang tepat dapat memperkecil gaya yang dibutuhkan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Pengungkit tetap membutuhkan gaya, tetapi susunan yang tepat membuat pekerjaan lebih mudah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Kesimpulan harus mengikuti pola data dari A sampai C."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Tuas memiliki tiga bagian: titik tumpu, beban, dan kuasa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Mengubah posisi titik tumpu dapat mengubah besar gaya yang diperlukan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Contoh tuas adalah jungkat-jungkit, linggis, gunting, dan pembuka tutup botol."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pesawat sederhana bekerja karena susunan gaya dan jarak. Pada pengungkit, posisi titik tumpu dapat menentukan apakah pekerjaan terasa berat atau ringan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B berlawanan dengan data. C salah karena tetap perlu gaya. D salah karena data menunjukkan letak titik tumpu berpengaruh."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "energi"
+    ],
+    "is_active": true,
+    "question": "Di dapur, blender digunakan untuk menghaluskan buah. Saat tombol ditekan, pisau blender berputar cepat dan terdengar suara mesin.\n\nPerubahan energi utama yang terjadi adalah ...",
+    "options": [
+      "Energi cahaya -> energi listrik -> energi air.",
+      "Energi bunyi -> energi kimia buah -> energi listrik, karena panas dikira berpindah sama cepat pada bahan yang ukurannya sama.",
+      "Energi listrik -> energi gerak pisau, disertai energi bunyi dan panas",
+      "Energi listrik tidak berubah bentuk."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Blender menggunakan energi listrik dari sumber listrik. Energi listrik masuk ke motor blender.\n\nLangkah 2: Motor mengubah energi listrik menjadi energi gerak sehingga pisau blender berputar.\n\nLangkah 3: Saat bekerja, blender juga menghasilkan bunyi dan sedikit panas sebagai energi samping.\n\nLangkah 4: Jadi perubahan energi utamanya adalah listrik menjadi gerak, dengan bunyi dan panas ikut muncul.\n\n**Materi terkait:**\n- Energi dapat berubah bentuk, misalnya listrik menjadi gerak, bunyi, cahaya, atau panas.\n- Motor listrik mengubah energi listrik menjadi gerak.\n- Banyak alat rumah tangga menghasilkan energi samping selain fungsi utamanya.\n\nInsight kunci: Untuk menentukan perubahan energi, lihat sumber energi alat dan hasil yang tampak. Pada blender, hasil utama adalah gerak pisau.\n\nKenapa opsi lain salah: B dan C tidak sesuai cara kerja blender. D salah karena energi listrik berubah menjadi bentuk lain."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "bunyi"
+    ],
+    "is_active": true,
+    "question": "Siswa menempelkan telinga di atas meja kayu, lalu temannya mengetuk pelan ujung meja yang jauh. Bunyi ketukan terdengar lebih jelas melalui meja daripada melalui udara biasa.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Bunyi ketukan terdengar lebih jelas lewat meja karena udara di bawah meja ikut bergetar bersama permukaan kayu.",
+      "Meja memperkuat bunyi karena permukaannya keras dan membuat ketukan terlihat lebih jelas.",
+      "Udara cenderung membuat bunyi lebih jelas daripada sebagian besar benda padat.",
+      "Bunyi dapat merambat melalui benda padat, dan pada beberapa keadaan rambatannya lebih jelas daripada melalui udara"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bunyi berasal dari getaran. Ketukan pada meja membuat meja bergetar.\n\nLangkah 2: Getaran bunyi dapat merambat melalui medium, seperti gas, cairan, dan benda padat. Meja kayu menjadi medium rambatan bunyi.\n\nLangkah 3: Pada percobaan ini, bunyi terdengar lebih jelas melalui meja karena getaran dapat merambat baik melalui benda padat.\n\nLangkah 4: Jadi bunyi tidak hanya merambat melalui udara.\n\n**Materi terkait:**\n- Bunyi memerlukan medium untuk merambat.\n- Medium bunyi dapat berupa udara, air, atau benda padat.\n- Di ruang hampa, bunyi tidak dapat merambat karena tidak ada medium.\n\nInsight kunci: Bunyi adalah getaran yang merambat. Jika ada medium yang baik menghantarkan getaran, bunyi dapat terdengar lebih jelas.\n\nKenapa opsi lain salah: B salah karena bunyi tidak merambat di ruang hampa. C tidak sesuai. D terlalu mutlak karena benda padat dapat menghantarkan bunyi dengan baik."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Keselamatan listrik",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "keselamatan-listrik",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Di kelas, satu stop kontak dipakai untuk menyambungkan kabel ekstensi. Beberapa siswa ingin memasang kipas angin, pengeras suara, pengisi daya laptop, dan lampu tambahan sekaligus pada kabel ekstensi yang sama. Kabel mulai terasa hangat.\n\nTindakan paling aman adalah ...",
+    "options": [
+      "Menambah lebih banyak alat agar listrik terbagi rata.",
+      "Membungkus kabel hangat dengan kain agar tidak terasa panas.",
+      "Menyiram kabel dengan air agar cepat dingin, karena hasil pengamatan sering dikira hanya dipengaruhi besar sumber energi.",
+      "Mengurangi jumlah alat yang terhubung dan meminta guru memeriksa kapasitas kabel serta stop kontak"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Banyak alat listrik yang dipasang pada satu kabel ekstensi dapat menyebabkan beban berlebih. Beban berlebih membuat kabel panas.\n\nLangkah 2: Kabel yang mulai hangat adalah tanda bahaya. Jika dibiarkan, risiko kerusakan kabel, korsleting, atau kebakaran meningkat.\n\nLangkah 3: Tindakan aman adalah mengurangi alat yang terhubung. Guru atau orang dewasa perlu memeriksa apakah kabel dan stop kontak sesuai kapasitas.\n\nLangkah 4: Keselamatan listrik harus didahulukan sebelum kegiatan memakai alat dilanjutkan.\n\nLangkah 5: Opsi A menangani penyebab panas, yaitu kemungkinan beban listrik berlebihan.\n\n**Materi terkait:**\n- Setiap stop kontak dan kabel memiliki batas kemampuan menyalurkan listrik.\n- Beban berlebih dapat menyebabkan kabel panas.\n- Air tidak boleh digunakan untuk menangani peralatan listrik yang masih terhubung.\n\nInsight kunci: Kabel yang terasa hangat saat dipakai banyak alat adalah tanda yang harus diperhatikan. Jangan menutupi gejala; kurangi beban dan minta bantuan orang dewasa.\n\nKenapa opsi lain salah: B memperparah beban. C menahan panas dan berbahaya. D sangat berbahaya karena air dan listrik tidak boleh bercampur."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Daya listrik",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "daya-listrik",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dua lampu LED diuji untuk menerangi meja belajar selama waktu yang sama.\n\nData pengamatan:\n- Lampu P: tertulis 5 W, cahaya cukup untuk membaca satu buku di meja kecil.\n- Lampu Q: tertulis 12 W, cahaya lebih terang tetapi ruangan menjadi lebih silau.\n\nJika tujuannya membaca di meja kecil dengan lebih hemat energi, pilihan paling tepat adalah ...",
+    "options": [
+      "Lampu Q, karena daya lebih besar cenderung berarti paling hemat.",
+      "Keduanya memakai energi sama karena sama-sama lampu LED.",
+      "Lampu P, karena dayanya lebih kecil dan cahayanya sudah cukup untuk kebutuhan membaca",
+      "Tidak ada hubungan antara daya listrik dan energi yang digunakan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Daya listrik menunjukkan laju penggunaan energi. Jika waktu pemakaian sama, alat dengan daya lebih besar menggunakan energi lebih banyak.\n\nLangkah 2: Lampu P memiliki daya 5 W, sedangkan Lampu Q 12 W. Jadi untuk waktu menyala yang sama, Lampu P lebih hemat energi.\n\nLangkah 3: Data juga menyebut Lampu P sudah cukup untuk membaca satu buku di meja kecil. Artinya kebutuhan utama sudah terpenuhi.\n\nLangkah 4: Lampu Q memang lebih terang, tetapi pada konteks meja kecil justru membuat silau dan memakai daya lebih besar.\n\n**Materi terkait:**\n- **Daya listrik** biasanya ditulis dalam watt (W).\n- Energi listrik yang digunakan bergantung pada daya dan lama pemakaian.\n- Hemat energi berarti memilih alat sesuai kebutuhan, bukan selalu memilih yang paling besar dayanya.\n\nInsight kunci: Pilihan hemat bukan selalu yang paling terang atau paling kuat. Dalam sains terapan, kita memilih alat yang cukup memenuhi fungsi dengan energi serendah mungkin.\n\nKenapa opsi lain salah: B terbalik karena daya besar biasanya memakai energi lebih banyak. C salah karena daya P dan Q berbeda. D salah karena daya berhubungan dengan penggunaan energi.",
+    "content": {
+      "question": "Dua lampu LED diuji untuk menerangi meja belajar selama waktu yang sama.\n\nData pengamatan:\n\nJika tujuannya membaca di meja kecil dengan lebih hemat energi, pilihan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dua lampu LED diuji untuk menerangi meja belajar selama waktu yang sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lampu P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tertulis 5 W, cahaya cukup untuk membaca satu buku di meja kecil."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Lampu Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tertulis 12 W, cahaya lebih terang tetapi ruangan menjadi lebih silau."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika tujuannya membaca di meja kecil dengan lebih hemat energi, pilihan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Lampu Q, karena daya lebih besar cenderung berarti paling hemat.",
+        "Keduanya memakai energi sama karena sama-sama lampu LED.",
+        "Lampu P, karena dayanya lebih kecil dan cahayanya sudah cukup untuk kebutuhan membaca",
+        "Tidak ada hubungan antara daya listrik dan energi yang digunakan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lampu Q, karena daya lebih besar cenderung berarti paling hemat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Keduanya memakai energi sama karena sama-sama lampu LED."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lampu P, karena dayanya lebih kecil dan cahayanya sudah cukup untuk kebutuhan membaca"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tidak ada hubungan antara daya listrik dan energi yang digunakan, karena hasil pengamatan dikira hanya dipengaruhi besar sumber energi."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Daya listrik menunjukkan laju penggunaan energi. Jika waktu pemakaian sama, alat dengan daya lebih besar menggunakan energi lebih banyak.\n\nLangkah 2: Lampu P memiliki daya 5 W, sedangkan Lampu Q 12 W. Jadi untuk waktu menyala yang sama, Lampu P lebih hemat energi.\n\nLangkah 3: Data juga menyebut Lampu P sudah cukup untuk membaca satu buku di meja kecil. Artinya kebutuhan utama sudah terpenuhi.\n\nLangkah 4: Lampu Q memang lebih terang, tetapi pada konteks meja kecil justru membuat silau dan memakai daya lebih besar.\n\n**Materi terkait:**\n- **Daya listrik** biasanya ditulis dalam watt (W).\n- Energi listrik yang digunakan bergantung pada daya dan lama pemakaian.\n- Hemat energi berarti memilih alat sesuai kebutuhan, bukan selalu memilih yang paling besar dayanya.\n\nInsight kunci: Pilihan hemat bukan selalu yang paling terang atau paling kuat. Dalam sains terapan, kita memilih alat yang cukup memenuhi fungsi dengan energi serendah mungkin.\n\nKenapa opsi lain salah: B terbalik karena daya besar biasanya memakai energi lebih banyak. C salah karena daya P dan Q berbeda. D salah karena daya berhubungan dengan penggunaan energi.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Daya listrik menunjukkan laju penggunaan energi. Jika waktu pemakaian sama, alat dengan daya lebih besar menggunakan energi lebih banyak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Lampu P memiliki daya 5 W, sedangkan Lampu Q 12 W. Jadi untuk waktu menyala yang sama, Lampu P lebih hemat energi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Data juga menyebut Lampu P sudah cukup untuk membaca satu buku di meja kecil. Artinya kebutuhan utama sudah terpenuhi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Lampu Q memang lebih terang, tetapi pada konteks meja kecil justru membuat silau dan memakai daya lebih besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Daya listrik",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " biasanya ditulis dalam watt (W)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Energi listrik yang digunakan bergantung pada daya dan lama pemakaian."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Hemat energi berarti memilih alat sesuai kebutuhan, bukan selalu memilih yang paling besar dayanya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pilihan hemat bukan selalu yang paling terang atau paling kuat. Dalam sains terapan, kita memilih alat yang cukup memenuhi fungsi dengan energi serendah mungkin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B terbalik karena daya besar biasanya memakai energi lebih banyak. C salah karena daya P dan Q berbeda. D salah karena daya berhubungan dengan penggunaan energi."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "perubahan-zat"
+    ],
+    "is_active": true,
+    "question": "Empat kegiatan dilakukan saat membuat minuman dan makanan:\n\n1. Gula dilarutkan dalam teh hangat.\n2. Air dimasukkan ke freezer hingga menjadi es.\n3. Adonan roti dipanggang hingga mengembang dan berwarna kecokelatan.\n4. Kertas tisu disobek menjadi kecil-kecil.\n\nKegiatan yang paling jelas menunjukkan perubahan kimia adalah ...",
+    "options": [
+      "1 dan 2, karena keduanya tampak berubah jelas saat dipanaskan atau didinginkan.",
+      "3 saja",
+      "2 dan 4.",
+      "1, 2, dan 4."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Perubahan kimia menghasilkan zat baru dengan sifat berbeda. Tanda yang tampak dapat berupa perubahan warna, bau, gas, atau sulit kembali seperti semula.\n\nLangkah 2: Adonan roti yang dipanggang mengembang, berubah warna, dan berubah sifat menjadi roti matang. Ini menunjukkan perubahan kimia.\n\nLangkah 3: Gula larut dalam teh masih berupa gula di dalam larutan. Air membeku menjadi es masih zat yang sama, yaitu air. Tisu disobek hanya berubah ukuran.\n\nLangkah 4: Jadi kegiatan yang paling jelas menunjukkan perubahan kimia adalah nomor 3 saja.\n\n**Materi terkait:**\n- Perubahan fisika tidak menghasilkan zat baru, contohnya melarut, membeku, dan menyobek.\n- Perubahan kimia menghasilkan zat baru, contohnya pembakaran, pembusukan, memasak telur, dan memanggang roti.\n- Tidak semua perubahan bentuk atau wujud termasuk perubahan kimia.\n\nInsight kunci: Jangan tertipu oleh perubahan yang terlihat besar. Es, larutan gula, dan tisu sobek masih melibatkan zat yang sama, sedangkan adonan matang mengalami perubahan sifat yang lebih mendalam.\n\nKenapa opsi lain salah: 1, 2, dan 4 adalah perubahan fisika pada level soal ini."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Asam basa & pH",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "asam-basa",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Kertas lakmus digunakan untuk menguji tiga larutan rumah tangga.\n\nData pengamatan:\n- Larutan P mengubah lakmus merah menjadi biru.\n- Larutan Q mengubah lakmus biru menjadi merah.\n- Larutan R tidak mengubah lakmus merah maupun biru.\n\nPasangan sifat larutan yang tepat adalah ...",
+    "options": [
+      "P basa, Q asam, R netral",
+      "P asam, Q basa, R netral.",
+      "P netral, Q asam, R basa.",
+      "P basa, Q netral, R asam."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lakmus merah berubah menjadi biru menunjukkan larutan bersifat **basa**. Jadi P adalah basa.\n\nLangkah 2: Lakmus biru berubah menjadi merah menunjukkan larutan bersifat **asam**. Jadi Q adalah asam.\n\nLangkah 3: Jika lakmus merah dan biru tidak berubah, larutan dapat dianggap netral pada pengamatan sederhana ini. Jadi R adalah netral.\n\nLangkah 4: Pasangan yang tepat adalah P basa, Q asam, R netral.\n\n**Materi terkait:**\n- Asam mengubah lakmus biru menjadi merah.\n- Basa mengubah lakmus merah menjadi biru.\n- Netral tidak mengubah warna kedua lakmus.\n- Larutan tidak boleh dicicipi untuk mengetahui sifatnya.\n\nInsight kunci: Arah perubahan warna lakmus sangat penting. Jangan hanya melihat warna akhir, tetapi perhatikan lakmus mana yang berubah.\n\nKenapa opsi lain salah: Opsi B menukar P dan Q. Opsi C dan D tidak sesuai data perubahan lakmus.",
+    "content": {
+      "question": "Kertas lakmus digunakan untuk menguji tiga larutan rumah tangga.\n\nData pengamatan:\n\nPasangan sifat larutan yang tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kertas lakmus digunakan untuk menguji tiga larutan rumah tangga."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mengubah lakmus merah menjadi biru."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mengubah lakmus biru menjadi merah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan R"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tidak mengubah lakmus merah maupun biru."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pasangan sifat larutan yang tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "P basa, Q asam, R netral",
+        "P asam, Q basa, R netral.",
+        "P netral, Q asam, R basa.",
+        "P basa, Q netral, R asam."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P basa, Q asam, R netral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P asam, Q basa, R netral."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P netral, Q asam, R basa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P basa, Q netral, R asam."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Lakmus merah berubah menjadi biru menunjukkan larutan bersifat **basa**. Jadi P adalah basa.\n\nLangkah 2: Lakmus biru berubah menjadi merah menunjukkan larutan bersifat **asam**. Jadi Q adalah asam.\n\nLangkah 3: Jika lakmus merah dan biru tidak berubah, larutan dapat dianggap netral pada pengamatan sederhana ini. Jadi R adalah netral.\n\nLangkah 4: Pasangan yang tepat adalah P basa, Q asam, R netral.\n\n**Materi terkait:**\n- Asam mengubah lakmus biru menjadi merah.\n- Basa mengubah lakmus merah menjadi biru.\n- Netral tidak mengubah warna kedua lakmus.\n- Larutan tidak boleh dicicipi untuk mengetahui sifatnya.\n\nInsight kunci: Arah perubahan warna lakmus sangat penting. Jangan hanya melihat warna akhir, tetapi perhatikan lakmus mana yang berubah.\n\nKenapa opsi lain salah: Opsi B menukar P dan Q. Opsi C dan D tidak sesuai data perubahan lakmus.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Lakmus merah berubah menjadi biru menunjukkan larutan bersifat "
+              },
+              {
+                "type": "text",
+                "text": "basa",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ". Jadi P adalah basa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Lakmus biru berubah menjadi merah menunjukkan larutan bersifat "
+              },
+              {
+                "type": "text",
+                "text": "asam",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ". Jadi Q adalah asam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Jika lakmus merah dan biru tidak berubah, larutan dapat dianggap netral pada pengamatan sederhana ini. Jadi R adalah netral."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Pasangan yang tepat adalah P basa, Q asam, R netral."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Asam mengubah lakmus biru menjadi merah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Basa mengubah lakmus merah menjadi biru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Netral tidak mengubah warna kedua lakmus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Larutan tidak boleh dicicipi untuk mengetahui sifatnya."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Arah perubahan warna lakmus sangat penting. Jangan hanya melihat warna akhir, tetapi perhatikan lakmus mana yang berubah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: Opsi B menukar P dan Q. Opsi C dan D tidak sesuai data perubahan lakmus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "pemisahan-campuran",
+      "data",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Siswa memiliki campuran pasir, garam, dan kerikil kecil. Alat yang tersedia adalah ayakan, air, kertas saring, dan pemanas.\n\nRencana pemisahan:\n1. Ayak campuran untuk memisahkan kerikil.\n2. Tambahkan air ke sisa campuran agar garam larut.\n3. Saring campuran untuk memisahkan pasir.\n4. Panaskan filtrat untuk memperoleh garam.\n\nHasil yang paling tepat dari rencana tersebut adalah ...",
+    "options": [
+      "Garam terpisah oleh ayakan karena ukurannya cenderung paling besar.",
+      "Sebagian pasir ikut terbawa air garam sehingga pemanasan saja dapat memisahkan pasir dan garam sekaligus.",
+      "Kerikil terpisah oleh ayakan, pasir tertahan di saringan, dan garam tertinggal setelah air menguap",
+      "Pemanas membuat air menguap sehingga pasir dan kerikil ikut mengering bersama garam."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kerikil lebih besar daripada pasir dan garam, sehingga dapat dipisahkan dengan ayakan yang sesuai.\n\nLangkah 2: Garam larut dalam air, sedangkan pasir tidak larut. Setelah air ditambahkan, garam masuk ke larutan.\n\nLangkah 3: Penyaringan memisahkan pasir dari larutan garam. Pasir tertahan di kertas saring, larutan garam lewat sebagai filtrat.\n\nLangkah 4: Pemanasan filtrat menguapkan air. Setelah air menguap, garam tertinggal.\n\nLangkah 5: Rencana ini tepat karena memakai sifat bahan secara berurutan: ukuran partikel, kelarutan, dan penguapan.\n\n**Materi terkait:**\n- Ayakan memisahkan berdasarkan ukuran partikel.\n- Filtrasi memisahkan zat tidak larut dari cairan.\n- Evaporasi memisahkan zat terlarut dari pelarutnya.\n\nInsight kunci: Campuran yang berisi beberapa zat sering memerlukan beberapa langkah pemisahan. Urutan langkah harus mengikuti sifat komponen yang ingin dipisahkan.\n\nKenapa opsi lain salah: B salah karena garam tidak selalu paling besar dan larut dalam air. C salah karena pasir tidak larut. D tidak ilmiah."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "bumi"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa mengamati bayangan tiang bendera di halaman sekolah. Pada pagi hari bayangan panjang ke arah barat. Mendekati siang, bayangan menjadi lebih pendek. Sore hari, bayangan memanjang ke arah timur.\n\nPerubahan bayangan tersebut terutama berkaitan dengan ...",
+    "options": [
+      "Gerak semu harian Matahari yang terjadi karena rotasi Bumi",
+      "Bumi berhenti berputar pada siang hari.",
+      "Tiang bendera berubah tinggi setiap beberapa jam, karena kondisi lingkungan setempat dikira menjadi penyebab utama semua perubahan.",
+      "Bulan menutup Matahari setiap hari."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Arah dan panjang bayangan dipengaruhi oleh posisi Matahari di langit. Pagi, siang, dan sore posisi Matahari tampak berbeda.\n\nLangkah 2: Perubahan posisi Matahari yang tampak sepanjang hari disebut gerak semu harian Matahari. Disebut semu karena sebenarnya Bumi yang berotasi.\n\nLangkah 3: Saat Matahari lebih tinggi di langit, bayangan menjadi lebih pendek. Saat Matahari rendah, bayangan lebih panjang.\n\nLangkah 4: Jadi perubahan bayangan terutama berkaitan dengan rotasi Bumi.\n\n**Materi terkait:**\n- **Rotasi Bumi** menyebabkan siang-malam dan gerak semu harian Matahari.\n- Bayangan terbentuk karena cahaya terhalang benda.\n- Panjang bayangan berubah sesuai sudut datang cahaya Matahari.\n\nInsight kunci: Pengamatan bayangan dapat menjadi bukti sederhana bahwa posisi Matahari tampak berubah sepanjang hari. Perubahan tampak itu dijelaskan oleh rotasi Bumi.\n\nKenapa opsi lain salah: B salah karena Bumi tidak berhenti berputar. C tidak benar karena tinggi tiang tetap. D tidak terjadi setiap hari."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "cuaca",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Petugas piket mencatat keadaan langit di sekolah selama satu hari:\n\n- Pukul 07.00: cerah.\n- Pukul 10.00: mulai berawan.\n- Pukul 13.00: hujan deras.\n- Pukul 15.00: hujan berhenti dan udara terasa lembap.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Iklim sekolah berubah dari tropis menjadi dingin dalam satu hari.",
+      "Hujan pukul 13.00 membuktikan besok cenderung hujan pada jam yang sama.",
+      "Keadaan langit tidak termasuk bagian dari pengamatan cuaca.",
+      "Cuaca dapat berubah dalam waktu beberapa jam"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Data menunjukkan keadaan langit berubah dari cerah, berawan, hujan, lalu lembap dalam satu hari.\n\nLangkah 2: Perubahan dalam jam atau hari termasuk **cuaca**, bukan iklim. Cuaca memang dapat berubah dalam waktu pendek.\n\nLangkah 3: Data satu hari tidak cukup untuk memprediksi pasti keadaan besok pada jam yang sama. Cuaca dipengaruhi banyak faktor.\n\nLangkah 4: Jadi kesimpulan paling tepat adalah cuaca dapat berubah dalam beberapa jam.\n\n**Materi terkait:**\n- Cuaca adalah kondisi atmosfer pada waktu dan tempat tertentu.\n- Unsur cuaca meliputi suhu, awan, hujan, angin, dan kelembapan.\n- Iklim adalah pola cuaca jangka panjang.\n\nInsight kunci: Catatan harian membantu memahami cuaca. Jangan memakai data singkat untuk menyimpulkan iklim jangka panjang.\n\nKenapa opsi lain salah: B mencampur cuaca dan iklim. C terlalu pasti. D salah karena keadaan langit termasuk petunjuk cuaca."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-j",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nDi sebuah sekolah, air keran sering dibiarkan mengalir saat siswa menyabuni tangan. Pada musim kemarau, tandon air sekolah lebih cepat habis sehingga beberapa kelas kesulitan mendapat air untuk membersihkan ruang.\n\nTindakan paling tepat adalah ...",
+    "options": [
+      "Membiarkan keran terus menyala agar air tidak diam.",
+      "Mematikan keran saat menyabuni tangan, memperbaiki keran bocor, dan membuat pengingat hemat air",
+      "Menggunakan air sebanyak mungkin sebelum tandon kosong.",
+      "Menutup sebagian besar kegiatan cuci tangan agar tidak memakai air secara langsung, karena posisi benda langit dilihat dari tampaknya saja, bukan susunannya."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah utama adalah pemborosan air. Air terus mengalir saat tidak sedang dipakai langsung untuk membilas.\n\nLangkah 2: Pada musim kemarau, pasokan air lebih terbatas. Jika pemborosan terus terjadi, tandon lebih cepat habis.\n\nLangkah 3: Mematikan keran saat menyabuni tangan mengurangi air terbuang. Memperbaiki keran bocor dan membuat pengingat membantu kebiasaan hemat air menjadi rutin.\n\nLangkah 4: Solusi tetap menjaga kebersihan tangan, tetapi mengurangi pemakaian air yang tidak perlu.\n\nLangkah 5: Jadi opsi A paling tepat karena realistis, aman, dan menyentuh penyebab pemborosan.\n\n**Materi terkait:**\n- Air bersih adalah sumber daya alam yang harus digunakan bijak.\n- Menghemat air penting terutama saat musim kemarau.\n- Kebiasaan kecil seperti menutup keran dapat berdampak besar jika dilakukan banyak orang.\n\nInsight kunci: Hemat air bukan berarti berhenti menjaga kebersihan. Hemat air berarti memakai air sesuai kebutuhan dan menghindari aliran yang sia-sia.\n\nKenapa opsi lain salah: B dan C memperparah pemborosan. D terlalu ekstrem dan tidak sehat karena cuci tangan tetap penting."
+  }
+]

@@ -1,0 +1,1280 @@
+{
+  "authoring_request": {
+    "mode": "foundation_micro",
+    "subject": "ipa",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "grade_band": "sd_4_6_foundation",
+    "student_goal": "Konsep organ–sistem, fotosintesis, peredaran darah, daur hidup, dan rantai makanan (Section 2).",
+    "requested_micro_concept_count": 3,
+    "requested_main_questions_per_concept": 3,
+    "requested_drill_questions_per_concept": 5,
+    "language": "id"
+  },
+  "micro_concepts": [
+    {
+      "concept_id": "fotosintesis_gas_dan_peran",
+      "concept_name": "Fotosintesis: gas dan peran produsen",
+      "concept_description": "CO2 masuk, O2 keluar pada fotosintesis; daun sebagai lokasi utama.",
+      "topic": "Sistem Kehidupan",
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "target_error_tags": [
+        "balik_gas",
+        "lupa_produsen"
+      ]
+    },
+    {
+      "concept_id": "peredaran_darahalur_kecil_besar",
+      "concept_name": "Alur peredaran darah kecil dan besar",
+      "concept_description": "Darah ke paru dan kembali vs darah ke tubuh.",
+      "topic": "Sistem Kehidupan",
+      "subtopic": "Sistem peredaran darah",
+      "target_error_tags": [
+        "campur_alur",
+        "paru_dianggap_tubuh"
+      ]
+    },
+    {
+      "concept_id": "rantai_makanan_peran",
+      "concept_name": "Produsen, konsumen, pengurai",
+      "concept_description": "Arah energi dan peran dalam rantai makanan.",
+      "topic": "Ekologi & Pewarisan",
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "target_error_tags": [
+        "arah_energi_terbalik",
+        "produsen_salah"
+      ]
+    }
+  ],
+  "main_questions": [
+    {
+      "questionId": "ipa-s2-main-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Pada fotosintesis, gas yang **banyak dilepas** ke udara oleh tumbuhan hijau pada siang terang adalah ...",
+      "options": [
+        "Oksigen (O2)",
+        "Karbon dioksida (CO2)",
+        "Nitrogen murni",
+        "Hidrogen bebas"
+      ],
+      "answer": 0,
+      "rationale": "Fotosintesis melepaskan O2 sebagai hasil samping fotolisis air dan reduksi karbon.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "balik_gas",
+            "error_type": "concept",
+            "diagnosis": "CO2 banyak diserap, bukan dilepas dominan saat fotosintesis aktif.",
+            "micro_lesson": "Ingat skema sederhana: CO2 masuk, O2 keluar pada fotosintesis.",
+            "retry_question": {
+              "question": "Gas yang diserap tumbuhan untuk fotosintesis termasuk ...",
+              "options": [
+                "O2 saja",
+                "CO2",
+                "N2 saja",
+                "He"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "lupa_produsen",
+            "error_type": "strategy",
+            "diagnosis": "Pilihan gas yang tidak relevan dengan reaksi fotosintesis.",
+            "micro_lesson": "Fokus pada pasangan CO2–O2 pada materi fotosintesis.",
+            "retry_question": {
+              "question": "Produsen dalam rantai makanan umumnya adalah ...",
+              "options": [
+                "Karnivora",
+                "Tumbuhan hijau",
+                "Jamur pengurai",
+                "Awan"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "balik_gas",
+            "error_type": "careless",
+            "diagnosis": "Nitrogen dominan di udara tetapi bukan fokus gas fotosintesis.",
+            "micro_lesson": "Soal menanyakan hasil gas pada proses fotosintesis.",
+            "retry_question": {
+              "question": "Yang dihasilkan tumbuhan pada fotosintesis selain glukosa meliputi ...",
+              "options": [
+                "O2",
+                "CO2 murni saja",
+                "Asam sulfat",
+                "Debu"
+              ],
+              "answer": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "recall",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Tempat utama fotosintesis pada tumbuhan darat biasanya adalah ...",
+      "options": [
+        "Daun (terutama jaringan berkloroplas)",
+        "Akar",
+        "Batang kayu mati",
+        "Bunga saja"
+      ],
+      "answer": 0,
+      "rationale": "Kloroplas terkonsentrasi di daun.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «fotosintesis», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Tumbuhan hijau disebut **produsen** karena ...",
+      "options": [
+        "Mampu membuat makanan organik dari zat anorganik dengan energi cahaya",
+        "Hanya memakan serangga",
+        "Tidak memerlukan air",
+        "Hanya hidup di air"
+      ],
+      "answer": 0,
+      "rationale": "Produsen membuat makanan sendiri (autotrof).",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «produsen», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "**Peredaran kecil** (pulmonal) menghubungkan ...",
+      "options": [
+        "Jantung ↔ paru-paru",
+        "Jantung ↔ seluruh tubuh",
+        "Hati ↔ lambung",
+        "Ginjal ↔ otak saja"
+      ],
+      "answer": 0,
+      "rationale": "Peredaran kecil: pompa darah menuju paru dan kembali untuk pertukaran gas.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «peredaran kecil», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "**Peredaran besar** (sistemik) menghubungkan ...",
+      "options": [
+        "Jantung ↔ seluruh tubuh",
+        "Jantung ↔ paru saja",
+        "Paru ↔ hati",
+        "Lambung ↔ usus saja"
+      ],
+      "answer": 0,
+      "rationale": "Peredaran besar mendistribusikan darah kaya oksigen ke organ.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «peredaran besar», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "application",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Pembuluh yang membawa darah **keluar** dari jantung menuju tubuh (umumnya) termasuk pola ...",
+      "options": [
+        "Arteri sistemik dari bilik kiri",
+        "Vena pulmonal",
+        "Kapiler di paru saja",
+        "Limpfe"
+      ],
+      "answer": 0,
+      "rationale": "Bilik kiri memompa ke arteri menuju tubuh (sistemik).",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «arteri vena», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Pada rantai makanan «rumput → kelinci → ular», kelinci berperan sebagai ...",
+      "options": [
+        "Konsumen primer",
+        "Produsen",
+        "Pengurai",
+        "Produsen sekunder"
+      ],
+      "answer": 0,
+      "rationale": "Herbivora memakan produsen = konsumen primer.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «rantai makanan», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "concept_understanding",
+      "questionType": "concept_check",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Arah aliran energi klasik dalam rantai makanan adalah ...",
+      "options": [
+        "Produsen → konsumen → pengurai",
+        "Pengurai → produsen",
+        "Konsumen → produsen",
+        "Konsumen → konsumen tanpa produsen"
+      ],
+      "answer": 0,
+      "rationale": "Energi masuk dari produsen lalu ke konsumen, akhirnya ke pengurai.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «aliran energi», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-main-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Jamur dan bakteri pengurai berperan utama dalam ...",
+      "options": [
+        "Menguraikan sisa organik sehingga zat bisa kembali ke siklus nutrien",
+        "Membuat makanan dengan fotosintesis",
+        "Memompa darah",
+        "Menghasilkan O2 primer di laut dalam"
+      ],
+      "answer": 0,
+      "rationale": "Pengurai memecah materi organik.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "distractor_rules": {
+          "1": {
+            "error_tag": "miskonsepsi_utama",
+            "error_type": "concept",
+            "diagnosis": "Pilihan ini mencerminkan pemahaman konsep yang belum tepat untuk soal ini.",
+            "micro_lesson": "Kembali ke definisi inti «pengurai», lalu cocokkan dengan kata kunci di soal.",
+            "retry_question": {
+              "question": "Manakah pernyataan yang paling netral dan sesuai definisi dasar konsep ini?",
+              "options": [
+                "Definisi yang salah arah",
+                "Definisi yang selaras buku teks sederhana",
+                "Campuran dua konsep",
+                "Jawaban tanpa bukti"
+              ],
+              "answer": 1
+            }
+          },
+          "2": {
+            "error_tag": "terburu_buru",
+            "error_type": "careless",
+            "diagnosis": "Kemungkinan membaca opsi terlalu cepat sehingga melewatkan kata kunci penting.",
+            "micro_lesson": "Baca ulang soal, garisbawahi kata kunci, lalu eliminasi opsi yang paling tidak relevan.",
+            "retry_question": {
+              "question": "Kata kunci pada soal biasanya menuntun ke satu konsep utama. Langkah awal yang baik adalah ...",
+              "options": [
+                "Langsung menebak huruf opsi",
+                "Mengidentifikasi konsep yang ditanya",
+                "Menghitung tanpa konteks",
+                "Mengabaikan semua opsi"
+              ],
+              "answer": 1
+            }
+          },
+          "3": {
+            "error_tag": "campur_konsep_lain",
+            "error_type": "strategy",
+            "diagnosis": "Kamu mungkin memakai konsep dari topik lain yang mirip istilahnya.",
+            "micro_lesson": "Tetapkan dulu topik soal, baru pilih hukum/definisi yang dipakai di topik itu saja.",
+            "retry_question": {
+              "question": "Jika soal jelas tentang satu sistem organ, hindari menjawab dengan konsep ...",
+              "options": [
+                "Organ lain yang tidak disebut",
+                "Mekanisme yang sama pada organ yang dimaksud",
+                "Istilah umum yang tepat",
+                "Data yang konsisten"
+              ],
+              "answer": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "drill_questions": [
+    {
+      "questionId": "ipa-s2-drill-01",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Gas yang dipakai tumbuhan sebagai sumber karbon untuk fotosintesis termasuk ...",
+      "options": [
+        "O2",
+        "CO2",
+        "N2",
+        "He"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-02",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "O2 pada fotosintesis cenderung ...",
+      "options": [
+        "Diserap dominan",
+        "Dilepas",
+        "Tidak terlibat",
+        "Menjadi besi"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-03",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Produsen memulai rantai karena ...",
+      "options": [
+        "Memakan predator",
+        "Menyimpan energi dalam senyawa organik",
+        "Tidak butuh air",
+        "Hidup tanpa sel"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-04",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Daun berperan karena mengandung banyak ...",
+      "options": [
+        "Kloroplas",
+        "Tulang besi",
+        "Asam kuat",
+        "Minyak bumi"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-05",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Fotosintesis & respirasi tumbuhan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Fotosintesis butuh energi dari ...",
+      "options": [
+        "Cahaya",
+        "Garam dapur saja",
+        "Es batu",
+        "Magnet"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "fotosintesis_gas_dan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-06",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Pertukaran gas CO2–O2 di paru terjadi di ...",
+      "options": [
+        "Jantung",
+        "Alveolus",
+        "Lambung",
+        "Hati"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-07",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Peredaran kecil terkait erat dengan ...",
+      "options": [
+        "Pencernaan",
+        "Paru-paru",
+        "Pendengaran",
+        "Pengecap"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-08",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Jantung berperan sebagai ...",
+      "options": [
+        "Pompa",
+        "Filter ginjal saja",
+        "Pencernaan lemak",
+        "Produksi hormon tiroid saja"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-09",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Vena umumnya membawa darah ...",
+      "options": [
+        "Keluar jantung",
+        "Kembali ke jantung",
+        "Hanya ke otak",
+        "Tak ada pola"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-10",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Sistem Kehidupan",
+      "subtopicId": null,
+      "subtopic": "Sistem peredaran darah",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Arteri umumnya membawa darah ...",
+      "options": [
+        "Dari jantung ke organ",
+        "Dari paru ke lambung",
+        "Dari kulit ke mata saja",
+        "Statis"
+      ],
+      "answer": 0,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "peredaran_darahalur_kecil_besar",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-11",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Rumput dalam rantai biasanya ...",
+      "options": [
+        "Konsumen",
+        "Produsen",
+        "Pengurai",
+        "Top predator"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-12",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Ular pemakan kelinci umumnya ...",
+      "options": [
+        "Produsen",
+        "Konsumen sekunder atau tertier",
+        "Pengurai primer",
+        "Abiotik"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-13",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Tanpa produsen, rantai akan ...",
+      "options": [
+        "Lebih kuat",
+        "Kehilangan sumber energi masuk",
+        "Tetap sama",
+        "Hanya bertambah pengurai"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-14",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Pengurai mendapat energi dari ...",
+      "options": [
+        "Cahaya matahari langsung",
+        "Sisa organik",
+        "Oksigen murni",
+        "Batu"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    },
+    {
+      "questionId": "ipa-s2-drill-15",
+      "subject": "ipa",
+      "topicId": null,
+      "topic": "Ekologi & Pewarisan",
+      "subtopicId": null,
+      "subtopic": "Rantai makanan & jaring-jaring makanan",
+      "difficulty": "easy",
+      "skillType": "understanding",
+      "questionType": "direct",
+      "tags": [
+        "foundation_micro",
+        "targeted_drill",
+        "ipa",
+        "section-2/sistem-kehidupan-dan-ekosistem"
+      ],
+      "question": "Jaring-jaring makanan muncul karena ...",
+      "options": [
+        "Hanya satu rantai",
+        "Banyak rantai saling hubung",
+        "Tidak ada predator",
+        "Tidak ada produsen"
+      ],
+      "answer": 1,
+      "rationale": "Drill.",
+      "microLoop": {
+        "concept_id": "rantai_makanan_peran",
+        "drill_focus": {
+          "source_error_tags": [
+            "balik_gas"
+          ],
+          "notes": "Penguatan satu konsep foundation."
+        }
+      }
+    }
+  ]
+}

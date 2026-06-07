@@ -1,0 +1,1702 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "reasoning",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "fotosintesis",
+      "sebab-akibat",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Dua pot tanaman kacang yang ukurannya sama diberi jumlah air dan jenis tanah yang sama. Pot A diletakkan di dekat jendela yang mendapat cahaya matahari cukup. Pot B diletakkan di lemari gelap selama 5 hari. Setelah diamati, daun Pot A tampak hijau segar, sedangkan daun Pot B lebih pucat dan batangnya memanjang lemah.\n\nKesimpulan paling tepat dari percobaan tersebut adalah ...",
+    "options": [
+      "Jenis tanah menjadi faktor utama karena akar tetap berada di tanah selama percobaan.",
+      "Tanaman di tempat gelap cenderung lebih kuat karena batangnya memanjang.",
+      "Cahaya membantu tumbuhan membuat makanan melalui fotosintesis, sehingga tanaman yang cukup cahaya tumbuh lebih sehat",
+      "Air menjadi faktor utama warna daun karena kedua tanaman sama-sama membutuhkan air untuk hidup, karena perubahan organ dilihat terpisah dari kebutuhan oksigen dan zat makanan."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Bandingkan kondisi percobaan. Air, tanah, dan ukuran awal tanaman dibuat sama, sedangkan faktor yang berbeda adalah **cahaya**.\n\nLangkah 2: Pot A mendapat cahaya cukup dan daunnya hijau segar. Pot B berada di tempat gelap, daunnya pucat, dan batangnya memanjang lemah.\n\nLangkah 3: Cahaya diperlukan tumbuhan hijau untuk **fotosintesis**, yaitu proses membuat makanan sendiri. Jika cahaya kurang, tumbuhan sulit membuat makanan dengan baik dan klorofil tidak bekerja optimal.\n\nLangkah 4: Batang yang memanjang di tempat gelap bukan tanda lebih kuat. Itu tanda tanaman berusaha mencari cahaya, tetapi pertumbuhannya lemah.\n\n**Materi terkait:**\n- **Fotosintesis** membutuhkan cahaya, air, karbon dioksida, dan klorofil.\n- Hasil utama fotosintesis adalah makanan bagi tumbuhan dan oksigen.\n- Dalam percobaan adil, hanya satu faktor utama yang diubah agar penyebab perbedaan hasil lebih jelas.\n\nInsight kunci: Jika semua faktor dibuat sama kecuali cahaya, maka perbedaan hasil paling masuk akal disebabkan oleh cahaya. Soal IPA sering meminta kita mencari variabel yang diubah, lalu menghubungkannya dengan hasil.\n\nKenapa opsi lain salah: B salah karena tanah tetap penting, hanya saja tidak diuji dalam percobaan ini. C salah karena batang memanjang lemah bukan tanda kuat. D salah karena warna daun juga dipengaruhi cahaya dan klorofil."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "pernapasan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Saat berlari mengelilingi lapangan, napas Dimas menjadi lebih cepat dan jantungnya berdetak lebih kencang. Setelah berhenti dan beristirahat beberapa menit, napasnya perlahan kembali normal.\n\nPenjelasan yang paling tepat adalah ...",
+    "options": [
+      "Paru-paru bekerja lebih lambat saat tubuh berlari sehingga tubuh harus bernapas cepat setelah selesai, karena bagian tubuh yang paling terlihat dipilih sebagai penyebab utama gejala.",
+      "Jantung berdetak cepat hanya karena tubuh ingin mengeluarkan keringat.",
+      "Napas cepat saat olahraga menunjukkan tubuh membutuhkan oksigen lebih sedikit.",
+      "Otot membutuhkan lebih banyak oksigen saat bekerja keras, sehingga paru-paru dan jantung bekerja lebih cepat untuk mengirim oksigen dan membuang karbon dioksida"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat Dimas berlari, otot kakinya bekerja lebih keras. Otot yang bekerja membutuhkan lebih banyak energi.\n\nLangkah 2: Untuk menghasilkan energi, sel tubuh membutuhkan **oksigen** dan menghasilkan zat sisa berupa **karbon dioksida**. Karena itu, tubuh perlu mengambil oksigen lebih banyak dan membuang karbon dioksida lebih cepat.\n\nLangkah 3: Paru-paru mempercepat pertukaran udara melalui napas yang lebih cepat. Jantung mempercepat peredaran darah agar oksigen segera sampai ke otot.\n\nLangkah 4: Setelah istirahat, kebutuhan energi menurun. Napas dan denyut jantung kembali normal karena kebutuhan oksigen juga menurun.\n\n**Materi terkait:**\n- **Pernapasan** membantu tubuh mengambil oksigen dan mengeluarkan karbon dioksida.\n- **Peredaran darah** mengangkut oksigen dari paru-paru ke seluruh tubuh.\n- Sistem organ tubuh saling bekerja sama; paru-paru dan jantung tidak bekerja sendiri-sendiri.\n\nInsight kunci: Tubuh seperti sistem yang saling terhubung. Saat aktivitas naik, kebutuhan energi naik, sehingga pernapasan dan peredaran darah ikut meningkat.\n\nKenapa opsi lain salah: B salah karena paru-paru tetap bekerja saat berlari. C terlalu sempit karena denyut jantung terutama membantu mengedarkan darah. D terbalik, napas cepat justru menunjukkan kebutuhan oksigen meningkat."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "pencernaan",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\nRara sering sarapan terburu-buru. Ia mengunyah nasi hanya sebentar, lalu langsung menelan. Setelah itu perutnya terasa tidak nyaman. Guru IPA menjelaskan bahwa pencernaan tidak hanya terjadi di lambung, tetapi sudah dimulai dari mulut.\n\nKebiasaan yang paling tepat untuk membantu pencernaan Rara adalah ...",
+    "options": [
+      "Minum banyak air agar makanan lebih mudah meluncur ke lambung meskipun dikunyah sebentar.",
+      "Mengunyah makanan lebih lama agar makanan hancur lebih kecil dan bercampur air liur sebelum masuk lambung",
+      "Menelan makanan cepat-cepat agar lambung bekerja lebih kuat.",
+      "Memilih makanan yang sangat lembut agar peran gigi dan air liur menjadi jauh lebih sedikit, karena bagian tubuh yang paling terlihat dipilih sebagai penyebab utama gejala."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pencernaan dimulai di mulut. Gigi memotong dan menghancurkan makanan secara mekanik, sehingga ukurannya menjadi lebih kecil.\n\nLangkah 2: Air liur membantu membasahi makanan dan mulai mencerna zat tepung secara kimia. Makanan yang sudah halus lebih mudah ditelan dan lebih mudah diproses organ berikutnya.\n\nLangkah 3: Jika makanan ditelan terlalu cepat, lambung harus bekerja lebih berat karena potongan makanan masih besar. Ini dapat membuat perut terasa tidak nyaman pada sebagian orang.\n\nLangkah 4: Kebiasaan yang tepat adalah mengunyah lebih lama, makan tidak terburu-buru, dan memberi waktu pada mulut untuk menjalankan fungsinya.\n\nLangkah 5: Jawaban A paling lengkap karena menyebut dua hal penting: ukuran makanan diperkecil dan makanan bercampur air liur.\n\n**Materi terkait:**\n- **Pencernaan mekanik** mengubah ukuran makanan, misalnya oleh gigi.\n- **Pencernaan kimiawi** mengubah zat makanan dengan bantuan enzim, misalnya enzim dalam air liur.\n- Sistem pencernaan bekerja bertahap dari mulut, kerongkongan, lambung, usus halus, sampai usus besar.\n\nInsight kunci: Organ pertama dalam pencernaan bukan lambung, melainkan mulut. Mengunyah bukan sekadar kebiasaan sopan, tetapi bagian penting dari proses pencernaan.\n\nKenapa opsi lain salah: B salah karena air tidak menggantikan fungsi mengunyah. C membuat kerja lambung lebih berat. D salah karena mulut jelas berperan dalam pencernaan."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Kesehatan & gaya hidup sehat",
+    "skill_type": "concept_understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "kesehatan"
+    ],
+    "is_active": true,
+    "question": "Alya ingin menjaga kesehatan tulang. Ia memilih kebiasaan berikut:\n\n1. Bermain di luar rumah pada pagi hari secukupnya.\n2. Mengonsumsi makanan sumber kalsium seperti susu, ikan teri, atau tempe.\n3. Membawa tas sangat berat di satu bahu setiap hari.\n4. Berolahraga ringan secara teratur.\n\nKebiasaan yang paling mendukung kesehatan tulang adalah ...",
+    "options": [
+      "1, 2, dan 4",
+      "1, 2, dan 3, karena tas berat sering dikira dapat melatih tulang menjadi lebih kuat.",
+      "2 dan 3 saja.",
+      "3 dan 4 saja."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Sinar matahari pagi secukupnya membantu tubuh membentuk vitamin D. Vitamin D membantu penyerapan kalsium untuk tulang.\n\nLangkah 2: Makanan sumber kalsium membantu menyediakan bahan penyusun tulang. Olahraga ringan juga membantu tulang dan otot tetap kuat.\n\nLangkah 3: Membawa tas sangat berat di satu bahu setiap hari bukan kebiasaan baik. Beban tidak seimbang dapat mengganggu postur dan membuat tubuh mudah pegal.\n\nLangkah 4: Jadi kebiasaan yang mendukung tulang adalah nomor 1, 2, dan 4.\n\n**Materi terkait:**\n- Tulang berfungsi menopang tubuh, melindungi organ, dan membantu gerak bersama otot.\n- Kesehatan tulang dipengaruhi makanan, aktivitas fisik, postur, dan kebiasaan membawa beban.\n- Kebiasaan baik perlu dilakukan rutin, bukan hanya sekali.\n\nInsight kunci: Tulang sehat membutuhkan bahan penyusun, bantuan vitamin, dan latihan. Kebiasaan kecil sehari-hari dapat memberi dampak besar jika dilakukan terus-menerus.\n\nKenapa opsi lain salah: Semua opsi yang memuat nomor 3 kurang tepat karena tas sangat berat di satu bahu bukan kebiasaan sehat."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "ekosistem",
+      "sebab-akibat",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Di sawah terdapat rantai makanan sederhana:\n\nPadi -> belalang -> katak -> ular -> elang\n\nJika populasi katak turun drastis karena banyak ditangkap, akibat yang paling mungkin terjadi dalam waktu dekat adalah ...",
+    "options": [
+      "Belalang bertambah karena pemangsanya berkurang, lalu padi dapat lebih banyak dimakan belalang",
+      "Padi bertambah banyak karena katak tidak lagi memakan padi.",
+      "Elang langsung bertambah karena katak berkurang.",
+      "Sebagian besar makhluk hidup dalam rantai makanan cenderung tidak berubah, karena ciri makhluk hidup dilihat dari bentuk luarnya saja."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Tentukan peran katak dalam rantai makanan. Katak memakan belalang, sehingga katak adalah pemangsa belalang.\n\nLangkah 2: Jika katak berkurang, belalang kehilangan sebagian pemangsanya. Akibatnya, jumlah belalang dapat meningkat.\n\nLangkah 3: Belalang memakan padi. Jika belalang meningkat, tekanan pada padi juga meningkat sehingga padi bisa lebih banyak rusak atau dimakan.\n\nLangkah 4: Ini menunjukkan perubahan satu populasi dapat memengaruhi populasi lain dalam rantai makanan.\n\n**Materi terkait:**\n- **Produsen** membuat makanan sendiri, misalnya padi.\n- **Konsumen** memakan makhluk hidup lain, misalnya belalang, katak, ular, dan elang.\n- Rantai makanan menunjukkan aliran energi dan hubungan makan-dimakan.\n\nInsight kunci: Ekosistem adalah jaringan sebab-akibat. Mengurangi satu jenis hewan tidak hanya memengaruhi hewan itu, tetapi juga makanan dan pemangsanya.\n\nKenapa opsi lain salah: B salah karena katak tidak memakan padi. C tidak langsung tepat karena elang justru bisa kekurangan mangsa tidak langsung. D salah karena rantai makanan saling memengaruhi."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Adaptasi & interaksi makhluk hidup",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "adaptasi",
+      "inferensi"
+    ],
+    "is_active": true,
+    "question": "Di daerah berlumpur dekat hutan mangrove, beberapa ikan kecil dapat terlihat sesekali muncul ke permukaan lumpur dan bernapas dengan bantuan bagian tubuh khusus. Di tempat yang sama, akar mangrove tampak mencuat ke atas permukaan tanah berlumpur.\n\nKesimpulan paling tepat tentang ciri khusus makhluk hidup di tempat tersebut adalah ...",
+    "options": [
+      "Makhluk hidup di lumpur membutuhkan oksigen lebih sedikit karena lingkungannya basah dan berlumpur, karena satu organisme dilihat terpisah dari hubungan dengan organisme lain.",
+      "Ciri khusus membantu makhluk hidup menyesuaikan diri dengan lingkungan berlumpur yang miskin oksigen",
+      "Akar yang mencuat menunjukkan mangrove tidak termasuk tumbuhan.",
+      "Ikan yang muncul ke lumpur lebih banyak hidup di darat dan hanya sesekali kembali ke air."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lingkungan berlumpur pada mangrove sering memiliki oksigen rendah di dalam tanah. Makhluk hidup di sana memerlukan cara khusus untuk mendapatkan oksigen.\n\nLangkah 2: Akar mangrove yang mencuat membantu pertukaran gas. Pada beberapa jenis mangrove, akar seperti ini membantu tumbuhan bernapas di tanah berlumpur.\n\nLangkah 3: Ikan kecil yang sesekali muncul ke permukaan lumpur juga menunjukkan penyesuaian terhadap lingkungan yang tidak selalu nyaman bagi ikan biasa.\n\nLangkah 4: Jadi ciri khusus pada ikan dan mangrove dapat dipahami sebagai **adaptasi** terhadap lingkungan berlumpur.\n\n**Materi terkait:**\n- **Adaptasi** adalah penyesuaian makhluk hidup agar dapat bertahan di lingkungannya.\n- Adaptasi bisa berupa bentuk tubuh, cara hidup, atau perilaku.\n- Lingkungan berbeda menuntut penyesuaian berbeda; tidak semua makhluk hidup cocok di semua tempat.\n\nInsight kunci: Ciri unik pada makhluk hidup biasanya berhubungan dengan tantangan lingkungannya. Jika lingkungannya berlumpur dan miskin oksigen, ciri untuk membantu pernapasan menjadi sangat penting.\n\nKenapa opsi lain salah: B salah karena makhluk hidup tetap membutuhkan oksigen. C salah karena mangrove tetap tumbuhan. D salah karena ikan tersebut dapat memanfaatkan air dan permukaan lumpur sesuai kebutuhannya."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Konservasi & pelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "konservasi",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nSebuah pantai menjadi tempat penyu bertelur. Setelah pantai ramai wisata malam, lampu terang dan suara kendaraan meningkat. Petugas menemukan jumlah tukik yang berhasil menuju laut berkurang karena sebagian bergerak ke arah cahaya buatan, bukan ke arah pantulan cahaya alami di laut.\n\nKebijakan paling tepat untuk membantu pelestarian penyu adalah ...",
+    "options": [
+      "Mengatur lampu wisata agar lebih terang di dekat jalur pengunjung dan tetap mengawasi tukik dari jauh.",
+      "Memindahkan sebagian telur ke tempat yang mudah diawasi pengunjung agar tidak hilang dari pantai.",
+      "Membiarkan wisata malam tanpa aturan karena penyu dapat bertelur lagi tahun depan.",
+      "Membatasi lampu dan aktivitas malam di zona bertelur, memberi jalur aman, serta mengedukasi pengunjung"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah utama adalah cahaya buatan dan gangguan malam di pantai. Tukik dapat salah arah karena mengikuti cahaya yang bukan berasal dari laut.\n\nLangkah 2: Jika tukik tidak sampai ke laut, peluang hidupnya menurun. Ini dapat mengganggu keberhasilan perkembangbiakan penyu.\n\nLangkah 3: Solusi harus mengurangi penyebab gangguan, bukan hanya menangani akibatnya. Membatasi lampu dan aktivitas malam membantu menjaga kondisi pantai saat penyu bertelur.\n\nLangkah 4: Jalur aman dan edukasi pengunjung penting agar manusia tetap bisa berwisata dengan tanggung jawab tanpa merusak habitat.\n\nLangkah 5: Opsi A paling tepat karena melindungi habitat, momen bertelur, dan perilaku alami tukik.\n\n**Materi terkait:**\n- **Konservasi** bertujuan menjaga makhluk hidup dan habitatnya agar tetap lestari.\n- Pelestarian tidak hanya melindungi hewan dewasa, tetapi juga telur, anak, tempat makan, dan tempat berkembang biak.\n- Aktivitas manusia dapat mengganggu perilaku hewan, bahkan tanpa menyentuh hewannya langsung.\n\nInsight kunci: Pelestarian yang baik menyentuh penyebab utama gangguan. Dalam kasus penyu, menjaga kondisi pantai pada malam hari lebih penting daripada sekadar melihat tukik setelah menetas.\n\nKenapa opsi lain salah: B memperparah gangguan cahaya. C tidak ilmiah dan merusak tujuan pelestarian. D mengabaikan risiko berulang pada populasi penyu."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gaya & pengaruhnya terhadap benda",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "gaya"
+    ],
+    "is_active": true,
+    "question": "Fajar mendorong meja di lantai kasar, tetapi meja sulit bergerak. Ketika teman Fajar membantu mendorong dari arah yang sama, meja mulai bergerak. Namun saat satu teman lain mendorong dari arah berlawanan dengan gaya yang hampir sama, meja kembali sulit bergerak.\n\nPenjelasan paling tepat adalah ...",
+    "options": [
+      "Gaya dari satu orang hanya membuat meja bergeser sedikit karena lantai kasar menahan gerak.",
+      "Lantai kasar membuat dorongan lebih sulit menghasilkan gerak karena sebagian energi berubah menjadi panas kecil.",
+      "Gaya searah dapat saling menambah, sedangkan gaya berlawanan dapat saling mengurangi sehingga gerak benda berubah",
+      "Meja lebih mudah bergerak karena Fajar berhenti mendorong saat temannya mulai membantu."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Saat Fajar mendorong sendiri, gaya dorongnya belum cukup mengatasi gesekan lantai kasar. Karena itu meja sulit bergerak.\n\nLangkah 2: Saat teman membantu dari arah yang sama, gaya dorong total menjadi lebih besar. Gaya searah saling menambah sehingga meja mulai bergerak.\n\nLangkah 3: Ketika ada dorongan dari arah berlawanan, sebagian gaya saling mengurangi. Akibatnya gaya total menjadi lebih kecil dan meja kembali sulit bergerak.\n\nLangkah 4: Gerak benda dipengaruhi besar gaya, arah gaya, dan hambatan seperti gesekan.\n\n**Materi terkait:**\n- **Gaya** dapat mengubah gerak, arah gerak, kecepatan, atau bentuk benda.\n- **Gesekan** adalah gaya yang menghambat gerak antara dua permukaan yang bersentuhan.\n- Arah gaya penting: gaya searah menambah, gaya berlawanan mengurangi.\n\nInsight kunci: Untuk memahami gerak, jangan hanya menghitung jumlah orang yang mendorong. Perhatikan arah gaya dan hambatan yang bekerja pada benda.\n\nKenapa opsi lain salah: B salah karena gaya dapat mengubah gerak. C salah karena gesekan menghambat, bukan menghilangkan semua gaya. D salah karena beberapa orang dapat bekerja sama jika gaya searah."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "pesawat-sederhana",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa menguji tiga papan bidang miring untuk menaikkan kotak ke meja setinggi 1 m. Kotak yang dipakai sama.\n\nData pengamatan:\n- Papan A panjangnya 2 m dan terasa paling berat didorong.\n- Papan B panjangnya 4 m dan terasa sedang.\n- Papan C panjangnya 6 m dan terasa paling ringan, tetapi lintasannya paling jauh.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Bidang miring yang lebih pendek cenderung dipilih karena jaraknya dekat, walaupun gaya dorong yang diperlukan bisa lebih besar.",
+      "Bidang miring yang lebih panjang membutuhkan gaya lebih kecil, tetapi jarak dorong menjadi lebih jauh",
+      "Papan C membuat gaya terasa paling kecil karena lintasannya paling panjang, walaupun kotak tetap naik ke meja yang sama.",
+      "Panjang papan kurang berpengaruh dibanding tinggi meja saat menentukan gaya dorong."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Semua papan menaikkan kotak ke ketinggian yang sama, yaitu 1 m. Beban yang dinaikkan juga sama.\n\nLangkah 2: Data menunjukkan papan lebih panjang terasa lebih ringan didorong. Papan C paling panjang dan membutuhkan gaya paling kecil.\n\nLangkah 3: Namun papan panjang membuat jarak dorong lebih jauh. Pesawat sederhana membantu memperkecil gaya, tetapi biasanya menambah jarak.\n\nLangkah 4: Prinsip ini sesuai dengan bidang miring: lintasan lebih landai membuat gaya dorong lebih kecil, tetapi benda harus menempuh jalur lebih panjang.\n\nLangkah 5: Jadi papan C tidak menghilangkan usaha, melainkan menukar gaya besar dengan jarak lebih panjang.\n\n**Materi terkait:**\n- **Bidang miring** adalah pesawat sederhana yang memudahkan menaikkan benda.\n- Pesawat sederhana tidak membuat pekerjaan hilang; ia mengubah cara kerja agar gaya lebih kecil atau arah gaya lebih mudah.\n- Contoh bidang miring adalah papan ramp, jalan naik ke parkiran, dan tangga landai.\n\nInsight kunci: Pesawat sederhana membantu, tetapi tidak gratis secara energi. Jika gaya dibuat lebih kecil, biasanya jarak atau waktu menjadi lebih besar.\n\nKenapa opsi lain salah: B salah karena jarak dekat justru bisa membutuhkan gaya lebih besar. C salah karena tetap perlu energi. D bertentangan dengan data pengamatan.",
+    "content": {
+      "question": "Seorang siswa menguji tiga papan bidang miring untuk menaikkan kotak ke meja setinggi 1 m. Kotak yang dipakai sama.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Seorang siswa menguji tiga papan bidang miring untuk menaikkan kotak ke meja setinggi 1 m. Kotak yang dipakai sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Papan A"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "panjangnya 2 m dan terasa paling berat didorong."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Papan B"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "panjangnya 4 m dan terasa sedang."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Papan C"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "panjangnya 6 m dan terasa paling ringan, tetapi lintasannya paling jauh."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Bidang miring yang lebih pendek cenderung dipilih karena jaraknya dekat, walaupun gaya dorong yang diperlukan bisa lebih besar.",
+        "Bidang miring yang lebih panjang membutuhkan gaya lebih kecil, tetapi jarak dorong menjadi lebih jauh",
+        "Papan C membuat gaya terasa paling kecil karena lintasannya paling panjang, walaupun kotak tetap naik ke meja yang sama.",
+        "Panjang papan kurang berpengaruh dibanding tinggi meja saat menentukan gaya dorong."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bidang miring yang lebih pendek cenderung dipilih karena jaraknya dekat, walaupun gaya dorong yang diperlukan bisa lebih besar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bidang miring yang lebih panjang membutuhkan gaya lebih kecil, tetapi jarak dorong menjadi lebih jauh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Papan C membuat gaya terasa paling kecil karena lintasannya paling panjang, walaupun kotak tetap naik ke meja yang sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Panjang papan kurang berpengaruh dibanding tinggi meja saat menentukan gaya dorong."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Semua papan menaikkan kotak ke ketinggian yang sama, yaitu 1 m. Beban yang dinaikkan juga sama.\n\nLangkah 2: Data menunjukkan papan lebih panjang terasa lebih ringan didorong. Papan C paling panjang dan membutuhkan gaya paling kecil.\n\nLangkah 3: Namun papan panjang membuat jarak dorong lebih jauh. Pesawat sederhana membantu memperkecil gaya, tetapi biasanya menambah jarak.\n\nLangkah 4: Prinsip ini sesuai dengan bidang miring: lintasan lebih landai membuat gaya dorong lebih kecil, tetapi benda harus menempuh jalur lebih panjang.\n\nLangkah 5: Jadi papan C tidak menghilangkan usaha, melainkan menukar gaya besar dengan jarak lebih panjang.\n\n**Materi terkait:**\n- **Bidang miring** adalah pesawat sederhana yang memudahkan menaikkan benda.\n- Pesawat sederhana tidak membuat pekerjaan hilang; ia mengubah cara kerja agar gaya lebih kecil atau arah gaya lebih mudah.\n- Contoh bidang miring adalah papan ramp, jalan naik ke parkiran, dan tangga landai.\n\nInsight kunci: Pesawat sederhana membantu, tetapi tidak gratis secara energi. Jika gaya dibuat lebih kecil, biasanya jarak atau waktu menjadi lebih besar.\n\nKenapa opsi lain salah: B salah karena jarak dekat justru bisa membutuhkan gaya lebih besar. C salah karena tetap perlu energi. D bertentangan dengan data pengamatan.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Semua papan menaikkan kotak ke ketinggian yang sama, yaitu 1 m. Beban yang dinaikkan juga sama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Data menunjukkan papan lebih panjang terasa lebih ringan didorong. Papan C paling panjang dan membutuhkan gaya paling kecil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Namun papan panjang membuat jarak dorong lebih jauh. Pesawat sederhana membantu memperkecil gaya, tetapi biasanya menambah jarak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Prinsip ini sesuai dengan bidang miring: lintasan lebih landai membuat gaya dorong lebih kecil, tetapi benda harus menempuh jalur lebih panjang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Jadi papan C tidak menghilangkan usaha, melainkan menukar gaya besar dengan jarak lebih panjang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Bidang miring",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah pesawat sederhana yang memudahkan menaikkan benda."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pesawat sederhana tidak membuat pekerjaan hilang; ia mengubah cara kerja agar gaya lebih kecil atau arah gaya lebih mudah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Contoh bidang miring adalah papan ramp, jalan naik ke parkiran, dan tangga landai."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Pesawat sederhana membantu, tetapi tidak gratis secara energi. Jika gaya dibuat lebih kecil, biasanya jarak atau waktu menjadi lebih besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B salah karena jarak dekat justru bisa membutuhkan gaya lebih besar. C salah karena tetap perlu energi. D bertentangan dengan data pengamatan."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Energi & transformasi energi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "energi"
+    ],
+    "is_active": true,
+    "question": "Sebuah lampu taman menggunakan panel surya kecil. Pada siang hari panel menerima cahaya matahari dan mengisi baterai. Pada malam hari lampu menyala otomatis.\n\nUrutan perubahan energi yang paling tepat adalah ...",
+    "options": [
+      "Energi bunyi -> energi cahaya -> energi listrik -> energi panas matahari.",
+      "Energi kimia dalam baterai -> energi cahaya -> energi listrik -> energi gerak.",
+      "Energi listrik hilang sepenuhnya sehingga lampu menyala tanpa perubahan energi.",
+      "Energi cahaya matahari -> energi listrik -> energi kimia dalam baterai -> energi cahaya lampu"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Panel surya menerima energi cahaya dari matahari. Panel mengubah cahaya menjadi energi listrik.\n\nLangkah 2: Energi listrik digunakan untuk mengisi baterai. Dalam baterai, energi disimpan sebagai energi kimia.\n\nLangkah 3: Pada malam hari, baterai mengalirkan energi listrik ke lampu. Lampu mengubah energi listrik menjadi energi cahaya dan sedikit panas.\n\nLangkah 4: Jadi urutan paling tepat adalah cahaya matahari -> listrik -> kimia dalam baterai -> cahaya lampu.\n\n**Materi terkait:**\n- Energi dapat berubah bentuk, tetapi tidak muncul dari ketiadaan.\n- Panel surya mengubah cahaya menjadi listrik.\n- Baterai menyimpan energi dalam bentuk kimia.\n- Lampu mengubah listrik menjadi cahaya dan panas.\n\nInsight kunci: Perangkat sehari-hari sering melibatkan beberapa perubahan energi sekaligus. Untuk menjawabnya, ikuti alur dari sumber energi sampai hasil akhirnya.\n\nKenapa opsi lain salah: B tidak sesuai proses panel surya. C membalik urutan. D salah karena energi tidak hilang begitu saja, melainkan berubah bentuk."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "kalor",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Tiga sendok dengan ukuran sama dimasukkan ke gelas berisi air panas selama 3 menit. Ujung sendok yang dipegang siswa terasa berbeda.\n\nData pengamatan:\n- Sendok logam: ujungnya cepat panas.\n- Sendok kayu: ujungnya tetap hangat sedikit.\n- Sendok plastik tebal: ujungnya hampir tidak panas.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Logam menghantarkan panas paling baik, sedangkan kayu dan plastik lebih bersifat isolator",
+      "Plastik tebal adalah konduktor panas terbaik karena ujungnya tidak panas.",
+      "Sebagian besar bahan menghantarkan panas sama cepat karena dicelupkan ke air yang sama.",
+      "Kayu menghantarkan panas cukup baik karena ukurannya sama dengan sendok lain."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Semua sendok memiliki ukuran sama dan dicelupkan ke air panas yang sama. Jadi perbedaan rasa panas terutama disebabkan oleh bahan sendok.\n\nLangkah 2: Ujung sendok logam cepat panas. Ini menunjukkan logam menghantarkan kalor dengan baik dari bagian yang tercelup ke bagian yang dipegang.\n\nLangkah 3: Ujung sendok kayu dan plastik tidak sepanas logam. Keduanya lebih sulit menghantarkan panas, sehingga disebut **isolator panas**.\n\nLangkah 4: Data mendukung kesimpulan bahwa logam adalah konduktor panas terbaik di antara tiga bahan tersebut.\n\n**Materi terkait:**\n- **Konduktor** adalah bahan yang mudah menghantarkan panas, misalnya logam.\n- **Isolator** adalah bahan yang sulit menghantarkan panas, misalnya kayu, plastik, dan gabus.\n- Pemilihan bahan alat dapur memanfaatkan sifat ini: panci dari logam, gagang dari kayu atau plastik tahan panas.\n\nInsight kunci: Bahan berbeda dapat memiliki sifat penghantaran panas yang berbeda. Data rasa panas pada ujung sendok membantu kita menyimpulkan sifat bahan.\n\nKenapa opsi lain salah: B terbalik karena tidak panas berarti sulit menghantarkan panas. C salah karena hasil pengamatan berbeda. D tidak masuk akal secara sains.",
+    "content": {
+      "question": "Tiga sendok dengan ukuran sama dimasukkan ke gelas berisi air panas selama 3 menit. Ujung sendok yang dipegang siswa terasa berbeda.\n\nData pengamatan:\n\nKesimpulan paling tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tiga sendok dengan ukuran sama dimasukkan ke gelas berisi air panas selama 3 menit. Ujung sendok yang dipegang siswa terasa berbeda."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sendok logam"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ujungnya cepat panas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sendok kayu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ujungnya tetap hangat sedikit."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sendok plastik tebal"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ujungnya hampir tidak panas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kesimpulan paling tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Logam menghantarkan panas paling baik, sedangkan kayu dan plastik lebih bersifat isolator",
+        "Plastik tebal adalah konduktor panas terbaik karena ujungnya tidak panas.",
+        "Sebagian besar bahan menghantarkan panas sama cepat karena dicelupkan ke air yang sama.",
+        "Kayu menghantarkan panas cukup baik karena ukurannya sama dengan sendok lain."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Logam menghantarkan panas paling baik, sedangkan kayu dan plastik lebih bersifat isolator"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Plastik tebal adalah konduktor panas terbaik karena ujungnya tidak panas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sebagian besar bahan menghantarkan panas sama cepat karena dicelupkan ke air yang sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kayu menghantarkan panas cukup baik karena ukurannya sama dengan sendok lain."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "**Jawaban: A**\n\nLangkah 1: Semua sendok memiliki ukuran sama dan dicelupkan ke air panas yang sama. Jadi perbedaan rasa panas terutama disebabkan oleh bahan sendok.\n\nLangkah 2: Ujung sendok logam cepat panas. Ini menunjukkan logam menghantarkan kalor dengan baik dari bagian yang tercelup ke bagian yang dipegang.\n\nLangkah 3: Ujung sendok kayu dan plastik tidak sepanas logam. Keduanya lebih sulit menghantarkan panas, sehingga disebut **isolator panas**.\n\nLangkah 4: Data mendukung kesimpulan bahwa logam adalah konduktor panas terbaik di antara tiga bahan tersebut.\n\n**Materi terkait:**\n- **Konduktor** adalah bahan yang mudah menghantarkan panas, misalnya logam.\n- **Isolator** adalah bahan yang sulit menghantarkan panas, misalnya kayu, plastik, dan gabus.\n- Pemilihan bahan alat dapur memanfaatkan sifat ini: panci dari logam, gagang dari kayu atau plastik tahan panas.\n\nInsight kunci: Bahan berbeda dapat memiliki sifat penghantaran panas yang berbeda. Data rasa panas pada ujung sendok membantu kita menyimpulkan sifat bahan.\n\nKenapa opsi lain salah: B terbalik karena tidak panas berarti sulit menghantarkan panas. C salah karena hasil pengamatan berbeda. D tidak masuk akal secara sains.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Semua sendok memiliki ukuran sama dan dicelupkan ke air panas yang sama. Jadi perbedaan rasa panas terutama disebabkan oleh bahan sendok."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Ujung sendok logam cepat panas. Ini menunjukkan logam menghantarkan kalor dengan baik dari bagian yang tercelup ke bagian yang dipegang."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Ujung sendok kayu dan plastik tidak sepanas logam. Keduanya lebih sulit menghantarkan panas, sehingga disebut "
+              },
+              {
+                "type": "text",
+                "text": "isolator panas",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Data mendukung kesimpulan bahwa logam adalah konduktor panas terbaik di antara tiga bahan tersebut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Konduktor",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah bahan yang mudah menghantarkan panas, misalnya logam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Isolator",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " adalah bahan yang sulit menghantarkan panas, misalnya kayu, plastik, dan gabus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Pemilihan bahan alat dapur memanfaatkan sifat ini: panci dari logam, gagang dari kayu atau plastik tahan panas."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Bahan berbeda dapat memiliki sifat penghantaran panas yang berbeda. Data rasa panas pada ujung sendok membantu kita menyimpulkan sifat bahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: B terbalik karena tidak panas berarti sulit menghantarkan panas. C salah karena hasil pengamatan berbeda. D tidak masuk akal secara sains."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "rangkaian-listrik"
+    ],
+    "is_active": true,
+    "question": "Tiga lampu kecil disusun sebagai berikut: Lampu A dan B dipasang seri dalam satu cabang. Cabang itu dipasang paralel dengan Lampu C. Jika Lampu B putus, keadaan lampu lain yang paling tepat adalah ...",
+    "options": [
+      "Lampu A dan C keduanya padam.",
+      "Lampu A tetap menyala, tetapi Lampu C padam.",
+      "Lampu A padam, tetapi Lampu C tetap menyala",
+      "Sebagian besar lampu semakin terang."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Lampu A dan B berada pada rangkaian **seri**. Pada rangkaian seri, jika satu komponen putus, jalur arus pada cabang itu terputus.\n\nLangkah 2: Ketika Lampu B putus, arus tidak dapat melewati cabang A-B. Akibatnya Lampu A ikut padam.\n\nLangkah 3: Lampu C berada pada cabang paralel yang berbeda. Cabang C masih memiliki jalur tertutup ke sumber listrik, sehingga C tetap menyala.\n\nLangkah 4: Ini menunjukkan perbedaan penting antara seri dan paralel.\n\n**Materi terkait:**\n- **Seri** berarti satu jalur; putus satu, semua komponen dalam jalur itu padam.\n- **Paralel** berarti lebih dari satu cabang; satu cabang putus, cabang lain masih bisa bekerja.\n- Rangkaian rumah umumnya memakai paralel agar alat dapat menyala secara mandiri.\n\nInsight kunci: Pada rangkaian campuran, telusuri jalur arus per cabang. Jangan langsung menyimpulkan semua padam hanya karena satu lampu putus.\n\nKenapa opsi lain salah: B salah karena C punya cabang sendiri. C salah karena A seri dengan B. D tidak sesuai karena putusnya lampu tidak membuat semua lampu terang."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Keselamatan listrik",
+    "skill_type": "concept_understanding",
+    "question_type": "direct",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "keselamatan-listrik"
+    ],
+    "is_active": true,
+    "question": "Saat melihat kabel pengisi daya ponsel terkelupas, tindakan yang paling aman adalah ...",
+    "options": [
+      "Tetap memakai kabel asal tangan kering, karena hasil pengamatan sering dikira hanya dipengaruhi besar sumber energi.",
+      "Menutup bagian terkelupas dengan kertas basah.",
+      "Menarik kabel dari stop kontak dengan memegang bagian yang terkelupas.",
+      "Menghentikan penggunaan kabel dan meminta orang dewasa menggantinya dengan kabel yang aman"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Kabel terkelupas berbahaya karena bagian penghantar listrik dapat terbuka. Jika tersentuh, risiko tersengat listrik meningkat.\n\nLangkah 2: Tindakan aman adalah berhenti memakai kabel tersebut. Anak juga perlu meminta bantuan orang dewasa karena peralatan listrik tidak boleh diperbaiki sembarangan.\n\nLangkah 3: Mengganti kabel dengan yang aman mencegah risiko korsleting, panas berlebih, atau sengatan listrik.\n\n**Materi terkait:**\n- Listrik harus dijauhkan dari air dan bagian tubuh.\n- Kabel rusak tidak boleh dipakai karena dapat menyebabkan sengatan atau korsleting.\n- Cabut colokan dengan memegang kepala colokan, bukan menarik kabelnya.\n\nInsight kunci: Keselamatan listrik dimulai dari mengenali tanda bahaya. Kabel terkelupas bukan masalah kecil, karena lapisan pelindungnya sudah tidak berfungsi baik.\n\nKenapa opsi lain salah: B tetap berisiko. C sangat berbahaya karena kertas basah menghantarkan listrik. D justru menyentuh bagian paling berbahaya."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "cahaya",
+      "modeling"
+    ],
+    "is_active": true,
+    "question": "Siswa melakukan percobaan dengan senter dan cermin datar. Sinar senter diarahkan miring ke cermin, lalu terlihat pantulan sinar menuju dinding. Ketika sudut datang dibuat lebih besar terhadap garis tegak lurus cermin, arah pantulan juga berubah dengan sudut yang sama besar.\n\nKesimpulan paling tepat adalah ...",
+    "options": [
+      "Pada cermin datar, sudut datang sama dengan sudut pantul",
+      "Cermin datar cenderung menyerap sebagian besar cahaya sehingga tidak ada pantulan.",
+      "Sudut pantul cenderung nol meskipun arah sinar datang berubah.",
+      "Cahaya hanya dapat bergerak melengkung saat mengenai cermin."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Cermin datar memantulkan cahaya. Karena itu sinar dari senter dapat berubah arah dan terlihat menuju dinding.\n\nLangkah 2: Percobaan menyebut ketika sudut datang diperbesar, sudut pantul juga berubah dengan besar yang sama. Ini menunjukkan hubungan teratur antara sinar datang dan sinar pantul.\n\nLangkah 3: Hukum pemantulan menyatakan **sudut datang sama dengan sudut pantul**, diukur terhadap garis normal atau garis tegak lurus permukaan cermin.\n\nLangkah 4: Kesimpulan ini menjelaskan mengapa posisi senter dan cermin dapat digunakan untuk mengarahkan cahaya.\n\nLangkah 5: Jawaban A paling tepat karena sesuai bukti percobaan dan konsep pemantulan cahaya.\n\n**Materi terkait:**\n- **Pemantulan cahaya** terjadi ketika cahaya mengenai permukaan dan kembali ke medium semula.\n- Pada permukaan halus seperti cermin, pantulan lebih teratur.\n- Garis normal adalah garis khayal yang tegak lurus permukaan cermin di titik datang cahaya.\n\nInsight kunci: Cahaya dapat dimodelkan sebagai sinar lurus. Dengan model ini, arah pantulan dapat diprediksi menggunakan hubungan sudut datang dan sudut pantul.\n\nKenapa opsi lain salah: B salah karena cermin memantulkan banyak cahaya. C salah karena sudut pantul mengikuti sudut datang. D salah karena cahaya dalam percobaan sederhana dimodelkan bergerak lurus."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "perubahan-zat"
+    ],
+    "is_active": true,
+    "question": "Empat peristiwa diamati di rumah:\n\n1. Air membeku menjadi es.\n2. Besi berkarat setelah lama terkena air dan udara.\n3. Kertas dipotong menjadi beberapa bagian.\n4. Roti dipanggang sampai berubah warna dan berbau harum.\n\nPeristiwa yang termasuk **perubahan kimia** adalah ...",
+    "options": [
+      "1 dan 3.",
+      "1, 2, dan 3.",
+      "2 dan 4",
+      "Sebagian besar peristiwa termasuk perubahan kimia."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Perubahan fisika hanya mengubah wujud, bentuk, atau ukuran, tanpa menghasilkan zat baru. Air membeku menjadi es masih tetap $H_2O$, sehingga termasuk perubahan fisika.\n\nLangkah 2: Kertas dipotong hanya berubah ukuran dan bentuk. Zat penyusun kertas tidak berubah menjadi zat baru, jadi ini juga perubahan fisika.\n\nLangkah 3: Besi berkarat menghasilkan zat baru, yaitu karat. Roti dipanggang juga mengalami perubahan warna, aroma, dan sifat karena reaksi kimia saat dipanaskan.\n\nLangkah 4: Jadi perubahan kimia adalah nomor 2 dan 4.\n\n**Materi terkait:**\n- **Perubahan fisika** tidak menghasilkan zat baru, contohnya mencair, membeku, melarut, atau memotong.\n- **Perubahan kimia** menghasilkan zat baru, contohnya pembakaran, pembusukan, perkaratan, dan memasak telur.\n- Tanda perubahan kimia dapat berupa warna baru, bau baru, gas, endapan, panas, atau sulit kembali seperti semula.\n\nInsight kunci: Jangan terkecoh oleh perubahan yang terlihat besar. Kertas dipotong tampak berubah, tetapi zatnya tetap kertas. Karat dan roti panggang menunjukkan zat baru atau sifat baru.\n\nKenapa opsi lain salah: A hanya perubahan fisika. C mencampur fisika dan kimia. D salah karena tidak semua peristiwa menghasilkan zat baru."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Larutan & pemisahan campuran",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "pemisahan-campuran"
+    ],
+    "is_active": true,
+    "question": "Seorang siswa memiliki campuran air, serbuk kopi, dan garam. Serbuk kopi tidak larut, sedangkan garam larut dalam air. Ia ingin mendapatkan serbuk kopi dan garam kembali secara terpisah.\n\nUrutan metode pemisahan yang paling tepat adalah ...",
+    "options": [
+      "Menguapkan campuran lebih dulu, lalu menyaring uap air.",
+      "Menyaring campuran untuk memisahkan serbuk kopi, lalu menguapkan filtrat untuk mendapatkan garam",
+      "Mengaduk campuran lebih lama agar serbuk kopi larut sebagian dan ikut terbawa bersama air garam, karena proses pemisahan dilihat dari ukuran benda saja, bukan kelarutan.",
+      "Mendinginkan campuran agar serbuk kopi larut sempurna."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Serbuk kopi tidak larut dalam air. Bahan yang tidak larut dapat dipisahkan dengan **penyaringan** karena partikelnya tertahan di kertas saring.\n\nLangkah 2: Garam larut dalam air, sehingga tidak tertahan oleh saringan biasa. Garam akan ikut dalam filtrat bersama air.\n\nLangkah 3: Untuk mendapatkan garam dari larutan garam, air perlu diuapkan. Setelah air menguap, kristal garam tertinggal.\n\nLangkah 4: Jadi urutan yang tepat adalah saring dahulu, lalu uapkan filtrat.\n\n**Materi terkait:**\n- **Filtrasi** memisahkan zat tidak larut dari cairan.\n- **Evaporasi** memisahkan zat terlarut dari pelarutnya dengan menguapkan pelarut.\n- Metode pemisahan campuran dipilih berdasarkan sifat zat, seperti kelarutan, ukuran partikel, atau titik didih.\n\nInsight kunci: Dalam pemisahan campuran, urutan langkah sangat penting. Pisahkan zat yang tidak larut terlebih dahulu, lalu tangani zat yang larut.\n\nKenapa opsi lain salah: B tidak memisahkan kopi dengan baik. C tidak mungkin secara sains. D tidak membuat kopi larut sempurna atau memisahkan garam."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Asam basa & pH",
+    "skill_type": "experiment_interpretation",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "asam-basa",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Empat larutan diuji dengan kertas lakmus.\n\nData pengamatan:\n- Larutan P mengubah lakmus biru menjadi merah.\n- Larutan Q mengubah lakmus merah menjadi biru.\n- Larutan R tidak mengubah lakmus merah maupun biru.\n- Larutan S mengubah lakmus biru menjadi merah.\n\nJika siswa ingin memilih larutan yang bersifat **basa**, larutan yang tepat adalah ...",
+    "options": [
+      "P saja.",
+      "R saja.",
+      "Q saja",
+      "P dan S, karena keduanya sama-sama mengubah warna lakmus biru sehingga sering tertukar dengan ciri basa."
+    ],
+    "answer": 2,
+    "rationale": "**Jawaban: B**\n\nLangkah 1: Ingat aturan lakmus. Larutan **asam** mengubah lakmus biru menjadi merah, sedangkan larutan **basa** mengubah lakmus merah menjadi biru.\n\nLangkah 2: Larutan P dan S mengubah lakmus biru menjadi merah. Keduanya bersifat asam, bukan basa.\n\nLangkah 3: Larutan R tidak mengubah kedua lakmus. Ini menunjukkan R netral atau mendekati netral pada level pengamatan sederhana.\n\nLangkah 4: Larutan Q mengubah lakmus merah menjadi biru. Ini adalah ciri basa.\n\nLangkah 5: Jadi larutan yang bersifat basa adalah Q saja.\n\n**Materi terkait:**\n- **Asam** memiliki pH kurang dari 7 dan mengubah lakmus biru menjadi merah.\n- **Basa** memiliki pH lebih dari 7 dan mengubah lakmus merah menjadi biru.\n- **Netral** seperti air murni tidak mengubah warna lakmus merah maupun biru.\n- Indikator membantu mengenali sifat larutan tanpa mencicipinya. Dalam sains, larutan tidak boleh dicicipi sembarangan.\n\nInsight kunci: Jangan menghafal warna awal saja; perhatikan perubahan warna. Arah perubahan lakmus memberi petunjuk sifat larutan.\n\nKenapa opsi lain salah: P dan S adalah asam. R tidak menunjukkan sifat basa pada data. Hanya Q yang mengubah lakmus merah menjadi biru.",
+    "content": {
+      "question": "Empat larutan diuji dengan kertas lakmus.\n\nData pengamatan:\n\nJika siswa ingin memilih larutan yang bersifat **basa**, larutan yang tepat adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Empat larutan diuji dengan kertas lakmus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Data pengamatan:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Objek/Kondisi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Data/Pengamatan"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan P"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mengubah lakmus biru menjadi merah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan Q"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mengubah lakmus merah menjadi biru."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan R"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "tidak mengubah lakmus merah maupun biru."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Larutan S"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "mengubah lakmus biru menjadi merah."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jika siswa ingin memilih larutan yang bersifat "
+              },
+              {
+                "type": "text",
+                "text": "basa",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", larutan yang tepat adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "P saja.",
+        "R saja.",
+        "Q saja",
+        "P dan S, karena keduanya sama-sama mengubah warna lakmus biru sehingga sering tertukar dengan ciri basa."
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "R saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Q saja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "P dan S, karena keduanya sama-sama mengubah warna lakmus biru sehingga sering tertukar dengan ciri basa."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 2,
+      "rationale": "**Jawaban: B**\n\nLangkah 1: Ingat aturan lakmus. Larutan **asam** mengubah lakmus biru menjadi merah, sedangkan larutan **basa** mengubah lakmus merah menjadi biru.\n\nLangkah 2: Larutan P dan S mengubah lakmus biru menjadi merah. Keduanya bersifat asam, bukan basa.\n\nLangkah 3: Larutan R tidak mengubah kedua lakmus. Ini menunjukkan R netral atau mendekati netral pada level pengamatan sederhana.\n\nLangkah 4: Larutan Q mengubah lakmus merah menjadi biru. Ini adalah ciri basa.\n\nLangkah 5: Jadi larutan yang bersifat basa adalah Q saja.\n\n**Materi terkait:**\n- **Asam** memiliki pH kurang dari 7 dan mengubah lakmus biru menjadi merah.\n- **Basa** memiliki pH lebih dari 7 dan mengubah lakmus merah menjadi biru.\n- **Netral** seperti air murni tidak mengubah warna lakmus merah maupun biru.\n- Indikator membantu mengenali sifat larutan tanpa mencicipinya. Dalam sains, larutan tidak boleh dicicipi sembarangan.\n\nInsight kunci: Jangan menghafal warna awal saja; perhatikan perubahan warna. Arah perubahan lakmus memberi petunjuk sifat larutan.\n\nKenapa opsi lain salah: P dan S adalah asam. R tidak menunjukkan sifat basa pada data. Hanya Q yang mengubah lakmus merah menjadi biru.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jawaban: B",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Ingat aturan lakmus. Larutan "
+              },
+              {
+                "type": "text",
+                "text": "asam",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " mengubah lakmus biru menjadi merah, sedangkan larutan "
+              },
+              {
+                "type": "text",
+                "text": "basa",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " mengubah lakmus merah menjadi biru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 2: Larutan P dan S mengubah lakmus biru menjadi merah. Keduanya bersifat asam, bukan basa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 3: Larutan R tidak mengubah kedua lakmus. Ini menunjukkan R netral atau mendekati netral pada level pengamatan sederhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 4: Larutan Q mengubah lakmus merah menjadi biru. Ini adalah ciri basa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 5: Jadi larutan yang bersifat basa adalah Q saja."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Asam",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " memiliki pH kurang dari 7 dan mengubah lakmus biru menjadi merah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Basa",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " memiliki pH lebih dari 7 dan mengubah lakmus merah menjadi biru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Netral",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " seperti air murni tidak mengubah warna lakmus merah maupun biru."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- Indikator membantu mengenali sifat larutan tanpa mencicipinya. Dalam sains, larutan tidak boleh dicicipi sembarangan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Jangan menghafal warna awal saja; perhatikan perubahan warna. Arah perubahan lakmus memberi petunjuk sifat larutan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kenapa opsi lain salah: P dan S adalah asam. R tidak menunjukkan sifat basa pada data. Hanya Q yang mengubah lakmus merah menjadi biru."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "bumi"
+    ],
+    "is_active": true,
+    "question": "Saat Indonesia mengalami siang hari, sebagian wilayah di sisi lain Bumi mengalami malam hari. Beberapa jam kemudian, wilayah yang tadinya siang akan mengalami sore dan malam.\n\nFenomena tersebut terutama terjadi karena ...",
+    "options": [
+      "Bumi berotasi pada porosnya sehingga bagian yang menghadap Matahari mengalami siang dan bagian yang membelakangi Matahari mengalami malam",
+      "Matahari tampak bergerak mengelilingi Bumi setiap 24 jam sehingga siang dan malam berganti.",
+      "Bulan berada di sisi Bumi yang gelap setiap malam sehingga sebagian cahaya Matahari tertutup.",
+      "Bumi berhenti bergerak ketika malam tiba, karena peristiwa alam sering dikira hanya dipengaruhi kondisi yang tampak saat itu."
+    ],
+    "answer": 0,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Siang terjadi pada bagian Bumi yang menghadap Matahari. Malam terjadi pada bagian Bumi yang membelakangi Matahari.\n\nLangkah 2: Bumi berputar pada porosnya, disebut **rotasi**. Satu putaran memerlukan sekitar 24 jam.\n\nLangkah 3: Karena rotasi, wilayah yang semula menghadap Matahari perlahan berputar menjauh dari Matahari, sehingga mengalami sore dan malam.\n\nLangkah 4: Jadi siang dan malam dijelaskan oleh rotasi Bumi, bukan karena Matahari mengelilingi Bumi.\n\n**Materi terkait:**\n- **Rotasi Bumi** menyebabkan siang dan malam.\n- **Revolusi Bumi** adalah gerak Bumi mengelilingi Matahari dan berkaitan dengan perubahan tahunan.\n- Model bola dan senter dapat membantu memahami bagian terang dan gelap Bumi.\n\nInsight kunci: Siang dan malam bukan karena Matahari padam atau bergerak mengitari kita. Bumi yang berputar membuat bagian permukaannya bergantian menerima cahaya Matahari.\n\nKenapa opsi lain salah: B adalah model lama yang tidak tepat. C salah karena Bulan tidak menutup seluruh Bumi setiap malam. D salah karena Bumi terus bergerak."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Cuaca & iklim",
+    "skill_type": "reasoning",
+    "question_type": "data_interpretation",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "cuaca-iklim",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Perhatikan dua pernyataan berikut:\n\n1. Hari ini pukul 14.00, langit di Bandung mendung dan hujan turun selama 30 menit.\n2. Selama puluhan tahun, wilayah Indonesia umumnya memiliki suhu hangat dan pola musim hujan serta kemarau.\n\nPasangan konsep yang tepat adalah ...",
+    "options": [
+      "Pernyataan 1 adalah iklim, pernyataan 2 adalah cuaca.",
+      "Keduanya cuaca karena sama-sama menyebut udara.",
+      "Keduanya iklim karena sama-sama terjadi di Bumi.",
+      "Pernyataan 1 adalah cuaca, pernyataan 2 adalah iklim"
+    ],
+    "answer": 3,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Pernyataan 1 membahas keadaan udara pada waktu dan tempat tertentu, yaitu hari ini pukul 14.00 di Bandung. Ini adalah **cuaca**.\n\nLangkah 2: Pernyataan 2 membahas pola selama puluhan tahun. Pola jangka panjang seperti suhu umum dan musim termasuk **iklim**.\n\nLangkah 3: Perbedaan utama cuaca dan iklim adalah skala waktu. Cuaca pendek, iklim panjang.\n\nLangkah 4: Jadi pasangan yang tepat adalah pernyataan 1 cuaca dan pernyataan 2 iklim.\n\n**Materi terkait:**\n- **Cuaca** adalah kondisi atmosfer dalam waktu pendek, misalnya cerah, hujan, berawan, atau berangin hari ini.\n- **Iklim** adalah pola rata-rata cuaca dalam waktu lama.\n- Data cuaca berubah cepat, sedangkan iklim dibaca dari pola banyak tahun.\n\nInsight kunci: Jika soal menyebut hari, jam, atau kejadian singkat, pikirkan cuaca. Jika soal menyebut kebiasaan wilayah selama bertahun-tahun, pikirkan iklim.\n\nKenapa opsi lain salah: B tertukar. C dan D terlalu umum dan tidak memperhatikan skala waktu."
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Sumber daya alam & kelestarian",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ipa-level-2-speed-f",
+      "sda",
+      "sebab-akibat"
+    ],
+    "is_active": true,
+    "question": "Bacalah kasus berikut:\n\nSebuah sekolah memakai banyak lampu dan kipas angin sepanjang hari, bahkan saat kelas kosong. Sekolah itu ingin menghemat energi tanpa mengganggu kegiatan belajar. Siswa mengusulkan beberapa tindakan: mematikan lampu saat cahaya matahari cukup, mematikan kipas di kelas kosong, memperbaiki ventilasi, dan membuat jadwal piket pengecekan listrik.\n\nMengapa usulan tersebut tepat?",
+    "options": [
+      "Karena sebagian alat listrik perlu dimatikan sepanjang hari agar pemakaian energi turun drastis.",
+      "Karena mengurangi pemakaian energi yang tidak perlu tanpa menghilangkan kebutuhan belajar di kelas",
+      "Karena kipas angin tidak menggunakan energi listrik.",
+      "Karena cahaya matahari cenderung cukup sepanjang hari dan di sebagian besar ruangan."
+    ],
+    "answer": 1,
+    "rationale": "**Jawaban: A**\n\nLangkah 1: Masalah utama adalah energi dipakai saat tidak diperlukan, misalnya lampu dan kipas menyala di kelas kosong. Ini termasuk pemborosan energi.\n\nLangkah 2: Usulan siswa tidak menghilangkan semua penggunaan listrik. Mereka hanya mengurangi penggunaan yang tidak perlu, seperti mematikan alat saat ruangan kosong.\n\nLangkah 3: Memanfaatkan cahaya matahari dan ventilasi membantu mengurangi kebutuhan lampu dan kipas pada kondisi tertentu. Jadwal piket membuat kebiasaan hemat energi lebih teratur.\n\nLangkah 4: Solusi ini tetap menjaga kegiatan belajar karena listrik masih digunakan saat benar-benar dibutuhkan.\n\nLangkah 5: Jadi usulan tersebut tepat karena seimbang antara penghematan energi dan kebutuhan manusia.\n\n**Materi terkait:**\n- Energi listrik banyak dihasilkan dari sumber daya alam, sebagian tidak terbarukan seperti batu bara atau gas.\n- **Hemat energi** mengurangi pemborosan dan membantu menjaga lingkungan.\n- Tindakan hemat energi yang baik harus realistis, aman, dan dapat dilakukan rutin.\n\nInsight kunci: Menghemat energi bukan berarti berhenti memakai energi sama sekali. Hemat energi berarti memakai energi sesuai kebutuhan dan menghindari pemborosan.\n\nKenapa opsi lain salah: B terlalu ekstrem. C salah karena kipas memakai listrik. D salah karena cahaya matahari tidak selalu cukup untuk semua ruangan dan waktu."
+  }
+]

@@ -1,0 +1,1733 @@
+[
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Peta & denah",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Rendi membuka atlas di perpustakaan. Di sudut kiri bawah peta topografi Indonesia, ia menemukan sebuah kotak kecil berisi daftar simbol beserta artinya, seperti:\n\n- Garis biru berkelok = sungai\n- Segitiga hitam = puncak gunung\n- Garis merah tebal = jalan raya nasional\n- Garis putus-putus = batas wilayah\n\nKotak kecil berisi daftar simbol dan penjelasannya pada peta tersebut disebut ...",
+    "options": [
+      "Skala peta",
+      "Arah mata angin (kompas)",
+      "Judul peta",
+      "Legenda atau keterangan peta"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Perhatikan deskripsi kotak kecil tersebut — berisi **daftar simbol** (gambar/garis/warna) beserta **artinya**. Tanpa kotak ini, pembaca peta tidak akan tahu apa arti simbol-simbol di peta.\nLangkah 2: Fungsi ini persis milik **legenda** (atau disebut juga *keterangan peta*). Legenda adalah 'kunci' untuk membaca peta — ia menjelaskan arti semua simbol, warna, dan garis yang digunakan.\nLangkah 3: Bandingkan dengan komponen peta lainnya:\n- **Skala**: menunjukkan perbandingan jarak di peta dengan jarak sebenarnya (misal 1:500.000)\n- **Arah mata angin**: menunjukkan arah utara, selatan, timur, barat\n- **Judul peta**: menyebutkan nama/tema peta (misal: 'Peta Topografi Pulau Jawa')\nLangkah 4: Kotak kecil berisi simbol = **legenda/keterangan** → jawaban D.\n\n**Materi terkait:**\n- Setiap peta yang baik harus memiliki **enam komponen utama**: judul, skala, legenda, arah mata angin, garis koordinat, dan sumber/tahun pembuatan. Komponen-komponen ini memungkinkan pembaca menafsirkan peta dengan benar.\n- **Simbol peta** dibagi menjadi: simbol titik (kota, gunung), simbol garis (sungai, jalan, batas wilayah), dan simbol area/warna (wilayah hutan hijau, laut biru, sawah kuning).\n- **Peta topografi** secara khusus menampilkan ketinggian dan bentuk permukaan bumi menggunakan garis kontur — garis yang menghubungkan titik-titik dengan ketinggian yang sama. Semakin rapat garis kontur, semakin curam lerengnya.\n\nInsight kunci: Membaca peta adalah keterampilan yang membutuhkan pemahaman tentang **konvensi simbol** — dan legenda adalah panduan konvensi itu. Dua orang dengan peta yang sama bisa menafsirkan secara berbeda jika tidak ada legenda yang jelas.\nJawaban akhir: **Legenda atau keterangan peta**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Geografi",
+    "subtopic": "Interaksi ruang",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Di Desa Sariasih, setiap tahun puluhan pemuda usia produktif pergi ke kota untuk bekerja di pabrik atau berdagang. Proses perpindahan penduduk dari desa ke kota ini disebut **urbanisasi**. Akibatnya, sawah-sawah di Desa Sariasih semakin banyak yang tidak tergarap karena tidak ada tenaga kerja muda yang mau menjadi petani. Kepala desa mencatat bahwa dalam 10 tahun terakhir, luas lahan pertanian yang aktif berkurang 30%.\"*\n\nDampak yang **paling serius** dari urbanisasi bagi Desa Sariasih berdasarkan informasi di atas adalah ...",
+    "options": [
+      "Berkurangnya tenaga kerja muda menyebabkan lahan pertanian terlantar, produktivitas pangan desa menurun, dan desa semakin bergantung pada pasokan dari luar",
+      "Desa semakin sepi dan tenang, sehingga warga yang tinggal bisa beristirahat lebih banyak",
+      "Pemuda yang pergi ke kota pasti akan kembali dengan membawa uang banyak sehingga desa akan menjadi lebih kaya, sehingga potensi wilayah dianggap dapat dimanfaatkan tanpa mempertimbangkan risiko dan daya dukung lingkungan",
+      "Tidak ada dampak negatif karena pekerjaan di kota lebih layak dan lebih berpenghasilan dari bertani"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Identifikasi fakta kunci dari teks: (1) pemuda pergi ke kota, (2) sawah banyak tidak tergarap, (3) luas lahan aktif berkurang 30% dalam 10 tahun. Teks secara eksplisit menghubungkan kepergian pemuda dengan terbengkalainya lahan pertanian.\nLangkah 2: Telusuri rantai dampak. Berkurangnya tenaga kerja pertanian → sawah terlantar → produksi pangan desa menurun → desa harus membeli kebutuhan pangan dari luar → ketergantungan dan kerentanan ekonomi desa meningkat.\nLangkah 3: Evaluasi pilihan B: desa yang sepi bukan dampak *serius* — bahkan cenderung netral. Pilihan C: tidak semua yang pergi ke kota berhasil, dan uang yang kembali tidak selalu menggantikan hilangnya tenaga kerja produktif di pertanian. Pilihan D: mengabaikan fakta yang sudah disebutkan teks tentang lahan terlantar.\nLangkah 4: Pilihan A paling lengkap dan konsisten dengan data di teks.\n\n**Materi terkait:**\n- **Urbanisasi** adalah perpindahan penduduk dari desa ke kota. Faktor penarik: upah lebih tinggi, fasilitas lengkap, peluang kerja. Faktor pendorong: lahan sempit, penghasilan pertanian rendah, fasilitas terbatas.\n- **Dampak urbanisasi bagi desa**: kekurangan tenaga kerja, sawah terlantar, penuaan penduduk desa (yang tinggal adalah lansia), menurunnya produksi pertanian.\n- **Dampak urbanisasi bagi kota**: kepadatan penduduk, kemacetan, permukiman kumuh, tekanan pada infrastruktur dan lapangan kerja kota.\n- **Interaksi desa-kota**: dalam kondisi ideal, desa memasok pangan dan tenaga kerja ke kota, kota mengirim modal, teknologi, dan barang ke desa. Urbanisasi yang tidak terkendali mengganggu keseimbangan ini.\n\nInsight kunci: Urbanisasi adalah fenomena **dua sisi**: menguntungkan bagi yang pindah ke kota, tetapi berpotensi melemahkan desa asal. Kebijakan yang baik harus menciptakan alternatif — membuat desa lebih menarik agar pemuda tidak semua pergi (misalnya melalui pertanian modern dan agroindustri di desa).\nKenapa opsi lain salah: B menyebut dampak positif kecil yang tidak relevan dengan konteks; C adalah asumsi optimis yang tidak didukung data; D mengabaikan fakta lahan terlantar yang disebutkan teks.\nJawaban akhir: **Lahan pertanian terlantar, produktivitas pangan menurun, ketergantungan pada pasokan luar meningkat**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Geografi",
+    "subtopic": "Kondisi geografis Indonesia",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Indonesia terletak di antara dua benua besar (Asia dan Australia) dan di antara dua samudra besar (Samudra Hindia dan Samudra Pasifik). Posisi ini menjadikan Indonesia sebagai titik persilangan yang sangat strategis di dunia.\n\nPositif Indonesia yang terletak **di antara dua benua dan dua samudra** tersebut disebut letak ...",
+    "options": [
+      "Astronomis, yaitu letak berdasarkan garis lintang dan garis bujur",
+      "Geografis, yaitu letak berdasarkan posisi nyata suatu wilayah terhadap wilayah lain di sekitarnya",
+      "Geologis, yaitu letak berdasarkan struktur batuan dan lempeng tektonik",
+      "Topografis, yaitu letak berdasarkan keadaan tinggi rendahnya permukaan bumi, sehingga hubungan antarruang dianggap tidak dipengaruhi jarak, transportasi, atau keadaan alam"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Perhatikan apa yang disebutkan dalam soal: Indonesia berada *di antara dua benua dan dua samudra*. Ini adalah deskripsi posisi berdasarkan wilayah/fitur alam di sekitarnya.\nLangkah 2: Cocokkan dengan definisi masing-masing jenis letak:\n- **Astronomis**: berdasarkan koordinat lintang dan bujur (misal: 6°LU–11°LS dan 95°BT–141°BT)\n- **Geografis**: berdasarkan posisi relatif terhadap benua, samudra, dan wilayah lain → ini yang cocok\n- **Geologis**: berdasarkan susunan batuan dan lempeng bumi (bukan benua/samudra)\n- **Topografis**: berdasarkan relief/tinggi rendah permukaan (gunung, dataran, lembah)\nLangkah 3: Posisi di antara dua benua dan dua samudra = ciri khas **letak geografis**.\n\n**Materi terkait:**\n- **Letak astronomis** Indonesia: 6° LU – 11° LS (garis lintang) dan 95° BT – 141° BT (garis bujur). Ini menentukan iklim tropis dan pembagian zona waktu (WIB, WITA, WIT).\n- **Letak geografis** Indonesia yang strategis memberi banyak keuntungan: (1) jalur perdagangan internasional melewati Indonesia, (2) keanekaragaman pengaruh budaya dari India, Tiongkok, Arab, dan Eropa, (3) Indonesia menjadi titik pertemuan arus penumpang dan barang dunia.\n- **Letak geologis** Indonesia berada di pertemuan tiga lempeng tektonik (Lempeng Eurasia, Indo-Australia, dan Pasifik) — ini menyebabkan Indonesia kaya gunung berapi dan sering mengalami gempa bumi.\n\nInsight kunci: Memahami **jenis-jenis letak** adalah dasar geografi Indonesia. Setiap jenis letak menjelaskan aspek yang berbeda: astronomis = iklim & waktu, geografis = posisi strategis, geologis = bencana & kekayaan mineral, topografis = bentuk medan.\nJawaban akhir: **Letak geografis** — posisi di antara dua benua dan dua samudra."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Geografi",
+    "subtopic": "Lingkungan hidup & sumber daya",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Kawasan Hutan Lereng Hijau selama puluhan tahun berfungsi sebagai 'spons alami' — akar pohon menyerap air hujan dan melepasnya perlahan ke sungai di bawahnya. Dalam 15 tahun terakhir, hutan itu dibuka secara besar-besaran untuk perkebunan kelapa sawit. Kini, setiap musim hujan, Sungai Brantas yang mengaliri daerah pertanian di hilir meluap lebih sering dan lebih deras dari sebelumnya. Petani di hilir mengalami kerugian panen setiap tahun akibat banjir.\"*\n\nRantai sebab-akibat yang paling tepat menjelaskan mengapa banjir di hilir semakin sering dan deras adalah ...",
+    "options": [
+      "Curah hujan meningkat drastis setiap tahun akibat perubahan iklim global yang tidak bisa dikendalikan",
+      "Petani di hilir membuang sampah ke sungai sehingga aliran air tersumbat dan sungai meluap",
+      "Hilangnya pohon di lereng menghilangkan fungsi penyerapan air hujan → air langsung mengalir deras ke sungai tanpa tersaring dan disimpan → volume sungai melonjak tiba-tiba → banjir di hilir semakin parah",
+      "Perkebunan sawit menggunakan terlalu banyak air untuk irigasi sehingga kelebihan air dibuang ke sungai sekaligus, karena perubahan lingkungan dianggap tidak berkaitan dengan aktivitas manusia dan penggunaan lahan"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi perubahan yang terjadi: hutan (penyerap air) diganti perkebunan sawit. Identifikasi dampak yang dikeluhkan: banjir di hilir semakin sering dan deras.\nLangkah 2: Pahami fungsi hutan sebagai 'spons alami'. Ketika hujan turun di hutan:\n- Kanopi pohon memperlambat jatuhnya air hujan\n- Akar pohon membuat tanah porous (banyak pori) → menyerap air dengan cepat\n- Air tersimpan di dalam tanah dan dilepas perlahan ke sungai dan mata air\nLangkah 3: Apa yang terjadi ketika hutan diganti kelapa sawit? Akar pohon-pohon besar hilang → tanah menjadi lebih padat → kemampuan serap air menurun drastis → ketika hujan turun, air mengalir di permukaan (*surface runoff*) langsung ke sungai tanpa diserap.\nLangkah 4: Konsekuensi: volume air yang masuk ke sungai meningkat tajam dalam waktu singkat setelah hujan → debit sungai melonjak → sungai meluap → banjir di hilir.\nLangkah 5: Evaluasi pilihan A. Perubahan iklim memang nyata, tetapi teks tidak menyebut peningkatan curah hujan — justru mengisyaratkan bahwa frekuensi banjir berubah sejak hutan dibuka. Menghubungkan ke perubahan iklim tanpa data adalah terlalu jauh dari informasi yang diberikan.\nLangkah 6: Jebakan pilihan D: sawit memang butuh air, tapi tidak menghasilkan 'kelebihan air' yang dibuang ke sungai — ini miskonsepsi.\n\n**Materi terkait:**\n- **Daerah Aliran Sungai (DAS)**: wilayah yang air hujannya mengalir ke satu sungai. Kondisi DAS hulu (termasuk hutan) sangat menentukan kondisi sungai dan daerah hilir.\n- **Fungsi hutan**: (1) menyerap air hujan dan mengisi air tanah, (2) mencegah erosi tanah, (3) menyimpan karbon, (4) habitat keanekaragaman hayati, (5) mengatur iklim mikro.\n- **Banjir akibat deforestasi** adalah contoh nyata **eksternalitas negatif**: pemilik perkebunan di hulu mendapat keuntungan dari membuka hutan, tetapi biaya (banjir) ditanggung oleh petani di hilir yang tidak terlibat keputusan itu.\n- **Rekayasa solusi**: reboisasi dan agroforestri (memadukan tanaman produktif dengan pohon hutan) adalah cara menjaga fungsi hidrologi sekaligus tetap memanfaatkan lahan.\n\nInsight kunci: **Hutan adalah infrastruktur alam yang sering tidak terlihat harganya** — sampai ia hilang dan banjir datang. Memahami rantai sebab-akibat ekologis mengajarkan kita untuk selalu memikirkan dampak tidak langsung dari perubahan lingkungan.\nKenapa opsi lain salah: A tidak didukung data dalam teks; B menyalahkan pihak yang salah (petani hilir yang justru jadi korban); D adalah miskonsepsi tentang cara kerja perkebunan sawit.\nJawaban akhir: **Hilangnya hutan penyerap air → air hujan langsung mengalir ke sungai → debit melonjak → banjir di hilir**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sejarah",
+    "subtopic": "Sejarah Indonesia",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"Kerajaan Majapahit mencapai puncak kejayaannya pada masa Raja Hayam Wuruk (1350–1389 M) dengan Mahapatih Gajah Mada sebagai tangan kanannya. Gajah Mada mengucapkan Sumpah Palapa: ia tidak akan menikmati kenikmatan (palapa) sebelum berhasil menyatukan seluruh Nusantara di bawah kekuasaan Majapahit. Wilayah kekuasaan Majapahit pada puncaknya meliputi hampir seluruh kepulauan yang kini menjadi wilayah Indonesia, plus sebagian Semenanjung Malaka.\"*\n\nMakna penting Sumpah Palapa dalam sejarah Indonesia adalah ...",
+    "options": [
+      "Merupakan janji Gajah Mada untuk tidak pernah makan nasi selama ia menjabat sebagai Mahapatih Majapahit",
+      "Menunjukkan bahwa Gajah Mada adalah raja terkuat di Asia Tenggara karena berhasil menaklukkan banyak wilayah, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya",
+      "Merupakan cita-cita menyatukan Nusantara yang menunjukkan kesadaran awal tentang wilayah kepulauan sebagai satu kesatuan — dan dianggap sebagai inspirasi awal semangat persatuan bangsa Indonesia",
+      "Merupakan perjanjian damai antara Majapahit dan kerajaan-kerajaan di Nusantara agar tidak saling menyerang"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pahami isi Sumpah Palapa dari teks: Gajah Mada bersumpah tidak akan menikmati kenikmatan sebelum **menyatukan Nusantara** di bawah Majapahit. Kata kunci: *menyatukan Nusantara*.\nLangkah 2: Makna historis: pada abad ke-14, wilayah yang kini disebut Indonesia terdiri dari puluhan kerajaan yang terpisah. Sumpah Palapa adalah pernyataan cita-cita **persatuan nusantara** pertama yang tercatat dalam sejarah — bahwa kepulauan ini adalah satu kesatuan yang harus dipersatukan.\nLangkah 3: Relevansi untuk Indonesia modern: para pendiri bangsa Indonesia mengakui Majapahit sebagai salah satu **inspirasi konsep persatuan Indonesia** — bahwa wilayah yang luas dan beragam ini bisa dan harus bersatu. Ini tercermin dalam semboyan 'Bhinneka Tunggal Ika' yang juga berasal dari era Majapahit (dari Kitab Sutasoma).\nLangkah 4: Jebakan pilihan B: 'palapa' memang berhubungan dengan kenikmatan, tapi bukan berarti janji tidak makan nasi. 'Tidak menikmati palapa' = tidak menikmati kelezatan/kesenangan hidup sampai tugasnya selesai.\n\n**Materi terkait:**\n- **Sumpah Palapa** diucapkan Gajah Mada pada tahun 1331 saat dilantik menjadi Mahapatih. Teks lengkapnya ada dalam Kitab Pararaton.\n- **Bhinneka Tunggal Ika** ('Berbeda-beda tetapi tetap satu') berasal dari Kitab Sutasoma karya Mpu Tantular dari era Majapahit — kini menjadi semboyan bangsa Indonesia.\n- **Kerajaan Majapahit** (1293–sekitar 1527): kerajaan Hindu-Buddha terbesar di Nusantara. Selain Gajah Mada, tokoh penting lainnya adalah Hayam Wuruk (raja), Tribhuwana Tunggadewi (ratu), dan Mpu Tantular (pujangga).\n- Majapahit runtuh sekitar abad ke-16 akibat perang saudara dan penyebaran Islam yang menggeser pusat kekuasaan.\n\nInsight kunci: Sumpah Palapa mengajarkan bahwa **cita-cita besar membutuhkan komitmen dan pengorbanan** (Gajah Mada rela mengorbankan kenyamanan pribadi). Lebih dari itu, cita-cita persatuan Nusantara yang ada 700 tahun lalu menjadi salah satu fondasi semangat persatuan Indonesia modern.\nJawaban akhir: **Cita-cita menyatukan Nusantara — inspirasi awal semangat persatuan bangsa Indonesia**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Kronologi peristiwa",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel kronologi peristiwa Indonesia:\n\n| Periode | Peristiwa |\n|---|---|\n| 1966 | Dimulainya Orde Baru di bawah kepemimpinan Soeharto |\n| 1983–1996 | Pertumbuhan ekonomi rata-rata 7% per tahun; pembangunan infrastruktur pesat |\n| 1997–1998 | Krisis moneter Asia: nilai rupiah jatuh drastis, harga kebutuhan pokok melonjak, banyak perusahaan bangkrut dan PHK besar-besaran |\n| Mei 1998 | Demonstrasi besar-besaran mahasiswa di seluruh Indonesia; Soeharto mengundurkan diri; dimulainya Era Reformasi |\n\nBerdasarkan kronologi, faktor yang paling **langsung** memicu jatuhnya Orde Baru pada 1998 adalah ...",
+    "options": [
+      "Soeharto sudah sangat tua dan secara sukarela ingin pensiun setelah memimpin selama 32 tahun",
+      "Krisis ekonomi 1997–1998 yang menyebabkan kemerosotan tajam kondisi rakyat memicu gelombang demonstrasi mahasiswa besar-besaran yang akhirnya memaksa Soeharto mengundurkan diri",
+      "Amerika Serikat menekan Indonesia untuk segera mengganti pemerintahan agar lebih demokratis",
+      "Militer Indonesia berpaling dan menolak mendukung Soeharto sehingga ia tidak punya kekuatan lagi, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Baca urutan kronologis dengan cermat. Soeharto memimpin selama 32 tahun dengan pertumbuhan ekonomi tinggi → krisis moneter 1997–1998 → demonstrasi besar → Soeharto mundur.\nLangkah 2: Hubungkan krisis dengan demonstrasi. Krisis moneter menyebabkan: rupiah melemah drastis (dari Rp2.500 menjadi Rp16.000 per USD) → harga barang kebutuhan melonjak → PHK besar-besaran → kemiskinan dan ketidakpuasan rakyat meningkat tajam. Ketika rakyat sudah tidak bisa memenuhi kebutuhan dasar, ketidakpuasan meledak menjadi demonstrasi.\nLangkah 3: Hubungkan demonstrasi dengan mundurnya Soeharto. Mahasiswa dari berbagai kota menduduki gedung MPR/DPR pada Mei 1998. Tekanan publik yang masif, ditambah mundurnya beberapa menteri kabinet, akhirnya memaksa Soeharto mengundurkan diri pada 21 Mei 1998.\nLangkah 4: Apa yang dimaksud 'paling langsung'? Pilihan D adalah urutan: krisis → rakyat menderita → demonstrasi → Soeharto mundur. Ini rantai yang paling langsung didukung oleh data kronologis dalam tabel.\nLangkah 5: Jebakan pilihan A: Soeharto tidak secara sukarela ingin pensiun — ia dipaksa oleh tekanan demonstrasi. Jebakan C: meski ada perbedaan sikap di tubuh militer, teks tidak menyebut ini sebagai faktor utama.\n\n**Materi terkait:**\n- **Era Reformasi**: dimulai sejak mundurnya Soeharto (21 Mei 1998), menandai transisi Indonesia dari sistem otoriter ke demokrasi. Reformasi membawa perubahan besar: pemilu bebas, otonomi daerah, kebebasan pers, dan penghapusan dwifungsi ABRI.\n- **Krisis moneter 1997–1998** bermula dari Thailand dan menyebar ke seluruh Asia Tenggara dalam hitungan bulan — menunjukkan betapa terintegrasinya ekonomi kawasan.\n- **Peran mahasiswa dalam sejarah Indonesia**: mahasiswa berperan penting dalam tiga momen besar — Sumpah Pemuda 1928, kemerdekaan 1945, dan Reformasi 1998. Peran ini mencerminkan tradisi mahasiswa sebagai kekuatan moral dan intelektual bangsa.\n\nInsight kunci: Sejarah menunjukkan bahwa **kondisi ekonomi yang buruk adalah katalis kuat perubahan politik**. Ketika rakyat tidak bisa memenuhi kebutuhan dasar, toleransi terhadap ketidakadilan menurun drastis. Ini pelajaran yang berlaku universal di banyak negara.\nKenapa opsi lain salah: A tidak didukung fakta — Soeharto tidak berencana pensiun; B tidak disebutkan dalam tabel dan bukan faktor yang paling langsung; C ada nuansanya tetapi tabel tidak menunjukkannya sebagai pemicu utama.\nJawaban akhir: **Krisis ekonomi yang menyengsarakan rakyat memicu demonstrasi besar yang memaksa Soeharto mundur**.",
+    "content": {
+      "question": "Perhatikan tabel kronologi peristiwa Indonesia:\n\n| Periode | Peristiwa |\n|---|---|\n| 1966 | Dimulainya Orde Baru di bawah kepemimpinan Soeharto |\n| 1983–1996 | Pertumbuhan ekonomi rata-rata 7% per tahun; pembangunan infrastruktur pesat |\n| 1997–1998 | Krisis moneter Asia: nilai rupiah jatuh drastis, harga kebutuhan pokok melonjak, banyak perusahaan bangkrut dan PHK besar-besaran |\n| Mei 1998 | Demonstrasi besar-besaran mahasiswa di seluruh Indonesia; Soeharto mengundurkan diri; dimulainya Era Reformasi |\n\nBerdasarkan kronologi, faktor yang paling **langsung** memicu jatuhnya Orde Baru pada 1998 adalah ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel kronologi peristiwa Indonesia:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Periode"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Peristiwa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1966"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Dimulainya Orde Baru di bawah kepemimpinan Soeharto"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1983–1996"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pertumbuhan ekonomi rata-rata 7% per tahun; pembangunan infrastruktur pesat"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1997–1998"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Krisis moneter Asia: nilai rupiah jatuh drastis, harga kebutuhan pokok melonjak, banyak perusahaan bangkrut dan PHK besar-besaran"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Mei 1998"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Demonstrasi besar-besaran mahasiswa di seluruh Indonesia; Soeharto mengundurkan diri; dimulainya Era Reformasi"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan kronologi, faktor yang paling langsung memicu jatuhnya Orde Baru pada 1998 adalah ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Soeharto sudah sangat tua dan secara sukarela ingin pensiun setelah memimpin selama 32 tahun",
+        "Krisis ekonomi 1997–1998 yang menyebabkan kemerosotan tajam kondisi rakyat memicu gelombang demonstrasi mahasiswa besar-besaran yang akhirnya memaksa Soeharto mengundurkan diri",
+        "Amerika Serikat menekan Indonesia untuk segera mengganti pemerintahan agar lebih demokratis",
+        "Militer Indonesia berpaling dan menolak mendukung Soeharto sehingga ia tidak punya kekuatan lagi, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Soeharto sudah sangat tua dan secara sukarela ingin pensiun setelah memimpin selama 32 tahun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Krisis ekonomi 1997–1998 yang menyebabkan kemerosotan tajam kondisi rakyat memicu gelombang demonstrasi mahasiswa besar-besaran yang akhirnya memaksa Soeharto mengundurkan diri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Amerika Serikat menekan Indonesia untuk segera mengganti pemerintahan agar lebih demokratis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Militer Indonesia berpaling dan menolak mendukung Soeharto sehingga ia tidak punya kekuatan lagi, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Baca urutan kronologis dengan cermat. Soeharto memimpin selama 32 tahun dengan pertumbuhan ekonomi tinggi → krisis moneter 1997–1998 → demonstrasi besar → Soeharto mundur.\nLangkah 2: Hubungkan krisis dengan demonstrasi. Krisis moneter menyebabkan: rupiah melemah drastis (dari Rp2.500 menjadi Rp16.000 per USD) → harga barang kebutuhan melonjak → PHK besar-besaran → kemiskinan dan ketidakpuasan rakyat meningkat tajam. Ketika rakyat sudah tidak bisa memenuhi kebutuhan dasar, ketidakpuasan meledak menjadi demonstrasi.\nLangkah 3: Hubungkan demonstrasi dengan mundurnya Soeharto. Mahasiswa dari berbagai kota menduduki gedung MPR/DPR pada Mei 1998. Tekanan publik yang masif, ditambah mundurnya beberapa menteri kabinet, akhirnya memaksa Soeharto mengundurkan diri pada 21 Mei 1998.\nLangkah 4: Apa yang dimaksud 'paling langsung'? Pilihan D adalah urutan: krisis → rakyat menderita → demonstrasi → Soeharto mundur. Ini rantai yang paling langsung didukung oleh data kronologis dalam tabel.\nLangkah 5: Jebakan pilihan A: Soeharto tidak secara sukarela ingin pensiun — ia dipaksa oleh tekanan demonstrasi. Jebakan C: meski ada perbedaan sikap di tubuh militer, teks tidak menyebut ini sebagai faktor utama.\n\n**Materi terkait:**\n- **Era Reformasi**: dimulai sejak mundurnya Soeharto (21 Mei 1998), menandai transisi Indonesia dari sistem otoriter ke demokrasi. Reformasi membawa perubahan besar: pemilu bebas, otonomi daerah, kebebasan pers, dan penghapusan dwifungsi ABRI.\n- **Krisis moneter 1997–1998** bermula dari Thailand dan menyebar ke seluruh Asia Tenggara dalam hitungan bulan — menunjukkan betapa terintegrasinya ekonomi kawasan.\n- **Peran mahasiswa dalam sejarah Indonesia**: mahasiswa berperan penting dalam tiga momen besar — Sumpah Pemuda 1928, kemerdekaan 1945, dan Reformasi 1998. Peran ini mencerminkan tradisi mahasiswa sebagai kekuatan moral dan intelektual bangsa.\n\nInsight kunci: Sejarah menunjukkan bahwa **kondisi ekonomi yang buruk adalah katalis kuat perubahan politik**. Ketika rakyat tidak bisa memenuhi kebutuhan dasar, toleransi terhadap ketidakadilan menurun drastis. Ini pelajaran yang berlaku universal di banyak negara.\nKenapa opsi lain salah: A tidak didukung fakta — Soeharto tidak berencana pensiun; B tidak disebutkan dalam tabel dan bukan faktor yang paling langsung; C ada nuansanya tetapi tabel tidak menunjukkannya sebagai pemicu utama.\nJawaban akhir: **Krisis ekonomi yang menyengsarakan rakyat memicu demonstrasi besar yang memaksa Soeharto mundur**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Baca urutan kronologis dengan cermat. Soeharto memimpin selama 32 tahun dengan pertumbuhan ekonomi tinggi → krisis moneter 1997–1998 → demonstrasi besar → Soeharto mundur.\nLangkah 2: Hubungkan krisis dengan demonstrasi. Krisis moneter menyebabkan: rupiah melemah drastis (dari Rp2.500 menjadi Rp16.000 per USD) → harga barang kebutuhan melonjak → PHK besar-besaran → kemiskinan dan ketidakpuasan rakyat meningkat tajam. Ketika rakyat sudah tidak bisa memenuhi kebutuhan dasar, ketidakpuasan meledak menjadi demonstrasi.\nLangkah 3: Hubungkan demonstrasi dengan mundurnya Soeharto. Mahasiswa dari berbagai kota menduduki gedung MPR/DPR pada Mei 1998. Tekanan publik yang masif, ditambah mundurnya beberapa menteri kabinet, akhirnya memaksa Soeharto mengundurkan diri pada 21 Mei 1998.\nLangkah 4: Apa yang dimaksud 'paling langsung'? Pilihan D adalah urutan: krisis → rakyat menderita → demonstrasi → Soeharto mundur. Ini rantai yang paling langsung didukung oleh data kronologis dalam tabel.\nLangkah 5: Jebakan pilihan A: Soeharto tidak secara sukarela ingin pensiun — ia dipaksa oleh tekanan demonstrasi. Jebakan C: meski ada perbedaan sikap di tubuh militer, teks tidak menyebut ini sebagai faktor utama."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Era Reformasi: dimulai sejak mundurnya Soeharto (21 Mei 1998), menandai transisi Indonesia dari sistem otoriter ke demokrasi. Reformasi membawa perubahan besar: pemilu bebas, otonomi daerah, kebebasan pers, dan penghapusan dwifungsi ABRI.\n- Krisis moneter 1997–1998 bermula dari Thailand dan menyebar ke seluruh Asia Tenggara dalam hitungan bulan — menunjukkan betapa terintegrasinya ekonomi kawasan.\n- Peran mahasiswa dalam sejarah Indonesia: mahasiswa berperan penting dalam tiga momen besar — Sumpah Pemuda 1928, kemerdekaan 1945, dan Reformasi 1998. Peran ini mencerminkan tradisi mahasiswa sebagai kekuatan moral dan intelektual bangsa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Sejarah menunjukkan bahwa kondisi ekonomi yang buruk adalah katalis kuat perubahan politik. Ketika rakyat tidak bisa memenuhi kebutuhan dasar, toleransi terhadap ketidakadilan menurun drastis. Ini pelajaran yang berlaku universal di banyak negara.\nKenapa opsi lain salah: A tidak didukung fakta — Soeharto tidak berencana pensiun; B tidak disebutkan dalam tabel dan bukan faktor yang paling langsung; C ada nuansanya tetapi tabel tidak menunjukkannya sebagai pemicu utama.\nJawaban akhir: Krisis ekonomi yang menyengsarakan rakyat memicu demonstrasi besar yang memaksa Soeharto mundur."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sejarah",
+    "subtopic": "Warisan budaya & nasionalisme",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah informasi berikut:\n\n*\"Indonesia memiliki ratusan tarian tradisional dari berbagai daerah: Tari Saman dari Aceh, Tari Kecak dari Bali, Tari Jaipong dari Jawa Barat, Tari Tor-Tor dari Batak, Tari Piring dari Minangkabau, dan masih banyak lagi. Beberapa tarian ini telah diakui UNESCO sebagai Warisan Budaya Tak Benda. Namun, survei menunjukkan bahwa generasi muda Indonesia lebih banyak yang bisa menari tarian K-pop dibanding tarian daerah sendiri.\"*\n\nMengapa mempelajari dan melestarikan tari tradisional daerah dianggap penting dalam konteks **nasionalisme** Indonesia?",
+    "options": [
+      "Karena tari tradisional adalah ekspresi identitas unik setiap daerah yang bersama-sama membentuk kekayaan budaya bangsa — melestarikannya berarti merawat jati diri dan memperkuat rasa bangga sebagai orang Indonesia",
+      "Karena tari tradisional hanya boleh dipelajari dan ditampilkan oleh orang yang berasal dari daerah asal tarian itu sendiri",
+      "Karena pemerintah mewajibkan semua warga Indonesia untuk menguasai minimal satu tari tradisional dari daerah asalnya",
+      "Karena tari tradisional menghasilkan devisa besar dari pariwisata asing, sehingga penting untuk ekonomi, bukan karena nilai budaya atau nasionalismenya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Identifikasi konteks: Indonesia punya ratusan tarian daerah yang kaya dan unik, tetapi generasi muda lebih familiar dengan budaya asing (K-pop). Ini adalah ancaman nyata terhadap keberlangsungan warisan budaya.\nLangkah 2: Hubungkan tari dengan nasionalisme. Nasionalisme adalah rasa cinta, bangga, dan komitmen terhadap bangsa sendiri. Tari tradisional adalah **wujud nyata identitas budaya** — ia merefleksikan nilai, sejarah, dan kreativitas suatu suku/daerah. Ketika orang Indonesia mengenal dan mencintai tari daerahnya, ia menghargai warisan leluhurnya.\nLangkah 3: Konsep 'Bhinneka Tunggal Ika' dalam konteks budaya: tari-tarian dari berbagai daerah menunjukkan keberagaman Indonesia, namun semuanya adalah bagian dari satu kekayaan budaya bangsa yang sama. Melestarikan keberagaman ini adalah bentuk merawat persatuan dalam perbedaan.\nLangkah 4: Jebakan pilihan D: menghubungkan tari ke devisa/pariwisata bukan salah sepenuhnya, tetapi ini melewatkan esensi pertanyaan yang bertanya tentang **nasionalisme** (nilai budaya dan identitas), bukan ekonomi.\nLangkah 5: Jebakan pilihan A: justru sebaliknya — tari tradisional bisa dipelajari oleh siapa saja, bahkan dari luar daerah asal. Ini akan memperkuat, bukan menghambat, apresiasi lintas budaya.\n\n**Materi terkait:**\n- **Warisan Budaya Tak Benda (ICH)** UNESCO mencakup: tarian, musik, kerajinan tangan, upacara adat, dan pengetahuan lokal. Tari Saman (Aceh) telah masuk Daftar Warisan Tak Benda yang Memerlukan Perlindungan Mendesak UNESCO sejak 2011.\n- **Identitas budaya dan nasionalisme**: Benedict Anderson menyebut bangsa sebagai 'komunitas yang dibayangkan' (*imagined community*) — orang-orang yang merasa terhubung meski tidak saling kenal. Budaya bersama (termasuk tari) adalah salah satu perekat 'komunitas' itu.\n- **Ancaman globalisasi terhadap budaya lokal**: budaya populer asing (K-pop, Hollywood, dll.) bisa menggeser budaya lokal jika tidak ada upaya aktif pelestarian. Keseimbangan yang sehat adalah menghargai budaya global tanpa melupakan budaya sendiri.\n\nInsight kunci: Mencintai dan melestarikan budaya lokal bukan berarti menolak budaya luar — keduanya bisa berdampingan. Yang penting adalah **tidak kehilangan akar**. Orang yang kuat identitas budayanya justru bisa berinteraksi dengan budaya lain secara setara tanpa kehilangan diri.\nKenapa opsi lain salah: A membatasi akses pada tari tradisional yang justru kontraproduktif; C tidak berdasar hukum yang ada; D menempatkan ekonomi di atas nilai budaya padahal pertanyaan tentang nasionalisme.\nJawaban akhir: **Tari tradisional adalah ekspresi identitas budaya bangsa — melestarikannya merawat jati diri dan nasionalisme**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sejarah",
+    "subtopic": "Tokoh & perubahan sosial",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut:\n\n*\"R.A. Kartini (1879–1904) adalah putri bangsawan Jawa yang pada usianya harus menjalani pingitan — tradisi yang mengharuskan perempuan muda bangsawan tinggal di dalam rumah, tidak boleh melanjutkan pendidikan formal atau bersosialisasi bebas. Meski terkurung, Kartini terus belajar mandiri dan menulis surat kepada sahabat penanya di Belanda. Ia mengungkapkan harapan agar perempuan pribumi bisa mengakses pendidikan yang setara. Kumpulan suratnya diterbitkan sebagai buku 'Habis Gelap Terbitlah Terang' dan menginspirasi gerakan emansipasi perempuan.\"*\n\nPerjuangan Kartini dianggap sebagai **perubahan sosial** yang penting karena ...",
+    "options": [
+      "Kartini berhasil memimpin pasukan perempuan dalam perlawanan bersenjata melawan penjajah Belanda",
+      "Kartini adalah satu-satunya perempuan pribumi yang pernah mendapat pendidikan tinggi formal di era kolonial",
+      "Kartini mendirikan jaringan sekolah perempuan terbesar di Jawa yang berhasil mendidik ribuan perempuan di zamannya, karena peristiwa sejarah dianggap terlepas dari sebab akibat dan kondisi masyarakat pada zamannya, karena urutan waktu, pelaku, dan latar peristiwa dianggap tidak mengubah makna sejarahnya",
+      "Kartini menggugat sistem sosial yang membatasi hak perempuan, meletakkan dasar gagasan bahwa perempuan berhak atas pendidikan yang setara — pemikiran yang terus berkembang hingga memengaruhi hak-hak perempuan di Indonesia hingga kini"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi tindakan utama Kartini dari teks: bukan perlawanan bersenjata, bukan mendirikan sekolah besar — melainkan **menulis surat-surat yang mengungkapkan gagasan kesetaraan pendidikan perempuan** meski ia sendiri terkurung dalam pingitan.\nLangkah 2: Mengapa ini disebut perubahan sosial? Perubahan sosial adalah transformasi dalam nilai, norma, atau struktur masyarakat. Kartini menantang norma sosial yang ada pada zamannya — bahwa perempuan 'cukup' di rumah, tidak perlu sekolah tinggi. Ia mengatakan: ini tidak adil dan harus berubah.\nLangkah 3: Dampak jangka panjang gagasan Kartini:\n- Menginspirasi pendirian sekolah-sekolah perempuan (termasuk oleh Yayasan Kartini setelah kematiannya)\n- Memengaruhi pemikiran tentang hak perempuan di era pergerakan nasional\n- Hari Kartini (21 April) diperingati setiap tahun sebagai simbol emansipasi perempuan Indonesia\n- Nilai-nilainya tercermin dalam UUD 1945 yang menjamin kesetaraan hak pendidikan tanpa memandang jenis kelamin\nLangkah 4: Jebakan pilihan B: Kartini justru *tidak* mendapat pendidikan tinggi formal — ia belajar mandiri karena dilarang sekolah. Ini memperkuat, bukan melemahkan, perjuangannya.\nLangkah 5: Jebakan pilihan D: Kartini meninggal pada usia 25 tahun (1904), tidak sempat mendirikan jaringan sekolah besar. Sekolah-sekolah Kartini didirikan oleh pendukungnya setelah ia wafat.\n\n**Materi terkait:**\n- **Emansipasi** (dari kata Latin *emancipatio*) berarti pembebasan dari ketergantungan atau pembatasan. Dalam konteks Kartini, ini berarti kebebasan perempuan untuk mengakses pendidikan dan berpartisipasi dalam kehidupan publik.\n- **Perubahan sosial** bisa datang dari atas (kebijakan pemerintah) atau dari bawah (gerakan rakyat/individu berpengaruh). Kartini adalah contoh perubahan sosial 'dari bawah' — satu individu yang tulisannya mengubah cara berpikir masyarakat.\n- **Konteks kolonial**: selain diskriminasi gender, Kartini juga menghadapi diskriminasi rasial. Perempuan Belanda punya lebih banyak akses pendidikan dari perempuan pribumi — ini adalah persimpangan dua bentuk ketidakadilan.\n\nInsight kunci: Kartini mengajarkan bahwa **kekuatan pikiran dan kata-kata bisa mengubah dunia** — bahkan tanpa kebebasan fisik. Ia menulis tentang cita-cita yang ia sendiri tidak sempat menikmati, tetapi menjadi fondasi bagi jutaan perempuan Indonesia yang menikmati akses pendidikan hari ini. Perubahan sosial sering dimulai dari satu suara yang berani berbeda.\nKenapa opsi lain salah: A tidak didukung fakta — Kartini berjuang melalui pemikiran dan tulisan, bukan senjata; B terbalik dari kenyataan (Kartini justru tidak mendapat pendidikan formal tinggi); D tidak didukung fakta sejarah.\nJawaban akhir: **Kartini menggugat norma pembatasan hak perempuan dan meletakkan dasar gagasan kesetaraan pendidikan perempuan**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Di Pasar Minggu, Bu Sari berjualan sayuran yang ia petik sendiri dari kebunnya. Para pembeli bisa langsung tawar-menawar harga dengan Bu Sari. Di supermarket Segar Mart dekat rumah, sayuran yang sama dijual dalam kemasan plastik berlabel harga yang sudah ditetapkan — tidak bisa ditawar.\n\nPerbedaan **utama** antara pasar tradisional (seperti Pasar Minggu) dan pasar modern (seperti supermarket) berdasarkan skenario ini adalah ...",
+    "options": [
+      "Pasar tradisional hanya menjual sayuran dan hasil bumi, sedangkan supermarket menjual semua jenis barang kebutuhan",
+      "Pasar tradisional menggunakan tawar-menawar dan interaksi langsung antara penjual dan pembeli, sedangkan supermarket menggunakan harga tetap, kemasan standar, dan sistem layanan mandiri",
+      "Di supermarket kualitas barang selalu lebih baik karena berasal dari merek ternama, sedangkan di pasar tradisional kualitasnya pasti lebih rendah, karena harga, biaya, kebutuhan, dan kelangkaan dianggap selalu bergerak sama pada semua keadaan",
+      "Pasar tradisional selalu lebih kotor dan tidak aman dibanding supermarket yang bersih dan tertata"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Dari skenario, identifikasi perbedaan yang disebutkan secara eksplisit: (1) tawar-menawar langsung di pasar tradisional vs. harga tetap di supermarket, (2) penjual langsung adalah produsen (Bu Sari petani) di pasar tradisional.\nLangkah 2: Ini adalah perbedaan yang paling mendasar dan konsisten. Di pasar tradisional: interaksi personal, harga fleksibel melalui tawar-menawar, sering produsen menjual langsung ke konsumen. Di pasar modern: standarisasi, harga tetap, layanan mandiri (*self-service*), produk dikemas.\nLangkah 3: Evaluasi pilihan A: tidak benar — pasar tradisional juga menjual daging, ikan, pakaian, elektronik, dsb. Tidak terbatas sayuran saja.\nLangkah 4: Evaluasi pilihan B dan C: keduanya membuat generalisasi negatif tentang pasar tradisional yang tidak selalu benar. Kualitas dan kebersihan pasar tradisional bisa baik atau buruk tergantung pengelolaan — tidak bisa digeneralisasi selalu lebih rendah.\n\n**Materi terkait:**\n- **Pasar tradisional**: ciri khas — tawar-menawar, interaksi personal antara pembeli-penjual, lokasi biasanya terbuka, waktu operasional pagi-siang. Kelebihan: harga bisa lebih murah, segar, dan ada interaksi sosial. Kekurangan: bisa tidak teratur, parkir terbatas.\n- **Pasar modern (supermarket, minimarket, mall)**: ciri khas — harga tetap, produk berkemasan dan berlabel, AC dan kenyamanan, buka hingga malam. Kelebihan: nyaman, harga pasti. Kekurangan: harga umumnya lebih mahal, sedikit interaksi personal.\n- **Dampak supermarket pada pasar tradisional**: ekspansi minimarket/supermarket di seluruh penjuru desa-kota Indonesia menimbulkan kekhawatiran bahwa pedagang tradisional kehilangan pelanggan. Ini adalah isu kebijakan penting tentang keseimbangan antara modernisasi dan perlindungan usaha kecil.\n\nInsight kunci: Pasar tradisional dan modern bukan satu lebih baik dari yang lain — keduanya **punya kelebihan dan kekurangan** yang berbeda, melayani kebutuhan yang berbeda. Yang ideal adalah keduanya bisa tumbuh bersama dengan kebijakan yang adil.\nJawaban akhir: **Tawar-menawar dan interaksi langsung (tradisional) vs. harga tetap dan sistem modern (supermarket)**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Permintaan & penawaran",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Perhatikan tabel harga tiket pesawat rute Jakarta–Bali dari maskapai yang sama:\n\n| Periode perjalanan | Kondisi permintaan | Jumlah kursi tersedia | Harga tiket |\n|---|---|---|---|\n| Senin–Kamis biasa | Rendah (banyak kursi kosong) | 180 kursi | Rp350.000 |\n| Jumat–Minggu | Sedang | 180 kursi | Rp650.000 |\n| Libur Lebaran/Natal | Sangat tinggi (hampir habis) | 180 kursi | Rp1.800.000 |\n\nPola perubahan harga tiket dalam tabel menggambarkan prinsip ekonomi bahwa ...",
+    "options": [
+      "Maskapai menaikkan harga saat Lebaran karena penumpang dalam kondisi terpaksa dan tidak punya pilihan transportasi lain",
+      "Harga tiket pesawat seluruhnya diatur dan ditetapkan oleh pemerintah sesuai kalender liburan nasional",
+      "Semakin banyak penumpang yang terbang bersama, biaya operasional per orang turun sehingga maskapai seharusnya menurunkan harga saat ramai, sehingga keputusan ekonomi dianggap tidak perlu mempertimbangkan prioritas, risiko, dan keterbatasan sumber daya",
+      "Ketika permintaan meningkat (semakin banyak yang ingin terbang) sementara jumlah kursi (penawaran) tetap terbatas, harga naik; sebaliknya, saat permintaan rendah, harga turun untuk menarik penumpang"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Amati kolom 'jumlah kursi tersedia': selalu **180 kursi** di semua kondisi. Penawaran (kapasitas pesawat) tidak berubah.\nLangkah 2: Amati kolom 'kondisi permintaan': berubah dari rendah → sedang → sangat tinggi.\nLangkah 3: Amati kolom harga: Rp350.000 → Rp650.000 → Rp1.800.000. Naik seiring naiknya permintaan.\nLangkah 4: Kesimpulan: dengan penawaran (kursi) yang tetap 180, naiknya permintaan mendorong harga naik. Ini persis sesuai hukum permintaan dan penawaran: ketika permintaan melebihi penawaran, harga naik. Ketika permintaan rendah, maskapai menurunkan harga agar kursi terisi (tidak terbang kosong).\nLangkah 5: Konsep tambahan: ini juga disebut **penetapan harga dinamis** (*dynamic pricing*) atau *yield management* — strategi maskapai untuk memaksimalkan pendapatan berdasarkan permintaan real-time.\nLangkah 6: Jebakan pilihan D: benar bahwa pesawat lebih efisien saat penuh (biaya per penumpang lebih rendah), tetapi dalam logika pasar, maskapai tidak menurunkan harga saat permintaan tinggi — justru sebaliknya. Efisiensi operasional dan strategi harga adalah dua hal berbeda.\n\n**Materi terkait:**\n- **Hukum permintaan**: ketika harga naik, jumlah yang diminta turun (dan sebaliknya) — asumsi: faktor lain tetap (*ceteris paribus*).\n- **Hukum penawaran**: ketika harga naik, produsen terdorong menyediakan lebih banyak — tapi dalam kasus pesawat, kapasitas tidak bisa ditambah dalam jangka pendek.\n- **Keseimbangan pasar (equilibrium)**: titik di mana jumlah yang diminta sama dengan jumlah yang ditawarkan. Saat permintaan naik melampaui penawaran tetap → harga naik menuju keseimbangan baru yang lebih tinggi.\n- Prinsip ini berlaku di banyak konteks: harga hotel saat musim liburan, harga sayuran saat banjir, harga masker saat pandemi.\n\nInsight kunci: Harga dalam ekonomi pasar adalah **sinyal dan penyeimbang otomatis**. Ketika permintaan lebih dari penawaran, harga naik — memberi sinyal kepada produsen untuk menambah pasokan dan membatasi konsumen yang tidak terlalu butuh. Ini adalah mekanisme yang bekerja tanpa perlu perintah dari siapapun.\nKenapa opsi lain salah: B menyederhanakan menjadi 'maskapai jahat mengambil kesempatan' — padahal ini adalah mekanisme pasar normal; C tidak sesuai kenyataan di Indonesia (harga sebagian besar rute tidak diatur pemerintah); D menerapkan logika efisiensi yang tepat tapi terbalik dalam hal strategi harga.\nJawaban akhir: **Permintaan naik + penawaran tetap → harga naik; permintaan rendah → harga turun untuk menarik pembeli**.",
+    "content": {
+      "question": "Perhatikan tabel harga tiket pesawat rute Jakarta–Bali dari maskapai yang sama:\n\n| Periode perjalanan | Kondisi permintaan | Jumlah kursi tersedia | Harga tiket |\n|---|---|---|---|\n| Senin–Kamis biasa | Rendah (banyak kursi kosong) | 180 kursi | Rp350.000 |\n| Jumat–Minggu | Sedang | 180 kursi | Rp650.000 |\n| Libur Lebaran/Natal | Sangat tinggi (hampir habis) | 180 kursi | Rp1.800.000 |\n\nPola perubahan harga tiket dalam tabel menggambarkan prinsip ekonomi bahwa ...",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan tabel harga tiket pesawat rute Jakarta–Bali dari maskapai yang sama:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Periode perjalanan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kondisi permintaan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jumlah kursi tersedia"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Harga tiket"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Senin–Kamis biasa"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rendah (banyak kursi kosong)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "180 kursi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp350.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jumat–Minggu"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sedang"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "180 kursi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp650.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Libur Lebaran/Natal"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sangat tinggi (hampir habis)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "180 kursi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Rp1.800.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pola perubahan harga tiket dalam tabel menggambarkan prinsip ekonomi bahwa ..."
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Maskapai menaikkan harga saat Lebaran karena penumpang dalam kondisi terpaksa dan tidak punya pilihan transportasi lain",
+        "Harga tiket pesawat seluruhnya diatur dan ditetapkan oleh pemerintah sesuai kalender liburan nasional",
+        "Semakin banyak penumpang yang terbang bersama, biaya operasional per orang turun sehingga maskapai seharusnya menurunkan harga saat ramai, sehingga keputusan ekonomi dianggap tidak perlu mempertimbangkan prioritas, risiko, dan keterbatasan sumber daya",
+        "Ketika permintaan meningkat (semakin banyak yang ingin terbang) sementara jumlah kursi (penawaran) tetap terbatas, harga naik; sebaliknya, saat permintaan rendah, harga turun untuk menarik penumpang"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Maskapai menaikkan harga saat Lebaran karena penumpang dalam kondisi terpaksa dan tidak punya pilihan transportasi lain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Harga tiket pesawat seluruhnya diatur dan ditetapkan oleh pemerintah sesuai kalender liburan nasional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Semakin banyak penumpang yang terbang bersama, biaya operasional per orang turun sehingga maskapai seharusnya menurunkan harga saat ramai, sehingga keputusan ekonomi dianggap tidak perlu mempertimbangkan prioritas, risiko, dan keterbatasan sumber daya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ketika permintaan meningkat (semakin banyak yang ingin terbang) sementara jumlah kursi (penawaran) tetap terbatas, harga naik; sebaliknya, saat permintaan rendah, harga turun untuk menarik penumpang"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 3,
+      "rationale": "Langkah 1: Amati kolom 'jumlah kursi tersedia': selalu **180 kursi** di semua kondisi. Penawaran (kapasitas pesawat) tidak berubah.\nLangkah 2: Amati kolom 'kondisi permintaan': berubah dari rendah → sedang → sangat tinggi.\nLangkah 3: Amati kolom harga: Rp350.000 → Rp650.000 → Rp1.800.000. Naik seiring naiknya permintaan.\nLangkah 4: Kesimpulan: dengan penawaran (kursi) yang tetap 180, naiknya permintaan mendorong harga naik. Ini persis sesuai hukum permintaan dan penawaran: ketika permintaan melebihi penawaran, harga naik. Ketika permintaan rendah, maskapai menurunkan harga agar kursi terisi (tidak terbang kosong).\nLangkah 5: Konsep tambahan: ini juga disebut **penetapan harga dinamis** (*dynamic pricing*) atau *yield management* — strategi maskapai untuk memaksimalkan pendapatan berdasarkan permintaan real-time.\nLangkah 6: Jebakan pilihan D: benar bahwa pesawat lebih efisien saat penuh (biaya per penumpang lebih rendah), tetapi dalam logika pasar, maskapai tidak menurunkan harga saat permintaan tinggi — justru sebaliknya. Efisiensi operasional dan strategi harga adalah dua hal berbeda.\n\n**Materi terkait:**\n- **Hukum permintaan**: ketika harga naik, jumlah yang diminta turun (dan sebaliknya) — asumsi: faktor lain tetap (*ceteris paribus*).\n- **Hukum penawaran**: ketika harga naik, produsen terdorong menyediakan lebih banyak — tapi dalam kasus pesawat, kapasitas tidak bisa ditambah dalam jangka pendek.\n- **Keseimbangan pasar (equilibrium)**: titik di mana jumlah yang diminta sama dengan jumlah yang ditawarkan. Saat permintaan naik melampaui penawaran tetap → harga naik menuju keseimbangan baru yang lebih tinggi.\n- Prinsip ini berlaku di banyak konteks: harga hotel saat musim liburan, harga sayuran saat banjir, harga masker saat pandemi.\n\nInsight kunci: Harga dalam ekonomi pasar adalah **sinyal dan penyeimbang otomatis**. Ketika permintaan lebih dari penawaran, harga naik — memberi sinyal kepada produsen untuk menambah pasokan dan membatasi konsumen yang tidak terlalu butuh. Ini adalah mekanisme yang bekerja tanpa perlu perintah dari siapapun.\nKenapa opsi lain salah: B menyederhanakan menjadi 'maskapai jahat mengambil kesempatan' — padahal ini adalah mekanisme pasar normal; C tidak sesuai kenyataan di Indonesia (harga sebagian besar rute tidak diatur pemerintah); D menerapkan logika efisiensi yang tepat tapi terbalik dalam hal strategi harga.\nJawaban akhir: **Permintaan naik + penawaran tetap → harga naik; permintaan rendah → harga turun untuk menarik pembeli**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Amati kolom 'jumlah kursi tersedia': selalu 180 kursi di semua kondisi. Penawaran (kapasitas pesawat) tidak berubah.\nLangkah 2: Amati kolom 'kondisi permintaan': berubah dari rendah → sedang → sangat tinggi.\nLangkah 3: Amati kolom harga: Rp350.000 → Rp650.000 → Rp1.800.000. Naik seiring naiknya permintaan.\nLangkah 4: Kesimpulan: dengan penawaran (kursi) yang tetap 180, naiknya permintaan mendorong harga naik. Ini persis sesuai hukum permintaan dan penawaran: ketika permintaan melebihi penawaran, harga naik. Ketika permintaan rendah, maskapai menurunkan harga agar kursi terisi (tidak terbang kosong).\nLangkah 5: Konsep tambahan: ini juga disebut penetapan harga dinamis (dynamic pricing) atau yield management — strategi maskapai untuk memaksimalkan pendapatan berdasarkan permintaan real-time.\nLangkah 6: Jebakan pilihan D: benar bahwa pesawat lebih efisien saat penuh (biaya per penumpang lebih rendah), tetapi dalam logika pasar, maskapai tidak menurunkan harga saat permintaan tinggi — justru sebaliknya. Efisiensi operasional dan strategi harga adalah dua hal berbeda."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Hukum permintaan: ketika harga naik, jumlah yang diminta turun (dan sebaliknya) — asumsi: faktor lain tetap (ceteris paribus).\n- Hukum penawaran: ketika harga naik, produsen terdorong menyediakan lebih banyak — tapi dalam kasus pesawat, kapasitas tidak bisa ditambah dalam jangka pendek.\n- Keseimbangan pasar (equilibrium): titik di mana jumlah yang diminta sama dengan jumlah yang ditawarkan. Saat permintaan naik melampaui penawaran tetap → harga naik menuju keseimbangan baru yang lebih tinggi.\n- Prinsip ini berlaku di banyak konteks: harga hotel saat musim liburan, harga sayuran saat banjir, harga masker saat pandemi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Harga dalam ekonomi pasar adalah sinyal dan penyeimbang otomatis. Ketika permintaan lebih dari penawaran, harga naik — memberi sinyal kepada produsen untuk menambah pasokan dan membatasi konsumen yang tidak terlalu butuh. Ini adalah mekanisme yang bekerja tanpa perlu perintah dari siapapun.\nKenapa opsi lain salah: B menyederhanakan menjadi 'maskapai jahat mengambil kesempatan' — padahal ini adalah mekanisme pasar normal; C tidak sesuai kenyataan di Indonesia (harga sebagian besar rute tidak diatur pemerintah); D menerapkan logika efisiensi yang tepat tapi terbalik dalam hal strategi harga.\nJawaban akhir: Permintaan naik + penawaran tetap → harga naik; permintaan rendah → harga turun untuk menarik pembeli."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Ekonomi dasar",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Tahun lalu, dengan uang Rp100.000, Ibu Yani bisa membeli 5 kg beras, 2 kg ayam, dan 1 kg gula. Tahun ini, dengan uang yang sama persis (Rp100.000), ia hanya bisa membeli 4 kg beras, 1,5 kg ayam, dan 0,8 kg gula karena harga semua barang naik sekitar 20% secara bersamaan.\"*\n\nKondisi yang dialami Ibu Yani — semua harga barang naik secara umum — dalam ilmu ekonomi disebut ...",
+    "options": [
+      "Inflasi — kenaikan harga barang dan jasa secara umum dan berkelanjutan yang menyebabkan daya beli uang menurun",
+      "Deflasi, yaitu penurunan harga barang secara umum yang meningkatkan daya beli masyarakat",
+      "Kenaikan pajak, karena pemerintah menaikkan pajak semua jenis barang konsumsi sekaligus",
+      "Resesi, yaitu kontraksi aktivitas ekonomi yang ditandai dengan penurunan produksi dan meningkatnya pengangguran"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Identifikasi apa yang terjadi: harga beras, ayam, dan gula semuanya naik sekitar 20% secara bersamaan. Uang Rp100.000 yang dulu cukup membeli lebih banyak, sekarang hanya cukup membeli lebih sedikit.\nLangkah 2: Ini adalah definisi tepat dari **inflasi**: kenaikan harga barang dan jasa secara umum (bukan hanya satu barang) yang berkelanjutan, yang berakibat pada menurunnya **daya beli** uang (dengan jumlah uang yang sama, kita mendapat lebih sedikit barang).\nLangkah 3: Bedakan dengan istilah lain:\n- **Deflasi**: sebaliknya — harga turun, daya beli uang naik. Skenario Ibu Yani jelas bukan deflasi (harga naik, bukan turun).\n- **Resesi**: kondisi ekonomi makro di mana pertumbuhan GDP negatif selama dua kuartal berturut-turut. Resesi tidak selalu sama dengan naiknya harga — bahkan bisa terjadi bersamaan dengan deflasi.\n- **Kenaikan pajak**: bisa menyebabkan harga naik, tapi pajak naik hanya pada barang tertentu, bukan semua barang secara umum. Teks tidak menyebut pajak.\nLangkah 4: Pilihan C paling tepat — mendefinisikan inflasi dengan akurat dan menggambarkan persis kondisi Ibu Yani.\n\n**Materi terkait:**\n- **Inflasi** diukur menggunakan Indeks Harga Konsumen (IHK/CPI). Bank Indonesia menargetkan inflasi sekitar 2–4% per tahun — inflasi kecil dianggap sehat karena mendorong konsumsi dan produksi.\n- **Penyebab inflasi**: (1) terlalu banyak uang beredar, (2) permintaan melebihi produksi (*demand-pull*), (3) biaya produksi naik (*cost-push*, misal harga BBM naik).\n- **Dampak inflasi**: kelompok berpenghasilan tetap (pensiunan, buruh) paling terdampak karena penghasilan tidak ikut naik; tabungan kehilangan nilai nyata; ketidakpastian ekonomi meningkat.\n- **Hiperinflasi**: inflasi yang sangat ekstrem (ribuan persen per tahun). Contoh: Zimbabwe 2008 (harga naik 230 juta persen dalam setahun) dan Jerman 1923.\n\nInsight kunci: **Inflasi adalah 'pajak tersembunyi'** yang membebani semua orang, terutama yang paling miskin. Memahami inflasi membantu kita mengambil keputusan keuangan yang lebih bijak — misalnya, menyimpan uang hanya di bawah kasur berarti kehilangan daya beli setiap tahun akibat inflasi.\nKenapa opsi lain salah: A adalah kebalikan (deflasi = harga turun); B tidak tepat karena pajak tidak selalu menyebabkan semua harga naik sekaligus; D (resesi) adalah kondisi makroekonomi yang berbeda dari kenaikan harga.\nJawaban akhir: **Inflasi — kenaikan harga umum yang menurunkan daya beli uang**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Ekonomi",
+    "subtopic": "Peran konsumen & produsen",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"PT Plastindo memproduksi 100 ton botol plastik per hari. Setelah digunakan konsumen, botol-botol ini berakhir di tempat pembuangan akhir atau mencemari sungai dan laut. Seorang direktur mengusulkan program 'take-back': konsumen bisa mengembalikan botol bekas ke toko mitra dan mendapat diskon, lalu PT Plastindo mendaur ulang botol itu menjadi bahan plastik baru. Biaya investasi awal program ini sangat besar, tetapi biaya bahan baku daur ulang jauh lebih murah dari plastik murni dalam jangka panjang.\"*\n\nDari perspektif **peran produsen** yang bertanggung jawab, argumen terkuat mengapa PT Plastindo **seharusnya** menjalankan program daur ulang ini adalah ...",
+    "options": [
+      "Produsen hanya bertanggung jawab atas kualitas produk yang dijual di toko; setelah dibeli konsumen, produk sepenuhnya menjadi tanggung jawab konsumen, karena manfaat ekonomi dianggap hanya dilihat dari keuntungan langsung tanpa biaya sosial atau lingkungan",
+      "Program daur ulang hanya menguntungkan pemerintah dan konsumen; tidak ada insentif ekonomi bagi produsen untuk menanggung biaya besar itu",
+      "Produsen yang menciptakan produk berpotensi mencemari lingkungan memiliki tanggung jawab terhadap seluruh siklus hidup produknya, dan program daur ulang juga menguntungkan secara bisnis jangka panjang melalui penghematan bahan baku",
+      "Tanggung jawab daur ulang sepenuhnya berada pada konsumen yang membuang sampah, bukan pada produsen yang hanya membuat produk"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Identifikasi masalah dalam skenario. PT Plastindo menciptakan produk (botol plastik) yang setelah digunakan berakhir mencemari lingkungan. Ini adalah **eksternalitas negatif** — biaya kerusakan lingkungan tidak ditanggung PT Plastindo, melainkan ditanggung masyarakat dan ekosistem.\nLangkah 2: Evaluasi argumen 'tanggung jawab produsen'. Prinsip **Extended Producer Responsibility (EPR)** menyatakan bahwa produsen bertanggung jawab tidak hanya sampai produk terjual, tetapi juga atas dampak produk setelah digunakan. Ini karena: (1) produsenlah yang merancang produk, memilih material, dan menentukan sifat-sifatnya (mudah/sulit didaur ulang). (2) Produsen yang paling punya kapasitas teknis dan finansial untuk mengatasi masalah limbah produknya.\nLangkah 3: Evaluasi argumen bisnis jangka panjang. Teks menyebut: biaya bahan baku daur ulang lebih murah dari plastik murni dalam jangka panjang → PT Plastindo secara bertahap mengurangi ketergantungan pada bahan baku baru yang harganya bisa fluktuatif. Ini keuntungan bisnis nyata.\nLangkah 4: Evaluasi pilihan A dan D. Keduanya menganut pandangan 'tanggung jawab berakhir di toko' — sudah ketinggalan zaman dalam standar bisnis berkelanjutan modern. Hukum di banyak negara sudah mulai menerapkan EPR sebagai kewajiban, bukan pilihan.\nLangkah 5: Evaluasi pilihan C. Tidak tepat — skenario secara eksplisit menyebutkan bahwa biaya bahan baku daur ulang lebih murah jangka panjang. Ada insentif ekonomi yang nyata.\n\n**Materi terkait:**\n- **Extended Producer Responsibility (EPR)**: kebijakan lingkungan yang memperluas tanggung jawab produsen melampaui titik penjualan, mencakup tahap akhir masa pakai produk. Diterapkan di Uni Eropa, Jepang, dan semakin banyak negara berkembang.\n- **Ekonomi sirkular** (*circular economy*): sistem ekonomi yang berusaha meminimalkan limbah dengan menjaga material dalam siklus tertutup (produksi → pakai → daur ulang → produksi lagi). Berlawanan dengan ekonomi linear (produksi → pakai → buang).\n- **Plastik dan lingkungan**: hanya sekitar 9% plastik yang pernah diproduksi di dunia telah didaur ulang. Sisanya di TPA, insinerator, atau di alam (termasuk laut). Indonesia adalah salah satu penyumbang sampah plastik laut terbesar di dunia.\n\nInsight kunci: **Tanggung jawab adalah bagian dari bisnis yang baik** — bukan hanya soal etika, tetapi juga keberlanjutan bisnis itu sendiri. Perusahaan yang menganggap lingkungan sebagai biaya yang harus dihindari akan semakin kesulitan di dunia yang semakin peduli lingkungan, baik dari tekanan regulasi maupun konsumen.\nKenapa opsi lain salah: A dan D menggunakan pandangan sempit 'tanggung jawab berakhir di toko' yang tidak sesuai prinsip bisnis berkelanjutan modern; C salah karena skenario menyebut keuntungan bisnis jangka panjang yang nyata.\nJawaban akhir: **Produsen bertanggung jawab atas seluruh siklus hidup produk; daur ulang juga menguntungkan bisnis jangka panjang**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Ekonomi",
+    "subtopic": "Kegiatan ekonomi",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Desa Kebondalem dikenal dengan produksi salak pondoh berkualitas tinggi. Selama ini, petani menjual salak segar di pasar lokal seharga Rp5.000/kg. Seorang eksportir menawarkan kontrak: membeli 70% dari total produksi desa untuk diekspor ke Singapura dan Hong Kong dengan harga Rp15.000/kg. Para petani sangat antusias menerima tawaran ini karena penghasilan mereka bisa tiga kali lipat.\"*\n\nJika petani Desa Kebondalem mengekspor 70% produksinya, dampak yang **paling mungkin** terjadi di **pasar lokal** adalah ...",
+    "options": [
+      "Pasokan salak di pasar lokal berkurang drastis karena sebagian besar diekspor → harga salak di pasar lokal naik dan konsumen lokal kesulitan mendapatkan salak dengan harga terjangkau",
+      "Harga salak di pasar lokal ikut turun karena petani sudah mendapat banyak uang dari ekspor dan tidak perlu lagi menetapkan harga tinggi, karena peran produsen, distributor, dan konsumen dianggap tidak saling memengaruhi dalam kegiatan ekonomi",
+      "Petani akan berhenti menjual ke pasar lokal sepenuhnya dan hanya berfokus pada ekspor sehingga salak hilang dari pasar lokal",
+      "Kualitas salak di pasar lokal meningkat karena kompetisi dengan pasar ekspor mendorong petani menanam salak yang lebih baik"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Terapkan hukum penawaran-permintaan pada pasar lokal. Sebelum ekspor: 100% produksi tersedia untuk pasar lokal. Setelah ekspor: hanya 30% produksi yang tersisa untuk pasar lokal.\nLangkah 2: Apa yang terjadi pada pasokan (penawaran) di pasar lokal? Turun drastis dari 100% menjadi 30% — berkurang 70%.\nLangkah 3: Apa yang terjadi pada permintaan lokal? Tidak berubah — konsumen lokal masih ingin membeli salak seperti biasa.\nLangkah 4: Dengan penawaran turun drastis tapi permintaan tetap: stok di pasar lokal menipis → pedagang bisa menaikkan harga karena barang langka. Konsumen harus bersaing mendapatkan stok yang terbatas → harga naik di pasar lokal.\nLangkah 5: Ini bukan berarti ekspor buruk — petani mendapat penghasilan lebih tinggi. Tetapi ada **trade-off**: manfaat petani vs. kerugian konsumen lokal yang harus membayar lebih mahal.\nLangkah 6: Jebakan pilihan B: tidak masuk akal secara ekonomi — mengapa petani menjual murah di lokal ketika produknya langka? Justru sebaliknya.\n\n**Materi terkait:**\n- **Ekspor** adalah kegiatan menjual barang/jasa ke luar negeri. Manfaat ekspor: menghasilkan devisa, meningkatkan pendapatan produsen, membuka lapangan kerja. Dampak sampingan: bisa mengurangi pasokan dalam negeri dan menaikkan harga lokal.\n- **Harga domestik dan ekspor**: ketika harga ekspor lebih tinggi dari harga lokal, produsen terdorong mengirimkan lebih banyak ke luar negeri → pasokan lokal berkurang → harga lokal naik. Ini disebut efek **parity price** atau keselarasan harga internasional-domestik.\n- **Kebijakan pemerintah**: untuk melindungi konsumen dalam negeri, pemerintah terkadang membatasi ekspor barang tertentu (misalnya beras, minyak goreng) atau menetapkan kuota ekspor.\n\nInsight kunci: Perdagangan internasional memberi manfaat besar (produsen lebih kaya, negara dapat devisa), tetapi selalu ada **distribusi manfaat dan beban** yang perlu diperhatikan. Yang mendapat manfaat (petani) dan yang menanggung beban (konsumen lokal) bisa berbeda pihak — dan peran pemerintah adalah menjaga keseimbangan agar semua pihak tidak dirugikan terlalu besar.\nKenapa opsi lain salah: B terbalik dari logika ekonomi; C terlalu ekstrem — petani kemungkinan masih menjual sisa 30% ke lokal; D ada sedikit kebenaran tentang motivasi kualitas, tapi tidak relevan dengan pertanyaan tentang dampak pasar lokal.\nJawaban akhir: **Pasokan lokal berkurang → harga salak di pasar lokal naik, konsumen lokal kesulitan mendapat salak murah**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Sosiologi",
+    "subtopic": "Norma & nilai sosial",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Di kantin sekolah selalu ada antrean yang teratur setiap jam makan siang. Namun suatu hari, sekelompok siswa kelas 6 menerobos antrean langsung ke bagian depan tanpa permisi. Siswa-siswa yang sudah menunggu lama merasa tidak adil dan beberapa terlihat kesal.\n\nMengapa **antre** dianggap sebagai norma sosial yang penting dalam kehidupan bersama?",
+    "options": [
+      "Karena antre diwajibkan oleh undang-undang negara dan ada sanksi hukum resmi bagi siapapun yang menerobosnya, sehingga perubahan status sosial dianggap terjadi tanpa pengaruh pendidikan, pekerjaan, atau jaringan sosial",
+      "Karena antre hanya perlu dilakukan di sekolah, sedangkan di tempat lain tidak diperlukan",
+      "Karena antre adalah aturan tidak tertulis yang menjamin keadilan (siapa datang lebih awal dilayani lebih dulu) dan menjaga ketertiban serta kenyamanan semua orang",
+      "Karena antre memastikan bahwa siswa yang lebih kuat dan lebih besar mendapat giliran terlebih dahulu"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pahami arti norma sosial. Norma sosial adalah aturan atau patokan perilaku yang disepakati bersama oleh masyarakat/kelompok untuk menjaga keteraturan hidup bersama. Norma bisa tertulis (hukum) dan tidak tertulis (adat, sopan santun).\nLangkah 2: Antre adalah contoh norma sosial **tidak tertulis** — tidak ada undang-undang yang secara spesifik mewajibkan antre di kantin, tetapi semua orang tahu itu aturan yang wajar dan adil.\nLangkah 3: Fungsi antre: (1) **Keadilan** — siapa datang duluan, dilayani duluan (prinsip *first come, first served*); (2) **Ketertiban** — mencegah dorong-dorongan dan kekacauan; (3) **Kenyamanan bersama** — semua orang punya kesempatan yang setara untuk dilayani tanpa harus bersaing dengan kekuatan fisik.\nLangkah 4: Jika tidak ada norma antre, yang menang adalah yang paling kuat atau paling berani menerobos — ini tidak adil dan menciptakan konflik.\nLangkah 5: Mengapa menerobos antrean terasa tidak adil? Karena pelanggar menikmati manfaat (dilayani cepat) tanpa menanggung kewajiban (menunggu) yang ditanggung semua orang lain.\n\n**Materi terkait:**\n- **Jenis norma sosial**: (1) *Cara (usage)*: kebiasaan ringan, misal cara menyapa. (2) *Kebiasaan (folkways)*: pola perilaku yang diikuti secara umum, misal antre. (3) *Tata kelakuan (mores)*: norma lebih kuat dengan sanksi sosial, misal melarang mencuri. (4) *Adat istiadat (customs)*: norma tertua yang menjadi identitas kelompok.\n- **Sanksi sosial**: norma dijaga bukan hanya oleh hukum tetapi juga oleh sanksi sosial — rasa malu, kecaman, atau penolakan dari kelompok bagi yang melanggar. Dalam skenario ini, tatapan kesal teman-teman adalah bentuk sanksi sosial.\n- **Norma sosial dan ketertiban**: tanpa norma, kehidupan bersama akan menjadi kacau. Norma membuat kita bisa memprediksi perilaku satu sama lain dan bekerja sama secara efisien.\n\nInsight kunci: Norma seperti antre mungkin terlihat sepele, tetapi ia mencerminkan nilai mendasar: **keadilan dan penghormatan terhadap hak orang lain**. Masyarakat yang warganya secara sukarela mengikuti norma sosial tidak tertulis adalah masyarakat yang sehat — karena ketertiban datang dari dalam diri, bukan dari paksaan hukum.\nJawaban akhir: **Antre menjamin keadilan (siapa duluan dilayani duluan) dan menjaga ketertiban serta kenyamanan bersama**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Interaksi sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Keluarga Pak Wibowo dari Jawa pindah ke Kota Makassar, Sulawesi Selatan. Awalnya mereka merasa asing dengan bahasa, makanan, dan kebiasaan setempat. Namun setelah 10 tahun tinggal, anak-anak Pak Wibowo sudah fasih berbicara bahasa Makassar, ikut serta dalam upacara adat setempat, dan tidak lagi merasa berbeda dengan teman-teman Makassar mereka — meski keluarga ini masih mengingat dan menghargai asal-usul Jawa mereka.\"*\n\nProses sosial yang dialami keluarga Pak Wibowo paling tepat disebut ...",
+    "options": [
+      "Konflik budaya, karena bertemu dua budaya yang berbeda pasti menimbulkan pertentangan dan perselisihan, karena konflik sosial dianggap selesai sendiri tanpa komunikasi, aturan, atau pihak penengah",
+      "Segregasi — pemisahan kelompok berdasarkan perbedaan budaya sehingga tidak saling berbaur",
+      "Globalisasi — pertukaran budaya yang terjadi karena pengaruh teknologi dan komunikasi digital",
+      "Asimilasi — proses di mana individu atau kelompok dari budaya berbeda menyerap dan menyesuaikan diri dengan budaya setempat hingga membaur menjadi bagian dari masyarakat baru"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Identifikasi ciri-ciri proses yang dialami keluarga Pak Wibowo: (1) awalnya asing dengan budaya Makassar, (2) setelah waktu lama, menyerap bahasa dan kebiasaan setempat, (3) anak-anak tidak lagi terasa berbeda, (4) namun masih mengingat asal-usul Jawa. Ini adalah proses bertahap penyesuaian dan pembauran.\nLangkah 2: Cocokkan dengan definisi:\n- **Asimilasi**: proses penyerapan budaya baru hingga individu/kelompok pendatang membaur dengan masyarakat setempat. Cirri khas: bahasa berubah, kebiasaan berubah, identitas melebar. → Ini cocok.\n- **Akulturasi**: perpaduan dua budaya yang menghasilkan budaya baru, sambil keduanya masih mempertahankan ciri khasnya masing-masing. (Berbeda sedikit dari asimilasi — pada akulturasi, identitas asal lebih kuat dipertahankan).\n- **Segregasi**: pemisahan, bukan pembauran. Berlawanan dari skenario ini.\n- **Globalisasi**: proses yang lebih makro dan melibatkan teknologi, komunikasi, perdagangan internasional — bukan sekadar satu keluarga pindah kota.\nLangkah 3: Kunci pembeda: keluarga Pak Wibowo *membaur* dengan masyarakat Makassar, bukan *terpisah* (segregasi) dan bukan *konflik* (konflik sosial). → Asimilasi.\nLangkah 4: Baca informasi penting pada soal terlebih dahulu, lalu pisahkan antara fakta yang diberikan dan dugaan yang tidak tertulis. Pada soal sosiologi seperti ini, jawaban harus bertumpu pada bukti dalam teks, data, atau situasi, bukan pada kesan pertama.\n\n**Materi terkait:**\n- **Asimilasi vs. Akulturasi**: asimilasi = pembauran lebih dalam di mana identitas asal mulai tergantikan oleh budaya baru. Akulturasi = dua budaya berpadu tetapi keduanya masih tampak. Contoh akulturasi: bangunan masjid bergaya Jawa (atap bersusun) adalah perpaduan Islam dan budaya Jawa.\n- **Asimilasi dalam konteks Indonesia**: Indonesia sebagai negara kepulauan dengan lebih dari 300 suku bangsa terus mengalami proses asimilasi dan akulturasi antar suku di berbagai kota besar. Ini memperkaya budaya nasional.\n- **Proses sosial asosiatif**: asimilasi termasuk proses asosiatif (membangun keharmonisan dan integrasi). Proses disosiatif (melemahkan keharmonisan) meliputi: konflik, persaingan, dan kontravensi.\n\nInsight kunci: Asimilasi adalah proses yang **membutuhkan waktu, keterbukaan, dan niat baik** dari kedua pihak — pendatang yang mau beradaptasi dan masyarakat setempat yang mau menerima. Ketika berhasil, asimilasi memperkaya kedua budaya dan memperkuat ikatan sosial.\nKenapa opsi lain salah: A (konflik) berlawanan dengan skenario yang menunjukkan adaptasi harmonis; C (segregasi) adalah pemisahan, bukan pembauran; D (globalisasi) adalah proses makro yang tidak tepat untuk menggambarkan satu keluarga pindah kota.\nJawaban akhir: **Asimilasi — penyerapan budaya setempat hingga membaur menjadi bagian dari masyarakat baru**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Sosiologi",
+    "subtopic": "Mobilitas sosial",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Fajar tumbuh di keluarga buruh tani dengan penghasilan Rp800.000 per bulan. Setelah lulus SMA, ia mendapat beasiswa penuh Bidikmisi dari pemerintah untuk kuliah di universitas negeri. Ia berjuang keras selama 6 tahun, lulus sebagai dokter, dan kini bekerja di kota dengan penghasilan Rp15.000.000 per bulan. Anak-anak Fajar tumbuh dalam kondisi ekonomi yang sangat berbeda dari masa kecilnya.\"*\n\nDari perspektif sosiologi, program beasiswa seperti Bidikmisi berperan penting dalam masyarakat karena ...",
+    "options": [
+      "Memastikan semua dokter di Indonesia berasal dari keluarga tidak mampu agar lebih berempati kepada pasien miskin",
+      "Menciptakan jalur bagi individu dari lapisan sosial bawah untuk mengalami mobilitas vertikal ke atas melalui pendidikan — memutus siklus kemiskinan antargenerasi",
+      "Membatasi jumlah lulusan dokter agar tidak terlalu banyak sehingga gaji dokter tetap tinggi dan menarik",
+      "Menjamin bahwa semua anak dari keluarga tidak mampu otomatis bisa masuk universitas negeri tanpa harus belajar dan bersaing, karena tindakan individu dianggap tidak berkaitan dengan tanggung jawab sosial di lingkungan bersama"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Identifikasi perubahan yang dialami Fajar: dari keluarga buruh tani (penghasilan Rp800.000/bln) → dokter (Rp15.000.000/bln). Ini adalah perubahan status sosial-ekonomi yang dramatis ke atas.\nLangkah 2: Dalam sosiologi, ini disebut **mobilitas vertikal ke atas** (*upward vertical mobility*) — perpindahan ke lapisan sosial yang lebih tinggi.\nLangkah 3: Apa yang memungkinkan mobilitas ini? Beasiswa Bidikmisi menghilangkan hambatan finansial yang biasanya mencegah anak dari keluarga miskin mengakses pendidikan tinggi. Tanpa beasiswa, biaya kuliah akan menjadi hambatan tidak terkalahkan.\nLangkah 4: Konsep **siklus kemiskinan antargenerasi**: tanpa intervensi, kemiskinan cenderung diwariskan dari orang tua ke anak → anak miskin tidak mampu sekolah tinggi → tidak dapat pekerjaan bergaji tinggi → tetap miskin → anak mereka juga miskin. Beasiswa 'memotong' siklus ini.\nLangkah 5: Dampak pada generasi berikutnya: anak-anak Fajar tumbuh di keluarga menengah-atas — mereka memiliki akses lebih baik ke pendidikan, gizi, dan peluang. Satu beasiswa bisa mengubah nasib tidak hanya satu orang, tetapi beberapa generasi.\nLangkah 6: Jebakan pilihan D: beasiswa bukan jaminan otomatis masuk universitas — tetap ada seleksi ketat (nilai akademis). Beasiswa menghilangkan hambatan finansial, bukan menghapus syarat akademis.\n\n**Materi terkait:**\n- **Mobilitas sosial antargenerasi** (*intergenerational mobility*): perubahan status sosial dibandingkan orang tua. Fajar mengalami mobilitas antargenerasi yang sangat besar — dari anak buruh tani menjadi dokter.\n- **Faktor penghambat mobilitas sosial**: kemiskinan, diskriminasi, akses terbatas ke pendidikan, dan koneksi sosial yang sempit. Program beasiswa adalah intervensi kebijakan untuk mengatasi hambatan pertama dan kedua.\n- **Siklus kemiskinan**: kemiskinan → akses terbatas ke pendidikan → pekerjaan bergaji rendah → tetap miskin → diwariskan ke anak. Memutus siklus ini adalah salah satu tujuan utama kebijakan sosial.\n- **Program Bidikmisi** (kini KIP Kuliah): program pemerintah Indonesia yang memberikan beasiswa penuh kepada mahasiswa dari keluarga tidak mampu untuk kuliah di universitas negeri maupun swasta terakreditasi.\n\nInsight kunci: **Pendidikan adalah elevator sosial yang paling kuat** — tetapi hanya jika semua orang punya akses ke elevator itu. Beasiswa adalah cara memastikan bahwa pintu elevator terbuka untuk semua, bukan hanya untuk yang sudah kaya. Ini adalah investasi masyarakat pada potensi manusianya.\nKenapa opsi lain salah: A terlalu sempit dan membatasi profesi dokter pada satu kelompok tertentu; B bertentangan dengan tujuan beasiswa yang justru ingin memperluas akses; D salah karena beasiswa tetap memerlukan seleksi akademis.\nJawaban akhir: **Beasiswa menciptakan jalur mobilitas vertikal ke atas dan memutus siklus kemiskinan antargenerasi**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "hard",
+    "topic": "Sosiologi",
+    "subtopic": "Lembaga sosial",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah skenario berikut:\n\n*\"Sebuah penelitian menemukan bahwa cara media massa (TV, surat kabar, media online) memberitakan suatu isu sangat memengaruhi opini publik. Ketika media banyak memberitakan kejahatan dengan nada dramatis, survei menunjukkan masyarakat merasa situasi keamanan memburuk — meski data polisi menunjukkan angka kejahatan justru menurun. Sebaliknya, saat media gencar mengampanyekan kebiasaan mencuci tangan, angka penyakit diare di masyarakat turun signifikan.\"*\n\nBerdasarkan skenario, media massa dapat dikategorikan sebagai **lembaga sosial** karena ...",
+    "options": [
+      "Media massa adalah perusahaan bisnis semata yang tujuannya hanya mencari keuntungan dari iklan, tidak memiliki fungsi sosial yang bermakna, karena tindakan individu dianggap tidak berkaitan dengan tanggung jawab sosial di lingkungan bersama, karena norma, peran lembaga, dan interaksi sosial dianggap tidak memengaruhi perilaku warga",
+      "Hanya media yang dimiliki oleh pemerintah yang bisa dikategorikan sebagai lembaga sosial; media swasta tidak termasuk",
+      "Media massa memiliki struktur (redaksi, wartawan, editor), aturan (kode etik jurnalistik), dan fungsi sosial nyata (membentuk opini, mempengaruhi perilaku, mendistribusikan informasi) — memenuhi syarat sebagai lembaga yang mengatur dan memengaruhi kehidupan masyarakat",
+      "Media massa baru bisa dikategorikan sebagai lembaga sosial jika telah terdaftar resmi di Kementerian Sosial Republik Indonesia"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pahami dulu apa yang membuat sesuatu menjadi **lembaga sosial**. Lembaga sosial (*social institution*) memiliki ciri: (1) memiliki **struktur** yang terorganisasi, (2) memiliki **norma/aturan** yang mengatur perilaku anggotanya, dan (3) memiliki **fungsi sosial** — memenuhi kebutuhan tertentu masyarakat dan memengaruhi perilaku anggotanya.\nLangkah 2: Cocokkan media massa dengan ketiga ciri:\n- **Struktur**: ada redaksi, wartawan, editor, fotografer, pimpinan redaksi — terorganisasi jelas.\n- **Norma/aturan**: ada Kode Etik Jurnalistik yang mengatur bagaimana berita harus diliput, diverifikasi, dan disajikan. Ada Dewan Pers yang mengawasi.\n- **Fungsi sosial**: skenario membuktikan fungsi nyata — media memengaruhi persepsi tentang keamanan dan memengaruhi perilaku kesehatan (cuci tangan). Media mendistribusikan informasi, membentuk opini publik, dan memengaruhi keputusan masyarakat.\nLangkah 3: Semua tiga syarat terpenuhi → media massa adalah lembaga sosial yang nyata dan penting.\nLangkah 4: Evaluasi pilihan B: meski media memang butuh keuntungan untuk beroperasi, fakta bahwa media memiliki fungsi bisnis tidak menghilangkan fungsi sosialnya. Rumah sakit swasta juga mencari untung tetapi tetap berfungsi sebagai lembaga sosial.\nLangkah 5: Jebakan pilihan C dan D: status kepemilikan (pemerintah vs. swasta) atau pendaftaran formal bukan penentu apakah sesuatu adalah lembaga sosial — fungsi dan strukturnya yang menentukan.\n\n**Materi terkait:**\n- **Lima lembaga sosial utama** menurut sosiologi klasik: keluarga, pendidikan, agama, ekonomi, dan politik. Namun sosiologi modern menambahkan **media massa** dan **sains/teknologi** sebagai lembaga sosial penting di abad ke-21.\n- **Fungsi media massa**: (1) *informasi* — menyebarkan berita dan fakta; (2) *pendidikan* — menjelaskan isu kompleks; (3) *hiburan*; (4) *watchdog* — mengawasi kekuasaan; (5) *agenda setting* — menentukan isu mana yang dianggap penting oleh publik.\n- **Efek media pada perilaku**: penelitian menunjukkan media bisa menciptakan *moral panic* (kepanikan yang berlebihan dari kenyataan) atau sebaliknya mendorong perubahan perilaku positif. Ini membuktikan betapa kuat pengaruh media sebagai lembaga sosial.\n- **Kode Etik Jurnalistik** di Indonesia diatur oleh Dewan Pers dan mengharuskan wartawan untuk menyajikan berita yang faktual, berimbang, dan tidak memihak.\n\nInsight kunci: Di era modern, media massa mungkin adalah **lembaga sosial yang paling berpengaruh dalam kehidupan sehari-hari** — lebih sering diakses oleh banyak orang dibanding lembaga agama atau pendidikan. Kesadaran bahwa media *adalah* lembaga sosial membantu kita menjadi konsumen media yang lebih kritis.\nKenapa opsi lain salah: B mengabaikan fungsi sosial nyata yang dibuktikan skenario; C dan D membuat batasan sempit yang tidak berdasar pada definisi sosiologis lembaga sosial.\nJawaban akhir: **Media massa memiliki struktur, kode etik, dan fungsi sosial nyata — memenuhi syarat sebagai lembaga sosial**."
+  },
+  {
+    "subject": "ips",
+    "difficulty": "easy",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Grafik sosial ekonomi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data komposisi pengeluaran keluarga Bu Santi per bulan (penghasilan total Rp5.000.000):\n\n| Jenis pengeluaran | Persentase (%) |\n|---|---|\n| Makanan & minuman | 40% |\n| Pendidikan anak | 25% |\n| Transportasi | 15% |\n| Kesehatan | 10% |\n| Hiburan & lainnya | 10% |\n\nBerdasarkan data, berapa rupiah yang dikeluarkan keluarga Bu Santi untuk **pendidikan anak** setiap bulan?",
+    "options": [
+      "Rp500.000",
+      "Rp1.250.000",
+      "Rp750.000",
+      "Rp1.000.000"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Tentukan persentase pengeluaran pendidikan dari tabel: **25%**.\nLangkah 2: Hitung nilai rupiah dari 25% total penghasilan:\nPengeluaran pendidikan = 25% × Rp5.000.000\n= 0,25 × Rp5.000.000\n= **Rp1.250.000**\nLangkah 3: Verifikasi dengan menghitung semua kategori:\n- Makanan: 40% × Rp5.000.000 = Rp2.000.000\n- Pendidikan: 25% × Rp5.000.000 = Rp1.250.000 ✓\n- Transportasi: 15% × Rp5.000.000 = Rp750.000\n- Kesehatan: 10% × Rp5.000.000 = Rp500.000\n- Hiburan: 10% × Rp5.000.000 = Rp500.000\n- Total: Rp2.000.000 + Rp1.250.000 + Rp750.000 + Rp500.000 + Rp500.000 = **Rp5.000.000** ✓\nLangkah 4: Jebakan pilihan C: Rp1.000.000 = 20% dari Rp5.000.000 — ini salah baca persentase (20% bukan 25%).\nJebakan pilihan A: Rp500.000 = 10% — ini adalah porsi kesehatan atau hiburan, bukan pendidikan.\n\n**Materi terkait:**\n- **Membaca tabel distribusi persentase** adalah keterampilan dasar literasi data. Langkah-langkahnya: (1) temukan persentase yang diminta, (2) kalikan dengan total nilai, (3) verifikasi semua persentase berjumlah 100%.\n- **Anggaran keluarga**: cara keluarga mengalokasikan penghasilan mencerminkan prioritas dan kondisi ekonominya. Keluarga yang mengalokasikan lebih banyak untuk pendidikan (25%) daripada hiburan (10%) menunjukkan prioritas pada investasi jangka panjang.\n- **Prinsip anggaran 50-30-20**: salah satu panduan pengelolaan keuangan — 50% untuk kebutuhan pokok, 30% untuk keinginan, 20% untuk tabungan/investasi. Keluarga Bu Santi mengalokasikan 40% untuk makanan, 25% pendidikan — cukup berbeda dari panduan ini namun wajar untuk keluarga dengan anak sekolah.\n\nInsight kunci: Kemampuan **menghitung persentase dari total** adalah keterampilan yang sangat berguna dalam kehidupan sehari-hari — dari memahami diskon toko (diskon 30% artinya hemat berapa rupiah?) hingga membaca laporan keuangan. Kuncinya adalah: persen × total = nilai.\nJawaban akhir: **Rp1.250.000** (25% × Rp5.000.000).",
+    "content": {
+      "question": "Perhatikan data komposisi pengeluaran keluarga Bu Santi per bulan (penghasilan total Rp5.000.000):\n\n| Jenis pengeluaran | Persentase (%) |\n|---|---|\n| Makanan & minuman | 40% |\n| Pendidikan anak | 25% |\n| Transportasi | 15% |\n| Kesehatan | 10% |\n| Hiburan & lainnya | 10% |\n\nBerdasarkan data, berapa rupiah yang dikeluarkan keluarga Bu Santi untuk **pendidikan anak** setiap bulan?",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data komposisi pengeluaran keluarga Bu Santi per bulan (penghasilan total Rp5.000.000):"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Jenis pengeluaran"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Persentase (%)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Makanan & minuman"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "40%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Pendidikan anak"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "25%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Transportasi"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kesehatan"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hiburan & lainnya"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Berdasarkan data, berapa rupiah yang dikeluarkan keluarga Bu Santi untuk pendidikan anak setiap bulan?"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Rp500.000",
+        "Rp1.250.000",
+        "Rp750.000",
+        "Rp1.000.000"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rp500.000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rp1.250.000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rp750.000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rp1.000.000"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 1,
+      "rationale": "Langkah 1: Tentukan persentase pengeluaran pendidikan dari tabel: **25%**.\nLangkah 2: Hitung nilai rupiah dari 25% total penghasilan:\nPengeluaran pendidikan = 25% × Rp5.000.000\n= 0,25 × Rp5.000.000\n= **Rp1.250.000**\nLangkah 3: Verifikasi dengan menghitung semua kategori:\n- Makanan: 40% × Rp5.000.000 = Rp2.000.000\n- Pendidikan: 25% × Rp5.000.000 = Rp1.250.000 ✓\n- Transportasi: 15% × Rp5.000.000 = Rp750.000\n- Kesehatan: 10% × Rp5.000.000 = Rp500.000\n- Hiburan: 10% × Rp5.000.000 = Rp500.000\n- Total: Rp2.000.000 + Rp1.250.000 + Rp750.000 + Rp500.000 + Rp500.000 = **Rp5.000.000** ✓\nLangkah 4: Jebakan pilihan C: Rp1.000.000 = 20% dari Rp5.000.000 — ini salah baca persentase (20% bukan 25%).\nJebakan pilihan A: Rp500.000 = 10% — ini adalah porsi kesehatan atau hiburan, bukan pendidikan.\n\n**Materi terkait:**\n- **Membaca tabel distribusi persentase** adalah keterampilan dasar literasi data. Langkah-langkahnya: (1) temukan persentase yang diminta, (2) kalikan dengan total nilai, (3) verifikasi semua persentase berjumlah 100%.\n- **Anggaran keluarga**: cara keluarga mengalokasikan penghasilan mencerminkan prioritas dan kondisi ekonominya. Keluarga yang mengalokasikan lebih banyak untuk pendidikan (25%) daripada hiburan (10%) menunjukkan prioritas pada investasi jangka panjang.\n- **Prinsip anggaran 50-30-20**: salah satu panduan pengelolaan keuangan — 50% untuk kebutuhan pokok, 30% untuk keinginan, 20% untuk tabungan/investasi. Keluarga Bu Santi mengalokasikan 40% untuk makanan, 25% pendidikan — cukup berbeda dari panduan ini namun wajar untuk keluarga dengan anak sekolah.\n\nInsight kunci: Kemampuan **menghitung persentase dari total** adalah keterampilan yang sangat berguna dalam kehidupan sehari-hari — dari memahami diskon toko (diskon 30% artinya hemat berapa rupiah?) hingga membaca laporan keuangan. Kuncinya adalah: persen × total = nilai.\nJawaban akhir: **Rp1.250.000** (25% × Rp5.000.000).",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Tentukan persentase pengeluaran pendidikan dari tabel: 25%.\nLangkah 2: Hitung nilai rupiah dari 25% total penghasilan:\nPengeluaran pendidikan = 25% × Rp5.000.000\n= 0,25 × Rp5.000.000\n= Rp1.250.000\nLangkah 3: Verifikasi dengan menghitung semua kategori:\n- Makanan: 40% × Rp5.000.000 = Rp2.000.000\n- Pendidikan: 25% × Rp5.000.000 = Rp1.250.000 ✓\n- Transportasi: 15% × Rp5.000.000 = Rp750.000\n- Kesehatan: 10% × Rp5.000.000 = Rp500.000\n- Hiburan: 10% × Rp5.000.000 = Rp500.000\n- Total: Rp2.000.000 + Rp1.250.000 + Rp750.000 + Rp500.000 + Rp500.000 = Rp5.000.000 ✓\nLangkah 4: Jebakan pilihan C: Rp1.000.000 = 20% dari Rp5.000.000 — ini salah baca persentase (20% bukan 25%).\nJebakan pilihan A: Rp500.000 = 10% — ini adalah porsi kesehatan atau hiburan, bukan pendidikan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Membaca tabel distribusi persentase adalah keterampilan dasar literasi data. Langkah-langkahnya: (1) temukan persentase yang diminta, (2) kalikan dengan total nilai, (3) verifikasi semua persentase berjumlah 100%.\n- Anggaran keluarga: cara keluarga mengalokasikan penghasilan mencerminkan prioritas dan kondisi ekonominya. Keluarga yang mengalokasikan lebih banyak untuk pendidikan (25%) daripada hiburan (10%) menunjukkan prioritas pada investasi jangka panjang.\n- Prinsip anggaran 50-30-20: salah satu panduan pengelolaan keuangan — 50% untuk kebutuhan pokok, 30% untuk keinginan, 20% untuk tabungan/investasi. Keluarga Bu Santi mengalokasikan 40% untuk makanan, 25% pendidikan — cukup berbeda dari panduan ini namun wajar untuk keluarga dengan anak sekolah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Kemampuan menghitung persentase dari total adalah keterampilan yang sangat berguna dalam kehidupan sehari-hari — dari memahami diskon toko (diskon 30% artinya hemat berapa rupiah?) hingga membaca laporan keuangan. Kuncinya adalah: persen × total = nilai.\nJawaban akhir: Rp1.250.000 (25% × Rp5.000.000)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Kependudukan",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data struktur usia penduduk dua kota berikut:\n\n| Kelompok usia | Kota Maju (% penduduk) | Kota Berkembang (% penduduk) |\n|---|---|---|\n| 0–14 tahun (anak-anak) | 10% | 42% |\n| 15–64 tahun (produktif) | 65% | 53% |\n| 65 tahun ke atas (lansia) | 25% | 5% |\n\nKota mana yang kemungkinan besar akan mengalami **kekurangan tenaga kerja** di masa depan (15–20 tahun ke depan), dan mengapa?",
+    "options": [
+      "Kota Maju, karena kelompok anak-anak (0–14 tahun) hanya 10% — artinya 15–20 tahun ke depan, sangat sedikit generasi baru yang akan masuk angkatan kerja untuk menggantikan yang pensiun",
+      "Kota Berkembang, karena banyaknya anak-anak (42%) berarti tenaga kerjanya terlalu padat dan tidak tertampung, sehingga hubungan antarvariabel dianggap sama tanpa melihat kecenderungan naik turun pada data",
+      "Keduanya sama-sama akan kekurangan tenaga kerja karena total penduduk kedua kota sama",
+      "Kota Maju tidak punya masalah karena sekarang memiliki kelompok usia produktif terbesar (65%)"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Pahami cara membaca tabel. Kelompok usia 0–14 tahun adalah generasi yang dalam 15–20 tahun ke depan akan beranjak menjadi tenaga kerja usia produktif (15–35 tahun). Mereka adalah 'cadangan' tenaga kerja masa depan.\nLangkah 2: Analisis Kota Maju: anak-anak hanya **10%** dari penduduk. Artinya, dalam 15–20 tahun, sangat sedikit orang baru yang akan memasuki angkatan kerja. Sementara itu, 25% penduduk sudah lansia (akan terus bertambah) dan kelompok produktif yang ada sekarang akan terus menua dan pensiun.\nLangkah 3: Analisis Kota Berkembang: anak-anak **42%** dari penduduk. Dalam 15–20 tahun, kelompok besar ini akan masuk angkatan kerja — justru bisa menghadapi tantangan **kelebihan** tenaga kerja (pengangguran) jika lapangan kerja tidak tersedia cukup.\nLangkah 4: Kesimpulan: Kota Maju akan kekurangan tenaga kerja (sedikit generasi baru), Kota Berkembang justru bisa kelebihan tenaga kerja (banyak generasi baru).\nLangkah 5: Jebakan pilihan D: benar bahwa Kota Maju sekarang punya banyak tenaga kerja produktif (65%), tetapi yang menjadi masalah adalah **masa depan** — saat generasi ini menua dan pensiun, siapa yang menggantikan? Dengan hanya 10% anak-anak, penggantinya akan sangat sedikit.\n\n**Materi terkait:**\n- **Piramida penduduk**: representasi grafis distribusi usia dan jenis kelamin. Tiga tipe utama:\n  - *Ekspansif* (berbentuk piramida lebar di bawah): banyak anak, sedikit lansia → ciri negara berkembang. Contoh: Kota Berkembang dalam soal.\n  - *Konstruktif/stasioner* (bentuk seperti sarang lebah): usia terdistribusi merata → ciri negara maju stabil.\n  - *Tua/labu* (ramping di bawah, lebar di tengah-atas): sedikit anak, banyak lansia → ciri negara maju dengan angka kelahiran rendah. Contoh: Kota Maju dalam soal.\n- **Bonus demografi**: kondisi ketika kelompok usia produktif (15–64) sangat besar dibanding kelompok non-produktif. Indonesia diperkirakan menikmati bonus demografi sekitar 2020–2030-an — peluang besar jika dimanfaatkan dengan menciptakan lapangan kerja dan pendidikan.\n- **Masalah penuaan penduduk** (*aging population*): Jepang, Korea Selatan, dan Eropa menghadapi masalah kekurangan tenaga kerja dan beban biaya lansia yang sangat besar.\n\nInsight kunci: Struktur usia penduduk hari ini adalah **cermin kondisi tenaga kerja masa depan**. Kota/negara yang tidak memiliki cukup anak-anak sekarang akan kekurangan tenaga kerja dalam 15–20 tahun — ini adalah salah satu tantangan terbesar negara-negara maju di dunia saat ini.\nKenapa opsi lain salah: A terbalik logikanya — banyak anak justru berarti banyak tenaga kerja masa depan, bukan kekurangan; C tidak dapat disimpulkan karena total penduduk tidak diketahui dari tabel; D hanya melihat kondisi sekarang, bukan proyeksi masa depan.\nJawaban akhir: **Kota Maju — hanya 10% anak-anak berarti sedikit sekali generasi baru yang akan menggantikan angkatan kerja yang pensiun**.",
+    "content": {
+      "question": "Perhatikan data struktur usia penduduk dua kota berikut:\n\n| Kelompok usia | Kota Maju (% penduduk) | Kota Berkembang (% penduduk) |\n|---|---|---|\n| 0–14 tahun (anak-anak) | 10% | 42% |\n| 15–64 tahun (produktif) | 65% | 53% |\n| 65 tahun ke atas (lansia) | 25% | 5% |\n\nKota mana yang kemungkinan besar akan mengalami **kekurangan tenaga kerja** di masa depan (15–20 tahun ke depan), dan mengapa?",
+      "questionRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhatikan data struktur usia penduduk dua kota berikut:"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "content": [
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kelompok usia"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kota Maju (% penduduk)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableHeader",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Kota Berkembang (% penduduk)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "0–14 tahun (anak-anak)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "10%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "42%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "15–64 tahun (produktif)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "65%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "53%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "65 tahun ke atas (lansia)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "25%"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "5%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kota mana yang kemungkinan besar akan mengalami kekurangan tenaga kerja di masa depan (15–20 tahun ke depan), dan mengapa?"
+              }
+            ]
+          }
+        ]
+      },
+      "options": [
+        "Kota Maju, karena kelompok anak-anak (0–14 tahun) hanya 10% — artinya 15–20 tahun ke depan, sangat sedikit generasi baru yang akan masuk angkatan kerja untuk menggantikan yang pensiun",
+        "Kota Berkembang, karena banyaknya anak-anak (42%) berarti tenaga kerjanya terlalu padat dan tidak tertampung, sehingga hubungan antarvariabel dianggap sama tanpa melihat kecenderungan naik turun pada data",
+        "Keduanya sama-sama akan kekurangan tenaga kerja karena total penduduk kedua kota sama",
+        "Kota Maju tidak punya masalah karena sekarang memiliki kelompok usia produktif terbesar (65%)"
+      ],
+      "optionsRich": [
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kota Maju, karena kelompok anak-anak (0–14 tahun) hanya 10% — artinya 15–20 tahun ke depan, sangat sedikit generasi baru yang akan masuk angkatan kerja untuk menggantikan yang pensiun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kota Berkembang, karena banyaknya anak-anak (42%) berarti tenaga kerjanya terlalu padat dan tidak tertampung, sehingga hubungan antarvariabel dianggap sama tanpa melihat kecenderungan naik turun pada data"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Keduanya sama-sama akan kekurangan tenaga kerja karena total penduduk kedua kota sama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kota Maju tidak punya masalah karena sekarang memiliki kelompok usia produktif terbesar (65%)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "answer": 0,
+      "rationale": "Langkah 1: Pahami cara membaca tabel. Kelompok usia 0–14 tahun adalah generasi yang dalam 15–20 tahun ke depan akan beranjak menjadi tenaga kerja usia produktif (15–35 tahun). Mereka adalah 'cadangan' tenaga kerja masa depan.\nLangkah 2: Analisis Kota Maju: anak-anak hanya **10%** dari penduduk. Artinya, dalam 15–20 tahun, sangat sedikit orang baru yang akan memasuki angkatan kerja. Sementara itu, 25% penduduk sudah lansia (akan terus bertambah) dan kelompok produktif yang ada sekarang akan terus menua dan pensiun.\nLangkah 3: Analisis Kota Berkembang: anak-anak **42%** dari penduduk. Dalam 15–20 tahun, kelompok besar ini akan masuk angkatan kerja — justru bisa menghadapi tantangan **kelebihan** tenaga kerja (pengangguran) jika lapangan kerja tidak tersedia cukup.\nLangkah 4: Kesimpulan: Kota Maju akan kekurangan tenaga kerja (sedikit generasi baru), Kota Berkembang justru bisa kelebihan tenaga kerja (banyak generasi baru).\nLangkah 5: Jebakan pilihan D: benar bahwa Kota Maju sekarang punya banyak tenaga kerja produktif (65%), tetapi yang menjadi masalah adalah **masa depan** — saat generasi ini menua dan pensiun, siapa yang menggantikan? Dengan hanya 10% anak-anak, penggantinya akan sangat sedikit.\n\n**Materi terkait:**\n- **Piramida penduduk**: representasi grafis distribusi usia dan jenis kelamin. Tiga tipe utama:\n  - *Ekspansif* (berbentuk piramida lebar di bawah): banyak anak, sedikit lansia → ciri negara berkembang. Contoh: Kota Berkembang dalam soal.\n  - *Konstruktif/stasioner* (bentuk seperti sarang lebah): usia terdistribusi merata → ciri negara maju stabil.\n  - *Tua/labu* (ramping di bawah, lebar di tengah-atas): sedikit anak, banyak lansia → ciri negara maju dengan angka kelahiran rendah. Contoh: Kota Maju dalam soal.\n- **Bonus demografi**: kondisi ketika kelompok usia produktif (15–64) sangat besar dibanding kelompok non-produktif. Indonesia diperkirakan menikmati bonus demografi sekitar 2020–2030-an — peluang besar jika dimanfaatkan dengan menciptakan lapangan kerja dan pendidikan.\n- **Masalah penuaan penduduk** (*aging population*): Jepang, Korea Selatan, dan Eropa menghadapi masalah kekurangan tenaga kerja dan beban biaya lansia yang sangat besar.\n\nInsight kunci: Struktur usia penduduk hari ini adalah **cermin kondisi tenaga kerja masa depan**. Kota/negara yang tidak memiliki cukup anak-anak sekarang akan kekurangan tenaga kerja dalam 15–20 tahun — ini adalah salah satu tantangan terbesar negara-negara maju di dunia saat ini.\nKenapa opsi lain salah: A terbalik logikanya — banyak anak justru berarti banyak tenaga kerja masa depan, bukan kekurangan; C tidak dapat disimpulkan karena total penduduk tidak diketahui dari tabel; D hanya melihat kondisi sekarang, bukan proyeksi masa depan.\nJawaban akhir: **Kota Maju — hanya 10% anak-anak berarti sedikit sekali generasi baru yang akan menggantikan angkatan kerja yang pensiun**.",
+      "rationaleRich": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Langkah 1: Pahami cara membaca tabel. Kelompok usia 0–14 tahun adalah generasi yang dalam 15–20 tahun ke depan akan beranjak menjadi tenaga kerja usia produktif (15–35 tahun). Mereka adalah 'cadangan' tenaga kerja masa depan.\nLangkah 2: Analisis Kota Maju: anak-anak hanya 10% dari penduduk. Artinya, dalam 15–20 tahun, sangat sedikit orang baru yang akan memasuki angkatan kerja. Sementara itu, 25% penduduk sudah lansia (akan terus bertambah) dan kelompok produktif yang ada sekarang akan terus menua dan pensiun.\nLangkah 3: Analisis Kota Berkembang: anak-anak 42% dari penduduk. Dalam 15–20 tahun, kelompok besar ini akan masuk angkatan kerja — justru bisa menghadapi tantangan kelebihan tenaga kerja (pengangguran) jika lapangan kerja tidak tersedia cukup.\nLangkah 4: Kesimpulan: Kota Maju akan kekurangan tenaga kerja (sedikit generasi baru), Kota Berkembang justru bisa kelebihan tenaga kerja (banyak generasi baru).\nLangkah 5: Jebakan pilihan D: benar bahwa Kota Maju sekarang punya banyak tenaga kerja produktif (65%), tetapi yang menjadi masalah adalah masa depan — saat generasi ini menua dan pensiun, siapa yang menggantikan? Dengan hanya 10% anak-anak, penggantinya akan sangat sedikit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Materi terkait:\n- Piramida penduduk: representasi grafis distribusi usia dan jenis kelamin. Tiga tipe utama:\n  - Ekspansif (berbentuk piramida lebar di bawah): banyak anak, sedikit lansia → ciri negara berkembang. Contoh: Kota Berkembang dalam soal.\n  - Konstruktif/stasioner (bentuk seperti sarang lebah): usia terdistribusi merata → ciri negara maju stabil.\n  - Tua/labu (ramping di bawah, lebar di tengah-atas): sedikit anak, banyak lansia → ciri negara maju dengan angka kelahiran rendah. Contoh: Kota Maju dalam soal.\n- Bonus demografi: kondisi ketika kelompok usia produktif (15–64) sangat besar dibanding kelompok non-produktif. Indonesia diperkirakan menikmati bonus demografi sekitar 2020–2030-an — peluang besar jika dimanfaatkan dengan menciptakan lapangan kerja dan pendidikan.\n- Masalah penuaan penduduk (aging population): Jepang, Korea Selatan, dan Eropa menghadapi masalah kekurangan tenaga kerja dan beban biaya lansia yang sangat besar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Insight kunci: Struktur usia penduduk hari ini adalah cermin kondisi tenaga kerja masa depan. Kota/negara yang tidak memiliki cukup anak-anak sekarang akan kekurangan tenaga kerja dalam 15–20 tahun — ini adalah salah satu tantangan terbesar negara-negara maju di dunia saat ini.\nKenapa opsi lain salah: A terbalik logikanya — banyak anak justru berarti banyak tenaga kerja masa depan, bukan kekurangan; C tidak dapat disimpulkan karena total penduduk tidak diketahui dari tabel; D hanya melihat kondisi sekarang, bukan proyeksi masa depan.\nJawaban akhir: Kota Maju — hanya 10% anak-anak berarti sedikit sekali generasi baru yang akan menggantikan angkatan kerja yang pensiun."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "subject": "ips",
+    "difficulty": "medium",
+    "topic": "Interpretasi Data Sosial",
+    "subtopic": "Studi kasus",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": [
+      "ips-level-2-speed-c"
+    ],
+    "is_active": true,
+    "question": "Bacalah hasil survei berikut:\n\n*\"Survei pada 200 siswa SMP menemukan: (1) 78% pernah membeli barang setelah melihat di media sosial; (2) 65% mengaku membeli barang yang tidak benar-benar dibutuhkan karena terpengaruh konten kreator/influencer; (3) 45% menyesal setelah membeli karena barang tidak sesuai ekspektasi yang dibangun konten media sosial.\"*\n\nBerdasarkan data survei, pola perilaku konsumsi yang paling perlu diperhatikan dan diatasi oleh siswa, orang tua, dan sekolah adalah ...",
+    "options": [
+      "Semua siswa harus segera berhenti menggunakan media sosial agar tidak terpengaruh konten promosi produk apapun, karena perbedaan kategori dianggap tidak penting meskipun datanya menunjukkan jarak yang jelas, sehingga hubungan antarvariabel dianggap sama tanpa melihat kecenderungan naik turun pada data",
+      "Media sosial membuat semua produk terlihat menarik, jadi tidak ada produk yang benar-benar buruk kualitasnya",
+      "Orang tua seharusnya menyita handphone anak agar tidak pernah terpapar media sosial sama sekali",
+      "Tingginya pembelian impulsif yang dipicu konten media sosial (65% membeli barang tidak dibutuhkan, 45% menyesal) menunjukkan perlunya literasi konsumsi — kemampuan membedakan kebutuhan nyata dari keinginan yang dibentuk oleh konten iklan"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Baca data dengan cermat. Tiga temuan kunci:\n- 78%: mayoritas pernah beli karena media sosial (normal di era digital)\n- **65%**: membeli barang yang *tidak dibutuhkan* karena pengaruh influencer → ini adalah *pembelian impulsif*\n- **45%**: menyesal setelah beli → artinya barang tidak memenuhi kebutuhan nyata, hanya memenuhi keinginan yang dipicu konten\nLangkah 2: Identifikasi akar masalah. Permasalahan bukan media sosial itu sendiri, melainkan **ketidakmampuan membedakan kebutuhan nyata dari keinginan yang dipicu iklan/konten**. Ini adalah masalah *literasi konsumsi* yang rendah.\nLangkah 3: Solusi yang tepat: meningkatkan literasi konsumsi — mengajarkan siswa untuk: (1) tanya 'apakah aku benar-benar butuh ini?' sebelum membeli, (2) membandingkan harga dan kualitas, (3) kenali teknik pemasaran yang digunakan influencer, (4) tunda pembelian 24–48 jam untuk mengurangi impulse buying.\nLangkah 4: Evaluasi pilihan ekstrem A dan D: melarang media sosial atau menyita HP adalah solusi yang terlalu drastis dan tidak realistis. Di era digital, kemampuan bernavigasi di media sosial secara bijak jauh lebih berguna daripada larangan total.\nLangkah 5: Pilihan B tidak logis — fakta 45% menyesal justru membuktikan banyak produk tidak sesuai ekspektasi yang dibangun media sosial.\n\n**Materi terkait:**\n- **Pembelian impulsif** (*impulse buying*): keputusan membeli yang tidak direncanakan, didorong oleh emosi atau dorongan sesaat. Media sosial sangat efektif memicu impulse buying melalui: visual menarik, ulasan positif, tawaran terbatas waktu, dan konten influencer yang terasa personal.\n- **Literasi konsumsi**: kemampuan berpikir kritis sebagai konsumen — mengevaluasi iklan, memahami teknik persuasi, membedakan kebutuhan vs. keinginan, dan membuat keputusan beli yang bijak.\n- **Skala prioritas kebutuhan** (relevansi dengan materi ekonomi dasar): kebutuhan = hal yang benar-benar diperlukan untuk kesejahteraan; keinginan = hal yang diinginkan tetapi tidak mutlak perlu. Media sosial sangat pandai mengubah keinginan menjadi terasa seperti kebutuhan.\n- **Perlindungan konsumen**: UU Perlindungan Konsumen Indonesia mewajibkan produsen/penjual untuk menyampaikan informasi produk yang benar dan tidak menyesatkan.\n\nInsight kunci: Media sosial adalah alat yang **sangat kuat dalam membentuk keinginan** — bukan dengan memaksa, tetapi dengan membuat sesuatu terlihat sangat menarik, diperlukan, dan terjangkau. Kekuatan terbaik menghadapinya bukan larangan, melainkan **kesadaran kritis**: mengenali tekniknya, memahami motivasinya, dan membuat keputusan berdasarkan kebutuhan nyata.\nKenapa opsi lain salah: A dan D adalah solusi ekstrem yang tidak realistis; B bertentangan langsung dengan data (45% menyesal membuktikan ada produk yang tidak sesuai ekspektasi).\nJawaban akhir: **Pembelian impulsif tinggi karena media sosial menunjukkan perlunya literasi konsumsi — membedakan kebutuhan nyata dari keinginan yang dipicu konten**."
+  }
+]
