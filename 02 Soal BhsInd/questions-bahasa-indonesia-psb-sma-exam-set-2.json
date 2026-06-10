@@ -1,0 +1,322 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersirat",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah kutipan biografi dari Ibnu Sina berikut!\n\nKetika Raja Bukhara Nuh bin Mansur yang memerintah antara tahun 366 hingga 387 hijriyah jatuh sakit, beliau memanggil Ibnu Sina untuk merawat dan mengobatinya. Berkat itu, Ibnu Sina dapat leluasa masuk ke perpustakaan istana. Mengenai perpustakaan itu, Ibnu Sina mengatakan,\n\n\"Semua buku yang aku inginkan ada di situ. Bahkan aku menemukan banyak buku yang kebanyakan orang bahkan tak pernah mengetahui namanya. Aku sendiri pun belum pernah melihatnya. Karena itu aku dengan giat membaca kitab-kitab itu dan semaksimal mungkin memanfaatkannya.\"\n\nHal yang bisa diteladani dari tokoh Ibnu Sina adalah ...",
+    "options": [
+      "Ketertarikannya pada buku, jenis apa saja, dan mengoleksinya di perpustakaannya.",
+      "Sifatnya yang selalu ingin membantu dan menolong raja serta keluarganya.",
+      "Kegemarannya membaca buku dan memanfaatkannya semaksimal mungkin.",
+      "Ibnu Sina sangat suka membaca kitab-kitab di perpustakaan istana."
+    ],
+    "answer": 2,
+    "rationale": "Nilai teladan dari kutipan tersebut adalah sikap positif Ibnu Sina terhadap ilmu. Ia tidak hanya tertarik pada buku, tetapi giat membaca kitab-kitab dan memanfaatkannya semaksimal mungkin. Opsi C paling tepat karena memuat kebiasaan membaca sekaligus pemanfaatan ilmunya.",
+    "content": {
+      "question": "Bacalah kutipan biografi dari Ibnu Sina berikut!\n\nKetika Raja Bukhara Nuh bin Mansur yang memerintah antara tahun 366 hingga 387 hijriyah jatuh sakit, beliau memanggil Ibnu Sina untuk merawat dan mengobatinya. Berkat itu, Ibnu Sina dapat leluasa masuk ke perpustakaan istana. Mengenai perpustakaan itu, Ibnu Sina mengatakan,\n\n\"Semua buku yang aku inginkan ada di situ. Bahkan aku menemukan banyak buku yang kebanyakan orang bahkan tak pernah mengetahui namanya. Aku sendiri pun belum pernah melihatnya. Karena itu aku dengan giat membaca kitab-kitab itu dan semaksimal mungkin memanfaatkannya.\"\n\nHal yang bisa diteladani dari tokoh Ibnu Sina adalah ...",
+      "options": [
+        "Ketertarikannya pada buku, jenis apa saja, dan mengoleksinya di perpustakaannya.",
+        "Sifatnya yang selalu ingin membantu dan menolong raja serta keluarganya.",
+        "Kegemarannya membaca buku dan memanfaatkannya semaksimal mungkin.",
+        "Ibnu Sina sangat suka membaca kitab-kitab di perpustakaan istana."
+      ],
+      "answer": 2,
+      "rationale": "Nilai teladan dari kutipan tersebut adalah sikap positif Ibnu Sina terhadap ilmu. Ia tidak hanya tertarik pada buku, tetapi giat membaca kitab-kitab dan memanfaatkannya semaksimal mungkin. Opsi C paling tepat karena memuat kebiasaan membaca sekaligus pemanfaatan ilmunya."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berita berikut ini!\n\nTeks berita 1\n\nBMKG mengimbau masyarakat agar berhati-hati terhadap kemungkinan terjadi puting beliung dan hujan es yang disebabkan oleh awan CB ini. Secara kasat mata awan ini dapat dikenali dengan bentuknya yang khas, yaitu berwarna gelap dan nampak besar seperti bunga kol. Langkah antisipasi yang dapat dilakukan antara lain dengan merapihkan pohon-pohon yang tinggi serta rapuh, atap-atap rumah yang mudah terhempas dan berlindung ketika terjadi angin puting beliung. (Ant/Ado/Ans)\n\nTeks berita 2\n\nPenurunan suhu di dataran Eropa ini juga didukung dengan kurangnya aktivitas matahari, sehingga mendorong udara dingin dari Kutub Utara menuju dataran Eropa. Bila Anda sudah berencana untuk traveling keliling benua ini, persiapan ekstra harus dilakukan. Mulai dari menyiapkan berbagai baju hangat yang bisa melindungi Anda dari serangan dingin. Jangan lupa, berbagai perlengkapan lain juga dibutuhkan seperti syal, topi, sarung tangan serta penutup kuping untuk menjamin perjalanan Anda aman dan nyaman.\n\nPersamaan dari kedua teks tersebut adalah ...",
+    "options": [
+      "Kedua teks tersebut membicarakan musim hujan yang membuat orang susah.",
+      "Membicarakan cuaca yang ekstrem dan bagaimana mengantisipasinya.",
+      "Perbedaan cuaca yang ekstrem antara di Indonesia dengan Eropa.",
+      "Ekstremnya cuaca membuat orang lebih aman berada di dalam rumah."
+    ],
+    "answer": 1,
+    "rationale": "Teks pertama membahas potensi cuaca ekstrem berupa puting beliung dan hujan es serta langkah antisipasinya. Teks kedua membahas suhu ekstrem di Eropa dan persiapan yang perlu dilakukan. Persamaan keduanya adalah sama-sama membahas cuaca ekstrem beserta cara mengantisipasinya.",
+    "content": {
+      "question": "Bacalah teks berita berikut ini!\n\nTeks berita 1\n\nBMKG mengimbau masyarakat agar berhati-hati terhadap kemungkinan terjadi puting beliung dan hujan es yang disebabkan oleh awan CB ini. Secara kasat mata awan ini dapat dikenali dengan bentuknya yang khas, yaitu berwarna gelap dan nampak besar seperti bunga kol. Langkah antisipasi yang dapat dilakukan antara lain dengan merapihkan pohon-pohon yang tinggi serta rapuh, atap-atap rumah yang mudah terhempas dan berlindung ketika terjadi angin puting beliung. (Ant/Ado/Ans)\n\nTeks berita 2\n\nPenurunan suhu di dataran Eropa ini juga didukung dengan kurangnya aktivitas matahari, sehingga mendorong udara dingin dari Kutub Utara menuju dataran Eropa. Bila Anda sudah berencana untuk traveling keliling benua ini, persiapan ekstra harus dilakukan. Mulai dari menyiapkan berbagai baju hangat yang bisa melindungi Anda dari serangan dingin. Jangan lupa, berbagai perlengkapan lain juga dibutuhkan seperti syal, topi, sarung tangan serta penutup kuping untuk menjamin perjalanan Anda aman dan nyaman.\n\nPersamaan dari kedua teks tersebut adalah ...",
+      "options": [
+        "Kedua teks tersebut membicarakan musim hujan yang membuat orang susah.",
+        "Membicarakan cuaca yang ekstrem dan bagaimana mengantisipasinya.",
+        "Perbedaan cuaca yang ekstrem antara di Indonesia dengan Eropa.",
+        "Ekstremnya cuaca membuat orang lebih aman berada di dalam rumah."
+      ],
+      "answer": 1,
+      "rationale": "Teks pertama membahas potensi cuaca ekstrem berupa puting beliung dan hujan es serta langkah antisipasinya. Teks kedua membahas suhu ekstrem di Eropa dan persiapan yang perlu dilakukan. Persamaan keduanya adalah sama-sama membahas cuaca ekstrem beserta cara mengantisipasinya."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Puisi rakyat",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Puisi berikut ini yang berbentuk puisi lama: pantun, terdapat pada ...",
+    "options": [
+      "Dengarlah wahai ananda\nRajinlah belajar sepanjang masa\nIlmu tiada pernah habis dieja\nsebagai bekal sepanjang usia",
+      "Bunga mekar buatmu cemburu\naku adalah wangi bungamu\nluka berdarah-darah durimu\nsemilir sampai badai anginmu",
+      "Dalam fitrahku sebagai manusia\nuntuk menghamba kepadamu\nbetapa tak ada apa-apanya\naku di hadapanmu",
+      "Berbuat baik, mendapat berkah\nMenolong orang tak berpunya\nEdo kikuk dan salah tingkah\nSaat Irene senyum manis padanya"
+    ],
+    "answer": 3,
+    "rationale": "Pantun memiliki empat larik dan lazim berpola rima a-b-a-b, dengan dua larik awal sebagai sampiran dan dua larik akhir sebagai isi. Dari pilihan yang tersedia, opsi D paling mendekati ciri pantun karena memiliki empat larik dengan pola bunyi akhir yang berselang.",
+    "content": {
+      "question": "Puisi berikut ini yang berbentuk puisi lama: pantun, terdapat pada ...",
+      "options": [
+        "Dengarlah wahai ananda\nRajinlah belajar sepanjang masa\nIlmu tiada pernah habis dieja\nsebagai bekal sepanjang usia",
+        "Bunga mekar buatmu cemburu\naku adalah wangi bungamu\nluka berdarah-darah durimu\nsemilir sampai badai anginmu",
+        "Dalam fitrahku sebagai manusia\nuntuk menghamba kepadamu\nbetapa tak ada apa-apanya\naku di hadapanmu",
+        "Berbuat baik, mendapat berkah\nMenolong orang tak berpunya\nEdo kikuk dan salah tingkah\nSaat Irene senyum manis padanya"
+      ],
+      "answer": 3,
+      "rationale": "Pantun memiliki empat larik dan lazim berpola rima a-b-a-b, dengan dua larik awal sebagai sampiran dan dua larik akhir sebagai isi. Dari pilihan yang tersedia, opsi D paling mendekati ciri pantun karena memiliki empat larik dengan pola bunyi akhir yang berselang."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ringkasan",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks berikut!\n\n\"Kita main bagus tapi Persib berhasil memanfaatkan dua kesempatan mereka punya jadi dia bisa menang. Menurut saya Persipura main bagus tapi Persib lebih efektif, itu yang terjadi,\" katanya usai pertandingan.\n\nMenariknya, Alfredo sempat menurunkan bek Bio Paulin yang berpostur tinggi besar sebagai striker. Sayangnya, usaha ini tetap tak mampu membuat Persipura mengejar ketertinggalan. \"Itu opsi yang kita bisa coba karena kita tertinggal 0-2 kita coba sebisa mungkin, umpan lambung dia (Bio) tinggi kita cari opsi untuk mencari gol,\" ucap dia.\n\nRangkuman teks tersebut yang paling efektif adalah ...",
+    "options": [
+      "Persipura bermain bagus tapi Persib tidak kalah bagusnya. Alfredo menurunkan bek Bio yang berpostur tinggi untuk mencetak peluang. Apa daya, Persipura belum beruntung, Persib meraih kemenangan.",
+      "Kita bermain bagus, mereka juga bermain bagus. Kalau mereka menang karena faktor keberuntungan saja bisa memanfaatkan dua kesempatan tersebut.",
+      "Bek Bio diturunkan dengan harapan umpan lambungnya bisa membuahkan gol. Tapi Persib memang lebih bagus dan bisa memanfaatkan dua kesempatan menjadi gol kemenangan.",
+      "Kita sudah bermain dengan bagus tapi Persib lebih efektif membangun serangan dan bisa memanfaatkan dua kesempatan yang ada. Alfredo diturunkan karena umpan lambungnya bagus. Sayang, kita belum beruntung."
+    ],
+    "answer": 0,
+    "rationale": "Rangkuman efektif harus memuat inti teks secara ringkas: Persipura dinilai bermain bagus, Persib lebih efektif memanfaatkan peluang hingga menang, dan Alfredo mencoba strategi menurunkan Bio Paulin sebagai striker namun belum berhasil. Opsi A paling lengkap dan masih ringkas dibandingkan pilihan lain.",
+    "content": {
+      "question": "Bacalah teks berikut!\n\n\"Kita main bagus tapi Persib berhasil memanfaatkan dua kesempatan mereka punya jadi dia bisa menang. Menurut saya Persipura main bagus tapi Persib lebih efektif, itu yang terjadi,\" katanya usai pertandingan.\n\nMenariknya, Alfredo sempat menurunkan bek Bio Paulin yang berpostur tinggi besar sebagai striker. Sayangnya, usaha ini tetap tak mampu membuat Persipura mengejar ketertinggalan. \"Itu opsi yang kita bisa coba karena kita tertinggal 0-2 kita coba sebisa mungkin, umpan lambung dia (Bio) tinggi kita cari opsi untuk mencari gol,\" ucap dia.\n\nRangkuman teks tersebut yang paling efektif adalah ...",
+      "options": [
+        "Persipura bermain bagus tapi Persib tidak kalah bagusnya. Alfredo menurunkan bek Bio yang berpostur tinggi untuk mencetak peluang. Apa daya, Persipura belum beruntung, Persib meraih kemenangan.",
+        "Kita bermain bagus, mereka juga bermain bagus. Kalau mereka menang karena faktor keberuntungan saja bisa memanfaatkan dua kesempatan tersebut.",
+        "Bek Bio diturunkan dengan harapan umpan lambungnya bisa membuahkan gol. Tapi Persib memang lebih bagus dan bisa memanfaatkan dua kesempatan menjadi gol kemenangan.",
+        "Kita sudah bermain dengan bagus tapi Persib lebih efektif membangun serangan dan bisa memanfaatkan dua kesempatan yang ada. Alfredo diturunkan karena umpan lambungnya bagus. Sayang, kita belum beruntung."
+      ],
+      "answer": 0,
+      "rationale": "Rangkuman efektif harus memuat inti teks secara ringkas: Persipura dinilai bermain bagus, Persib lebih efektif memanfaatkan peluang hingga menang, dan Alfredo mencoba strategi menurunkan Bio Paulin sebagai striker namun belum berhasil. Opsi A paling lengkap dan masih ringkas dibandingkan pilihan lain."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Cerpen & cerita fantasi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah kutipan cerpen \"Penglihatan\" berikut dengan cermat!\n\n\"Itu matahari, Sayang. Cahayanya hangat dan agung, raja di siang hari,\" ucap ibu. Aku tahu, ibu juga mendongak. Aroma akar rumput basah itu menyebar ke langit. Beberapa titik jatuh ke wajahku.\n\nPada malam yang dialiri angin yang lembut seperti satin, ibu juga membawaku ke halaman rumah. Ia juga menyuruhku mendongak. Tak ada usapan hangat. Tapi aku merasakan sesuatu yang lembut mengaliri wajahku. Megah sekaligus ramah. \"Itu rembulan, Sayang. Cahayanya anggun dan redup, ratu di malam hari,\" telisik ibu. Angin satin itu membawa aroma akar rumput basah milik ibu ke mana-mana.\n\nKarya: Mashdar Zainal\n\nUnsur intrinsik yang bisa diidentifikasi dari kutipan cerpen tersebut adalah ...",
+    "options": [
+      "Tokoh, alur, perwatakan",
+      "Tokoh, tema, latar",
+      "Latar, perwatakan, tema",
+      "Perwatakan, tokoh, latar"
+    ],
+    "answer": 1,
+    "rationale": "Kutipan menampilkan tokoh aku dan ibu, latar halaman rumah pada siang dan malam, serta tema kedekatan ibu dengan anak dalam memperkenalkan matahari dan rembulan. Unsur alur dan perwatakan tidak sekuat tokoh, tema, dan latar dalam kutipan singkat tersebut.",
+    "content": {
+      "question": "Bacalah kutipan cerpen \"Penglihatan\" berikut dengan cermat!\n\n\"Itu matahari, Sayang. Cahayanya hangat dan agung, raja di siang hari,\" ucap ibu. Aku tahu, ibu juga mendongak. Aroma akar rumput basah itu menyebar ke langit. Beberapa titik jatuh ke wajahku.\n\nPada malam yang dialiri angin yang lembut seperti satin, ibu juga membawaku ke halaman rumah. Ia juga menyuruhku mendongak. Tak ada usapan hangat. Tapi aku merasakan sesuatu yang lembut mengaliri wajahku. Megah sekaligus ramah. \"Itu rembulan, Sayang. Cahayanya anggun dan redup, ratu di malam hari,\" telisik ibu. Angin satin itu membawa aroma akar rumput basah milik ibu ke mana-mana.\n\nKarya: Mashdar Zainal\n\nUnsur intrinsik yang bisa diidentifikasi dari kutipan cerpen tersebut adalah ...",
+      "options": [
+        "Tokoh, alur, perwatakan",
+        "Tokoh, tema, latar",
+        "Latar, perwatakan, tema",
+        "Perwatakan, tokoh, latar"
+      ],
+      "answer": 1,
+      "rationale": "Kutipan menampilkan tokoh aku dan ibu, latar halaman rumah pada siang dan malam, serta tema kedekatan ibu dengan anak dalam memperkenalkan matahari dan rembulan. Unsur alur dan perwatakan tidak sekuat tokoh, tema, dan latar dalam kutipan singkat tersebut."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Narasi",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah kutipan teks drama berikut ini!\n\n(Suasana sedang ulangan)\n\nBanu: \"Bud, kamu sudah selesai?\"\nBudi: \"Belum, tinggal 3 soal lagi\"\nBanu: \"Aku minta jawaban nomor 15 sampai 20 Bud!\"\nBudi: \"Tidak bisa Ban,\"\nBanu: \"Kenapa? Kita sahabat Bud, kita harus kerja sama\"\nDini: \"Iya Bud, kita harus kerja sama\"\nAdi: \"Iya, kamu kan yang paling pintar di sini Bud\"\nBudi: [...]\nSita: \"Kenapa memang Bud? Hanya 5 soal saja!\"\nBudi: \"Menyontek atau pun memberi sontekan adalah hal buruk, yang dosanya sama. Aku tidak mau menyontek karena dosa, begitu pula memberi sontekan ke kalian. Aku minta maaf\"\nSita: \"Tapi saat ini, sangat mendesak Bud\"\nDini: \"Iya Bud, bantu kami\"\nBudi: \"tetap tidak bisa\"\nAdi: \"Ya sudah, biarkan. Urus saja dirimu sendiri Bud, dan kami urus diri kami sendiri.\" (marah dan kesal)\n\nKalimat yang paling tepat untuk mengisi bagian yang rumpang pada teks drama tersebut adalah ...",
+    "options": [
+      "\"Sabar ya... aku lagi mikir... idenya sudah sampai nih... Ah, lepas lagi!\"",
+      "\"Saya takut jawaban saya salah lagipula nomor itu belum saya isi.\"",
+      "\"Tapi bukan kerja sama seperti ini teman-teman.\"",
+      "\"Baik... tapi saya perlu jawaban nomor 25 sampai 32 dulu...\""
+    ],
+    "answer": 2,
+    "rationale": "Bagian rumpang harus sesuai dengan sikap Budi yang menolak menyontek dan menolak memberi sontekan. Sebelum menjelaskan alasan moralnya, kalimat yang paling tepat adalah bantahan terhadap ajakan teman-temannya, yaitu bahwa kerja sama yang dimaksud bukan kerja sama seperti itu.",
+    "content": {
+      "question": "Bacalah kutipan teks drama berikut ini!\n\n(Suasana sedang ulangan)\n\nBanu: \"Bud, kamu sudah selesai?\"\nBudi: \"Belum, tinggal 3 soal lagi\"\nBanu: \"Aku minta jawaban nomor 15 sampai 20 Bud!\"\nBudi: \"Tidak bisa Ban,\"\nBanu: \"Kenapa? Kita sahabat Bud, kita harus kerja sama\"\nDini: \"Iya Bud, kita harus kerja sama\"\nAdi: \"Iya, kamu kan yang paling pintar di sini Bud\"\nBudi: [...]\nSita: \"Kenapa memang Bud? Hanya 5 soal saja!\"\nBudi: \"Menyontek atau pun memberi sontekan adalah hal buruk, yang dosanya sama. Aku tidak mau menyontek karena dosa, begitu pula memberi sontekan ke kalian. Aku minta maaf\"\nSita: \"Tapi saat ini, sangat mendesak Bud\"\nDini: \"Iya Bud, bantu kami\"\nBudi: \"tetap tidak bisa\"\nAdi: \"Ya sudah, biarkan. Urus saja dirimu sendiri Bud, dan kami urus diri kami sendiri.\" (marah dan kesal)\n\nKalimat yang paling tepat untuk mengisi bagian yang rumpang pada teks drama tersebut adalah ...",
+      "options": [
+        "\"Sabar ya... aku lagi mikir... idenya sudah sampai nih... Ah, lepas lagi!\"",
+        "\"Saya takut jawaban saya salah lagipula nomor itu belum saya isi.\"",
+        "\"Tapi bukan kerja sama seperti ini teman-teman.\"",
+        "\"Baik... tapi saya perlu jawaban nomor 25 sampai 32 dulu...\""
+      ],
+      "answer": 2,
+      "rationale": "Bagian rumpang harus sesuai dengan sikap Budi yang menolak menyontek dan menolak memberi sontekan. Sebelum menjelaskan alasan moralnya, kalimat yang paling tepat adalah bantahan terhadap ajakan teman-temannya, yaitu bahwa kerja sama yang dimaksud bukan kerja sama seperti itu."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ide pokok",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Simaklah teks berikut ini!\n\nBanjir besar kembali melanda sejumlah obyek vital, termasuk stasiun kereta api di Bandung, Jawa Barat, Minggu (13/11). Kondisi ini dipicu buruknya drainase yang tersumbat sampah dan mengalami sedimentasi. Tingginya curah hujan menyebabkan debit air meningkat. BMKG sudah memberi masukan, cuaca akan seperti ini sampai awal tahun.\n\nIde pokok/gagasan utama dari teks tersebut adalah ...",
+    "options": [
+      "Banjir besar melanda sejumlah obyek, termasuk stasiun.",
+      "Kondisi ini dipicu oleh drainase yang buruk.",
+      "Debit air meningkat karena tingginya curah hujan.",
+      "BMKG menginformasikan cuaca akan ekstrem."
+    ],
+    "answer": 0,
+    "rationale": "Gagasan utama terletak pada kalimat pertama, yaitu banjir besar yang melanda sejumlah obyek vital termasuk stasiun kereta api. Kalimat-kalimat berikutnya menjelaskan penyebab dan informasi tambahan dari peristiwa tersebut.",
+    "content": {
+      "question": "Simaklah teks berikut ini!\n\nBanjir besar kembali melanda sejumlah obyek vital, termasuk stasiun kereta api di Bandung, Jawa Barat, Minggu (13/11). Kondisi ini dipicu buruknya drainase yang tersumbat sampah dan mengalami sedimentasi. Tingginya curah hujan menyebabkan debit air meningkat. BMKG sudah memberi masukan, cuaca akan seperti ini sampai awal tahun.\n\nIde pokok/gagasan utama dari teks tersebut adalah ...",
+      "options": [
+        "Banjir besar melanda sejumlah obyek, termasuk stasiun.",
+        "Kondisi ini dipicu oleh drainase yang buruk.",
+        "Debit air meningkat karena tingginya curah hujan.",
+        "BMKG menginformasikan cuaca akan ekstrem."
+      ],
+      "answer": 0,
+      "rationale": "Gagasan utama terletak pada kalimat pertama, yaitu banjir besar yang melanda sejumlah obyek vital termasuk stasiun kereta api. Kalimat-kalimat berikutnya menjelaskan penyebab dan informasi tambahan dari peristiwa tersebut."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kebahasaan",
+    "subtopic": "Tata kalimat",
+    "skill_type": "evaluative",
+    "question_type": "concept_check",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Bacalah teks wawancara berikut ini!\n\nBerikut mari kita ikuti bersama dialog dengan narasumber mengenai alasan orang menghindari olahraga dan tips mengatasinya.\n\nReporter: Di studio kini telah hadir narasumber yang membidangi olahraga. Inilah Bapak Imam. Pertama saya ingin mengetahui pendapat dari Bapak Imam, menurut pendapat Bapak, apa penyebab orang malas berolahraga?\nBapak Imam: Orang suka malas berolahraga karena merasa terlalu tua. Sebenarnya hal ini bukan merupakan alasan. Anda bisa mencari tempat atau klub kebugaran yang membuka kelas seusia Anda.\nReporter: Pak Imam tadi mengatakan bahwa alasan orang malas berolahraga adalah karena terlalu tua. Pak Imam juga sudah cukup tua tapi masih terlihat rajin berolahraga. Apa alasan Bapak?\n\nKalimat yang bercetak miring pada dialog di atas kurang santun/kurang beretika. Pembetulan yang paling baik adalah ...",
+    "options": [
+      "Faktor tua menjadi alasan ya Pak untuk berolahraga. Bapak masih terlihat bugar di usia Bapak yang tidak lagi muda, apakah ini karena Bapak rajin berolahraga?",
+      "Pak Imam tadi telah mengatakan bahwa faktor ketuaan menjadi penyebab orang malas berolahraga. Bapak sendiri sudah berusia lanjut tetapi masih rajin berolahraga ya!",
+      "Jadi istilah tua itu jangan dijadikan alasan ya Pak. Karena Bapak sendiri yang sudah lama berusia senja masih rajin berolahraga.",
+      "Betul, tua jangan dijadikan alasan ya Pak. Kita semua patut mencontoh Pak Imam, tetap rajin berolahraga walaupun usia sudah cukup tua."
+    ],
+    "answer": 0,
+    "rationale": "Perbaikan harus tetap memuat maksud pertanyaan, tetapi disampaikan dengan pilihan kata yang lebih santun. Opsi A mengganti ungkapan langsung 'sudah cukup tua' dengan 'usia Bapak yang tidak lagi muda' dan mengajukan pertanyaan secara lebih sopan. Opsi lain masih memakai diksi yang kurang halus atau tidak berbentuk pertanyaan wawancara yang jelas.",
+    "content": {
+      "question": "Bacalah teks wawancara berikut ini!\n\nBerikut mari kita ikuti bersama dialog dengan narasumber mengenai alasan orang menghindari olahraga dan tips mengatasinya.\n\nReporter: Di studio kini telah hadir narasumber yang membidangi olahraga. Inilah Bapak Imam. Pertama saya ingin mengetahui pendapat dari Bapak Imam, menurut pendapat Bapak, apa penyebab orang malas berolahraga?\nBapak Imam: Orang suka malas berolahraga karena merasa terlalu tua. Sebenarnya hal ini bukan merupakan alasan. Anda bisa mencari tempat atau klub kebugaran yang membuka kelas seusia Anda.\nReporter: Pak Imam tadi mengatakan bahwa alasan orang malas berolahraga adalah karena terlalu tua. Pak Imam juga sudah cukup tua tapi masih terlihat rajin berolahraga. Apa alasan Bapak?\n\nKalimat yang bercetak miring pada dialog di atas kurang santun/kurang beretika. Pembetulan yang paling baik adalah ...",
+      "options": [
+        "Faktor tua menjadi alasan ya Pak untuk berolahraga. Bapak masih terlihat bugar di usia Bapak yang tidak lagi muda, apakah ini karena Bapak rajin berolahraga?",
+        "Pak Imam tadi telah mengatakan bahwa faktor ketuaan menjadi penyebab orang malas berolahraga. Bapak sendiri sudah berusia lanjut tetapi masih rajin berolahraga ya!",
+        "Jadi istilah tua itu jangan dijadikan alasan ya Pak. Karena Bapak sendiri yang sudah lama berusia senja masih rajin berolahraga.",
+        "Betul, tua jangan dijadikan alasan ya Pak. Kita semua patut mencontoh Pak Imam, tetap rajin berolahraga walaupun usia sudah cukup tua."
+      ],
+      "answer": 0,
+      "rationale": "Perbaikan harus tetap memuat maksud pertanyaan, tetapi disampaikan dengan pilihan kata yang lebih santun. Opsi A mengganti ungkapan langsung 'sudah cukup tua' dengan 'usia Bapak yang tidak lagi muda' dan mengajukan pertanyaan secara lebih sopan. Opsi lain masih memakai diksi yang kurang halus atau tidak berbentuk pertanyaan wawancara yang jelas."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Puisi rakyat",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "BINTANG\n\nSaat malam tiba dengan langit yang terang\nSaat itu pula aku mulai tersenyum\nMelihat bintang-bintang dengan sinarnya\nBagaikan tebar harap kehidupan\n\nNamun hatiku kian termenung\n...\n...\n...\n\nSaat terangnya menyinari dunia\nSering ku pandang bintang yang paling terang\nDan ingin rasanya ku petik dari hati\nAgar hidupku penuh harapan\n\nLarik-larik yang tepat untuk mengisi bagian yang rumpang pada bait kedua puisi tersebut adalah ...",
+    "options": [
+      "bertahan diri di atas guning\nDemi melihat keindahan alam\nkeindahan ciptaan Tuhan",
+      "Kita berdiri beratapkan langit\nTuk melihat keindahan ciptaan-Mu\nKeindahan dunia Kau beri kepadaku",
+      "Matahari terlalu gahar untuk dimandikan\nAlam melanglang, embun berganti deburan topan\nPanas menyengat datang",
+      "Saat awan-awan hitam mulai membaluti langit\nSaat bintang-bintang mulai tertutup gelap\nBahkan saat sinarnya mulai redup hingga padam"
+    ],
+    "answer": 3,
+    "rationale": "Bait sebelum dan sesudahnya membahas malam, bintang, sinar, dan harapan. Bagian rumpang didahului larik 'Namun hatiku kian termenung', sehingga larik yang tepat harus melanjutkan suasana murung tetapi tetap berhubungan dengan bintang. Opsi D paling sesuai karena menggambarkan awan gelap menutupi bintang hingga sinarnya redup.",
+    "content": {
+      "question": "BINTANG\n\nSaat malam tiba dengan langit yang terang\nSaat itu pula aku mulai tersenyum\nMelihat bintang-bintang dengan sinarnya\nBagaikan tebar harap kehidupan\n\nNamun hatiku kian termenung\n...\n...\n...\n\nSaat terangnya menyinari dunia\nSering ku pandang bintang yang paling terang\nDan ingin rasanya ku petik dari hati\nAgar hidupku penuh harapan\n\nLarik-larik yang tepat untuk mengisi bagian yang rumpang pada bait kedua puisi tersebut adalah ...",
+      "options": [
+        "bertahan diri di atas guning\nDemi melihat keindahan alam\nkeindahan ciptaan Tuhan",
+        "Kita berdiri beratapkan langit\nTuk melihat keindahan ciptaan-Mu\nKeindahan dunia Kau beri kepadaku",
+        "Matahari terlalu gahar untuk dimandikan\nAlam melanglang, embun berganti deburan topan\nPanas menyengat datang",
+        "Saat awan-awan hitam mulai membaluti langit\nSaat bintang-bintang mulai tertutup gelap\nBahkan saat sinarnya mulai redup hingga padam"
+      ],
+      "answer": 3,
+      "rationale": "Bait sebelum dan sesudahnya membahas malam, bintang, sinar, dan harapan. Bagian rumpang didahului larik 'Namun hatiku kian termenung', sehingga larik yang tepat harus melanjutkan suasana murung tetapi tetap berhubungan dengan bintang. Opsi D paling sesuai karena menggambarkan awan gelap menutupi bintang hingga sinarnya redup."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Tata kalimat",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "bhsind-psb-sma-exam-set-2"
+    ],
+    "is_active": true,
+    "question": "Tema karya tulis: Kualitas Pendidikan sebagai Pembangun Siswa yang Berkarakter\n\nBerdasarkan tema tersebut, rumusan masalah yang tepat adalah ...",
+    "options": [
+      "Bagaimana pendidikan yang berkualitas bisa membangun siswa yang berkarakter?",
+      "Apakah pendidikan yang berkualitas bisa menjamin para siswanya?",
+      "Adakah hubungan antara pendidikan yang berkualitas dengan karakter?",
+      "Apakah upaya tokoh pendidikan dalam menciptakan siswa yang berkarakter?"
+    ],
+    "answer": 0,
+    "rationale": "Rumusan masalah harus sesuai langsung dengan tema dan berbentuk pertanyaan yang dapat dibahas. Tema menekankan kualitas pendidikan sebagai pembangun siswa berkarakter. Opsi A paling tepat karena menanyakan bagaimana pendidikan berkualitas membangun siswa yang berkarakter.",
+    "content": {
+      "question": "Tema karya tulis: Kualitas Pendidikan sebagai Pembangun Siswa yang Berkarakter\n\nBerdasarkan tema tersebut, rumusan masalah yang tepat adalah ...",
+      "options": [
+        "Bagaimana pendidikan yang berkualitas bisa membangun siswa yang berkarakter?",
+        "Apakah pendidikan yang berkualitas bisa menjamin para siswanya?",
+        "Adakah hubungan antara pendidikan yang berkualitas dengan karakter?",
+        "Apakah upaya tokoh pendidikan dalam menciptakan siswa yang berkarakter?"
+      ],
+      "answer": 0,
+      "rationale": "Rumusan masalah harus sesuai langsung dengan tema dan berbentuk pertanyaan yang dapat dibahas. Tema menekankan kualitas pendidikan sebagai pembangun siswa berkarakter. Opsi A paling tepat karena menanyakan bagaimana pendidikan berkualitas membangun siswa yang berkarakter."
+    }
+  }
+]

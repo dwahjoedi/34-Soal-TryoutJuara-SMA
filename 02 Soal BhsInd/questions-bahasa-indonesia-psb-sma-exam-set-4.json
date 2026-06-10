@@ -1,0 +1,302 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Simpulan",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah teks paragraf berikut!\n\nKota Yogyakarta menjadi salah satu sasaran program Kota Tanpa Kumuh (Kotaku) dari pemerintah pusat. Hampir semua kelurahan mendapat sasaran Kotaku dengan alokasi dana sekitar 500 juta tiap kelurahan. Sebelum Kotaku digulirkan, pemerintah pusat sempat memiliki program Penataan Lingkungan Pemukiman Berbasis Komunitas (BLPBK). Program ini bertujuan untuk mengentaskan kawasan kumuh.\n\nSimpulan isi teks tersebut adalah ...",
+    "options": [
+      "Pemerintah memberi dana untuk menghilangkan wilayah kumuh di Yogyakarta.",
+      "Kawasan kumuh di Yogyakarta dibenahi dengan program Kotaku.",
+      "Program Kotaku dapat mengentaskan wilayah kumuh di Yogyakarta.",
+      "Program Kotaku menggantikan program BLPBK."
+    ],
+    "answer": 1,
+    "rationale": "Teks membahas Yogyakarta sebagai sasaran program Kotaku yang bertujuan menata dan mengentaskan kawasan kumuh. Simpulan yang paling mencakup isi paragraf adalah kawasan kumuh di Yogyakarta dibenahi melalui program Kotaku.",
+    "content": {
+      "question": "Bacalah teks paragraf berikut!\n\nKota Yogyakarta menjadi salah satu sasaran program Kota Tanpa Kumuh (Kotaku) dari pemerintah pusat. Hampir semua kelurahan mendapat sasaran Kotaku dengan alokasi dana sekitar 500 juta tiap kelurahan. Sebelum Kotaku digulirkan, pemerintah pusat sempat memiliki program Penataan Lingkungan Pemukiman Berbasis Komunitas (BLPBK). Program ini bertujuan untuk mengentaskan kawasan kumuh.\n\nSimpulan isi teks tersebut adalah ...",
+      "options": [
+        "Pemerintah memberi dana untuk menghilangkan wilayah kumuh di Yogyakarta.",
+        "Kawasan kumuh di Yogyakarta dibenahi dengan program Kotaku.",
+        "Program Kotaku dapat mengentaskan wilayah kumuh di Yogyakarta.",
+        "Program Kotaku menggantikan program BLPBK."
+      ],
+      "answer": 1,
+      "rationale": "Teks membahas Yogyakarta sebagai sasaran program Kotaku yang bertujuan menata dan mengentaskan kawasan kumuh. Simpulan yang paling mencakup isi paragraf adalah kawasan kumuh di Yogyakarta dibenahi melalui program Kotaku."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Analisis Teks",
+    "subtopic": "Pro-kontra dalam teks",
+    "skill_type": "reasoning",
+    "question_type": "long_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah kutipan cerita berikut!\n\nTeks I\n\nUlu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.\n\n\"Hujan telah tiba!\" Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.\n\n\"Wahai Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan kakimu,\" Ulu menjulurkan kakinya. \"Dan tendang ke belakang seperti ini! Ups, maaf kakimu kan pendek.\" Sambil tertawa, Ulu melompat meninggalkan Semut.\n\nTeks II\n\nSeekor kuda sedang berjalan dari sebuah ladang gandum menuju sebuah hutan yang lebat. Kuda itu telah puas memakan gandum yang ada di ladang itu. Dia tampak gembira karena tidak ada petani gandum yang menjaga ladangnya.\n\nKetika dia menuju hutan lebat, di tengah jalan kuda itu melihat sesuatu. \"Itu seperti kulit harimau,\" gumam kuda itu. Kuda itu lalu mendekatinya dan ternyata memang benar apa yang dilihatnya adalah kulit harimau yang tak sengaja ditinggalkan oleh para pemburu harimau. Kuda itu mencoba memakai kulit harimau itu. \"Wah, kebetulan sekali, kulit harimau ini sangat pas di tubuhku. Apa yang akan kulakukan dengannya, ya?\"\n\nTerlintas di benaknya kuda itu untuk menakut-nakuti binatang-binatang hutan yang melewatinya. \"Aku harus segera sembunyi di sini.\"\n\nPerbedaan karakteristik kedua kutipan teks tersebut adalah ...",
+    "options": [
+      "Karakter tokoh pada teks 1 digambarkan melalui dialog antartokoh, sedangkan pada teks 2 digambarkan oleh pengarang.",
+      "Karakter tokoh pada teks 1 digambarkan melalui perilaku tokoh, sedangkan pada teks 2 digambarkan melalui tindakan tokoh.",
+      "Karakter tokoh pada teks 1 digambarkan langsung oleh pengarang, sedangkan pada teks 2 digambarkan melalui dialog antartokoh.",
+      "Karakter tokoh pada teks 1 digambarkan lewat tindakan tokoh, sedangkan pada teks 2 digambarkan lewat perilaku tokoh."
+    ],
+    "answer": 0,
+    "rationale": "Sifat Ulu yang suka mengejek terutama terlihat melalui ucapannya kepada Semut. Pada teks II, pengarang menceritakan pikiran dan niat kuda untuk menakut-nakuti binatang lain. Jadi perbedaannya paling tepat dinyatakan oleh opsi A.",
+    "content": {
+      "question": "Bacalah kutipan cerita berikut!\n\nTeks I\n\nUlu, seekor katak hijau, sedang berdiri di pinggir kolam. Hari itu langit sangat gelap dan hari seperti itulah yang Ulu sukai. Tidak lama kemudian, air mulai menetes perlahan-lahan dari angkasa.\n\n\"Hujan telah tiba!\" Ulu berteriak dengan girang. Ulu pun mulai bersenandung sambil melompat-lompat mengitari kolam. Ia melihat semut yang kecil sedang berteduh di balik bunga matahari.\n\n\"Wahai Semut, kau harus berlatih berenang! Aku sejak berupa berudu sudah bisa berenang, masa kau tidak bisa? Berenang itu sangat mudah, julurkan kakimu,\" Ulu menjulurkan kakinya. \"Dan tendang ke belakang seperti ini! Ups, maaf kakimu kan pendek.\" Sambil tertawa, Ulu melompat meninggalkan Semut.\n\nTeks II\n\nSeekor kuda sedang berjalan dari sebuah ladang gandum menuju sebuah hutan yang lebat. Kuda itu telah puas memakan gandum yang ada di ladang itu. Dia tampak gembira karena tidak ada petani gandum yang menjaga ladangnya.\n\nKetika dia menuju hutan lebat, di tengah jalan kuda itu melihat sesuatu. \"Itu seperti kulit harimau,\" gumam kuda itu. Kuda itu lalu mendekatinya dan ternyata memang benar apa yang dilihatnya adalah kulit harimau yang tak sengaja ditinggalkan oleh para pemburu harimau. Kuda itu mencoba memakai kulit harimau itu. \"Wah, kebetulan sekali, kulit harimau ini sangat pas di tubuhku. Apa yang akan kulakukan dengannya, ya?\"\n\nTerlintas di benaknya kuda itu untuk menakut-nakuti binatang-binatang hutan yang melewatinya. \"Aku harus segera sembunyi di sini.\"\n\nPerbedaan karakteristik kedua kutipan teks tersebut adalah ...",
+      "options": [
+        "Karakter tokoh pada teks 1 digambarkan melalui dialog antartokoh, sedangkan pada teks 2 digambarkan oleh pengarang.",
+        "Karakter tokoh pada teks 1 digambarkan melalui perilaku tokoh, sedangkan pada teks 2 digambarkan melalui tindakan tokoh.",
+        "Karakter tokoh pada teks 1 digambarkan langsung oleh pengarang, sedangkan pada teks 2 digambarkan melalui dialog antartokoh.",
+        "Karakter tokoh pada teks 1 digambarkan lewat tindakan tokoh, sedangkan pada teks 2 digambarkan lewat perilaku tokoh."
+      ],
+      "answer": 0,
+      "rationale": "Sifat Ulu yang suka mengejek terutama terlihat melalui ucapannya kepada Semut. Pada teks II, pengarang menceritakan pikiran dan niat kuda untuk menakut-nakuti binatang lain. Jadi perbedaannya paling tepat dinyatakan oleh opsi A."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Pidato persuasif",
+    "skill_type": "evaluative",
+    "question_type": "functional_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Perhatikan ilustrasi berikut!\n\nSMP Sawarna Jakarta melaksanakan kegiatan festival drama. Sebagai ketua OSIS, Raihan menyampaikan sambutan pada pembukaan kegiatan pergelaran drama tersebut.\n\nBagian isi pidato Raihan yang sesuai ilustrasi tersebut adalah ...",
+    "options": [
+      "Semoga apa yang telah saya sampaikan dapat memberikan manfaat bagi kita semua. Demikian dan saya akhiri terima kasih.",
+      "Teman-teman yang saya sayangi, marilah kita ikuti kegiatan festival drama ini. Kalah dan menang dalam kompetisi adalah hal biasa.",
+      "Saya berharap semoga kegiatan pergelaran drama ini dapat menciptakan aktor dan aktris muda berbakat yang akan membawa nama baik sekolah.",
+      "Bapak, Ibu dan teman-teman, pertama-tama kita panjatkan syukur ke hadirat Tuhan karena kita dapat melaksanakan kegiatan festival drama ini."
+    ],
+    "answer": 2,
+    "rationale": "Bagian isi sambutan menyampaikan tujuan atau harapan utama kegiatan. Opsi C berisi harapan agar festival drama menghasilkan aktor dan aktris muda berbakat yang membawa nama baik sekolah. Opsi A merupakan penutup dan opsi D merupakan pembuka.",
+    "content": {
+      "question": "Perhatikan ilustrasi berikut!\n\nSMP Sawarna Jakarta melaksanakan kegiatan festival drama. Sebagai ketua OSIS, Raihan menyampaikan sambutan pada pembukaan kegiatan pergelaran drama tersebut.\n\nBagian isi pidato Raihan yang sesuai ilustrasi tersebut adalah ...",
+      "options": [
+        "Semoga apa yang telah saya sampaikan dapat memberikan manfaat bagi kita semua. Demikian dan saya akhiri terima kasih.",
+        "Teman-teman yang saya sayangi, marilah kita ikuti kegiatan festival drama ini. Kalah dan menang dalam kompetisi adalah hal biasa.",
+        "Saya berharap semoga kegiatan pergelaran drama ini dapat menciptakan aktor dan aktris muda berbakat yang akan membawa nama baik sekolah.",
+        "Bapak, Ibu dan teman-teman, pertama-tama kita panjatkan syukur ke hadirat Tuhan karena kita dapat melaksanakan kegiatan festival drama ini."
+      ],
+      "answer": 2,
+      "rationale": "Bagian isi sambutan menyampaikan tujuan atau harapan utama kegiatan. Opsi C berisi harapan agar festival drama menghasilkan aktor dan aktris muda berbakat yang membawa nama baik sekolah. Opsi A merupakan penutup dan opsi D merupakan pembuka."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Deskripsi",
+    "skill_type": "reasoning",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Cermatilah paragraf berikut!\n\nLembah Harau, di Kabupaten Lima Puluh Kota, Provinsi Sumatera Barat merupakan jurang yang besar dengan diameter mencapai 400 meter. Di Harau ini banyak keindahan yang memukau. Tebing-tebing granit menjulang tinggi dengan bentuknya yang unik mengelilingi lembah. .... Dari mulai memasuki Lembah Harau, pengunjung sudah menikmati tebing-tebing granit ini.\n\nKalimat deskriptif yang tepat untuk melengkapi bagian yang rumpang dalam paragraf tersebut adalah ...",
+    "options": [
+      "Tebing-tebing granit yang terjal ini mempunyai ketinggian 80 s.d. 300 meter.",
+      "Sebagian pemanjat tebing dunia telah mengunjungi tempat ini untuk dipanjatinya.",
+      "Banyak orang membandingkan Lembah Harau yang indah dengan \"Grand Canyon\".",
+      "Pengunjung menikmati keindahan alamnya dalam udara yang sangat segar dan bersih."
+    ],
+    "answer": 0,
+    "rationale": "Kalimat sebelum dan sesudah bagian rumpang membahas tebing-tebing granit. Opsi A melanjutkan deskripsi objek tersebut secara konkret dengan menyebut sifat terjal dan ketinggiannya, sehingga paragraf tetap padu.",
+    "content": {
+      "question": "Cermatilah paragraf berikut!\n\nLembah Harau, di Kabupaten Lima Puluh Kota, Provinsi Sumatera Barat merupakan jurang yang besar dengan diameter mencapai 400 meter. Di Harau ini banyak keindahan yang memukau. Tebing-tebing granit menjulang tinggi dengan bentuknya yang unik mengelilingi lembah. .... Dari mulai memasuki Lembah Harau, pengunjung sudah menikmati tebing-tebing granit ini.\n\nKalimat deskriptif yang tepat untuk melengkapi bagian yang rumpang dalam paragraf tersebut adalah ...",
+      "options": [
+        "Tebing-tebing granit yang terjal ini mempunyai ketinggian 80 s.d. 300 meter.",
+        "Sebagian pemanjat tebing dunia telah mengunjungi tempat ini untuk dipanjatinya.",
+        "Banyak orang membandingkan Lembah Harau yang indah dengan \"Grand Canyon\".",
+        "Pengunjung menikmati keindahan alamnya dalam udara yang sangat segar dan bersih."
+      ],
+      "answer": 0,
+      "rationale": "Kalimat sebelum dan sesudah bagian rumpang membahas tebing-tebing granit. Opsi A melanjutkan deskripsi objek tersebut secara konkret dengan menyebut sifat terjal dan ketinggiannya, sehingga paragraf tetap padu."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Analisis Teks",
+    "subtopic": "Kesesuaian pernyataan dengan teks",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah kutipan paragraf berikut!\n\nIndonesia menjadi negara dengan hutan bakau paling luas di dunia. Menurut data Kementerian Negara Lingkungan Hidup, luas hutan bakau Indonesia mencapai 4,3 juta ha.\n\nHutan bakau disebut juga dengan hutan mangrove. Hutan bakau merupakan bagian dari ekosistem pantai. Hutan bakau merupakan hutan yang tumbuh di wilayah pasang dan surut. Hutan bakau ini termasuk lingkup ekosistem pantai sebab terletak di kawasan perbatasan laut dan darat.\n\nHutan bakau terletak di wilayah pantai dan muara sungai. Tepatnya, hutan bakau terletak di garis pantai. Dengan posisi hutan bakau yang berada di garis pantai, hutan ini dipengaruhi oleh keadaan air laut. Pasang surut laut mengubah kondisi hutan bakau. Hutan akan tergenang air di masa pasang dan akan bebas dari genangan air pada saat air surut.\n\nPernyataan yang sesuai dengan teks tersebut adalah ...",
+    "options": [
+      "Menurut data Kementerian Negara Lingkungan Hidup Indonesia adalah negara paling luas di dunia.",
+      "Hutan bakau merupakan ekosistem pantai yang tumbuh saat terjadi genangan air.",
+      "Indonesia adalah negara dengan hutan bakau terluas di dunia karena Indonesia memiliki ekosistem pantai dan muara sungai.",
+      "Indonesia adalah negara dengan hutan bakau terluas di dunia."
+    ],
+    "answer": 3,
+    "rationale": "Kalimat pertama teks secara langsung menyatakan bahwa Indonesia merupakan negara dengan hutan bakau paling luas di dunia. Opsi lain mengubah atau menambahkan informasi yang tidak dinyatakan dalam teks.",
+    "content": {
+      "question": "Bacalah kutipan paragraf berikut!\n\nIndonesia menjadi negara dengan hutan bakau paling luas di dunia. Menurut data Kementerian Negara Lingkungan Hidup, luas hutan bakau Indonesia mencapai 4,3 juta ha.\n\nHutan bakau disebut juga dengan hutan mangrove. Hutan bakau merupakan bagian dari ekosistem pantai. Hutan bakau merupakan hutan yang tumbuh di wilayah pasang dan surut. Hutan bakau ini termasuk lingkup ekosistem pantai sebab terletak di kawasan perbatasan laut dan darat.\n\nHutan bakau terletak di wilayah pantai dan muara sungai. Tepatnya, hutan bakau terletak di garis pantai. Dengan posisi hutan bakau yang berada di garis pantai, hutan ini dipengaruhi oleh keadaan air laut. Pasang surut laut mengubah kondisi hutan bakau. Hutan akan tergenang air di masa pasang dan akan bebas dari genangan air pada saat air surut.\n\nPernyataan yang sesuai dengan teks tersebut adalah ...",
+      "options": [
+        "Menurut data Kementerian Negara Lingkungan Hidup Indonesia adalah negara paling luas di dunia.",
+        "Hutan bakau merupakan ekosistem pantai yang tumbuh saat terjadi genangan air.",
+        "Indonesia adalah negara dengan hutan bakau terluas di dunia karena Indonesia memiliki ekosistem pantai dan muara sungai.",
+        "Indonesia adalah negara dengan hutan bakau terluas di dunia."
+      ],
+      "answer": 3,
+      "rationale": "Kalimat pertama teks secara langsung menyatakan bahwa Indonesia merupakan negara dengan hutan bakau paling luas di dunia. Opsi lain mengubah atau menambahkan informasi yang tidak dinyatakan dalam teks."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah dengan saksama kutipan biografi berikut ini!\n\nSjahrir menyelesaikan studinya di AMS Bandung pada tahun 1929. Ia mempunyai saudara perempuan yang menikah dengan Dr. Djoehana Wirjadikarta, yang memperoleh beasiswa untuk melanjutkan diploma bumiputeranya di Belanda. Sjahrir mengikuti keluarga kakaknya tersebut. Ia melanjutkan studinya di Universitas Amsterdam, di Fakultas Hukum. Di Amsterdam, garis pemisah antara warga negeri penjajahan dan penduduk wilayah jajahannya tak terlihat sama sekali.\n\nSumber: Sutan Sjahrir Demokrat Sejati Pejuang Kemanusiaan oleh Rosihan Anwar\n\nKeistimewaan tokoh yang ada pada kutipan teks tersebut adalah ...",
+    "options": [
+      "Sutan Sjahrir melanjutkan studi di Fakultas Hukum, Universitas Amsterdam.",
+      "Sutan Sjahrir menyelesaikan studinya di AMS Bandung.",
+      "Sutan Sjahrir mempunyai saudara perempuan yang ke Belanda.",
+      "Garis pemisah antara penjajah dengan jajahannya tidak terlihat."
+    ],
+    "answer": 0,
+    "rationale": "Keistimewaan tokoh adalah hal penting atau menonjol yang dicapai tokoh. Dari pilihan yang tersedia, kelanjutan studi Sutan Sjahrir di Fakultas Hukum Universitas Amsterdam merupakan pencapaian yang paling istimewa.",
+    "content": {
+      "question": "Bacalah dengan saksama kutipan biografi berikut ini!\n\nSjahrir menyelesaikan studinya di AMS Bandung pada tahun 1929. Ia mempunyai saudara perempuan yang menikah dengan Dr. Djoehana Wirjadikarta, yang memperoleh beasiswa untuk melanjutkan diploma bumiputeranya di Belanda. Sjahrir mengikuti keluarga kakaknya tersebut. Ia melanjutkan studinya di Universitas Amsterdam, di Fakultas Hukum. Di Amsterdam, garis pemisah antara warga negeri penjajahan dan penduduk wilayah jajahannya tak terlihat sama sekali.\n\nSumber: Sutan Sjahrir Demokrat Sejati Pejuang Kemanusiaan oleh Rosihan Anwar\n\nKeistimewaan tokoh yang ada pada kutipan teks tersebut adalah ...",
+      "options": [
+        "Sutan Sjahrir melanjutkan studi di Fakultas Hukum, Universitas Amsterdam.",
+        "Sutan Sjahrir menyelesaikan studinya di AMS Bandung.",
+        "Sutan Sjahrir mempunyai saudara perempuan yang ke Belanda.",
+        "Garis pemisah antara penjajah dengan jajahannya tidak terlihat."
+      ],
+      "answer": 0,
+      "rationale": "Keistimewaan tokoh adalah hal penting atau menonjol yang dicapai tokoh. Dari pilihan yang tersedia, kelanjutan studi Sutan Sjahrir di Fakultas Hukum Universitas Amsterdam merupakan pencapaian yang paling istimewa."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Cerpen & cerita fantasi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah dengan saksama kutipan cerpen berikut ini!\n\nSambil menggerutu tidak senang, saya mengambil alih obor dari tangannya. Kami lalu berjalan sepanjang galengan besar di areal persawahan beberapa puluh meter setelah melewati kebun dan kolam gurami di belakang rumahnya. Di kejauhan, terlihat beberapa titik cahaya obor milik para pencari jangkrik selain kami. Rasa hati jadi tenang. Musim kemarau, tanah persawahan yang pecah-pecah, gelap yang nyata ditambah angin bersiuran di areal terbuka memang memberikan sensasi aneh. Saya merasa tidak akan berani berada di sana sendirian.\n\nSumber: Cerpen \"Seragam\" karya Aris Kurniawan Basuki\n\nCara pengarang menggambarkan watak tokoh pada kutipan cerpen di atas adalah ...",
+    "options": [
+      "lingkungan tokoh",
+      "jalan pikiran tokoh",
+      "tingkah laku tokoh",
+      "keadaan fisik tokoh"
+    ],
+    "answer": 1,
+    "rationale": "Watak dan perasaan tokoh ditampilkan melalui isi pikirannya, seperti rasa hati yang menjadi tenang dan pengakuan bahwa ia tidak berani berada di tempat itu sendirian. Teknik tersebut merupakan penggambaran melalui jalan pikiran tokoh.",
+    "content": {
+      "question": "Bacalah dengan saksama kutipan cerpen berikut ini!\n\nSambil menggerutu tidak senang, saya mengambil alih obor dari tangannya. Kami lalu berjalan sepanjang galengan besar di areal persawahan beberapa puluh meter setelah melewati kebun dan kolam gurami di belakang rumahnya. Di kejauhan, terlihat beberapa titik cahaya obor milik para pencari jangkrik selain kami. Rasa hati jadi tenang. Musim kemarau, tanah persawahan yang pecah-pecah, gelap yang nyata ditambah angin bersiuran di areal terbuka memang memberikan sensasi aneh. Saya merasa tidak akan berani berada di sana sendirian.\n\nSumber: Cerpen \"Seragam\" karya Aris Kurniawan Basuki\n\nCara pengarang menggambarkan watak tokoh pada kutipan cerpen di atas adalah ...",
+      "options": [
+        "lingkungan tokoh",
+        "jalan pikiran tokoh",
+        "tingkah laku tokoh",
+        "keadaan fisik tokoh"
+      ],
+      "answer": 1,
+      "rationale": "Watak dan perasaan tokoh ditampilkan melalui isi pikirannya, seperti rasa hati yang menjadi tenang dan pengakuan bahwa ia tidak berani berada di tempat itu sendirian. Teknik tersebut merupakan penggambaran melalui jalan pikiran tokoh."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Analisis Teks",
+    "subtopic": "Kesesuaian pernyataan dengan teks",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah dengan saksama paragraf berikut ini!\n\nDengan panjang 29 kilometer, kekuatan gempa Sesar Lembang berkisar 6,4 hingga bermagnitudo 7,0. Namun karena terbagi dalam beberapa segmen, kekuatan gempanya bisa berbeda. Peneliti dari Kelompok Keahlian Geodesi Institut Teknologi Bandung (ITB), Irwan Meilano, pada diskusi Sesar Lembang di Badan Geologi September lalu mengatakan, segmen patahan Lembang dan potensi kekuatan gempanya belum diteliti rinci, pun riwayat kejadian gempa segmen itu belum diketahui.\n\nPernyataan yang sesuai dengan teks di atas adalah ...",
+    "options": [
+      "Kekuatan gempa Sesar Lembang terbagi dalam beberapa segmen.",
+      "Para peneliti sudah mengetahui riwayat kejadian gempa Sesar Lembang.",
+      "Kekuatan gempa Sesar Lembang sudah diteliti sejak bertahun-tahun lalu.",
+      "Gempa Sesar Lembang berkekuatan sangat besar dan sudah diteliti rinci."
+    ],
+    "answer": 0,
+    "rationale": "Teks menyatakan bahwa Sesar Lembang terbagi dalam beberapa segmen sehingga kekuatan gempanya dapat berbeda. Tiga pilihan lain bertentangan dengan teks karena penelitian rinci dan riwayat gempanya justru belum diketahui.",
+    "content": {
+      "question": "Bacalah dengan saksama paragraf berikut ini!\n\nDengan panjang 29 kilometer, kekuatan gempa Sesar Lembang berkisar 6,4 hingga bermagnitudo 7,0. Namun karena terbagi dalam beberapa segmen, kekuatan gempanya bisa berbeda. Peneliti dari Kelompok Keahlian Geodesi Institut Teknologi Bandung (ITB), Irwan Meilano, pada diskusi Sesar Lembang di Badan Geologi September lalu mengatakan, segmen patahan Lembang dan potensi kekuatan gempanya belum diteliti rinci, pun riwayat kejadian gempa segmen itu belum diketahui.\n\nPernyataan yang sesuai dengan teks di atas adalah ...",
+      "options": [
+        "Kekuatan gempa Sesar Lembang terbagi dalam beberapa segmen.",
+        "Para peneliti sudah mengetahui riwayat kejadian gempa Sesar Lembang.",
+        "Kekuatan gempa Sesar Lembang sudah diteliti sejak bertahun-tahun lalu.",
+        "Gempa Sesar Lembang berkekuatan sangat besar dan sudah diteliti rinci."
+      ],
+      "answer": 0,
+      "rationale": "Teks menyatakan bahwa Sesar Lembang terbagi dalam beberapa segmen sehingga kekuatan gempanya dapat berbeda. Tiga pilihan lain bertentangan dengan teks karena penelitian rinci dan riwayat gempanya justru belum diketahui."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Ejaan",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Bacalah dengan saksama kutipan teks berikut ini!\n\nBagi masyarakat Jawa penggunaan kata Yowis Ben adalah hal yang lumrah. Namun, jika kalimat ini dijadikan sebagai sebuah judul film, maka yang disajikan adalah hal-hal yang unik. Misalnya saja, hampir 80% dari adegan di film ini menggunakan Bahasa jawa. Film Yowis Ben adalah salah satu film komedi terbaik Indonesia yang dirilis pada tahun 2018. Disutradarai oleh Fajar Nugros dan Bayu Skak, film ini sudah tayang di bioskop pada 22 februari 2018.\n\nPerbaikan penulisan huruf kapital yang tepat untuk kata-kata yang digarisbawahi di atas adalah ...",
+    "options": [
+      "Misalnya dan februari",
+      "Bahasa Jawa dan Disutradarai",
+      "masyarakat Jawa dan bahasa Jawa",
+      "Masyarakat Jawa dan Februari"
+    ],
+    "answer": 2,
+    "rationale": "Kata masyarakat pada frasa masyarakat Jawa bukan nama diri sehingga ditulis dengan huruf kecil. Pada nama bahasa, kata bahasa juga ditulis dengan huruf kecil, sedangkan nama sukunya diawali huruf kapital: bahasa Jawa. Pasangan perbaikan yang tepat adalah opsi C.",
+    "content": {
+      "question": "Bacalah dengan saksama kutipan teks berikut ini!\n\nBagi masyarakat Jawa penggunaan kata Yowis Ben adalah hal yang lumrah. Namun, jika kalimat ini dijadikan sebagai sebuah judul film, maka yang disajikan adalah hal-hal yang unik. Misalnya saja, hampir 80% dari adegan di film ini menggunakan Bahasa jawa. Film Yowis Ben adalah salah satu film komedi terbaik Indonesia yang dirilis pada tahun 2018. Disutradarai oleh Fajar Nugros dan Bayu Skak, film ini sudah tayang di bioskop pada 22 februari 2018.\n\nPerbaikan penulisan huruf kapital yang tepat untuk kata-kata yang digarisbawahi di atas adalah ...",
+      "options": [
+        "Misalnya dan februari",
+        "Bahasa Jawa dan Disutradarai",
+        "masyarakat Jawa dan bahasa Jawa",
+        "Masyarakat Jawa dan Februari"
+      ],
+      "answer": 2,
+      "rationale": "Kata masyarakat pada frasa masyarakat Jawa bukan nama diri sehingga ditulis dengan huruf kecil. Pada nama bahasa, kata bahasa juga ditulis dengan huruf kecil, sedangkan nama sukunya diawali huruf kapital: bahasa Jawa. Pasangan perbaikan yang tepat adalah opsi C."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Laporan hasil observasi",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-4"],
+    "is_active": true,
+    "question": "Perhatikan kutipan teks laporan berikut!\n\n1. Terumbu karang di Taman Nasional Bunaken sangat banyak jenisnya. Terumbu karang ini hidup di pantai atau daerah yang terkena cahaya matahari dan hidup di perairan yang berada kurang lebih 50 meter di bawah permukaan laut dengan suhu tertentu, serta di air jernih yang tidak terkena polusi.\n2. Ketiga biota laut tersebut sangat bermanfaat bagi kehidupan manusia, seperti ikan dan rumput laut bermanfaat bagi kesehatan karena banyak mengandung gizi. Terumbu karang itu juga berguna bagi ekologi, ekonomi, pariwisata, dan menahan abrasi dari besarnya hantaman gelombang dan ombak laut.\n3. Biota laut adalah seluruh makhluk hidup yang berkembang biak di laut. Biota laut itu di antaranya terumbu karang, ikan, dan tumbuhan-tumbuhan laut yang menjadi bagian dari ekosistem laut.\n4. Di samping terumbu karang, Taman Laut Bunaken juga dihuni beragam jenis ikan, seperti ikan kuda gusumi, oci putih, lolosi ekor kuning, goropa. Di samping terumbu karang dan ikan, laut Indonesia juga memiliki tumbuhan laut.\n\nUrutan teks yang tepat sesuai dengan struktur teks laporan hasil observasi di atas adalah ...",
+    "options": [
+      "4-1-3-2",
+      "3-1-4-2",
+      "4-2-3-1",
+      "3-2-1-4"
+    ],
+    "answer": 1,
+    "rationale": "Laporan hasil observasi dimulai dengan definisi umum biota laut pada kalimat 3. Setelah itu dijelaskan jenis-jenisnya secara khusus melalui terumbu karang pada kalimat 1 dan ikan serta tumbuhan laut pada kalimat 4. Bagian akhir memaparkan manfaatnya pada kalimat 2. Urutannya adalah 3-1-4-2.",
+    "content": {
+      "question": "Perhatikan kutipan teks laporan berikut!\n\n1. Terumbu karang di Taman Nasional Bunaken sangat banyak jenisnya. Terumbu karang ini hidup di pantai atau daerah yang terkena cahaya matahari dan hidup di perairan yang berada kurang lebih 50 meter di bawah permukaan laut dengan suhu tertentu, serta di air jernih yang tidak terkena polusi.\n2. Ketiga biota laut tersebut sangat bermanfaat bagi kehidupan manusia, seperti ikan dan rumput laut bermanfaat bagi kesehatan karena banyak mengandung gizi. Terumbu karang itu juga berguna bagi ekologi, ekonomi, pariwisata, dan menahan abrasi dari besarnya hantaman gelombang dan ombak laut.\n3. Biota laut adalah seluruh makhluk hidup yang berkembang biak di laut. Biota laut itu di antaranya terumbu karang, ikan, dan tumbuhan-tumbuhan laut yang menjadi bagian dari ekosistem laut.\n4. Di samping terumbu karang, Taman Laut Bunaken juga dihuni beragam jenis ikan, seperti ikan kuda gusumi, oci putih, lolosi ekor kuning, goropa. Di samping terumbu karang dan ikan, laut Indonesia juga memiliki tumbuhan laut.\n\nUrutan teks yang tepat sesuai dengan struktur teks laporan hasil observasi di atas adalah ...",
+      "options": [
+        "4-1-3-2",
+        "3-1-4-2",
+        "4-2-3-1",
+        "3-2-1-4"
+      ],
+      "answer": 1,
+      "rationale": "Laporan hasil observasi dimulai dengan definisi umum biota laut pada kalimat 3. Setelah itu dijelaskan jenis-jenisnya secara khusus melalui terumbu karang pada kalimat 1 dan ikan serta tumbuhan laut pada kalimat 4. Bagian akhir memaparkan manfaatnya pada kalimat 2. Urutannya adalah 3-1-4-2."
+    }
+  }
+]

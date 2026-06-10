@@ -1,0 +1,322 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Berita",
+    "skill_type": "understanding",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Cermati kutipan berita berikut!\n\nGempa dengan kekuatan besar mengguncang wilayah Afghanistan utara. Seperti dikutip dari BBC, gempa berpusat di wilayah pegunungan; 45 km atau 28 mil barat daya Jarm dekat perbatasan Afghanistan dengan Pakistan. Getarannya terasa hingga Pakistan dan India, guncangannya dirasakan di Kabul, New Delhi, India, dan Islamabad. Badan Survei Geologi Amerika Serikat (USGS) menyebut, lindu yang terjadi pada Senin, 24 Oktober 2015, pukul 14.10 berkekuatan 7,7 skala Richter.\n\nSumber: Liputan6.com, Kabul\n\nUnsur yang ada dalam kalimat berita tersebut, secara berurutan adalah ...",
+    "options": [
+      "apa - di mana - bagaimana - kapan",
+      "apa - siapa - di mana - mengapa",
+      "siapa - bagaimana - kapan - di mana",
+      "siapa - di mana - bagaimana - mengapa"
+    ],
+    "answer": 0,
+    "rationale": "Kutipan dimulai dengan peristiwa gempa sebagai unsur apa. Lokasinya berada di Afghanistan utara dan sekitar perbatasan Afghanistan-Pakistan sebagai unsur di mana. Uraian getaran yang terasa hingga beberapa kota menjelaskan bagaimana peristiwa itu terjadi/dirasakan. Waktu peristiwa disebutkan pada Senin, 24 Oktober 2015, pukul 14.10 sebagai unsur kapan. Jadi urutan yang tepat adalah apa - di mana - bagaimana - kapan.",
+    "content": {
+      "question": "Cermati kutipan berita berikut!\n\nGempa dengan kekuatan besar mengguncang wilayah Afghanistan utara. Seperti dikutip dari BBC, gempa berpusat di wilayah pegunungan; 45 km atau 28 mil barat daya Jarm dekat perbatasan Afghanistan dengan Pakistan. Getarannya terasa hingga Pakistan dan India, guncangannya dirasakan di Kabul, New Delhi, India, dan Islamabad. Badan Survei Geologi Amerika Serikat (USGS) menyebut, lindu yang terjadi pada Senin, 24 Oktober 2015, pukul 14.10 berkekuatan 7,7 skala Richter.\n\nSumber: Liputan6.com, Kabul\n\nUnsur yang ada dalam kalimat berita tersebut, secara berurutan adalah ...",
+      "options": [
+        "apa - di mana - bagaimana - kapan",
+        "apa - siapa - di mana - mengapa",
+        "siapa - bagaimana - kapan - di mana",
+        "siapa - di mana - bagaimana - mengapa"
+      ],
+      "answer": 0,
+      "rationale": "Kutipan dimulai dengan peristiwa gempa sebagai unsur apa. Lokasinya berada di Afghanistan utara dan sekitar perbatasan Afghanistan-Pakistan sebagai unsur di mana. Uraian getaran yang terasa hingga beberapa kota menjelaskan bagaimana peristiwa itu terjadi/dirasakan. Waktu peristiwa disebutkan pada Senin, 24 Oktober 2015, pukul 14.10 sebagai unsur kapan. Jadi urutan yang tepat adalah apa - di mana - bagaimana - kapan."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Cerpen & cerita fantasi",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Bacalah dongeng fabel berikut ini!\n\nAnjing penjaga kebun perlahan mendekati kelinci yang asyik makan ketimun. Ketika sudah sangat dekat, sang anjing langsung mengejarnya dengan sangat cepat. Namun sang kelinci mendengar langkah itu, dia melompat dengan sangat cepat. Sang anjing terus mengejarnya meskipun kelinci itu semakin menjauh dari jarak sang anjing namun sang anjing tidak menyerah begitu saja. Anjing itu memiliki kemampuan berlari tanpa henti sehingga dia mampu mengejar sang kelinci tanpa kelelahan. Meskipun demikian sang kelinci dengan sangat cepat melompat, membuat anjing itu kehilangan jejak.\n\nBurung gagak yang menyaksikan hal tersebut berkata, \"Ternyata kelinci itu lebih kencang dibandingkan dengan dirimu\" kemudian sang anjing berkata dengan tenang, \"Apa kau tidak melihat perbedaan yang begitu mencolok antara aku dengan kelinci itu?\" Sang gagak menjawab, \"aku tidak melihat perbedaan itu, memang apa perbedaan yang kau maksudkan itu?\" Sang anjing menjawab, \"Aku berlari untuk menangkap makanan sedangkan dia berlari mempertahankan hidupnya, sebuah keinginan akan menentukan kerasnya sebuah usaha\".\n\nPesan yang ingin disampaikan dari cerita fabel tersebut adalah ...",
+    "options": [
+      "Janganlah hanya menonton, apalagi mengomentari.",
+      "Bekerjalah dengan setia dan penuh tanggung jawab.",
+      "Kerasnya sebuah usaha akan mewujudkan keinginan.",
+      "Bantulah teman yang sedang mengalami kesusahan."
+    ],
+    "answer": 2,
+    "rationale": "Akhir fabel menegaskan bahwa kelinci berusaha lebih keras karena sedang mempertahankan hidupnya, sedangkan anjing hanya mengejar makanan. Kalimat penutup menyatakan bahwa keinginan menentukan kerasnya usaha. Maka pesan yang paling sesuai adalah kerasnya usaha dapat mewujudkan keinginan.",
+    "content": {
+      "question": "Bacalah dongeng fabel berikut ini!\n\nAnjing penjaga kebun perlahan mendekati kelinci yang asyik makan ketimun. Ketika sudah sangat dekat, sang anjing langsung mengejarnya dengan sangat cepat. Namun sang kelinci mendengar langkah itu, dia melompat dengan sangat cepat. Sang anjing terus mengejarnya meskipun kelinci itu semakin menjauh dari jarak sang anjing namun sang anjing tidak menyerah begitu saja. Anjing itu memiliki kemampuan berlari tanpa henti sehingga dia mampu mengejar sang kelinci tanpa kelelahan. Meskipun demikian sang kelinci dengan sangat cepat melompat, membuat anjing itu kehilangan jejak.\n\nBurung gagak yang menyaksikan hal tersebut berkata, \"Ternyata kelinci itu lebih kencang dibandingkan dengan dirimu\" kemudian sang anjing berkata dengan tenang, \"Apa kau tidak melihat perbedaan yang begitu mencolok antara aku dengan kelinci itu?\" Sang gagak menjawab, \"aku tidak melihat perbedaan itu, memang apa perbedaan yang kau maksudkan itu?\" Sang anjing menjawab, \"Aku berlari untuk menangkap makanan sedangkan dia berlari mempertahankan hidupnya, sebuah keinginan akan menentukan kerasnya sebuah usaha\".\n\nPesan yang ingin disampaikan dari cerita fabel tersebut adalah ...",
+      "options": [
+        "Janganlah hanya menonton, apalagi mengomentari.",
+        "Bekerjalah dengan setia dan penuh tanggung jawab.",
+        "Kerasnya sebuah usaha akan mewujudkan keinginan.",
+        "Bantulah teman yang sedang mengalami kesusahan."
+      ],
+      "answer": 2,
+      "rationale": "Akhir fabel menegaskan bahwa kelinci berusaha lebih keras karena sedang mempertahankan hidupnya, sedangkan anjing hanya mengejar makanan. Kalimat penutup menyatakan bahwa keinginan menentukan kerasnya usaha. Maka pesan yang paling sesuai adalah kerasnya usaha dapat mewujudkan keinginan."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kebahasaan",
+    "subtopic": "Kohesi & koherensi",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Perhatikan urutan laporan perjalanan berikut!\n\n1) Perjalanan wisata ke Wisata Bahari Lamongan itu akan kami jadikan kegiatan rutin tahunan.\n2) Kami berangkat menuju Wisata Bahari Lamongan hari Sabtu tanggal 3 Juli 2008 pukul 02.00.\n3) Sesampai di sana banyak temuan yang kami catat sebagai tambahan ilmu pengetahuan.\n4) Objek Wisata Bahari Lamongan merupakan pilihan utama tujuan wisata kami.\n5) Rombongan kami berjumlah 200 orang dengan 5 bus.\n6) Kami dipandu oleh bapak ibu guru sebanyak 20 orang.\n\nKalimat-kalimat tersebut akan menjadi laporan sistematis bila disusun dengan urutan ...",
+    "options": [
+      "(4), (2), (5), (6), (3), (1)",
+      "(3), (6), (5), (2), (1), (4)",
+      "(1), (2), (6), (5), (3), (4)",
+      "(5), (3), (2), (4), (6), (1)"
+    ],
+    "answer": 0,
+    "rationale": "Laporan perjalanan yang sistematis dimulai dari tujuan kegiatan, lalu waktu keberangkatan, jumlah rombongan, pendamping, kegiatan/temuan di tempat tujuan, dan diakhiri dengan simpulan atau rencana tindak lanjut. Urutan tersebut adalah (4), (2), (5), (6), (3), (1).",
+    "content": {
+      "question": "Perhatikan urutan laporan perjalanan berikut!\n\n1) Perjalanan wisata ke Wisata Bahari Lamongan itu akan kami jadikan kegiatan rutin tahunan.\n2) Kami berangkat menuju Wisata Bahari Lamongan hari Sabtu tanggal 3 Juli 2008 pukul 02.00.\n3) Sesampai di sana banyak temuan yang kami catat sebagai tambahan ilmu pengetahuan.\n4) Objek Wisata Bahari Lamongan merupakan pilihan utama tujuan wisata kami.\n5) Rombongan kami berjumlah 200 orang dengan 5 bus.\n6) Kami dipandu oleh bapak ibu guru sebanyak 20 orang.\n\nKalimat-kalimat tersebut akan menjadi laporan sistematis bila disusun dengan urutan ...",
+      "options": [
+        "(4), (2), (5), (6), (3), (1)",
+        "(3), (6), (5), (2), (1), (4)",
+        "(1), (2), (6), (5), (3), (4)",
+        "(5), (3), (2), (4), (6), (1)"
+      ],
+      "answer": 0,
+      "rationale": "Laporan perjalanan yang sistematis dimulai dari tujuan kegiatan, lalu waktu keberangkatan, jumlah rombongan, pendamping, kegiatan/temuan di tempat tujuan, dan diakhiri dengan simpulan atau rencana tindak lanjut. Urutan tersebut adalah (4), (2), (5), (6), (3), (1)."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ide pokok",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Perhatikan bacaan berikut!\n\nProgram penelitian berbasis pelayanan untuk penggunaan obat dan tanaman herbal serta jamu dinilai efektif. Program tersebut dinilai mampu mendorong penggunaan obat, tanaman herbal, dan jamu sebagai salah satu alternatif pengobatan. Program ini juga dilakukan oleh para tenaga kesehatan yang terlatih dan memiliki pengetahuan tentang hal tersebut. Selain itu, kondisi pasien akan dievaluasi dan dipantau secara berkala sehingga efek sekecil apa pun dapat segera diketahui dengan cepat.\n\nGagasan utama paragraf tersebut adalah ...",
+    "options": [
+      "Penggunaan tanaman herbal sebagai jamu",
+      "Efektivitas program penelitian berbasis pelayanan",
+      "Pelayanan berbasis jamu dan herbal",
+      "Alternatif pengobatan dengan obat dan tanaman herbal"
+    ],
+    "answer": 1,
+    "rationale": "Kalimat pertama menyatakan gagasan utama, yaitu program penelitian berbasis pelayanan dinilai efektif. Kalimat-kalimat berikutnya menjelaskan alasan efektivitas itu, misalnya adanya tenaga kesehatan terlatih dan pemantauan pasien secara berkala. Jadi gagasan utamanya adalah efektivitas program penelitian berbasis pelayanan.",
+    "content": {
+      "question": "Perhatikan bacaan berikut!\n\nProgram penelitian berbasis pelayanan untuk penggunaan obat dan tanaman herbal serta jamu dinilai efektif. Program tersebut dinilai mampu mendorong penggunaan obat, tanaman herbal, dan jamu sebagai salah satu alternatif pengobatan. Program ini juga dilakukan oleh para tenaga kesehatan yang terlatih dan memiliki pengetahuan tentang hal tersebut. Selain itu, kondisi pasien akan dievaluasi dan dipantau secara berkala sehingga efek sekecil apa pun dapat segera diketahui dengan cepat.\n\nGagasan utama paragraf tersebut adalah ...",
+      "options": [
+        "Penggunaan tanaman herbal sebagai jamu",
+        "Efektivitas program penelitian berbasis pelayanan",
+        "Pelayanan berbasis jamu dan herbal",
+        "Alternatif pengobatan dengan obat dan tanaman herbal"
+      ],
+      "answer": 1,
+      "rationale": "Kalimat pertama menyatakan gagasan utama, yaitu program penelitian berbasis pelayanan dinilai efektif. Kalimat-kalimat berikutnya menjelaskan alasan efektivitas itu, misalnya adanya tenaga kesehatan terlatih dan pemantauan pasien secara berkala. Jadi gagasan utamanya adalah efektivitas program penelitian berbasis pelayanan."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Tanda baca",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Perhatikan kalimat berikut ini!\n\nSajak Aku karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.\n\nPenggunaan tanda baca yang tepat pada kalimat tersebut adalah ...",
+    "options": [
+      "\"Sajak Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+      "Sajak \"Aku karya Chairil Anwar\" sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+      "\"Sajak Aku karya Chairil Anwar\" sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+      "Sajak \"Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa."
+    ],
+    "answer": 3,
+    "rationale": "Yang menjadi judul sajak adalah Aku, sehingga kata Aku perlu diapit tanda petik. Kata Sajak dan keterangan karya Chairil Anwar bukan bagian dari judul. Karena itu penulisan yang tepat adalah Sajak \"Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+    "content": {
+      "question": "Perhatikan kalimat berikut ini!\n\nSajak Aku karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.\n\nPenggunaan tanda baca yang tepat pada kalimat tersebut adalah ...",
+      "options": [
+        "\"Sajak Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+        "Sajak \"Aku karya Chairil Anwar\" sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+        "\"Sajak Aku karya Chairil Anwar\" sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa.",
+        "Sajak \"Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa."
+      ],
+      "answer": 3,
+      "rationale": "Yang menjadi judul sajak adalah Aku, sehingga kata Aku perlu diapit tanda petik. Kata Sajak dan keterangan karya Chairil Anwar bukan bagian dari judul. Karena itu penulisan yang tepat adalah Sajak \"Aku\" karya Chairil Anwar sedang dibacakan oleh siswa kelas IX dalam acara Bulan Bahasa."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersirat",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Kutipan biografi berikut ini untuk nomor 6 dan 7.\n\nRudy Hartono Kurniawan lahir di Surabaya, Jawa Timur, 18 Agustus 1949, seorang mantan pemain bulutangkis Indonesia. Pada usia 9 tahun, Rudy kecil sudah menunjukkan bakatnya di bulutangkis. Rudy hanya berlatih di jalan raya aspal di depan kantor PLN di Surabaya, yang sebelumnya dikenal dengan Jalan Gemblongan. Rudy berlatih hanya pada hari Minggu, dari pagi hari hingga pukul 10 malam.\n\nKetika Rudy mulai berlatih di Asosiasi yang dimiliki ayahnya, pada saat itulah Rudy merasakan latihan profesional yang sesungguhnya. Dengan kondisi seperti itu Rudy tetap berlatih dengan bersemangat bahkan dia merasa bahwa tempat latihan ayahnya jauh lebih baik dari tempat latihan sebelumnya karena ruangan gedung telah memakai cahaya lampu listrik sehingga dia bisa tetap berlatih dengan maksimal sampai malam hari.\n\nPada umur 18 tahun, untuk pertama kalinya Rudy memenangkan titel Juara All England dengan mengalahkan Tan Aik Huang dari Malaysia dengan hasil akhir 15-12 dan 15-9. Setelah itu dia terus memenangkan titel ini sampai dengan tahun 1974.\n\nHal yang bisa diteladani dari biografi Rudy Hartono tersebut adalah ...",
+    "options": [
+      "Rudy Hartono sudah berlatih bulutangkis sejak berusia 9 tahun.",
+      "Rudy Hartono ditangani ayahnya yang juga seorang pebulutangkis.",
+      "Rudy Hartono selalu berlatih bulutangkis dari pagi hingga malam hari.",
+      "Rudy Hartono selalu tekun dan bersemangat dalam setiap kali latihan."
+    ],
+    "answer": 3,
+    "rationale": "Hal yang dapat diteladani adalah sikap atau nilai positif, bukan sekadar data riwayat hidup. Kutipan menonjolkan Rudy yang tetap berlatih dengan semangat meskipun fasilitas awal sederhana dan terus berlatih secara maksimal. Jadi teladan yang tepat adalah ketekunan dan semangatnya dalam berlatih.",
+    "content": {
+      "question": "Kutipan biografi berikut ini untuk nomor 6 dan 7.\n\nRudy Hartono Kurniawan lahir di Surabaya, Jawa Timur, 18 Agustus 1949, seorang mantan pemain bulutangkis Indonesia. Pada usia 9 tahun, Rudy kecil sudah menunjukkan bakatnya di bulutangkis. Rudy hanya berlatih di jalan raya aspal di depan kantor PLN di Surabaya, yang sebelumnya dikenal dengan Jalan Gemblongan. Rudy berlatih hanya pada hari Minggu, dari pagi hari hingga pukul 10 malam.\n\nKetika Rudy mulai berlatih di Asosiasi yang dimiliki ayahnya, pada saat itulah Rudy merasakan latihan profesional yang sesungguhnya. Dengan kondisi seperti itu Rudy tetap berlatih dengan bersemangat bahkan dia merasa bahwa tempat latihan ayahnya jauh lebih baik dari tempat latihan sebelumnya karena ruangan gedung telah memakai cahaya lampu listrik sehingga dia bisa tetap berlatih dengan maksimal sampai malam hari.\n\nPada umur 18 tahun, untuk pertama kalinya Rudy memenangkan titel Juara All England dengan mengalahkan Tan Aik Huang dari Malaysia dengan hasil akhir 15-12 dan 15-9. Setelah itu dia terus memenangkan titel ini sampai dengan tahun 1974.\n\nHal yang bisa diteladani dari biografi Rudy Hartono tersebut adalah ...",
+      "options": [
+        "Rudy Hartono sudah berlatih bulutangkis sejak berusia 9 tahun.",
+        "Rudy Hartono ditangani ayahnya yang juga seorang pebulutangkis.",
+        "Rudy Hartono selalu berlatih bulutangkis dari pagi hingga malam hari.",
+        "Rudy Hartono selalu tekun dan bersemangat dalam setiap kali latihan."
+      ],
+      "answer": 3,
+      "rationale": "Hal yang dapat diteladani adalah sikap atau nilai positif, bukan sekadar data riwayat hidup. Kutipan menonjolkan Rudy yang tetap berlatih dengan semangat meskipun fasilitas awal sederhana dan terus berlatih secara maksimal. Jadi teladan yang tepat adalah ketekunan dan semangatnya dalam berlatih."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Makna kata dalam konteks",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "direct",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Berdasarkan kutipan biografi Rudy Hartono, kata titel pada paragraf ketiga kurang tepat. Kata yang tepat untuk menggantinya adalah ...",
+    "options": [
+      "kompetisi",
+      "kejuaraan",
+      "lomba",
+      "persaingan"
+    ],
+    "answer": 1,
+    "rationale": "Dalam konteks kalimat, Rudy memenangkan sesuatu yang berkaitan dengan Juara All England. Dari pilihan yang tersedia, kata yang paling tepat untuk menggantikan titel adalah kejuaraan, karena mengacu pada ajang atau gelar kejuaraan yang dimenangkan. Kompetisi, lomba, dan persaingan lebih menekankan proses bertanding, bukan hasil yang diraih.",
+    "content": {
+      "question": "Berdasarkan kutipan biografi Rudy Hartono, kata titel pada paragraf ketiga kurang tepat. Kata yang tepat untuk menggantinya adalah ...",
+      "options": [
+        "kompetisi",
+        "kejuaraan",
+        "lomba",
+        "persaingan"
+      ],
+      "answer": 1,
+      "rationale": "Dalam konteks kalimat, Rudy memenangkan sesuatu yang berkaitan dengan Juara All England. Dari pilihan yang tersedia, kata yang paling tepat untuk menggantikan titel adalah kejuaraan, karena mengacu pada ajang atau gelar kejuaraan yang dimenangkan. Kompetisi, lomba, dan persaingan lebih menekankan proses bertanding, bukan hasil yang diraih."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Berita",
+    "skill_type": "reasoning",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Cermati fakta-fakta berikut!\n\n- hujan lebat\n- tambak meluap\n- jumlah kerugian\n\nTeks berita yang sesuai dengan fakta-fakta tersebut adalah ...",
+    "options": [
+      "Sudah beberapa hari belakangan ini, hujan mengguyur Jakarta setiap malam. Hal ini menyebabkan ruas jalan di beberapa tempat kebanjiran. Begitu pun tambak-tambak warga yang berada di pinggir laut. Airnya meluap ke jalan-jalan yang ada di sekitarnya.",
+      "Hujan mengguyur Kelurahan Marunda kemarin malam (25/3). Banyak tambak warga kebanjiran dan meluap. Ikan bandeng dan udang pancet yang beberapa hari lagi akan dipanen lepas ke luar tambak. Kerugian diperkirakan mencapai hingga ratusan juta rupiah.",
+      "Pemerintah DKI Jakarta sudah mengantisipasi musim hujan tahun ini diperkirakan akan datang mulai awal Desember. Tahun lalu, para pemilik tambak ikan bandeng dan udang pancet mengalami kerugian besar. Hal ini terjadi karena banjir melanda tambak mereka.",
+      "Pemprov Jawa Barat harus mengalokasikan APBD untuk perbaikan jalan yang rusak terendam banjir. Kerusakan terparah terjadi di jalan yang menghubungkan Kabupaten Indramayu dengan Cirebon. Apalagi menurut BMG, hujan di Jawa Barat masih akan berlangsung hingga akhir Maret. Sehingga petani tidak selalu mengalami kerugian."
+    ],
+    "answer": 1,
+    "rationale": "Teks yang tepat harus memuat semua fakta: hujan lebat, tambak meluap, dan jumlah kerugian. Opsi B menyebut hujan mengguyur, tambak warga kebanjiran dan meluap, serta kerugian diperkirakan ratusan juta rupiah. Opsi lain tidak memuat ketiga fakta itu secara lengkap.",
+    "content": {
+      "question": "Cermati fakta-fakta berikut!\n\n- hujan lebat\n- tambak meluap\n- jumlah kerugian\n\nTeks berita yang sesuai dengan fakta-fakta tersebut adalah ...",
+      "options": [
+        "Sudah beberapa hari belakangan ini, hujan mengguyur Jakarta setiap malam. Hal ini menyebabkan ruas jalan di beberapa tempat kebanjiran. Begitu pun tambak-tambak warga yang berada di pinggir laut. Airnya meluap ke jalan-jalan yang ada di sekitarnya.",
+        "Hujan mengguyur Kelurahan Marunda kemarin malam (25/3). Banyak tambak warga kebanjiran dan meluap. Ikan bandeng dan udang pancet yang beberapa hari lagi akan dipanen lepas ke luar tambak. Kerugian diperkirakan mencapai hingga ratusan juta rupiah.",
+        "Pemerintah DKI Jakarta sudah mengantisipasi musim hujan tahun ini diperkirakan akan datang mulai awal Desember. Tahun lalu, para pemilik tambak ikan bandeng dan udang pancet mengalami kerugian besar. Hal ini terjadi karena banjir melanda tambak mereka.",
+        "Pemprov Jawa Barat harus mengalokasikan APBD untuk perbaikan jalan yang rusak terendam banjir. Kerusakan terparah terjadi di jalan yang menghubungkan Kabupaten Indramayu dengan Cirebon. Apalagi menurut BMG, hujan di Jawa Barat masih akan berlangsung hingga akhir Maret. Sehingga petani tidak selalu mengalami kerugian."
+      ],
+      "answer": 1,
+      "rationale": "Teks yang tepat harus memuat semua fakta: hujan lebat, tambak meluap, dan jumlah kerugian. Opsi B menyebut hujan mengguyur, tambak warga kebanjiran dan meluap, serta kerugian diperkirakan ratusan juta rupiah. Opsi lain tidak memuat ketiga fakta itu secara lengkap."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Fakta & opini",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Perhatikanlah paragraf berikut!\n\nBeban pencemaran udara dari kendaraan bermotor berupa gas NO2, CO, dan HC. Dari tiga senyawa itu, CO merupakan pencemar udara terbesar. Senyawa itu menyumbang sekitar 91 persen dari total kendaraan bermotor. Gas CO yang dihasilkan 3,6 juta kendaraan bermotor di Jateng ini menyumbang sekitar 48% dari total beban pencemaran udara.\n\nPernyataan opini terdapat pada kalimat ...",
+    "options": [
+      "Kendaraan bermotor mencemari udara dengan gas NO2, CO, dan HC.",
+      "Pencemaran udara di Jawa Tengah semakin meningkat.",
+      "Penyumbang pencemaran udara terbesar berasal dari CO.",
+      "Gas CO menyumbang sekitar 48% dari total beban pencemaran udara."
+    ],
+    "answer": 1,
+    "rationale": "Opini adalah pernyataan yang bersifat penilaian atau dugaan dan tidak langsung ditopang data pada paragraf. Opsi B menyatakan pencemaran udara semakin meningkat, padahal paragraf hanya memaparkan jenis gas dan persentase kontribusi pencemaran, bukan tren kenaikan. Opsi A, C, dan D berupa informasi faktual yang sesuai dengan data paragraf.",
+    "content": {
+      "question": "Perhatikanlah paragraf berikut!\n\nBeban pencemaran udara dari kendaraan bermotor berupa gas NO2, CO, dan HC. Dari tiga senyawa itu, CO merupakan pencemar udara terbesar. Senyawa itu menyumbang sekitar 91 persen dari total kendaraan bermotor. Gas CO yang dihasilkan 3,6 juta kendaraan bermotor di Jateng ini menyumbang sekitar 48% dari total beban pencemaran udara.\n\nPernyataan opini terdapat pada kalimat ...",
+      "options": [
+        "Kendaraan bermotor mencemari udara dengan gas NO2, CO, dan HC.",
+        "Pencemaran udara di Jawa Tengah semakin meningkat.",
+        "Penyumbang pencemaran udara terbesar berasal dari CO.",
+        "Gas CO menyumbang sekitar 48% dari total beban pencemaran udara."
+      ],
+      "answer": 1,
+      "rationale": "Opini adalah pernyataan yang bersifat penilaian atau dugaan dan tidak langsung ditopang data pada paragraf. Opsi B menyatakan pencemaran udara semakin meningkat, padahal paragraf hanya memaparkan jenis gas dan persentase kontribusi pencemaran, bukan tren kenaikan. Opsi A, C, dan D berupa informasi faktual yang sesuai dengan data paragraf."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Analisis Teks",
+    "subtopic": "Kesesuaian pernyataan dengan teks",
+    "skill_type": "evaluative",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-psb-sma-exam-set-1"
+    ],
+    "is_active": true,
+    "question": "Perhatikan data berikut!\n\nJudul Novel: Memori\nPenulis: Windry Ramadhina\nPenerbit: Gagas Media\nCetakan: 2012\nTebal: 304 halaman\nKeunggulan: Penyampaian dengan bahasa yang puitis namun mudah dipahami\nKelemahan: Kertas berwarna kuning sehingga kurang menarik untuk dilihat\n\nParagraf resensi yang tepat berdasarkan data novel tersebut adalah ...",
+    "options": [
+      "Novel Memori disampaikan dengan gaya tutur anak muda. Hal ini menyebabkan buku ini disukai anak muda. Penampilan gambar cukup membantu pembaca untuk dapat memahami isi yang terkandung dalam buku tersebut.",
+      "Novel Memori layak dibaca karena memuat nilai-nilai moral, adat, dan kepercayaan sebagian masyarakat Indonesia. Kertas yang digunakan pun termasuk kertas yang cukup baik.",
+      "Novel Memori membahas tentang kisah cinta dua manusia. Dengan bahasa puitis yang biasanya sulit untuk dimengerti dan warna kertas yang kekuningan, tetap saja novel ini menjadi pilihan karena bahasa puitis dalam novel ini mudah untuk dipahami.",
+      "Novel Memori mencerminkan kesastraan Indonesia yang pada umumnya novel tentang cinta selalu menggunakan bahasa yang puitis. Hal ini sesuai dengan karakter anak muda zaman sekarang."
+    ],
+    "answer": 2,
+    "rationale": "Paragraf resensi harus sesuai dengan data yang diberikan, terutama keunggulan dan kelemahan novel. Opsi C memuat keunggulan bahasa puitis yang mudah dipahami dan kelemahan warna kertas kekuningan. Opsi A, B, dan D menambahkan informasi yang tidak terdapat dalam data atau bertentangan dengan data.",
+    "content": {
+      "question": "Perhatikan data berikut!\n\nJudul Novel: Memori\nPenulis: Windry Ramadhina\nPenerbit: Gagas Media\nCetakan: 2012\nTebal: 304 halaman\nKeunggulan: Penyampaian dengan bahasa yang puitis namun mudah dipahami\nKelemahan: Kertas berwarna kuning sehingga kurang menarik untuk dilihat\n\nParagraf resensi yang tepat berdasarkan data novel tersebut adalah ...",
+      "options": [
+        "Novel Memori disampaikan dengan gaya tutur anak muda. Hal ini menyebabkan buku ini disukai anak muda. Penampilan gambar cukup membantu pembaca untuk dapat memahami isi yang terkandung dalam buku tersebut.",
+        "Novel Memori layak dibaca karena memuat nilai-nilai moral, adat, dan kepercayaan sebagian masyarakat Indonesia. Kertas yang digunakan pun termasuk kertas yang cukup baik.",
+        "Novel Memori membahas tentang kisah cinta dua manusia. Dengan bahasa puitis yang biasanya sulit untuk dimengerti dan warna kertas yang kekuningan, tetap saja novel ini menjadi pilihan karena bahasa puitis dalam novel ini mudah untuk dipahami.",
+        "Novel Memori mencerminkan kesastraan Indonesia yang pada umumnya novel tentang cinta selalu menggunakan bahasa yang puitis. Hal ini sesuai dengan karakter anak muda zaman sekarang."
+      ],
+      "answer": 2,
+      "rationale": "Paragraf resensi harus sesuai dengan data yang diberikan, terutama keunggulan dan kelemahan novel. Opsi C memuat keunggulan bahasa puitis yang mudah dipahami dan kelemahan warna kertas kekuningan. Opsi A, B, dan D menambahkan informasi yang tidak terdapat dalam data atau bertentangan dengan data."
+    }
+  }
+]

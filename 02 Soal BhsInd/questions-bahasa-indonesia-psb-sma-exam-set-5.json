@@ -1,0 +1,302 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Pidato persuasif",
+    "skill_type": "evaluative",
+    "question_type": "functional_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Perhatikan kutipan teks pidato berikut ini!\n\nDalam rangka memperingati hari ulang tahun sekolah, OSIS di sekolah menggalakkan kegiatan Gerakan Disiplin Nasional (GDN). Kegiatan ini dapat dilakukan melalui Paskibra, PKS, dan PMR. Sekolah mengawali kegiatan tersebut dengan ceramah.\n\nKalimat pembuka yang paling tepat sesuai dengan kutipan teks pidato tersebut adalah ...",
+    "options": [
+      "Dalam rangka menggalakkan Gerakan Disiplin Nasional (GDN), OSIS diharapkan dapat melaksanakan melalui kegiatan Paskibra, PKS, dan PMR.",
+      "Dalam ceramah ini, topik yang akan kita bahas adalah masalah GDN yang dapat dilaksanakan oleh OSIS melalui Paskibra, PKS, dan PMR.",
+      "Gerakan Disiplin Nasional bukan hanya milik rakyat awam, melainkan juga untuk para pelajar sebagai generasi penerus bangsa.",
+      "Untuk mengawali kegiatan ulang tahun sekolah, OSIS dapat memulai kegiatannya dengan memasyarakatkan Gerakan Disiplin Nasional melalui PMR."
+    ],
+    "answer": 1,
+    "rationale": "Kalimat pembuka ceramah yang tepat perlu memperkenalkan topik yang akan dibahas. Opsi B secara jelas menyatakan bahwa ceramah membahas GDN yang dapat dilaksanakan melalui kegiatan OSIS.",
+    "content": {
+      "question": "Perhatikan kutipan teks pidato berikut ini!\n\nDalam rangka memperingati hari ulang tahun sekolah, OSIS di sekolah menggalakkan kegiatan Gerakan Disiplin Nasional (GDN). Kegiatan ini dapat dilakukan melalui Paskibra, PKS, dan PMR. Sekolah mengawali kegiatan tersebut dengan ceramah.\n\nKalimat pembuka yang paling tepat sesuai dengan kutipan teks pidato tersebut adalah ...",
+      "options": [
+        "Dalam rangka menggalakkan Gerakan Disiplin Nasional (GDN), OSIS diharapkan dapat melaksanakan melalui kegiatan Paskibra, PKS, dan PMR.",
+        "Dalam ceramah ini, topik yang akan kita bahas adalah masalah GDN yang dapat dilaksanakan oleh OSIS melalui Paskibra, PKS, dan PMR.",
+        "Gerakan Disiplin Nasional bukan hanya milik rakyat awam, melainkan juga untuk para pelajar sebagai generasi penerus bangsa.",
+        "Untuk mengawali kegiatan ulang tahun sekolah, OSIS dapat memulai kegiatannya dengan memasyarakatkan Gerakan Disiplin Nasional melalui PMR."
+      ],
+      "answer": 1,
+      "rationale": "Kalimat pembuka ceramah yang tepat perlu memperkenalkan topik yang akan dibahas. Opsi B secara jelas menyatakan bahwa ceramah membahas GDN yang dapat dilaksanakan melalui kegiatan OSIS."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Bukti pendukung dalam teks",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah kutipan cerpen berikut!\n\n(1) Setiba di rumah aku langsung bersandar ke tiang penyangga, napasku terengah-engah. (2) Aku menghela napas panjang sebelum memasuki rumah. (3) Sehelai daun rumbia jatuh di atas kepalaku. (4) Oh, sepertinya atap rumah ini sudah minta diganti. (5) Di dapur, mamak sangatlah sibuk. (6) Mamak merebus ikan di atas tungku perapian, lalu sesekali memejam-mejamkan mata. (7) Sebenarnya aku ingin mengatakan kesepakatan antara aku dan teman-teman pada mamak, tapi melihat wajah mamak yang kelelahan, hatiku ragu.\n\n\"Mak, Tari ...\"\n\n\"Tari, tolong Mamak jemurkan dulu.\"\n\n(8) Pertanyaanku tersendat. (9) Aku membawa enam buah nampan bambu berisi bermacam-macam ikan untuk dijemur di halaman rumah yang tak seberapa luas.\n\nBukti latar tempat yang terdapat dalam kutipan cerpen di atas terdapat dalam kalimat ...",
+    "options": [
+      "(1) dan (2)",
+      "(3) dan (4)",
+      "(5) dan (6)",
+      "(7) dan (8)"
+    ],
+    "answer": 2,
+    "rationale": "Kalimat (5) menyebutkan latar tempat secara langsung, yaitu dapur, dan kalimat (6) memperkuatnya dengan kegiatan merebus ikan di atas tungku perapian.",
+    "content": {
+      "question": "Bacalah kutipan cerpen berikut!\n\n(1) Setiba di rumah aku langsung bersandar ke tiang penyangga, napasku terengah-engah. (2) Aku menghela napas panjang sebelum memasuki rumah. (3) Sehelai daun rumbia jatuh di atas kepalaku. (4) Oh, sepertinya atap rumah ini sudah minta diganti. (5) Di dapur, mamak sangatlah sibuk. (6) Mamak merebus ikan di atas tungku perapian, lalu sesekali memejam-mejamkan mata. (7) Sebenarnya aku ingin mengatakan kesepakatan antara aku dan teman-teman pada mamak, tapi melihat wajah mamak yang kelelahan, hatiku ragu.\n\n\"Mak, Tari ...\"\n\n\"Tari, tolong Mamak jemurkan dulu.\"\n\n(8) Pertanyaanku tersendat. (9) Aku membawa enam buah nampan bambu berisi bermacam-macam ikan untuk dijemur di halaman rumah yang tak seberapa luas.\n\nBukti latar tempat yang terdapat dalam kutipan cerpen di atas terdapat dalam kalimat ...",
+      "options": [
+        "(1) dan (2)",
+        "(3) dan (4)",
+        "(5) dan (6)",
+        "(7) dan (8)"
+      ],
+      "answer": 2,
+      "rationale": "Kalimat (5) menyebutkan latar tempat secara langsung, yaitu dapur, dan kalimat (6) memperkuatnya dengan kegiatan merebus ikan di atas tungku perapian."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Struktur Teks",
+    "subtopic": "Cerpen & cerita fantasi",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah kedua kutipan cerita berikut!\n\nTeks I\n\nIni akhir dari sebuah perjuangan. Kini Inem hidup tenteram bersama suaminya, Ujang, walaupun hanya sebagai pedagang asongan di lampu merah TMII. \"Bang, kita harus cepat kasih tau ibu. Ini masalahnya sudah serius,\" kata Inem suatu hari. Ujang diam sejenak, matanya menerawang ke luar jendela. \"Baik, kita akan minta bantuan ibu lagi, walaupun sebenarnya saya sudah malu, minta bantuan ibu terus,\" kata Emilio dengan suara nyaris tidak terdengar.\n\nTeks II\n\nBraaaakkkk!! Sam menggebrak meja. Matanya keluar semua, bahkan yang hitamnya semakin masuk ke atas. Dia nampak seperti orang kesurupan. Giginya mengatup mengeluarkan suara gemeretuk. Dia marah sama Deny yang telah dianggapnya lalai.\n\nSam dan Deny berteman sejak di bangku SD. Pertemanan mereka berlanjut ke SMP bahkan mereka satu kelas. Mereka saling memahami sifat satu sama lainnya.\n\nPerbedaan pola pengembangan kedua kutipan cerita tersebut adalah dimulai dengan ...",
+    "options": [
+      "Teks I: lokasi cerita; Teks II: uraian tokoh",
+      "Teks I: uraian tokoh; Teks II: lokasi cerita",
+      "Teks I: garis besar cerita; Teks II: aksi tokoh",
+      "Teks I: aksi tokoh; Teks II: garis besar cerita"
+    ],
+    "answer": 2,
+    "rationale": "Teks I dimulai dengan ringkasan keadaan akhir atau garis besar cerita. Teks II langsung dimulai dengan aksi Sam menggebrak meja.",
+    "content": {
+      "question": "Bacalah kedua kutipan cerita berikut!\n\nTeks I\n\nIni akhir dari sebuah perjuangan. Kini Inem hidup tenteram bersama suaminya, Ujang, walaupun hanya sebagai pedagang asongan di lampu merah TMII. \"Bang, kita harus cepat kasih tau ibu. Ini masalahnya sudah serius,\" kata Inem suatu hari. Ujang diam sejenak, matanya menerawang ke luar jendela. \"Baik, kita akan minta bantuan ibu lagi, walaupun sebenarnya saya sudah malu, minta bantuan ibu terus,\" kata Emilio dengan suara nyaris tidak terdengar.\n\nTeks II\n\nBraaaakkkk!! Sam menggebrak meja. Matanya keluar semua, bahkan yang hitamnya semakin masuk ke atas. Dia nampak seperti orang kesurupan. Giginya mengatup mengeluarkan suara gemeretuk. Dia marah sama Deny yang telah dianggapnya lalai.\n\nSam dan Deny berteman sejak di bangku SD. Pertemanan mereka berlanjut ke SMP bahkan mereka satu kelas. Mereka saling memahami sifat satu sama lainnya.\n\nPerbedaan pola pengembangan kedua kutipan cerita tersebut adalah dimulai dengan ...",
+      "options": [
+        "Teks I: lokasi cerita; Teks II: uraian tokoh",
+        "Teks I: uraian tokoh; Teks II: lokasi cerita",
+        "Teks I: garis besar cerita; Teks II: aksi tokoh",
+        "Teks I: aksi tokoh; Teks II: garis besar cerita"
+      ],
+      "answer": 2,
+      "rationale": "Teks I dimulai dengan ringkasan keadaan akhir atau garis besar cerita. Teks II langsung dimulai dengan aksi Sam menggebrak meja."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah teks berikut!\n\nNama asli Pangeran Diponegoro adalah Raden Mas Ontowiryo. Beliau termasuk garis keturunan Sultan Hamengku Buwono III. Ketika sultan ingin mengangkatnya menjadi raja, beliau menolak dan memilih meninggalkan keraton. Hal ini disebabkan beliau merasa tidak berhak sebagai anak dari seorang selir, bukan permaisuri. Hal ini berbeda dengan kebanyakan orang pada umumnya yang menginginkan menjadi raja walaupun bukan haknya. Diponegoro juga lebih tertarik pada kehidupan religius dan merakyat sehingga lebih suka tinggal di Tegalrejo, kediaman nenek buyutnya, Ratu Ageng Tegalrejo, permaisuri HB I. Lebih dari itu, Pangeran Diponegoro juga tidak suka akan campur tangan Belanda yang terlalu besar dalam keraton.\n\nKeistimewaan tokoh pada teks tersebut adalah ...",
+    "options": [
+      "Anak seorang selir raja",
+      "Tertarik pada kehidupan religius",
+      "Membenci campur tangan Belanda",
+      "Keturunan Sultan Hamengkubuwono III"
+    ],
+    "answer": 1,
+    "rationale": "Teks menonjolkan bahwa Pangeran Diponegoro lebih tertarik pada kehidupan religius dan merakyat daripada menjadi raja. Hal itu merupakan keistimewaan sifat tokoh dibandingkan kebanyakan orang.",
+    "content": {
+      "question": "Bacalah teks berikut!\n\nNama asli Pangeran Diponegoro adalah Raden Mas Ontowiryo. Beliau termasuk garis keturunan Sultan Hamengku Buwono III. Ketika sultan ingin mengangkatnya menjadi raja, beliau menolak dan memilih meninggalkan keraton. Hal ini disebabkan beliau merasa tidak berhak sebagai anak dari seorang selir, bukan permaisuri. Hal ini berbeda dengan kebanyakan orang pada umumnya yang menginginkan menjadi raja walaupun bukan haknya. Diponegoro juga lebih tertarik pada kehidupan religius dan merakyat sehingga lebih suka tinggal di Tegalrejo, kediaman nenek buyutnya, Ratu Ageng Tegalrejo, permaisuri HB I. Lebih dari itu, Pangeran Diponegoro juga tidak suka akan campur tangan Belanda yang terlalu besar dalam keraton.\n\nKeistimewaan tokoh pada teks tersebut adalah ...",
+      "options": [
+        "Anak seorang selir raja",
+        "Tertarik pada kehidupan religius",
+        "Membenci campur tangan Belanda",
+        "Keturunan Sultan Hamengkubuwono III"
+      ],
+      "answer": 1,
+      "rationale": "Teks menonjolkan bahwa Pangeran Diponegoro lebih tertarik pada kehidupan religius dan merakyat daripada menjadi raja. Hal itu merupakan keistimewaan sifat tokoh dibandingkan kebanyakan orang."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kebahasaan",
+    "subtopic": "Kohesi & koherensi",
+    "skill_type": "evaluative",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah teks berikut ini!\n\n(1) Teknologi luar angkasa adalah teknologi yang digunakan untuk pergi ke luar angkasa dan mengambil objek dari luar angkasa. (2) Teknologi peramalan cuaca, televisi satelit, hingga sistem GPS merupakan teknologi yang memanfaatkan infrastruktur yang dibangun di luar angkasa. (3) Di luar angkasa banyak satelit yang sudah habis masa edarnya. (4) Ilmu pengetahuan seperti astronomi dan ilmu bumi juga memanfaatkan teknologi luar angkasa untuk melakukan penginderaan jauh.\n\nKalimat tidak padu pada teks tersebut terdapat dalam kalimat ...",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "answer": 2,
+    "rationale": "Kalimat (1), (2), dan (4) membahas pengertian serta pemanfaatan teknologi luar angkasa. Kalimat (3) membahas satelit yang habis masa edar sehingga tidak mendukung fokus paragraf.",
+    "content": {
+      "question": "Bacalah teks berikut ini!\n\n(1) Teknologi luar angkasa adalah teknologi yang digunakan untuk pergi ke luar angkasa dan mengambil objek dari luar angkasa. (2) Teknologi peramalan cuaca, televisi satelit, hingga sistem GPS merupakan teknologi yang memanfaatkan infrastruktur yang dibangun di luar angkasa. (3) Di luar angkasa banyak satelit yang sudah habis masa edarnya. (4) Ilmu pengetahuan seperti astronomi dan ilmu bumi juga memanfaatkan teknologi luar angkasa untuk melakukan penginderaan jauh.\n\nKalimat tidak padu pada teks tersebut terdapat dalam kalimat ...",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 2,
+      "rationale": "Kalimat (1), (2), dan (4) membahas pengertian serta pemanfaatan teknologi luar angkasa. Kalimat (3) membahas satelit yang habis masa edar sehingga tidak mendukung fokus paragraf."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah kutipan fabel di bawah ini!\n\nBelalang Sembah\n\nSuatu hari di sebuah kebun anggur, tinggallah sebuah keluarga Semut dengan anggotanya yang sangat banyak. Semut ini membuat sarangnya dari daun-daun, lalu mereka tempel menggunakan cairan seperti lem yang mereka keluarkan dari mulutnya. Para Semut melihat bahwa musim gugur akan segera berlalu dan akan segera datang musim dingin yang cukup panjang. Ketika musim dingin, makanan akan sangat sulit untuk didapatkan. Maka, para Semut itu segera mencari berbagai makanan untuk mereka kumpulkan sebagai bahan persediaan ketika musim dingin tiba.\n\nBerbeda halnya dengan seekor Belalang Sembah. Belalang Sembah memiliki mata yang besar dan tangan yang panjang. Mereka sering hidup di pohon-pohon seperti halnya para Semut. Ketika musim dingin akan tiba, Belalang Sembah hanya berlatih menari. Setiap hari, Belalang Sembah itu hanya berlatih menari. Namun, Sang Belalang lupa bahwa dia harus mengumpulkan makanan untuk persiapannya menghadapi musim dingin.\n\nSuatu hari, Sang Belalang Sembah menari di dekat sarang Semut. Dia menari dengan sangat anggun. Gerakan tangan dan badannya yang pelan dan lembut membuat tariannya terlihat sangat mengagumkan. Para Semut melihat Sang Belalang Sembah menari. Namun, mereka tidak menghiraukan tarian indahnya itu karena mereka memiliki tugas yang sangat penting.\n\nSang Belalang yang sedang menari melihat para Semut berjalan dengan membawa makanan untuk dibawa ke sarangnya. Sang Belalang Sembah heran dengan apa yang dilakukan Semut, lalu dia bertanya kepada salah satu Semut tentara yang sedang berjaga di dekat para Semut pekerja, \"Kenapa kalian membawa makanan yang sangat banyak itu masuk ke sarang kalian?\" Sang Semut menjawab, \"Kami melakukannya agar kami tidak kelaparan saat musim dingin tiba.\" Lalu, Sang Belalang kaget, \"Musim dingin?\" kata Sang Belalang Sembah dengan kagetnya, \"Kan masih lama, lebih baik kita bersenang-senang saja dulu,\" kata Sang Belalang. Semut tak menghiraukan Belalang. Semut tetap tekun mengumpulkan makanan.\n\nMusim dingin tiba. Belalang belum sempat mengumpulkan makanan karena sibuk menari. Belalang kelaparan dan lari ke rumah Semut. Ia meminta makanan kepada Semut. Semut awalnya tidak mau memberikan makanannya karena takut kehabisan. Akan tetapi, melihat Belalang lemas kelaparan, Semut tidak tega dan memberikan makanannya kepada Belalang. Belalang pun kembali bugar dan dia berjanji untuk dapat mengelola waktu dengan baik sehingga tidak berakibat buruk.\n\nPesan moral yang terkandung dalam kutipan fabel tersebut adalah ...",
+    "options": [
+      "Hindarkan permusuhan agar bisa hidup tenang.",
+      "Setiap orang perlu menyiapkan masa depannya dengan berusaha.",
+      "Bersedekah dapat membuat hidup seseorang bahagia.",
+      "Kesombongan hanya akan merugikan diri sendiri."
+    ],
+    "answer": 1,
+    "rationale": "Semut bekerja menyiapkan persediaan sebelum musim dingin, sedangkan Belalang tidak melakukan persiapan dan akhirnya kelaparan. Cerita mengajarkan pentingnya berusaha untuk menyiapkan masa depan.",
+    "content": {
+      "question": "Bacalah kutipan fabel di bawah ini!\n\nBelalang Sembah\n\nSuatu hari di sebuah kebun anggur, tinggallah sebuah keluarga Semut dengan anggotanya yang sangat banyak. Semut ini membuat sarangnya dari daun-daun, lalu mereka tempel menggunakan cairan seperti lem yang mereka keluarkan dari mulutnya. Para Semut melihat bahwa musim gugur akan segera berlalu dan akan segera datang musim dingin yang cukup panjang. Ketika musim dingin, makanan akan sangat sulit untuk didapatkan. Maka, para Semut itu segera mencari berbagai makanan untuk mereka kumpulkan sebagai bahan persediaan ketika musim dingin tiba.\n\nBerbeda halnya dengan seekor Belalang Sembah. Belalang Sembah memiliki mata yang besar dan tangan yang panjang. Mereka sering hidup di pohon-pohon seperti halnya para Semut. Ketika musim dingin akan tiba, Belalang Sembah hanya berlatih menari. Setiap hari, Belalang Sembah itu hanya berlatih menari. Namun, Sang Belalang lupa bahwa dia harus mengumpulkan makanan untuk persiapannya menghadapi musim dingin.\n\nSuatu hari, Sang Belalang Sembah menari di dekat sarang Semut. Dia menari dengan sangat anggun. Gerakan tangan dan badannya yang pelan dan lembut membuat tariannya terlihat sangat mengagumkan. Para Semut melihat Sang Belalang Sembah menari. Namun, mereka tidak menghiraukan tarian indahnya itu karena mereka memiliki tugas yang sangat penting.\n\nSang Belalang yang sedang menari melihat para Semut berjalan dengan membawa makanan untuk dibawa ke sarangnya. Sang Belalang Sembah heran dengan apa yang dilakukan Semut, lalu dia bertanya kepada salah satu Semut tentara yang sedang berjaga di dekat para Semut pekerja, \"Kenapa kalian membawa makanan yang sangat banyak itu masuk ke sarang kalian?\" Sang Semut menjawab, \"Kami melakukannya agar kami tidak kelaparan saat musim dingin tiba.\" Lalu, Sang Belalang kaget, \"Musim dingin?\" kata Sang Belalang Sembah dengan kagetnya, \"Kan masih lama, lebih baik kita bersenang-senang saja dulu,\" kata Sang Belalang. Semut tak menghiraukan Belalang. Semut tetap tekun mengumpulkan makanan.\n\nMusim dingin tiba. Belalang belum sempat mengumpulkan makanan karena sibuk menari. Belalang kelaparan dan lari ke rumah Semut. Ia meminta makanan kepada Semut. Semut awalnya tidak mau memberikan makanannya karena takut kehabisan. Akan tetapi, melihat Belalang lemas kelaparan, Semut tidak tega dan memberikan makanannya kepada Belalang. Belalang pun kembali bugar dan dia berjanji untuk dapat mengelola waktu dengan baik sehingga tidak berakibat buruk.\n\nPesan moral yang terkandung dalam kutipan fabel tersebut adalah ...",
+      "options": [
+        "Hindarkan permusuhan agar bisa hidup tenang.",
+        "Setiap orang perlu menyiapkan masa depannya dengan berusaha.",
+        "Bersedekah dapat membuat hidup seseorang bahagia.",
+        "Kesombongan hanya akan merugikan diri sendiri."
+      ],
+      "answer": 1,
+      "rationale": "Semut bekerja menyiapkan persediaan sebelum musim dingin, sedangkan Belalang tidak melakukan persiapan dan akhirnya kelaparan. Cerita mengajarkan pentingnya berusaha untuk menyiapkan masa depan."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Topik, judul & gagasan utama",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah penggalan paragraf berikut dengan saksama!\n\nGletser merupakan sebuah bongkahan es besar yang terbentuk di atas daratan melalui proses pengkristalan salju. Gletser terjadi akibat adanya proses sublimasi dan pembekuan salju. Salju yang semula berbentuk butiran akan lepas menjadi padat dan akhirnya membentuk semacam bola salju.\n\nTopik penggalan paragraf di atas adalah ...",
+    "options": [
+      "Penyebab terbentuknya bola salju",
+      "Proses terbentuknya gletser",
+      "Proses pengkristalan salju",
+      "Bencana yang timbul akibat gletser"
+    ],
+    "answer": 1,
+    "rationale": "Seluruh paragraf menjelaskan tahapan dan proses terbentuknya gletser dari salju. Oleh karena itu, topiknya adalah proses terbentuknya gletser.",
+    "content": {
+      "question": "Bacalah penggalan paragraf berikut dengan saksama!\n\nGletser merupakan sebuah bongkahan es besar yang terbentuk di atas daratan melalui proses pengkristalan salju. Gletser terjadi akibat adanya proses sublimasi dan pembekuan salju. Salju yang semula berbentuk butiran akan lepas menjadi padat dan akhirnya membentuk semacam bola salju.\n\nTopik penggalan paragraf di atas adalah ...",
+      "options": [
+        "Penyebab terbentuknya bola salju",
+        "Proses terbentuknya gletser",
+        "Proses pengkristalan salju",
+        "Bencana yang timbul akibat gletser"
+      ],
+      "answer": 1,
+      "rationale": "Seluruh paragraf menjelaskan tahapan dan proses terbentuknya gletser dari salju. Oleh karena itu, topiknya adalah proses terbentuknya gletser."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Cerpen & cerita fantasi",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Bacalah kutipan cerpen berikut!\n\n\"Rumah kamu jauh, Sar, ... biar aku antar,\" kata Fauzan ketika kami baru saja belajar bersama di rumah Felia.\n\n\"Enggak usah Kak, aku biasa naik angkot ...,\" ujarku.\n\n\"Jangan, langit sudah mendung mungkin sebentar lagi hujan turun,\" jawab Fauzan. Memang saat itu langit terlihat mendung dan desiran angin terasa dingin menyentuh kulit.\n\n\"Sebentar, aku ambil motor dulu di rumah. Kamu di sini dulu ya ...,\" tukasnya sambil berlari menuju rumahnya.\n\nWatak Fauzan dalam kutipan cerpen tersebut adalah ...",
+    "options": [
+      "Baik, bertanggung jawab, peduli, dan menyenangkan",
+      "Ramah, cerewet, perhatian, dan bertanggung jawab",
+      "Periang, pemalu, pemalas, dan cerewet",
+      "Teguh, tabah, ramah, cerewet, dan peduli"
+    ],
+    "answer": 0,
+    "rationale": "Fauzan menawarkan untuk mengantar, memperhatikan cuaca, dan segera mengambil motor agar tokoh lain tidak kehujanan. Tindakan tersebut paling sesuai dengan sifat baik, bertanggung jawab, dan peduli pada opsi A.",
+    "content": {
+      "question": "Bacalah kutipan cerpen berikut!\n\n\"Rumah kamu jauh, Sar, ... biar aku antar,\" kata Fauzan ketika kami baru saja belajar bersama di rumah Felia.\n\n\"Enggak usah Kak, aku biasa naik angkot ...,\" ujarku.\n\n\"Jangan, langit sudah mendung mungkin sebentar lagi hujan turun,\" jawab Fauzan. Memang saat itu langit terlihat mendung dan desiran angin terasa dingin menyentuh kulit.\n\n\"Sebentar, aku ambil motor dulu di rumah. Kamu di sini dulu ya ...,\" tukasnya sambil berlari menuju rumahnya.\n\nWatak Fauzan dalam kutipan cerpen tersebut adalah ...",
+      "options": [
+        "Baik, bertanggung jawab, peduli, dan menyenangkan",
+        "Ramah, cerewet, perhatian, dan bertanggung jawab",
+        "Periang, pemalu, pemalas, dan cerewet",
+        "Teguh, tabah, ramah, cerewet, dan peduli"
+      ],
+      "answer": 0,
+      "rationale": "Fauzan menawarkan untuk mengantar, memperhatikan cuaca, dan segera mengambil motor agar tokoh lain tidak kehujanan. Tindakan tersebut paling sesuai dengan sifat baik, bertanggung jawab, dan peduli pada opsi A."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Struktur Teks",
+    "subtopic": "Eksposisi",
+    "skill_type": "evaluative",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Cermatilah pertanyaan identifikasi masalah berikut!\n\n1) Mengapa pemilu perlu dilaksanakan?\n2) Siapa yang berhak mengikuti pemilu?\n3) Bagaimanakah pemilu di Indonesia?\n\nBerdasarkan identifikasi masalah tersebut, teks eksposisi yang tepat adalah ...",
+    "options": [
+      "Pemilihan umum adalah salah satu kewajiban dari seluruh rakyat Indonesia. Oleh sebab itu, kesadaran untuk menjadi warga negara yang baik sangatlah diharapkan karena warga negara memiliki peranan yang sangat penting dalam kegiatan tersebut. Untuk itu, akan dibahas selanjutnya dalam karya ini.",
+      "Sudah menjadi ketetapan warga Indonesia untuk memilih calon presiden dalam ajang pemilihan umum. Karenanya warga yang berusia 17 tahun ke atas wajib melaksanakan aturan yang berlaku. Untuk itu, penulis di sini akan membahas lebih lanjut mengenai pemilihan umum.",
+      "Sebagai warga negara, sudah seharusnya kita ikut berpartisipasi dalam ajang akbar pemilihan umum. Hal ini disebabkan adanya aturan ketetapan undang-undang dasar yang wajib dilaksanakan bagi seluruh warga negara yang berusia 17 tahun ke atas. Selanjutnya, sejarah tentang peristiwa awal mulanya dilaksanakannya pemilihan umum akan dibahas dalam karya tulis ini.",
+      "Pemilu merupakan kepentingan seluruh bangsa. Apalagi bangsa Indonesia menganut asas demokrasi dan pemerintahan. Pada usia tertentu, 17 tahun ke atas, warga negara mempunyai hak dan kewajiban turut dalam pemilu. Sampai sejauh mana pemilu di Indonesia dilaksanakan, inilah yang akan diungkapkan dalam karya tulis ini."
+    ],
+    "answer": 3,
+    "rationale": "Opsi D mencakup ketiga masalah: alasan pentingnya pemilu, warga berusia 17 tahun ke atas sebagai pihak yang berhak dan berkewajiban ikut, serta pembahasan pelaksanaan pemilu di Indonesia.",
+    "content": {
+      "question": "Cermatilah pertanyaan identifikasi masalah berikut!\n\n1) Mengapa pemilu perlu dilaksanakan?\n2) Siapa yang berhak mengikuti pemilu?\n3) Bagaimanakah pemilu di Indonesia?\n\nBerdasarkan identifikasi masalah tersebut, teks eksposisi yang tepat adalah ...",
+      "options": [
+        "Pemilihan umum adalah salah satu kewajiban dari seluruh rakyat Indonesia. Oleh sebab itu, kesadaran untuk menjadi warga negara yang baik sangatlah diharapkan karena warga negara memiliki peranan yang sangat penting dalam kegiatan tersebut. Untuk itu, akan dibahas selanjutnya dalam karya ini.",
+        "Sudah menjadi ketetapan warga Indonesia untuk memilih calon presiden dalam ajang pemilihan umum. Karenanya warga yang berusia 17 tahun ke atas wajib melaksanakan aturan yang berlaku. Untuk itu, penulis di sini akan membahas lebih lanjut mengenai pemilihan umum.",
+        "Sebagai warga negara, sudah seharusnya kita ikut berpartisipasi dalam ajang akbar pemilihan umum. Hal ini disebabkan adanya aturan ketetapan undang-undang dasar yang wajib dilaksanakan bagi seluruh warga negara yang berusia 17 tahun ke atas. Selanjutnya, sejarah tentang peristiwa awal mulanya dilaksanakannya pemilihan umum akan dibahas dalam karya tulis ini.",
+        "Pemilu merupakan kepentingan seluruh bangsa. Apalagi bangsa Indonesia menganut asas demokrasi dan pemerintahan. Pada usia tertentu, 17 tahun ke atas, warga negara mempunyai hak dan kewajiban turut dalam pemilu. Sampai sejauh mana pemilu di Indonesia dilaksanakan, inilah yang akan diungkapkan dalam karya tulis ini."
+      ],
+      "answer": 3,
+      "rationale": "Opsi D mencakup ketiga masalah: alasan pentingnya pemilu, warga berusia 17 tahun ke atas sebagai pihak yang berhak dan berkewajiban ikut, serta pembahasan pelaksanaan pemilu di Indonesia."
+    }
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kebahasaan",
+    "subtopic": "Kata hubung",
+    "skill_type": "reasoning",
+    "question_type": "text_analysis",
+    "tags": ["bhsind-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Cermati kedua teks berikut ini!\n\nTeks 1\n\nAda dua manfaat menabung. Pertama, dengan menabung kita dapat membeli barang yang kita inginkan menggunakan uang tabungan. Jadi, kita bisa lebih menghargai barang yang kita beli. Kedua, menabung juga bisa melatih berhemat. Dengan berhemat, kita akan terbiasa mengatur penggunaan uang.\n\nTeks 2\n\nMenabung memang hal yang penting. Menabung juga sangat bermanfaat. Dengan menabung kita dapat memiliki barang-barang yang kita butuhkan. Dengan menabung kita juga memiliki dana cadangan saat diperlukan. Sebaliknya, dengan menghamburkan uang, hidup kita jadi tidak terencana.\n\nPerbedaan pola penggunaan bahasa dalam kedua teks tersebut adalah ...",
+    "options": [
+      "Teks 1 menggunakan konjungsi pemilihan; Teks 2 menggunakan konjungsi sebab akibat",
+      "Teks 1 menggunakan konjungsi sebab akibat; Teks 2 menggunakan konjungsi pemilihan",
+      "Teks 1 menggunakan konjungsi temporal; Teks 2 menggunakan konjungsi pertentangan",
+      "Teks 1 menggunakan konjungsi pertentangan; Teks 2 menggunakan konjungsi temporal"
+    ],
+    "answer": 2,
+    "rationale": "Teks 1 menggunakan penanda urutan 'pertama' dan 'kedua' yang bersifat temporal, sedangkan Teks 2 menggunakan konjungsi pertentangan 'sebaliknya'.",
+    "content": {
+      "question": "Cermati kedua teks berikut ini!\n\nTeks 1\n\nAda dua manfaat menabung. Pertama, dengan menabung kita dapat membeli barang yang kita inginkan menggunakan uang tabungan. Jadi, kita bisa lebih menghargai barang yang kita beli. Kedua, menabung juga bisa melatih berhemat. Dengan berhemat, kita akan terbiasa mengatur penggunaan uang.\n\nTeks 2\n\nMenabung memang hal yang penting. Menabung juga sangat bermanfaat. Dengan menabung kita dapat memiliki barang-barang yang kita butuhkan. Dengan menabung kita juga memiliki dana cadangan saat diperlukan. Sebaliknya, dengan menghamburkan uang, hidup kita jadi tidak terencana.\n\nPerbedaan pola penggunaan bahasa dalam kedua teks tersebut adalah ...",
+      "options": [
+        "Teks 1 menggunakan konjungsi pemilihan; Teks 2 menggunakan konjungsi sebab akibat",
+        "Teks 1 menggunakan konjungsi sebab akibat; Teks 2 menggunakan konjungsi pemilihan",
+        "Teks 1 menggunakan konjungsi temporal; Teks 2 menggunakan konjungsi pertentangan",
+        "Teks 1 menggunakan konjungsi pertentangan; Teks 2 menggunakan konjungsi temporal"
+      ],
+      "answer": 2,
+      "rationale": "Teks 1 menggunakan penanda urutan 'pertama' dan 'kedua' yang bersifat temporal, sedangkan Teks 2 menggunakan konjungsi pertentangan 'sebaliknya'."
+    }
+  }
+]
