@@ -129,7 +129,7 @@ else {
 if ($remoteBranchExists) {
     Write-Host "Rebasing local commits onto $Remote/$Branch..."
     try {
-        Invoke-Git -Arguments @("pull", "--rebase", $Remote, $Branch)
+        Invoke-Git -Arguments @("rebase", "$Remote/$Branch")
     }
     catch {
         Write-Host "`nSync stopped because the rebase could not be completed automatically." -ForegroundColor Yellow
