@@ -1,0 +1,312 @@
+[
+  {
+    "id": "english-psb-sma-exam-set-5-011",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Short text comprehension",
+    "skill_type": "inferential",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following schedule and conversation!\n\nBooking a Video Conference\n\nTuesday, 15 Oct 2019, 06.30-07.30 (GMT)\nEvent: EOD! Festival\nDuration: 60 mins\nAge: 12-14 yrs\nRequests: 4 requests\nParticipants: St. Monica Australia, Pioneers High School Pakistan, St. Dominique UK, Williamstown Melbourne\n\nWednesday, 16 Oct 2019, 09.00-10.00 (GMT)\nEvent: Hate Speech\nDuration: 60 mins\nAge: 15+ yrs\nStatus: Join event\n\nWednesday, 23 Oct 2019, 03.00-04.30 (GMT)\nEvent: Essentials of Dialogue - Faith, Values & Communities\nDuration: 90 mins\nAge: 12-14 yrs\nRequests: 1 request\nParticipant: St. Dominique, UK\n\nWati: Hi, Ira! It's 10th October today. Look at the schedule here. There's still one slot available. Why don't you book soon?\nIra: Alright, Mom. I'll check it out soon after I check the language lab.\nWati: Remember, all booking requests should be submitted 21 days before the event starts and maximally 4 requests only.\nIra: Yeah, I got it!\n\nThis conversation possibly takes place at ...",
+    "options": [
+      "a sport centre",
+      "an art exhibition",
+      "a mini market",
+      "a school"
+    ],
+    "answer": 3,
+    "rationale": "The conversation mentions a language lab and video conference events for students, so the most likely place is a school.",
+    "content": {
+      "question": "Read the following schedule and conversation!\n\nBooking a Video Conference\n\nTuesday, 15 Oct 2019, 06.30-07.30 (GMT)\nEvent: EOD! Festival\nDuration: 60 mins\nAge: 12-14 yrs\nRequests: 4 requests\nParticipants: St. Monica Australia, Pioneers High School Pakistan, St. Dominique UK, Williamstown Melbourne\n\nWednesday, 16 Oct 2019, 09.00-10.00 (GMT)\nEvent: Hate Speech\nDuration: 60 mins\nAge: 15+ yrs\nStatus: Join event\n\nWednesday, 23 Oct 2019, 03.00-04.30 (GMT)\nEvent: Essentials of Dialogue - Faith, Values & Communities\nDuration: 90 mins\nAge: 12-14 yrs\nRequests: 1 request\nParticipant: St. Dominique, UK\n\nWati: Hi, Ira! It's 10th October today. Look at the schedule here. There's still one slot available. Why don't you book soon?\nIra: Alright, Mom. I'll check it out soon after I check the language lab.\nWati: Remember, all booking requests should be submitted 21 days before the event starts and maximally 4 requests only.\nIra: Yeah, I got it!\n\nThis conversation possibly takes place at ...",
+      "options": [
+        "a sport centre",
+        "an art exhibition",
+        "a mini market",
+        "a school"
+      ],
+      "answer": 3,
+      "rationale": "The conversation mentions a language lab and video conference events for students, so the most likely place is a school."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-012",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Short text comprehension",
+    "skill_type": "literal",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following schedule and conversation!\n\nToday is 10th October. Ira sees a booking schedule for video conferences. The available event for age 12-14 with an open request is:\n\nWednesday, 23 Oct 2019, 03.00-04.30 (GMT)\nEvent: Essentials of Dialogue - Faith, Values & Communities\nDuration: 90 mins\nAge: 12-14 yrs\nRequests: 1 request\nParticipant: St. Dominique, UK\n\nBased on the text above, Ira will probably book the video conference on the ... of October.",
+    "options": [
+      "fifteenth",
+      "sixteenth",
+      "twenty first",
+      "twenty third"
+    ],
+    "answer": 3,
+    "rationale": "The schedule shows that the event with an available request for the 12-14 age group is on 23 October. Therefore, Ira will probably book the event on the twenty third of October.",
+    "content": {
+      "question": "Read the following schedule and conversation!\n\nToday is 10th October. Ira sees a booking schedule for video conferences. The available event for age 12-14 with an open request is:\n\nWednesday, 23 Oct 2019, 03.00-04.30 (GMT)\nEvent: Essentials of Dialogue - Faith, Values & Communities\nDuration: 90 mins\nAge: 12-14 yrs\nRequests: 1 request\nParticipant: St. Dominique, UK\n\nBased on the text above, Ira will probably book the video conference on the ... of October.",
+      "options": [
+        "fifteenth",
+        "sixteenth",
+        "twenty first",
+        "twenty third"
+      ],
+      "answer": 3,
+      "rationale": "The schedule shows that the event with an available request for the 12-14 age group is on 23 October. Therefore, Ira will probably book the event on the twenty third of October."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-013",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "skill_type": "comprehension",
+    "question_type": "dialogue",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following conversation!\n\nAminah: Hey Joni, come here! Look, I'm selecting the photos of the tour to mangrove forest.\nJoni: You went there, really?\nAminah: It was awesome, you know, though I came later due to a meeting. When I arrived there, Sally and Amin were planting one mangrove tree each. Dika was busy setting the floor mats at the small hut nearby. Next, Frank and Allen were talking about something controversial. At that moment, Adam fell into the mud in front of them. It was silly!\nJoni: I'm glad you enjoyed it.\nAminah: You can say that again!\n\nWhat does the conversation mainly talk about?",
+    "options": [
+      "The activities that were taking place during the tour",
+      "Aminah's future plans after the mangrove visit",
+      "Bad experience happened in Aminah's life",
+      "Joni's opinion regarding the photos"
+    ],
+    "answer": 0,
+    "rationale": "Aminah talks about what people were doing during the mangrove forest tour, such as planting trees, setting mats, talking, and falling into the mud. Thus, the conversation mainly talks about activities during the tour.",
+    "content": {
+      "question": "Read the following conversation!\n\nAminah: Hey Joni, come here! Look, I'm selecting the photos of the tour to mangrove forest.\nJoni: You went there, really?\nAminah: It was awesome, you know, though I came later due to a meeting. When I arrived there, Sally and Amin were planting one mangrove tree each. Dika was busy setting the floor mats at the small hut nearby. Next, Frank and Allen were talking about something controversial. At that moment, Adam fell into the mud in front of them. It was silly!\nJoni: I'm glad you enjoyed it.\nAminah: You can say that again!\n\nWhat does the conversation mainly talk about?",
+      "options": [
+        "The activities that were taking place during the tour",
+        "Aminah's future plans after the mangrove visit",
+        "Bad experience happened in Aminah's life",
+        "Joni's opinion regarding the photos"
+      ],
+      "answer": 0,
+      "rationale": "Aminah talks about what people were doing during the mangrove forest tour, such as planting trees, setting mats, talking, and falling into the mud. Thus, the conversation mainly talks about activities during the tour."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-014",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Grammar",
+    "subtopic": "Past continuous",
+    "skill_type": "grammar",
+    "question_type": "concept_check",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Complete the sentence!\n\n\"When Adam fell into the muddy ground, Frank and Allen ... an argument.\"",
+    "options": [
+      "had",
+      "are having",
+      "were having",
+      "has had"
+    ],
+    "answer": 2,
+    "rationale": "The sentence describes an action in progress when another past event happened. The correct past continuous form is were having.",
+    "content": {
+      "question": "Complete the sentence!\n\n\"When Adam fell into the muddy ground, Frank and Allen ... an argument.\"",
+      "options": [
+        "had",
+        "are having",
+        "were having",
+        "has had"
+      ],
+      "answer": 2,
+      "rationale": "The sentence describes an action in progress when another past event happened. The correct past continuous form is were having."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-015",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Functional Text",
+    "subtopic": "Announcement",
+    "skill_type": "literal",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following notice!\n\nNORTHERN RAILROAD\nNotice of Schedule Change\n\nDate posted: March 28th\n\nAs of April 15th, there will be a new train schedule as follows.\n\nTrains leaving for:\n- Marysville: 10:00 A.M., 12:35 P.M., 2:50 P.M., 6:15 P.M.\n- Summerside: 9:15 A.M., 11:45 A.M., 3:10 P.M., 5:50 P.M.\n- Woodmont: 8:45 A.M., 12:15 P.M., 3:25 P.M., 6:40 P.M.\n\nThere will also be a fare increasing starting April 15th:\nAdult, one-way: 15\nChild, one-way: 9\nStation office hours will remain the same (7 A.M.-8 P.M. daily).\n\nWhen will the train schedule change?",
+    "options": [
+      "Today",
+      "March 28th",
+      "April 5th",
+      "April 15th"
+    ],
+    "answer": 3,
+    "rationale": "The notice says, \"As of April 15th, there will be a new train schedule.\" Therefore, the schedule changes on April 15th.",
+    "content": {
+      "question": "Read the following notice!\n\nNORTHERN RAILROAD\nNotice of Schedule Change\n\nDate posted: March 28th\n\nAs of April 15th, there will be a new train schedule as follows.\n\nTrains leaving for:\n- Marysville: 10:00 A.M., 12:35 P.M., 2:50 P.M., 6:15 P.M.\n- Summerside: 9:15 A.M., 11:45 A.M., 3:10 P.M., 5:50 P.M.\n- Woodmont: 8:45 A.M., 12:15 P.M., 3:25 P.M., 6:40 P.M.\n\nThere will also be a fare increasing starting April 15th:\nAdult, one-way: 15\nChild, one-way: 9\nStation office hours will remain the same (7 A.M.-8 P.M. daily).\n\nWhen will the train schedule change?",
+      "options": [
+        "Today",
+        "March 28th",
+        "April 5th",
+        "April 15th"
+      ],
+      "answer": 3,
+      "rationale": "The notice says, \"As of April 15th, there will be a new train schedule.\" Therefore, the schedule changes on April 15th."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-016",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Functional Text",
+    "subtopic": "Announcement",
+    "skill_type": "literal",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following notice!\n\nNORTHERN RAILROAD\nNotice of Schedule Change\n\nAs of April 15th, there will be a new train schedule. There will also be a fare increasing starting April 15th:\nAdult, one-way: 15\nChild, one-way: 9\nStation office hours will remain the same (7 A.M.-8 P.M. daily).\n\nWhat will NOT change?",
+    "options": [
+      "The price of adult tickets",
+      "The train schedule",
+      "The station office hours",
+      "The fares for children"
+    ],
+    "answer": 2,
+    "rationale": "The notice states that station office hours will remain the same. The schedule and fares will change.",
+    "content": {
+      "question": "Read the following notice!\n\nNORTHERN RAILROAD\nNotice of Schedule Change\n\nAs of April 15th, there will be a new train schedule. There will also be a fare increasing starting April 15th:\nAdult, one-way: 15\nChild, one-way: 9\nStation office hours will remain the same (7 A.M.-8 P.M. daily).\n\nWhat will NOT change?",
+      "options": [
+        "The price of adult tickets",
+        "The train schedule",
+        "The station office hours",
+        "The fares for children"
+      ],
+      "answer": 2,
+      "rationale": "The notice states that station office hours will remain the same. The schedule and fares will change."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-017",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Interpersonal Language",
+    "subtopic": "Opinion",
+    "skill_type": "literal",
+    "question_type": "dialogue",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following dialogue!\n\nDavid: How do you like living in a big city?\nMaria: I like it so much more than living in the country. There are many things that make it better.\nDavid: Oh, really? Can you give me some examples?\nMaria: Well, it certainly is more interesting out in the city than it is in the country. There is so much more to do and see!\nDavid: Yes, but the city is more dangerous than the country.\nMaria: That's true. People in the city aren't as open and friendly as those in the countryside, and the streets aren't as safe.\n\nHow does Maria feel about living in a big city?",
+    "options": [
+      "Living in the city is more interesting than the country.",
+      "The city is more dangerous than the country.",
+      "The people in the city are open and friendly.",
+      "Living in the country is better."
+    ],
+    "answer": 0,
+    "rationale": "Maria says she likes the city more and that it is more interesting than the country because there is more to do and see.",
+    "content": {
+      "question": "Read the following dialogue!\n\nDavid: How do you like living in a big city?\nMaria: I like it so much more than living in the country. There are many things that make it better.\nDavid: Oh, really? Can you give me some examples?\nMaria: Well, it certainly is more interesting out in the city than it is in the country. There is so much more to do and see!\nDavid: Yes, but the city is more dangerous than the country.\nMaria: That's true. People in the city aren't as open and friendly as those in the countryside, and the streets aren't as safe.\n\nHow does Maria feel about living in a big city?",
+      "options": [
+        "Living in the city is more interesting than the country.",
+        "The city is more dangerous than the country.",
+        "The people in the city are open and friendly.",
+        "Living in the country is better."
+      ],
+      "answer": 0,
+      "rationale": "Maria says she likes the city more and that it is more interesting than the country because there is more to do and see."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-018",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Grammar",
+    "subtopic": "Comparative & superlative",
+    "skill_type": "contextual_reasoning",
+    "question_type": "concept_check",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the statement!\n\n\"... the city is more dangerous than the country.\"\n\nAccording to that statement, the city is ...",
+    "options": [
+      "not liveable",
+      "not safer than the country",
+      "friendlier than the country",
+      "less interesting than the country"
+    ],
+    "answer": 1,
+    "rationale": "If the city is more dangerous than the country, it means the city is not safer than the country.",
+    "content": {
+      "question": "Read the statement!\n\n\"... the city is more dangerous than the country.\"\n\nAccording to that statement, the city is ...",
+      "options": [
+        "not liveable",
+        "not safer than the country",
+        "friendlier than the country",
+        "less interesting than the country"
+      ],
+      "answer": 1,
+      "rationale": "If the city is more dangerous than the country, it means the city is not safer than the country."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-019",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Text Types",
+    "subtopic": "Narrative text",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the following text!\n\nKing Arthur\n\nOnce upon the time, there was a king named Arthur. He was a man who used to follow the battle. In England, many men joined the battles to fight for their land against the enemy. It is common for a soldier or a knight to arm themselves with swords or axes and wear an armor to protect his body. But when Arthur led the palace, he never used swords and axes. For his protection, his royal magician Merlin, gave him a secret.\n\nMerlin told him that there was a magic sword but it took a long journey passing the valleys and many mountains to get it. King Arthur followed his advice and started their journey together. Finally, they got to a lake where Merlin asked him to stand on its shore.\n\nSuddenly, he saw a strange thing coming out from the lake. It was a sword with a golden handle. And there was a beautiful lady whom he did not know. She appeared from the lake and told him that she was the lady of the lake. She asked him to take the magic sword. King Arthur took it from her arm before the arm sank beneath into the water again.\n\nFrom the text we know that the writer wants to ...",
+    "options": [
+      "tell an amusing story",
+      "describe a magic sword",
+      "explain the reason of a journey",
+      "discuss the argument of not having a sword"
+    ],
+    "answer": 0,
+    "rationale": "The text is a narrative about King Arthur, Merlin, and the magic sword. Its purpose is to tell a story.",
+    "content": {
+      "question": "Read the following text!\n\nKing Arthur\n\nOnce upon the time, there was a king named Arthur. He was a man who used to follow the battle. In England, many men joined the battles to fight for their land against the enemy. It is common for a soldier or a knight to arm themselves with swords or axes and wear an armor to protect his body. But when Arthur led the palace, he never used swords and axes. For his protection, his royal magician Merlin, gave him a secret.\n\nMerlin told him that there was a magic sword but it took a long journey passing the valleys and many mountains to get it. King Arthur followed his advice and started their journey together. Finally, they got to a lake where Merlin asked him to stand on its shore.\n\nSuddenly, he saw a strange thing coming out from the lake. It was a sword with a golden handle. And there was a beautiful lady whom he did not know. She appeared from the lake and told him that she was the lady of the lake. She asked him to take the magic sword. King Arthur took it from her arm before the arm sank beneath into the water again.\n\nFrom the text we know that the writer wants to ...",
+      "options": [
+        "tell an amusing story",
+        "describe a magic sword",
+        "explain the reason of a journey",
+        "discuss the argument of not having a sword"
+      ],
+      "answer": 0,
+      "rationale": "The text is a narrative about King Arthur, Merlin, and the magic sword. Its purpose is to tell a story."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-5-020",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Inference",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-5"],
+    "is_active": true,
+    "question": "Read the sentences!\n\n\"King Arthur took it from her arm. Then, the arm sank beneath into the water again.\"\n\nFrom the sentences above we can conclude that ...",
+    "options": [
+      "the arm and the sword went back into the water again at the same time.",
+      "King Arthur seized the sword before the arm went down into the water.",
+      "the arm disappeared into the water before King Arthur took the sword.",
+      "King Arthur grabbed the sword before it vanished into the water."
+    ],
+    "answer": 1,
+    "rationale": "The text says King Arthur took the sword first, and after that the arm sank into the water. Thus, he seized the sword before the arm went down.",
+    "content": {
+      "question": "Read the sentences!\n\n\"King Arthur took it from her arm. Then, the arm sank beneath into the water again.\"\n\nFrom the sentences above we can conclude that ...",
+      "options": [
+        "the arm and the sword went back into the water again at the same time.",
+        "King Arthur seized the sword before the arm went down into the water.",
+        "the arm disappeared into the water before King Arthur took the sword.",
+        "King Arthur grabbed the sword before it vanished into the water."
+      ],
+      "answer": 1,
+      "rationale": "The text says King Arthur took the sword first, and after that the arm sank into the water. Thus, he seized the sword before the arm went down."
+    }
+  }
+]

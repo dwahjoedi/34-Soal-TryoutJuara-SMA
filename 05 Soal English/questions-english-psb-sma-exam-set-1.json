@@ -1,0 +1,312 @@
+[
+  {
+    "id": "english-psb-sma-exam-set-1-011",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Text Types",
+    "subtopic": "Descriptive text",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 1\n\nMy most valuable possession is an old, slightly warped blond guitar--the first instrument I taught myself how to play.\n\nIt's nothing fancy, just a Madeira folk guitar, all scuffed and scratched and finger-printed. At the top is a bramble of copper-wound strings, each one hooked through the eye of a silver tuning key. The strings are stretched down a long, slim neck, its frets tarnished, and the wood worn by years of fingers pressing chords and picking notes. The body of the Madeira is shaped like an enormous yellow pear, one that was slightly damaged in shipping. The blond wood has been chipped and gouged to gray, particularly where the pick guard fell off years ago.\n\nNo, it's not a beautiful instrument, but it still lets me make music, and for that I will always treasure it.\n\nWhat does the text tell you about?",
+    "options": [
+      "The writer's first music play",
+      "The writer's first treasure",
+      "The writer's first guitar",
+      "The writer's first pear"
+    ],
+    "answer": 2,
+    "rationale": "The text describes the writer's old Madeira folk guitar and states that it was the first instrument the writer learned to play. Therefore, the text is about the writer's first guitar.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 1\n\nMy most valuable possession is an old, slightly warped blond guitar--the first instrument I taught myself how to play.\n\nIt's nothing fancy, just a Madeira folk guitar, all scuffed and scratched and finger-printed. At the top is a bramble of copper-wound strings, each one hooked through the eye of a silver tuning key. The strings are stretched down a long, slim neck, its frets tarnished, and the wood worn by years of fingers pressing chords and picking notes. The body of the Madeira is shaped like an enormous yellow pear, one that was slightly damaged in shipping. The blond wood has been chipped and gouged to gray, particularly where the pick guard fell off years ago.\n\nNo, it's not a beautiful instrument, but it still lets me make music, and for that I will always treasure it.\n\nWhat does the text tell you about?",
+      "options": [
+        "The writer's first music play",
+        "The writer's first treasure",
+        "The writer's first guitar",
+        "The writer's first pear"
+      ],
+      "answer": 2,
+      "rationale": "The text describes the writer's old Madeira folk guitar and states that it was the first instrument the writer learned to play. Therefore, the text is about the writer's first guitar."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-012",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Writer's purpose",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 1\n\nMy most valuable possession is an old, slightly warped blond guitar--the first instrument I taught myself how to play.\n\nIt's nothing fancy, just a Madeira folk guitar, all scuffed and scratched and finger-printed. At the top is a bramble of copper-wound strings, each one hooked through the eye of a silver tuning key. The strings are stretched down a long, slim neck, its frets tarnished, and the wood worn by years of fingers pressing chords and picking notes. The body of the Madeira is shaped like an enormous yellow pear, one that was slightly damaged in shipping. The blond wood has been chipped and gouged to gray, particularly where the pick guard fell off years ago.\n\nNo, it's not a beautiful instrument, but it still lets me make music, and for that I will always treasure it.\n\nWhat does the writer want to do with the text? To ...",
+    "options": [
+      "explain how to play music",
+      "describe an instrument",
+      "entertain the reader",
+      "narrate a story"
+    ],
+    "answer": 1,
+    "rationale": "The text gives physical details of the guitar, including its strings, neck, frets, body, and condition. This shows that the writer's purpose is to describe an instrument.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 1\n\nMy most valuable possession is an old, slightly warped blond guitar--the first instrument I taught myself how to play.\n\nIt's nothing fancy, just a Madeira folk guitar, all scuffed and scratched and finger-printed. At the top is a bramble of copper-wound strings, each one hooked through the eye of a silver tuning key. The strings are stretched down a long, slim neck, its frets tarnished, and the wood worn by years of fingers pressing chords and picking notes. The body of the Madeira is shaped like an enormous yellow pear, one that was slightly damaged in shipping. The blond wood has been chipped and gouged to gray, particularly where the pick guard fell off years ago.\n\nNo, it's not a beautiful instrument, but it still lets me make music, and for that I will always treasure it.\n\nWhat does the writer want to do with the text? To ...",
+      "options": [
+        "explain how to play music",
+        "describe an instrument",
+        "entertain the reader",
+        "narrate a story"
+      ],
+      "answer": 1,
+      "rationale": "The text gives physical details of the guitar, including its strings, neck, frets, body, and condition. This shows that the writer's purpose is to describe an instrument."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-013",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Reading Comprehension",
+    "subtopic": "Vocabulary in context",
+    "skill_type": "vocabulary",
+    "question_type": "short_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nIn the second paragraph, the writer says, \"The body of the Madeira is shaped like an enormous yellow pear.\"\n\nThe word enormous in the second paragraph can be best replaced by ...",
+    "options": [
+      "huge",
+      "wide",
+      "plenty",
+      "limited"
+    ],
+    "answer": 0,
+    "rationale": "In the sentence, enormous describes the size of the guitar body. The closest meaning is huge.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nIn the second paragraph, the writer says, \"The body of the Madeira is shaped like an enormous yellow pear.\"\n\nThe word enormous in the second paragraph can be best replaced by ...",
+      "options": [
+        "huge",
+        "wide",
+        "plenty",
+        "limited"
+      ],
+      "answer": 0,
+      "rationale": "In the sentence, enormous describes the size of the guitar body. The closest meaning is huge."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-014",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Label",
+    "skill_type": "literal",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the functional text carefully!\n\nText 2\n\nThe New Packaging\n\nTraffic light warning levels:\n- Red: High\n- Orange: Medium\n- Green: Low\n\nWarning logo on a two finger bar:\n- Energy: 450 kj / 107 kcal, 5% of Reference Intake\n- Fat: 5.3 g, 8% of Reference Intake\n- Saturates: 3.3 g, 17% of Reference Intake\n- Sugars: 10.4 g, 12% of Reference Intake\n- Salt: 0.03 g, less than 1% of Reference Intake\n\nReference Intake (RI) is the maximum recommended amount that an adult should eat in a day. This figure was previously known as the Guideline Daily Amount (GDA).\n\nFrom the text we know that ...",
+    "options": [
+      "the snack is edible to be over consumed.",
+      "it consists of fat and sugar in high level.",
+      "the reference is endorsed to be noticed.",
+      "the snack is recommended for infants."
+    ],
+    "answer": 1,
+    "rationale": "The warning label shows nutrition information for a snack and highlights fat, saturates, and sugars with warning levels. The best conclusion among the options is that the snack contains fat and sugar at a high level.",
+    "content": {
+      "question": "Read the functional text carefully!\n\nText 2\n\nThe New Packaging\n\nTraffic light warning levels:\n- Red: High\n- Orange: Medium\n- Green: Low\n\nWarning logo on a two finger bar:\n- Energy: 450 kj / 107 kcal, 5% of Reference Intake\n- Fat: 5.3 g, 8% of Reference Intake\n- Saturates: 3.3 g, 17% of Reference Intake\n- Sugars: 10.4 g, 12% of Reference Intake\n- Salt: 0.03 g, less than 1% of Reference Intake\n\nReference Intake (RI) is the maximum recommended amount that an adult should eat in a day. This figure was previously known as the Guideline Daily Amount (GDA).\n\nFrom the text we know that ...",
+      "options": [
+        "the snack is edible to be over consumed.",
+        "it consists of fat and sugar in high level.",
+        "the reference is endorsed to be noticed.",
+        "the snack is recommended for infants."
+      ],
+      "answer": 1,
+      "rationale": "The warning label shows nutrition information for a snack and highlights fat, saturates, and sugars with warning levels. The best conclusion among the options is that the snack contains fat and sugar at a high level."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-015",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Label",
+    "skill_type": "communicative_function",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the functional text carefully!\n\nText 2\n\nThe New Packaging\n\nTraffic light warning levels:\n- Red: High\n- Orange: Medium\n- Green: Low\n\nWarning logo on a two finger bar:\n- Energy: 450 kj / 107 kcal, 5% of Reference Intake\n- Fat: 5.3 g, 8% of Reference Intake\n- Saturates: 3.3 g, 17% of Reference Intake\n- Sugars: 10.4 g, 12% of Reference Intake\n- Salt: 0.03 g, less than 1% of Reference Intake\n\nReference Intake (RI) is the maximum recommended amount that an adult should eat in a day. This figure was previously known as the Guideline Daily Amount (GDA).\n\nWhat is the objective of the text? It is to ...",
+    "options": [
+      "tell customers about the safety snack.",
+      "give detailed information about the snack.",
+      "persuade toddlers to consume the snack.",
+      "describe about the functions of the snack."
+    ],
+    "answer": 1,
+    "rationale": "The label presents detailed nutrition information such as energy, fat, saturates, sugars, salt, and reference intake. Its objective is to give detailed information about the snack.",
+    "content": {
+      "question": "Read the functional text carefully!\n\nText 2\n\nThe New Packaging\n\nTraffic light warning levels:\n- Red: High\n- Orange: Medium\n- Green: Low\n\nWarning logo on a two finger bar:\n- Energy: 450 kj / 107 kcal, 5% of Reference Intake\n- Fat: 5.3 g, 8% of Reference Intake\n- Saturates: 3.3 g, 17% of Reference Intake\n- Sugars: 10.4 g, 12% of Reference Intake\n- Salt: 0.03 g, less than 1% of Reference Intake\n\nReference Intake (RI) is the maximum recommended amount that an adult should eat in a day. This figure was previously known as the Guideline Daily Amount (GDA).\n\nWhat is the objective of the text? It is to ...",
+      "options": [
+        "tell customers about the safety snack.",
+        "give detailed information about the snack.",
+        "persuade toddlers to consume the snack.",
+        "describe about the functions of the snack."
+      ],
+      "answer": 1,
+      "rationale": "The label presents detailed nutrition information such as energy, fat, saturates, sugars, salt, and reference intake. Its objective is to give detailed information about the snack."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-016",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Text Types",
+    "subtopic": "Narrative text",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nAccording to the text, when did the Lion and the Mouse meet each other? It was when ...",
+    "options": [
+      "the Lion caught by the hunters",
+      "the Mouse heard the Lion roared",
+      "the Mouse ran over the Lion's face",
+      "When the Mouse was trying to save the Lion"
+    ],
+    "answer": 2,
+    "rationale": "The first meeting happens when the Lion is sleeping and the Mouse runs over his face. This wakes the Lion up.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nAccording to the text, when did the Lion and the Mouse meet each other? It was when ...",
+      "options": [
+        "the Lion caught by the hunters",
+        "the Mouse heard the Lion roared",
+        "the Mouse ran over the Lion's face",
+        "When the Mouse was trying to save the Lion"
+      ],
+      "answer": 2,
+      "rationale": "The first meeting happens when the Lion is sleeping and the Mouse runs over his face. This wakes the Lion up."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-017",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Text Types",
+    "subtopic": "Narrative text",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nWhat is the moral lesson we learn from the text?",
+    "options": [
+      "Don't let the hunters catch you.",
+      "Be friends with someone with sharp teeth.",
+      "Think twice before you help someone else.",
+      "Be kind to others and you will get helped in return."
+    ],
+    "answer": 3,
+    "rationale": "The Lion spares the Mouse, and later the Mouse helps the Lion escape from the hunters. The moral lesson is that kindness to others may be returned.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nWhat is the moral lesson we learn from the text?",
+      "options": [
+        "Don't let the hunters catch you.",
+        "Be friends with someone with sharp teeth.",
+        "Think twice before you help someone else.",
+        "Be kind to others and you will get helped in return."
+      ],
+      "answer": 3,
+      "rationale": "The Lion spares the Mouse, and later the Mouse helps the Lion escape from the hunters. The moral lesson is that kindness to others may be returned."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-018",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Writer's purpose",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nWhat does the writer's aim in writing the fable?",
+    "options": [
+      "To narrate a moral story.",
+      "To explain about the lion and the mouse.",
+      "To show the character of the lion and the mouse.",
+      "To describe the relation of the lion and the mouse."
+    ],
+    "answer": 0,
+    "rationale": "The text is a fable that tells a sequence of events and gives a moral lesson. Therefore, the writer's aim is to narrate a moral story.",
+    "content": {
+      "question": "Read the text carefully and then choose the right option to answer the question!\n\nText 3\n\nThe Lion and the Mouse\n\nOnce upon a time, there was a fierce Lion that ruled the wood. One day, when the Lion was trying to take a nap, a Mouse running over his face awakened the Lion from sleep. Rising up angrily, he caught him and was about to kill him. Then the Mouse piteously entreated, saying:\n\n\"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed at him but allowed him to go. It happened shortly after this that some hunters, who bound him by strong ropes to the ground, caught the Lion. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, never expecting to receive from me any repayment of your favor. Now you know that it is possible for even a Mouse to confer benefits on a Lion.\"\n\nWhat does the writer's aim in writing the fable?",
+      "options": [
+        "To narrate a moral story.",
+        "To explain about the lion and the mouse.",
+        "To show the character of the lion and the mouse.",
+        "To describe the relation of the lion and the mouse."
+      ],
+      "answer": 0,
+      "rationale": "The text is a fable that tells a sequence of events and gives a moral lesson. Therefore, the writer's aim is to narrate a moral story."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-019",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Vocabulary in context",
+    "skill_type": "vocabulary",
+    "question_type": "short_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the procedure text carefully!\n\nText 4\n\nHow to Make a Fabric Fan\n\nThings you'll need to prepare:\n- Cotton cloth fabric\n- Scissors\n- Measuring tape\n- Tacky glue\n- Craft sticks\n- Drill\n- Drill bit, 1/16-inch\n- Brass brad\n\nInstructions:\n(1) Cut a rectangle shape from cotton cloth fabric using scissors to measure 6 inches wide and 18 inches long. Select any colors or pattern of fabric that you want.\n(2) Lay the cloth horizontally onto the top of a table and fold the left edge over by 1 inch. Press the fold flat using your hand.\n(3) Apply tacky glue onto the back side of the fold. Next, press a craft stick onto the glue-covered fold. Line up the craft stick so the top edge of it is flat with the top edge of the fabric. Let the glue dry for twenty minutes.\n(4) Fold the fabric by 1-inch on the left side again. This time, fold the fabric in the opposite direction. You can press the fold flat with your hand. Put some tacky glue onto the back side of the fold. Next, press another craft stick onto the glue-covered fold. Repeat this process until you have folded and glued on craft sticks along the whole length.\n(5) Drill a small hole using a small size drill bit into the end of each craft stick. After that, stack the sticks on top of each other. Insert a brass brad into the sack over the drilled holes and bend the brad once through to secure it into place.\n(6) Splay out the stacked craft sticks to lengthen the fabric hand fan.\n\n\"Lay the cloth horizontally onto the top of a table...\" What does the underlined word nearly mean?",
+    "options": [
+      "put something down into a flat position",
+      "bring something up to the higher surface",
+      "take something out into a certain place",
+      "give something in to the secured position"
+    ],
+    "answer": 0,
+    "rationale": "In the instruction, lay means placing the cloth flat on the table before folding it. The closest meaning is to put something down into a flat position.",
+    "content": {
+      "question": "Read the procedure text carefully!\n\nText 4\n\nHow to Make a Fabric Fan\n\nThings you'll need to prepare:\n- Cotton cloth fabric\n- Scissors\n- Measuring tape\n- Tacky glue\n- Craft sticks\n- Drill\n- Drill bit, 1/16-inch\n- Brass brad\n\nInstructions:\n(1) Cut a rectangle shape from cotton cloth fabric using scissors to measure 6 inches wide and 18 inches long. Select any colors or pattern of fabric that you want.\n(2) Lay the cloth horizontally onto the top of a table and fold the left edge over by 1 inch. Press the fold flat using your hand.\n(3) Apply tacky glue onto the back side of the fold. Next, press a craft stick onto the glue-covered fold. Line up the craft stick so the top edge of it is flat with the top edge of the fabric. Let the glue dry for twenty minutes.\n(4) Fold the fabric by 1-inch on the left side again. This time, fold the fabric in the opposite direction. You can press the fold flat with your hand. Put some tacky glue onto the back side of the fold. Next, press another craft stick onto the glue-covered fold. Repeat this process until you have folded and glued on craft sticks along the whole length.\n(5) Drill a small hole using a small size drill bit into the end of each craft stick. After that, stack the sticks on top of each other. Insert a brass brad into the sack over the drilled holes and bend the brad once through to secure it into place.\n(6) Splay out the stacked craft sticks to lengthen the fabric hand fan.\n\n\"Lay the cloth horizontally onto the top of a table...\" What does the underlined word nearly mean?",
+      "options": [
+        "put something down into a flat position",
+        "bring something up to the higher surface",
+        "take something out into a certain place",
+        "give something in to the secured position"
+      ],
+      "answer": 0,
+      "rationale": "In the instruction, lay means placing the cloth flat on the table before folding it. The closest meaning is to put something down into a flat position."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-1-020",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Procedure text",
+    "skill_type": "literal",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-1"],
+    "is_active": true,
+    "question": "Read the procedure text carefully!\n\nText 4\n\nHow to Make a Fabric Fan\n\nThings you'll need to prepare:\n- Cotton cloth fabric\n- Scissors\n- Measuring tape\n- Tacky glue\n- Craft sticks\n- Drill\n- Drill bit, 1/16-inch\n- Brass brad\n\nInstructions:\n(1) Cut a rectangle shape from cotton cloth fabric using scissors to measure 6 inches wide and 18 inches long. Select any colors or pattern of fabric that you want.\n(2) Lay the cloth horizontally onto the top of a table and fold the left edge over by 1 inch. Press the fold flat using your hand.\n(3) Apply tacky glue onto the back side of the fold. Next, press a craft stick onto the glue-covered fold. Line up the craft stick so the top edge of it is flat with the top edge of the fabric. Let the glue dry for twenty minutes.\n(4) Fold the fabric by 1-inch on the left side again. This time, fold the fabric in the opposite direction. You can press the fold flat with your hand. Put some tacky glue onto the back side of the fold. Next, press another craft stick onto the glue-covered fold. Repeat this process until you have folded and glued on craft sticks along the whole length.\n(5) Drill a small hole using a small size drill bit into the end of each craft stick. After that, stack the sticks on top of each other. Insert a brass brad into the sack over the drilled holes and bend the brad once through to secure it into place.\n(6) Splay out the stacked craft sticks to lengthen the fabric hand fan.\n\nWhy do you have to drill a small hole at the end of each craft stick?",
+    "options": [
+      "To bend the fold inside the fold.",
+      "To insert a brass brad into the holes.",
+      "To flat the fold to shape the fan well.",
+      "To lengthen the fabric hand fan."
+    ],
+    "answer": 1,
+    "rationale": "Step 5 explains that after drilling holes into the ends of the craft sticks, a brass brad is inserted through the drilled holes to secure the sticks.",
+    "content": {
+      "question": "Read the procedure text carefully!\n\nText 4\n\nHow to Make a Fabric Fan\n\nThings you'll need to prepare:\n- Cotton cloth fabric\n- Scissors\n- Measuring tape\n- Tacky glue\n- Craft sticks\n- Drill\n- Drill bit, 1/16-inch\n- Brass brad\n\nInstructions:\n(1) Cut a rectangle shape from cotton cloth fabric using scissors to measure 6 inches wide and 18 inches long. Select any colors or pattern of fabric that you want.\n(2) Lay the cloth horizontally onto the top of a table and fold the left edge over by 1 inch. Press the fold flat using your hand.\n(3) Apply tacky glue onto the back side of the fold. Next, press a craft stick onto the glue-covered fold. Line up the craft stick so the top edge of it is flat with the top edge of the fabric. Let the glue dry for twenty minutes.\n(4) Fold the fabric by 1-inch on the left side again. This time, fold the fabric in the opposite direction. You can press the fold flat with your hand. Put some tacky glue onto the back side of the fold. Next, press another craft stick onto the glue-covered fold. Repeat this process until you have folded and glued on craft sticks along the whole length.\n(5) Drill a small hole using a small size drill bit into the end of each craft stick. After that, stack the sticks on top of each other. Insert a brass brad into the sack over the drilled holes and bend the brad once through to secure it into place.\n(6) Splay out the stacked craft sticks to lengthen the fabric hand fan.\n\nWhy do you have to drill a small hole at the end of each craft stick?",
+      "options": [
+        "To bend the fold inside the fold.",
+        "To insert a brass brad into the holes.",
+        "To flat the fold to shape the fan well.",
+        "To lengthen the fabric hand fan."
+      ],
+      "answer": 1,
+      "rationale": "Step 5 explains that after drilling holes into the ends of the craft sticks, a brass brad is inserted through the drilled holes to secure the sticks."
+    }
+  }
+]

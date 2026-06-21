@@ -1,0 +1,312 @@
+[
+  {
+    "id": "english-psb-sma-exam-set-3-011",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nAir pollution is caused by many things like the increasing number of cars on our roads, growing cities, the fast development of our economy and industrialization.\n\nAir pollution as we know it today, started with the industrial revolution in Europe in the 19th century. In the last few decades, it has become the major problem for our environment.\n\nWhen harmful elements get into the air they may cause health problems and can also damage the environment, buildings and soil. They make the ozone layer thinner and lead to the warming of the earth's atmosphere and climate changes.\n\nOur modern life style has led to dirtier air over the years. Factories, vehicles of all kinds, the growing number of people are some things that are responsible for our pollution today. But not all pollution in the air is caused by people. Forest fires, dust storms and volcano eruptions can lead to the pollution of the atmosphere.\n\nThe text mostly shows us about ...",
+    "options": [
+      "the causes of air pollution for human's life",
+      "the effect of air pollution on ozone layer",
+      "general information about air pollution",
+      "how air pollution increases every year"
+    ],
+    "answer": 2,
+    "rationale": "The passage gives broad information about air pollution, including causes, history, effects, and sources. Therefore, the best main idea is general information about air pollution.",
+    "content": {
+      "question": "Read the following text!\n\nAir pollution is caused by many things like the increasing number of cars on our roads, growing cities, the fast development of our economy and industrialization.\n\nAir pollution as we know it today, started with the industrial revolution in Europe in the 19th century. In the last few decades, it has become the major problem for our environment.\n\nWhen harmful elements get into the air they may cause health problems and can also damage the environment, buildings and soil. They make the ozone layer thinner and lead to the warming of the earth's atmosphere and climate changes.\n\nOur modern life style has led to dirtier air over the years. Factories, vehicles of all kinds, the growing number of people are some things that are responsible for our pollution today. But not all pollution in the air is caused by people. Forest fires, dust storms and volcano eruptions can lead to the pollution of the atmosphere.\n\nThe text mostly shows us about ...",
+      "options": [
+        "the causes of air pollution for human's life",
+        "the effect of air pollution on ozone layer",
+        "general information about air pollution",
+        "how air pollution increases every year"
+      ],
+      "answer": 2,
+      "rationale": "The passage gives broad information about air pollution, including causes, history, effects, and sources. Therefore, the best main idea is general information about air pollution."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-012",
+    "subject": "bahasa_inggris",
+    "difficulty": "hard",
+    "topic": "Reading Comprehension",
+    "subtopic": "Inference",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the statement from the text!\n\n\"Air pollution is caused by many things like the increasing number of cars on our roads.\"\n\nFrom this statement, it is implied that ...",
+    "options": [
+      "the car factory must reduce the cars' production.",
+      "people are not to buy cars and other vehicles.",
+      "the government must build more roads, not buildings.",
+      "we have to use public transportation to reduce air pollution."
+    ],
+    "answer": 3,
+    "rationale": "If the increasing number of cars contributes to air pollution, a reasonable implication is that using public transportation can reduce the number of cars on the road and help reduce pollution.",
+    "content": {
+      "question": "Read the statement from the text!\n\n\"Air pollution is caused by many things like the increasing number of cars on our roads.\"\n\nFrom this statement, it is implied that ...",
+      "options": [
+        "the car factory must reduce the cars' production.",
+        "people are not to buy cars and other vehicles.",
+        "the government must build more roads, not buildings.",
+        "we have to use public transportation to reduce air pollution."
+      ],
+      "answer": 3,
+      "rationale": "If the increasing number of cars contributes to air pollution, a reasonable implication is that using public transportation can reduce the number of cars on the road and help reduce pollution."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-013",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Writer's purpose",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nIn the very center of Geneva's Old Town is Bourg-de-Four Square, a must-visit square, the oldest place in Geneva, where the Roman marketplace used to trade its wares. Now a touristy locale is full of exclusive shopping opportunities and the great place to have a cup of cafe.\n\nThe middle of the square is decorated by simple marble medieval fountains. Around the square are restaurants and coffee shops with very popular outside seating, often full of people for its unique historic and authentic atmosphere. The most famous are Cafe de Bourg-de-Four, La Clemence and Restaurant au Carnivore.\n\nAt Christmas time the square is romantically decorated and highlighted by rows of lamps. During hot sunny days, it will be full of local people and tourists as well, enjoying their day. It is astonishingly brilliant.\n\nOn Place Bourg-de-Four you will also find souvenir shops, newspaper stands, a police station, and ice cream parlor combined with an Italian restaurant, offering ice cream for 3,50 CHF and several affordable snacks. Chocolates Tea Room is a cozy tourist shop with a wide selection of delectable Swiss chocolates.\n\nThe intention of the writer is to ...",
+    "options": [
+      "promote the good place for tourists to stay.",
+      "give detail information about the tourism site.",
+      "tell the most interesting place to visit with family.",
+      "announce the information for all tourists to visit the place."
+    ],
+    "answer": 1,
+    "rationale": "The text describes Bourg-de-Four Square by giving details about its location, history, facilities, atmosphere, shops, restaurants, and activities. The writer's intention is to give detailed information about the tourism site.",
+    "content": {
+      "question": "Read the following text!\n\nIn the very center of Geneva's Old Town is Bourg-de-Four Square, a must-visit square, the oldest place in Geneva, where the Roman marketplace used to trade its wares. Now a touristy locale is full of exclusive shopping opportunities and the great place to have a cup of cafe.\n\nThe middle of the square is decorated by simple marble medieval fountains. Around the square are restaurants and coffee shops with very popular outside seating, often full of people for its unique historic and authentic atmosphere. The most famous are Cafe de Bourg-de-Four, La Clemence and Restaurant au Carnivore.\n\nAt Christmas time the square is romantically decorated and highlighted by rows of lamps. During hot sunny days, it will be full of local people and tourists as well, enjoying their day. It is astonishingly brilliant.\n\nOn Place Bourg-de-Four you will also find souvenir shops, newspaper stands, a police station, and ice cream parlor combined with an Italian restaurant, offering ice cream for 3,50 CHF and several affordable snacks. Chocolates Tea Room is a cozy tourist shop with a wide selection of delectable Swiss chocolates.\n\nThe intention of the writer is to ...",
+      "options": [
+        "promote the good place for tourists to stay.",
+        "give detail information about the tourism site.",
+        "tell the most interesting place to visit with family.",
+        "announce the information for all tourists to visit the place."
+      ],
+      "answer": 1,
+      "rationale": "The text describes Bourg-de-Four Square by giving details about its location, history, facilities, atmosphere, shops, restaurants, and activities. The writer's intention is to give detailed information about the tourism site."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-014",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Vocabulary in context",
+    "skill_type": "vocabulary",
+    "question_type": "short_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the sentence!\n\n\"Chocolates Tea Room is a cozy tourist shop with a wide selection of delectable Swiss chocolates.\"\n\nThe underlined word nearly means ...",
+    "options": [
+      "fluffy",
+      "smooth",
+      "savory",
+      "eligible"
+    ],
+    "answer": 2,
+    "rationale": "In the context of chocolates, delectable means delicious or tasty. Among the options, savory is the closest meaning.",
+    "content": {
+      "question": "Read the sentence!\n\n\"Chocolates Tea Room is a cozy tourist shop with a wide selection of delectable Swiss chocolates.\"\n\nThe underlined word nearly means ...",
+      "options": [
+        "fluffy",
+        "smooth",
+        "savory",
+        "eligible"
+      ],
+      "answer": 2,
+      "rationale": "In the context of chocolates, delectable means delicious or tasty. Among the options, savory is the closest meaning."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-015",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Context clues",
+    "skill_type": "vocabulary",
+    "question_type": "cloze",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nBrown Hares\n\nThe brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary 15 ... to continue running fast for some time.\n\nChoose the best word to complete number 15.",
+    "options": [
+      "vitamin",
+      "stamina",
+      "blood",
+      "food"
+    ],
+    "answer": 1,
+    "rationale": "The sentence explains that blood helps the hare continue running fast for some time. The word that fits this meaning is stamina.",
+    "content": {
+      "question": "Read the following text!\n\nBrown Hares\n\nThe brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary 15 ... to continue running fast for some time.\n\nChoose the best word to complete number 15.",
+      "options": [
+        "vitamin",
+        "stamina",
+        "blood",
+        "food"
+      ],
+      "answer": 1,
+      "rationale": "The sentence explains that blood helps the hare continue running fast for some time. The word that fits this meaning is stamina."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-016",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Context clues",
+    "skill_type": "vocabulary",
+    "question_type": "cloze",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nBrown Hares\n\nTheir legs are longer than those of a rabbit, enabling a running hare 16 ... the dog more closely than its relative, the rabbit.\n\nChoose the best word to complete number 16.",
+    "options": [
+      "hunts",
+      "plays",
+      "carries",
+      "resembles"
+    ],
+    "answer": 3,
+    "rationale": "The sentence compares the hare with a dog and a rabbit. The word that fits the meaning of being similar to another animal is resembles.",
+    "content": {
+      "question": "Read the following text!\n\nBrown Hares\n\nTheir legs are longer than those of a rabbit, enabling a running hare 16 ... the dog more closely than its relative, the rabbit.\n\nChoose the best word to complete number 16.",
+      "options": [
+        "hunts",
+        "plays",
+        "carries",
+        "resembles"
+      ],
+      "answer": 3,
+      "rationale": "The sentence compares the hare with a dog and a rabbit. The word that fits the meaning of being similar to another animal is resembles."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-017",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Context clues",
+    "skill_type": "vocabulary",
+    "question_type": "cloze",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nBrown Hares\n\nThe hare has some other characteristics that help it to avoid danger, including 17 ... all-round eyes. This means that predators cannot easily creep up behind it.\n\nChoose the best word to complete number 17.",
+    "options": [
+      "big",
+      "ugly",
+      "excellent",
+      "horrifying"
+    ],
+    "answer": 2,
+    "rationale": "The next sentence explains that predators cannot easily approach from behind. This shows that the hare's all-round eyes are very effective, so excellent is the best choice.",
+    "content": {
+      "question": "Read the following text!\n\nBrown Hares\n\nThe hare has some other characteristics that help it to avoid danger, including 17 ... all-round eyes. This means that predators cannot easily creep up behind it.\n\nChoose the best word to complete number 17.",
+      "options": [
+        "big",
+        "ugly",
+        "excellent",
+        "horrifying"
+      ],
+      "answer": 2,
+      "rationale": "The next sentence explains that predators cannot easily approach from behind. This shows that the hare's all-round eyes are very effective, so excellent is the best choice."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-018",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Vocabulary",
+    "subtopic": "Context clues",
+    "skill_type": "vocabulary",
+    "question_type": "cloze",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nBrown Hares\n\nAnother feature is its ability to position its massive ears 18 ..., to sense the slightest indication of danger.\n\nChoose the best word to complete number 18.",
+    "options": [
+      "separately",
+      "beautifully",
+      "widely",
+      "fully"
+    ],
+    "answer": 2,
+    "rationale": "The sentence describes how the hare positions its ears to sense danger. Widely best fits the idea of spreading or positioning the ears broadly to detect sounds.",
+    "content": {
+      "question": "Read the following text!\n\nBrown Hares\n\nAnother feature is its ability to position its massive ears 18 ..., to sense the slightest indication of danger.\n\nChoose the best word to complete number 18.",
+      "options": [
+        "separately",
+        "beautifully",
+        "widely",
+        "fully"
+      ],
+      "answer": 2,
+      "rationale": "The sentence describes how the hare positions its ears to sense danger. Widely best fits the idea of spreading or positioning the ears broadly to detect sounds."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-019",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nIt happened one evening when my friend Segaran and I wanted to go to visit our friend. I had a bicycle and Segara did not. So, as usual, he sat side-saddle on the horizontal bar of the bicycle while I pedaled. We had done it many times before; so it should not be any problem.\n\nAs we passed by a stream, I made the mistake of going too near the bank. The rain had softened the soil and it could not hold our combined weight. So, we were tumbling head over heels into the stream as the bank gave way beneath us.\n\nSplash! Splash! Splash! We plunged into the river, bicycle first, followed by Segaran and me. Normally the stream is only a few centimeters deep with foul black water. The water prevented us from getting badly injured but we also had to pay the price of gulping some of it. It tasted horrible. Segaran got the worst of it for being sandwiched between the bicycle and me, but it was not too bad. We had only a few cuts and bruises. Our pride was far more hurt.\n\nWe retrieved ourselves and the bicycle from the stream. We were both so dirty and soaking wet that we decided to return home.\n\nWe walked all the way home. I had to push the bicycle because its front wheel was bent out of shape. From that moment I vowed never to carry anyone on a bicycle.\n\nThe main idea of the third paragraph is ...",
+    "options": [
+      "the writer's regret for taking one on a bicycle.",
+      "the condition of soil near the bank of the river.",
+      "the incident of the writer and his friend falling to the river.",
+      "the writer's friend got the worst the pain due to the falling."
+    ],
+    "answer": 2,
+    "rationale": "The third paragraph describes the moment they plunged into the river and the immediate effects of the fall. The main idea is the incident of the writer and his friend falling into the river.",
+    "content": {
+      "question": "Read the following text!\n\nIt happened one evening when my friend Segaran and I wanted to go to visit our friend. I had a bicycle and Segara did not. So, as usual, he sat side-saddle on the horizontal bar of the bicycle while I pedaled. We had done it many times before; so it should not be any problem.\n\nAs we passed by a stream, I made the mistake of going too near the bank. The rain had softened the soil and it could not hold our combined weight. So, we were tumbling head over heels into the stream as the bank gave way beneath us.\n\nSplash! Splash! Splash! We plunged into the river, bicycle first, followed by Segaran and me. Normally the stream is only a few centimeters deep with foul black water. The water prevented us from getting badly injured but we also had to pay the price of gulping some of it. It tasted horrible. Segaran got the worst of it for being sandwiched between the bicycle and me, but it was not too bad. We had only a few cuts and bruises. Our pride was far more hurt.\n\nWe retrieved ourselves and the bicycle from the stream. We were both so dirty and soaking wet that we decided to return home.\n\nWe walked all the way home. I had to push the bicycle because its front wheel was bent out of shape. From that moment I vowed never to carry anyone on a bicycle.\n\nThe main idea of the third paragraph is ...",
+      "options": [
+        "the writer's regret for taking one on a bicycle.",
+        "the condition of soil near the bank of the river.",
+        "the incident of the writer and his friend falling to the river.",
+        "the writer's friend got the worst the pain due to the falling."
+      ],
+      "answer": 2,
+      "rationale": "The third paragraph describes the moment they plunged into the river and the immediate effects of the fall. The main idea is the incident of the writer and his friend falling into the river."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-3-020",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Detail information",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-3"],
+    "is_active": true,
+    "question": "Read the following text!\n\nIt happened one evening when my friend Segaran and I wanted to go to visit our friend. I had a bicycle and Segara did not. So, as usual, he sat side-saddle on the horizontal bar of the bicycle while I pedaled. We had done it many times before; so it should not be any problem.\n\nAs we passed by a stream, I made the mistake of going too near the bank. The rain had softened the soil and it could not hold our combined weight. So, we were tumbling head over heels into the stream as the bank gave way beneath us.\n\nSplash! Splash! Splash! We plunged into the river, bicycle first, followed by Segaran and me. Normally the stream is only a few centimeters deep with foul black water. The water prevented us from getting badly injured but we also had to pay the price of gulping some of it. It tasted horrible. Segaran got the worst of it for being sandwiched between the bicycle and me, but it was not too bad. We had only a few cuts and bruises. Our pride was far more hurt.\n\nWe retrieved ourselves and the bicycle from the stream. We were both so dirty and soaking wet that we decided to return home.\n\nWe walked all the way home. I had to push the bicycle because its front wheel was bent out of shape. From that moment I vowed never to carry anyone on a bicycle.\n\nWhat did the writer do before the accident happened?",
+    "options": [
+      "Taking his friend to visit their friends",
+      "Paddling his bike near the bank of the river",
+      "Asking his friend to accompany him",
+      "Willing to arrive as soon as possible"
+    ],
+    "answer": 1,
+    "rationale": "Before the accident, the writer was pedaling the bicycle and passed too near the bank of the stream. This directly caused the fall.",
+    "content": {
+      "question": "Read the following text!\n\nIt happened one evening when my friend Segaran and I wanted to go to visit our friend. I had a bicycle and Segara did not. So, as usual, he sat side-saddle on the horizontal bar of the bicycle while I pedaled. We had done it many times before; so it should not be any problem.\n\nAs we passed by a stream, I made the mistake of going too near the bank. The rain had softened the soil and it could not hold our combined weight. So, we were tumbling head over heels into the stream as the bank gave way beneath us.\n\nSplash! Splash! Splash! We plunged into the river, bicycle first, followed by Segaran and me. Normally the stream is only a few centimeters deep with foul black water. The water prevented us from getting badly injured but we also had to pay the price of gulping some of it. It tasted horrible. Segaran got the worst of it for being sandwiched between the bicycle and me, but it was not too bad. We had only a few cuts and bruises. Our pride was far more hurt.\n\nWe retrieved ourselves and the bicycle from the stream. We were both so dirty and soaking wet that we decided to return home.\n\nWe walked all the way home. I had to push the bicycle because its front wheel was bent out of shape. From that moment I vowed never to carry anyone on a bicycle.\n\nWhat did the writer do before the accident happened?",
+      "options": [
+        "Taking his friend to visit their friends",
+        "Paddling his bike near the bank of the river",
+        "Asking his friend to accompany him",
+        "Willing to arrive as soon as possible"
+      ],
+      "answer": 1,
+      "rationale": "Before the accident, the writer was pedaling the bicycle and passed too near the bank of the stream. This directly caused the fall."
+    }
+  }
+]

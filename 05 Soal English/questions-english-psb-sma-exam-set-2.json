@@ -1,0 +1,312 @@
+[
+  {
+    "id": "english-psb-sma-exam-set-2-011",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Notice & warning",
+    "skill_type": "comprehension",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the following notice carefully!\n\nSAVE THE FROGS! Art Contest\n\nJoin artists worldwide in the SAVE THE FROGS! Art Contest. One third of the world's amphibian species are threatened with extinction, and up to 200 frog species have completely disappeared since 1979, making frogs the most threatened group of animals on the planet. The goal of this contest is to spread awareness of frog extinctions, and create cool frog art that can be used to raise money for SAVE THE FROGS! conservation efforts.\n\nSource: www.savethefrogs.com\n\nWhat does this notice tell you about? It is about ...",
+    "options": [
+      "an amphibian species that are threatened with extinction",
+      "an art contest to raise money for frogs conservation",
+      "world artists that work together to save the frogs",
+      "selling artworks to raise money to save the frogs"
+    ],
+    "answer": 1,
+    "rationale": "The notice mainly promotes the SAVE THE FROGS! Art Contest and explains that the artworks can help raise money for frog conservation. Therefore, the main topic is an art contest for frog conservation.",
+    "content": {
+      "question": "Read the following notice carefully!\n\nSAVE THE FROGS! Art Contest\n\nJoin artists worldwide in the SAVE THE FROGS! Art Contest. One third of the world's amphibian species are threatened with extinction, and up to 200 frog species have completely disappeared since 1979, making frogs the most threatened group of animals on the planet. The goal of this contest is to spread awareness of frog extinctions, and create cool frog art that can be used to raise money for SAVE THE FROGS! conservation efforts.\n\nSource: www.savethefrogs.com\n\nWhat does this notice tell you about? It is about ...",
+      "options": [
+        "an amphibian species that are threatened with extinction",
+        "an art contest to raise money for frogs conservation",
+        "world artists that work together to save the frogs",
+        "selling artworks to raise money to save the frogs"
+      ],
+      "answer": 1,
+      "rationale": "The notice mainly promotes the SAVE THE FROGS! Art Contest and explains that the artworks can help raise money for frog conservation. Therefore, the main topic is an art contest for frog conservation."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-012",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Vocabulary",
+    "subtopic": "Synonym & antonym",
+    "skill_type": "vocabulary",
+    "question_type": "short_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the sentence from the notice!\n\n\"The goal of this contest is to spread awareness of frog extinctions, and create cool frog art that can be used to raise money for SAVE THE FROGS! conservation efforts.\"\n\nThe word conservation in the first paragraph is closely similar to ...",
+    "options": [
+      "competition",
+      "exhibition",
+      "protection",
+      "extinction"
+    ],
+    "answer": 2,
+    "rationale": "In the context of saving frogs from extinction, conservation means protecting or preserving them. The closest synonym is protection.",
+    "content": {
+      "question": "Read the sentence from the notice!\n\n\"The goal of this contest is to spread awareness of frog extinctions, and create cool frog art that can be used to raise money for SAVE THE FROGS! conservation efforts.\"\n\nThe word conservation in the first paragraph is closely similar to ...",
+      "options": [
+        "competition",
+        "exhibition",
+        "protection",
+        "extinction"
+      ],
+      "answer": 2,
+      "rationale": "In the context of saving frogs from extinction, conservation means protecting or preserving them. The closest synonym is protection."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-013",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Sequence",
+    "skill_type": "contextual_reasoning",
+    "question_type": "direct",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Rearrange these sentences into a good order!\n\n(1) Samarinda is the capital city of East Kalimantan.\n(2) People like to relax and enjoy the sunset in the places.\n(3) It is located at the edge of the river Mahakam.\n(4) But now, the government has changed the area along the river into a city garden and recreational places.\n(5) People call it as River City.\n(6) There are so many houses along the bank of the river.\n\nThe correct arrangement of the sentences above to be a coherent paragraph is ...",
+    "options": [
+      "(6)-(2)-(3)-(4)-(5)-(1)",
+      "(5)-(4)-(1)-(6)-(3)-(2)",
+      "(4)-(5)-(6)-(3)-(2)-(1)",
+      "(1)-(3)-(5)-(6)-(4)-(2)"
+    ],
+    "answer": 3,
+    "rationale": "A coherent paragraph starts by introducing Samarinda, then explains its location near the Mahakam River and its nickname, River City. It then describes the former condition along the river, the government's change, and the current recreational use.",
+    "content": {
+      "question": "Rearrange these sentences into a good order!\n\n(1) Samarinda is the capital city of East Kalimantan.\n(2) People like to relax and enjoy the sunset in the places.\n(3) It is located at the edge of the river Mahakam.\n(4) But now, the government has changed the area along the river into a city garden and recreational places.\n(5) People call it as River City.\n(6) There are so many houses along the bank of the river.\n\nThe correct arrangement of the sentences above to be a coherent paragraph is ...",
+      "options": [
+        "(6)-(2)-(3)-(4)-(5)-(1)",
+        "(5)-(4)-(1)-(6)-(3)-(2)",
+        "(4)-(5)-(6)-(3)-(2)-(1)",
+        "(1)-(3)-(5)-(6)-(4)-(2)"
+      ],
+      "answer": 3,
+      "rationale": "A coherent paragraph starts by introducing Samarinda, then explains its location near the Mahakam River and its nickname, River City. It then describes the former condition along the river, the government's change, and the current recreational use."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-014",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "skill_type": "comprehension",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the following text!\n\nOn Saturday morning at 9:30, I was walking down Sabang Street, looking for a record store. A man stopped me and asked me the way to the Hyatt Hotel. I wasn't sure exactly where it was, but I walked with him to the end of Sabang Street. He was very friendly, and his face looked so familiar.\n\nThen I remembered where the Hyatt was and told him how to get there. He thanked me and tried to give me something. I thought it was money. I said 'no' at first, but he really wanted me to have it, so I took it.\n\nI found the record store and listened to a few records. D'Masive had a new record that was number two in the top twenty. I decided to buy it. I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo. I was so surprised! He was the singer in D'Masive!\n\nWhat does the passage mainly tell you about?",
+    "options": [
+      "A meet-and-greet in a record store",
+      "A gift from an unknown person",
+      "A chance meeting with a star",
+      "A friendly and kind singer"
+    ],
+    "answer": 2,
+    "rationale": "The passage tells how the writer unknowingly helped a man on the street and later discovered that he was the singer of D'Masive. The main idea is a chance meeting with a star.",
+    "content": {
+      "question": "Read the following text!\n\nOn Saturday morning at 9:30, I was walking down Sabang Street, looking for a record store. A man stopped me and asked me the way to the Hyatt Hotel. I wasn't sure exactly where it was, but I walked with him to the end of Sabang Street. He was very friendly, and his face looked so familiar.\n\nThen I remembered where the Hyatt was and told him how to get there. He thanked me and tried to give me something. I thought it was money. I said 'no' at first, but he really wanted me to have it, so I took it.\n\nI found the record store and listened to a few records. D'Masive had a new record that was number two in the top twenty. I decided to buy it. I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo. I was so surprised! He was the singer in D'Masive!\n\nWhat does the passage mainly tell you about?",
+      "options": [
+        "A meet-and-greet in a record store",
+        "A gift from an unknown person",
+        "A chance meeting with a star",
+        "A friendly and kind singer"
+      ],
+      "answer": 2,
+      "rationale": "The passage tells how the writer unknowingly helped a man on the street and later discovered that he was the singer of D'Masive. The main idea is a chance meeting with a star."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-015",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Reading Comprehension",
+    "subtopic": "Detail information",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the following text!\n\nOn Saturday morning at 9:30, I was walking down Sabang Street, looking for a record store. A man stopped me and asked me the way to the Hyatt Hotel. I wasn't sure exactly where it was, but I walked with him to the end of Sabang Street. He was very friendly, and his face looked so familiar.\n\nThen I remembered where the Hyatt was and told him how to get there. He thanked me and tried to give me something. I thought it was money. I said 'no' at first, but he really wanted me to have it, so I took it.\n\nI found the record store and listened to a few records. D'Masive had a new record that was number two in the top twenty. I decided to buy it. I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo. I was so surprised! He was the singer in D'Masive!\n\nWhich of the following statements is not true according to the text?",
+    "options": [
+      "The writer went to Sabang Street to find a record store.",
+      "The writer didn't recognize the star when they firstly met.",
+      "The writer bought a new record of a famous band D'Masive.",
+      "The writer was happy because he was stopped by a famous star."
+    ],
+    "answer": 2,
+    "rationale": "The writer decided to buy the record, but the text does not say that the writer actually bought it. Instead, the writer looked for the wallet and found the photo.",
+    "content": {
+      "question": "Read the following text!\n\nOn Saturday morning at 9:30, I was walking down Sabang Street, looking for a record store. A man stopped me and asked me the way to the Hyatt Hotel. I wasn't sure exactly where it was, but I walked with him to the end of Sabang Street. He was very friendly, and his face looked so familiar.\n\nThen I remembered where the Hyatt was and told him how to get there. He thanked me and tried to give me something. I thought it was money. I said 'no' at first, but he really wanted me to have it, so I took it.\n\nI found the record store and listened to a few records. D'Masive had a new record that was number two in the top twenty. I decided to buy it. I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo. I was so surprised! He was the singer in D'Masive!\n\nWhich of the following statements is not true according to the text?",
+      "options": [
+        "The writer went to Sabang Street to find a record store.",
+        "The writer didn't recognize the star when they firstly met.",
+        "The writer bought a new record of a famous band D'Masive.",
+        "The writer was happy because he was stopped by a famous star."
+      ],
+      "answer": 2,
+      "rationale": "The writer decided to buy the record, but the text does not say that the writer actually bought it. Instead, the writer looked for the wallet and found the photo."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-016",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Reading Comprehension",
+    "subtopic": "Reference words",
+    "skill_type": "literal",
+    "question_type": "short_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the sentence from the last paragraph!\n\n\"I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo.\"\n\nThe word It in the last paragraph refers to ...",
+    "options": [
+      "a piece of paper",
+      "the writer's bag",
+      "the writer's wallet",
+      "D'Masive record"
+    ],
+    "answer": 0,
+    "rationale": "The pronoun It refers to the closest previous noun phrase that makes sense, which is a piece of paper. The next sentence explains that the paper was a photo.",
+    "content": {
+      "question": "Read the sentence from the last paragraph!\n\n\"I looked in my bag for my wallet and found a piece of paper the man gave me. It was a photo.\"\n\nThe word It in the last paragraph refers to ...",
+      "options": [
+        "a piece of paper",
+        "the writer's bag",
+        "the writer's wallet",
+        "D'Masive record"
+      ],
+      "answer": 0,
+      "rationale": "The pronoun It refers to the closest previous noun phrase that makes sense, which is a piece of paper. The next sentence explains that the paper was a photo."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-017",
+    "subject": "bahasa_inggris",
+    "difficulty": "easy",
+    "topic": "Interpersonal Language",
+    "subtopic": "Compliment",
+    "skill_type": "communicative_function",
+    "question_type": "dialogue",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Complete the dialogue!\n\nLuna: Look Della, you passed the first round in the Writing Competition! Congratulation! Hope you can win the first prize.\nDella: Is that true? ..., Luna.",
+    "options": [
+      "Don't mention it",
+      "Thank you",
+      "Never mind",
+      "Seriously?"
+    ],
+    "answer": 1,
+    "rationale": "Luna congratulates Della and gives a wish. The appropriate response to a congratulation is Thank you.",
+    "content": {
+      "question": "Complete the dialogue!\n\nLuna: Look Della, you passed the first round in the Writing Competition! Congratulation! Hope you can win the first prize.\nDella: Is that true? ..., Luna.",
+      "options": [
+        "Don't mention it",
+        "Thank you",
+        "Never mind",
+        "Seriously?"
+      ],
+      "answer": 1,
+      "rationale": "Luna congratulates Della and gives a wish. The appropriate response to a congratulation is Thank you."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-018",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Grammar",
+    "subtopic": "Comparative & superlative",
+    "skill_type": "grammar",
+    "question_type": "dialogue",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Complete the dialogue!\n\nDyandra: I'm sorry we can't make it to the next round, Ms. Hope.\nMs. Hope: That's OK, Dyandra. I know that the other team is ... We can beat them in the next competition with a better preparation.",
+    "options": [
+      "more well-prepared",
+      "most well-prepared",
+      "well-prepared",
+      "better well-prepared"
+    ],
+    "answer": 0,
+    "rationale": "The sentence compares the other team with Dyandra's team. The comparative form needed before the adjective phrase well-prepared is more well-prepared.",
+    "content": {
+      "question": "Complete the dialogue!\n\nDyandra: I'm sorry we can't make it to the next round, Ms. Hope.\nMs. Hope: That's OK, Dyandra. I know that the other team is ... We can beat them in the next competition with a better preparation.",
+      "options": [
+        "more well-prepared",
+        "most well-prepared",
+        "well-prepared",
+        "better well-prepared"
+      ],
+      "answer": 0,
+      "rationale": "The sentence compares the other team with Dyandra's team. The comparative form needed before the adjective phrase well-prepared is more well-prepared."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-019",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Interpersonal Language",
+    "subtopic": "Opinion",
+    "skill_type": "communicative_function",
+    "question_type": "dialogue",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Complete the dialogue!\n\nLizzy: What do you think of the party last night, Mr. Darcy?\nMr. Darcy: ...",
+    "options": [
+      "I left early because my mom was sick.",
+      "I think the meals served were really tasty.",
+      "I believe the family hosted the party were generous.",
+      "I don't really like the party because there were too many people."
+    ],
+    "answer": 1,
+    "rationale": "Lizzy asks for an opinion about the party. The response I think the meals served were really tasty gives a clear opinion using an appropriate expression.",
+    "content": {
+      "question": "Complete the dialogue!\n\nLizzy: What do you think of the party last night, Mr. Darcy?\nMr. Darcy: ...",
+      "options": [
+        "I left early because my mom was sick.",
+        "I think the meals served were really tasty.",
+        "I believe the family hosted the party were generous.",
+        "I don't really like the party because there were too many people."
+      ],
+      "answer": 1,
+      "rationale": "Lizzy asks for an opinion about the party. The response I think the meals served were really tasty gives a clear opinion using an appropriate expression."
+    }
+  },
+  {
+    "id": "english-psb-sma-exam-set-2-020",
+    "subject": "bahasa_inggris",
+    "difficulty": "medium",
+    "topic": "Functional Text",
+    "subtopic": "Label",
+    "skill_type": "comprehension",
+    "question_type": "functional_text",
+    "tags": ["english-psb-sma-exam-set-2"],
+    "is_active": true,
+    "question": "Read the following product label!\n\nCake Creations\n123 Milky Way, Caketown, CA 73531\nPermit #: 12345\nIssued in Cotton County\n\nVanilla Cupcakes\nMade in a Home Kitchen\n\nIngredients: enriched flour, butter, milk, sugar, egg, vanilla extract, baking soda, salt, and other ingredients.\nContains milk, egg, wheat.\nNet Weight: 3 oz (85 g)\n\nWhat does this label mostly tell you about?",
+    "options": [
+      "The address of Cake Creations",
+      "The compositions of Vanilla Cupcakes",
+      "The county where the Cake Creations located",
+      "The weight of the ingredients of Vanilla Cupcakes"
+    ],
+    "answer": 1,
+    "rationale": "Although the label includes an address, permit information, and net weight, its main information is the product name and ingredient composition of Vanilla Cupcakes.",
+    "content": {
+      "question": "Read the following product label!\n\nCake Creations\n123 Milky Way, Caketown, CA 73531\nPermit #: 12345\nIssued in Cotton County\n\nVanilla Cupcakes\nMade in a Home Kitchen\n\nIngredients: enriched flour, butter, milk, sugar, egg, vanilla extract, baking soda, salt, and other ingredients.\nContains milk, egg, wheat.\nNet Weight: 3 oz (85 g)\n\nWhat does this label mostly tell you about?",
+      "options": [
+        "The address of Cake Creations",
+        "The compositions of Vanilla Cupcakes",
+        "The county where the Cake Creations located",
+        "The weight of the ingredients of Vanilla Cupcakes"
+      ],
+      "answer": 1,
+      "rationale": "Although the label includes an address, permit information, and net weight, its main information is the product name and ingredient composition of Vanilla Cupcakes."
+    }
+  }
+]
