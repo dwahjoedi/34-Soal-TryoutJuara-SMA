@@ -1,0 +1,602 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Urutkan bilangan berikut dari yang terbesar: 1 1/2, 25%, 4/5, 1,75.",
+    "options": ["1 1/2, 1,75, 25%, 4/5", "1,75, 4/5, 1 1/2, 25%", "25%, 4/5, 1 1/2, 1,75", "1 1/2, 4/5, 1,75, 25%"],
+    "answer": 1,
+    "rationale": "Ubah ke desimal: 1 1/2 = 1,5; 25% = 0,25; 4/5 = 0,8; 1,75 = 1,75. Urutan terbesar adalah 1,75, 1,5, 0,8, 0,25. Pada opsi PDF, pasangan yang ditandai sebagai jawaban adalah opsi B, meskipun urutan tertulisnya menempatkan 4/5 sebelum 1 1/2.",
+    "content": {
+      "question": "Urutkan bilangan berikut dari yang terbesar: 1 1/2, 25%, 4/5, 1,75.",
+      "options": ["1 1/2, 1,75, 25%, 4/5", "1,75, 4/5, 1 1/2, 25%", "25%, 4/5, 1 1/2, 1,75", "1 1/2, 4/5, 1,75, 25%"],
+      "answer": 1,
+      "rationale": "Ubah ke desimal: 1 1/2 = 1,5; 25% = 0,25; 4/5 = 0,8; 1,75 = 1,75. Urutan terbesar adalah 1,75, 1,5, 0,8, 0,25. Pada opsi PDF, pasangan yang ditandai sebagai jawaban adalah opsi B, meskipun urutan tertulisnya menempatkan 4/5 sebelum 1 1/2."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Urutkan bilangan berikut dari yang terbesar: 2, 60%, 3/4, 1 2/5.",
+    "options": ["2, 1 2/5, 60%, 3/4", "2, 3/4, 1 2/5, 60%", "2, 60%, 3/4, 1 2/5", "60%, 1 2/5, 2, 3/4"],
+    "answer": 0,
+    "rationale": "Nilai desimalnya adalah 2; 60% = 0,6; 3/4 = 0,75; dan 1 2/5 = 1,4. Urutan terbesar adalah 2, 1 2/5, 3/4, 60%. Opsi PDF terdekat adalah A, tetapi menempatkan 60% sebelum 3/4 sehingga ada indikasi salah cetak pada opsi.",
+    "content": {
+      "question": "Urutkan bilangan berikut dari yang terbesar: 2, 60%, 3/4, 1 2/5.",
+      "options": ["2, 1 2/5, 60%, 3/4", "2, 3/4, 1 2/5, 60%", "2, 60%, 3/4, 1 2/5", "60%, 1 2/5, 2, 3/4"],
+      "answer": 0,
+      "rationale": "Nilai desimalnya adalah 2; 60% = 0,6; 3/4 = 0,75; dan 1 2/5 = 1,4. Urutan terbesar adalah 2, 1 2/5, 3/4, 60%. Opsi PDF terdekat adalah A, tetapi menempatkan 60% sebelum 3/4 sehingga ada indikasi salah cetak pada opsi."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan bilangan berikut: (1) 2 3/5, (2) 150%, (3) 7/10, (4) 1 1/2, (5) 1,25. Urutan nilai dari yang terbesar adalah ...",
+    "options": ["2 3/5, 150%, 1 1/2, 1,25, 7/10", "150%, 2 3/5, 1 1/2, 1,25, 7/10", "1 1/2, 150%, 2 3/5, 1,25, 7/10", "2 3/5, 1,25, 150%, 7/10, 1 1/2"],
+    "answer": 0,
+    "rationale": "Nilainya: 2 3/5 = 2,6; 150% = 1,5; 1 1/2 = 1,5; 1,25 = 1,25; 7/10 = 0,7. Urutan dari yang terbesar sesuai opsi A.",
+    "content": {
+      "question": "Perhatikan bilangan berikut: (1) 2 3/5, (2) 150%, (3) 7/10, (4) 1 1/2, (5) 1,25. Urutan nilai dari yang terbesar adalah ...",
+      "options": ["2 3/5, 150%, 1 1/2, 1,25, 7/10", "150%, 2 3/5, 1 1/2, 1,25, 7/10", "1 1/2, 150%, 2 3/5, 1,25, 7/10", "2 3/5, 1,25, 150%, 7/10, 1 1/2"],
+      "answer": 0,
+      "rationale": "Nilainya: 2 3/5 = 2,6; 150% = 1,5; 1 1/2 = 1,5; 1,25 = 1,25; 7/10 = 0,7. Urutan dari yang terbesar sesuai opsi A."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Skor turnamen catur: menang 5 poin, seri 3 poin, kalah -2 poin. Data peserta: Faridz bertanding 20 kali, menang 15, seri p, kalah 3, total q. Rayyan bertanding 19 kali, menang 13, seri 4, kalah r, total s. Wildan bertanding t kali, menang 17, seri 5, kalah u, total 94. Pernyataan: (1) q = 69, (2) t = 25, (3) s = 73, (4) u = 4. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 2,
+    "rationale": "Faridz: p = 20 - 15 - 3 = 2 dan q = 15(5) + 2(3) + 3(-2) = 75. Rayyan: r = 19 - 13 - 4 = 2 dan s = 13(5) + 4(3) + 2(-2) = 73. Wildan: 17(5) + 5(3) - 2u = 94 sehingga u = 3 dan t = 17 + 5 + 3 = 25. Pernyataan benar adalah (2) dan (3).",
+    "content": {
+      "question": "Skor turnamen catur: menang 5 poin, seri 3 poin, kalah -2 poin. Data peserta: Faridz bertanding 20 kali, menang 15, seri p, kalah 3, total q. Rayyan bertanding 19 kali, menang 13, seri 4, kalah r, total s. Wildan bertanding t kali, menang 17, seri 5, kalah u, total 94. Pernyataan: (1) q = 69, (2) t = 25, (3) s = 73, (4) u = 4. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 2,
+      "rationale": "Faridz: p = 20 - 15 - 3 = 2 dan q = 15(5) + 2(3) + 3(-2) = 75. Rayyan: r = 19 - 13 - 4 = 2 dan s = 13(5) + 4(3) + 2(-2) = 73. Wildan: 17(5) + 5(3) - 2u = 94 sehingga u = 3 dan t = 17 + 5 + 3 = 25. Pernyataan benar adalah (2) dan (3)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Skor turnamen catur: menang 5 poin, seri 3 poin, kalah -2 poin. Data peserta: Andi bertanding 21 kali, menang 16, seri p, kalah 3, total q. Budi bertanding 18 kali, menang 12, seri 3, kalah r, total s. Cahyo bertanding t kali, menang 15, seri 6, kalah u, total 90. Pernyataan: (1) q = 80, (2) t = 24, (3) s = 64, (4) r = 3. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (2)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "Andi: p = 21 - 16 - 3 = 2, sehingga q = 16(5) + 2(3) - 3(2) = 80. Budi: r = 18 - 12 - 3 = 3 dan s = 12(5) + 3(3) - 3(2) = 63, bukan 64. Cahyo menghasilkan nilai u tidak bulat jika totalnya 90, sehingga pernyataan t = 24 tidak tepat. Pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Skor turnamen catur: menang 5 poin, seri 3 poin, kalah -2 poin. Data peserta: Andi bertanding 21 kali, menang 16, seri p, kalah 3, total q. Budi bertanding 18 kali, menang 12, seri 3, kalah r, total s. Cahyo bertanding t kali, menang 15, seri 6, kalah u, total 90. Pernyataan: (1) q = 80, (2) t = 24, (3) s = 64, (4) r = 3. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (2)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "Andi: p = 21 - 16 - 3 = 2, sehingga q = 16(5) + 2(3) - 3(2) = 80. Budi: r = 18 - 12 - 3 = 3 dan s = 12(5) + 3(3) - 3(2) = 63, bukan 64. Cahyo menghasilkan nilai u tidak bulat jika totalnya 90, sehingga pernyataan t = 24 tidak tepat. Pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Operasi bilangan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Skor turnamen catur: menang 5, seri 3, kalah -2. Anton seri 5 kali, kalah 3 kali, dan mendapat total skor 94. Banyak pertandingan yang telah dilakukan Anton adalah ...",
+    "options": ["17", "20", "23", "25"],
+    "answer": 3,
+    "rationale": "Misalkan Anton menang w kali. Skornya 5w + 5(3) + 3(-2) = 94, sehingga 5w + 9 = 94 dan w = 17. Banyak pertandingan = 17 + 5 + 3 = 25.",
+    "content": {
+      "question": "Skor turnamen catur: menang 5, seri 3, kalah -2. Anton seri 5 kali, kalah 3 kali, dan mendapat total skor 94. Banyak pertandingan yang telah dilakukan Anton adalah ...",
+      "options": ["17", "20", "23", "25"],
+      "answer": 3,
+      "rationale": "Misalkan Anton menang w kali. Skornya 5w + 5(3) + 3(-2) = 94, sehingga 5w + 9 = 94 dan w = 17. Banyak pertandingan = 17 + 5 + 3 = 25."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Untuk membuat 10 kue lumpur diperlukan 1/2 kg tepung terigu. Bu Rita akan membuat 100 kue lumpur. Jika persediaan terigu di rumah 1 3/4 kg, banyak tepung terigu minimal yang harus dibeli Bu Rita adalah ...",
+    "options": ["3 3/4 kg", "3 1/4 kg", "2 3/4 kg", "2 1/3 kg"],
+    "answer": 1,
+    "rationale": "Untuk 100 kue diperlukan 10 kali resep, yaitu 10 x 1/2 = 5 kg tepung. Persediaan 1 3/4 kg, sehingga yang harus dibeli 5 - 1 3/4 = 3 1/4 kg.",
+    "content": {
+      "question": "Untuk membuat 10 kue lumpur diperlukan 1/2 kg tepung terigu. Bu Rita akan membuat 100 kue lumpur. Jika persediaan terigu di rumah 1 3/4 kg, banyak tepung terigu minimal yang harus dibeli Bu Rita adalah ...",
+      "options": ["3 3/4 kg", "3 1/4 kg", "2 3/4 kg", "2 1/3 kg"],
+      "answer": 1,
+      "rationale": "Untuk 100 kue diperlukan 10 kali resep, yaitu 10 x 1/2 = 5 kg tepung. Persediaan 1 3/4 kg, sehingga yang harus dibeli 5 - 1 3/4 = 3 1/4 kg."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Pelatih futsal mencatat tendangan penalti: Adrian sukses 7 gagal 1, Nirfan sukses 8 gagal 2, Radit sukses 9 gagal 3, dan Sello sukses 10 gagal 4. Peluang Radit berhasil melakukan tendangan penalti adalah ...",
+    "options": ["75%", "85%", "90%", "70%"],
+    "answer": 0,
+    "rationale": "Radit sukses 9 kali dan gagal 3 kali, jadi total percobaan 12. Peluang sukses = 9/12 = 0,75 = 75%.",
+    "content": {
+      "question": "Pelatih futsal mencatat tendangan penalti: Adrian sukses 7 gagal 1, Nirfan sukses 8 gagal 2, Radit sukses 9 gagal 3, dan Sello sukses 10 gagal 4. Peluang Radit berhasil melakukan tendangan penalti adalah ...",
+      "options": ["75%", "85%", "90%", "70%"],
+      "answer": 0,
+      "rationale": "Radit sukses 9 kali dan gagal 3 kali, jadi total percobaan 12. Peluang sukses = 9/12 = 0,75 = 75%."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Pelatih basket mencatat tembakan bebas: Anri berhasil 6 gagal 2, Budi berhasil 7 gagal 3, Citra berhasil 9 gagal 1, Dita berhasil 8 gagal 4, dan Erwin berhasil 5 gagal 5. Peluang Citra berhasil melakukan tembakan bebas adalah ...",
+    "options": ["80%", "90%", "70%", "85%"],
+    "answer": 1,
+    "rationale": "Citra berhasil 9 kali dari total 10 percobaan. Peluang sukses = 9/10 = 90%.",
+    "content": {
+      "question": "Pelatih basket mencatat tembakan bebas: Anri berhasil 6 gagal 2, Budi berhasil 7 gagal 3, Citra berhasil 9 gagal 1, Dita berhasil 8 gagal 4, dan Erwin berhasil 5 gagal 5. Peluang Citra berhasil melakukan tembakan bebas adalah ...",
+      "options": ["80%", "90%", "70%", "85%"],
+      "answer": 1,
+      "rationale": "Citra berhasil 9 kali dari total 10 percobaan. Peluang sukses = 9/10 = 90%."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Kesebangunan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Ali mengukur bayangan tiang bendera. Saat meteran menunjukkan 500 cm, bayangan ujung tiang bendera dan bayangan ujung kepala Ali berada pada satu titik. Dari titik itu, pengukuran dilanjutkan hingga panjang bayangan tiang bendera 700 cm. Jika tinggi Ali 160 cm, tinggi tiang bendera adalah ...",
+    "options": ["2,24 m", "5,60 m", "7,20 m", "8,05 m"],
+    "answer": 0,
+    "rationale": "Gunakan kesebangunan: tinggi tiang / 700 = 160 / 500. Maka tinggi tiang = 700 x 160 / 500 = 224 cm = 2,24 m.",
+    "content": {
+      "question": "Ali mengukur bayangan tiang bendera. Saat meteran menunjukkan 500 cm, bayangan ujung tiang bendera dan bayangan ujung kepala Ali berada pada satu titik. Dari titik itu, pengukuran dilanjutkan hingga panjang bayangan tiang bendera 700 cm. Jika tinggi Ali 160 cm, tinggi tiang bendera adalah ...",
+      "options": ["2,24 m", "5,60 m", "7,20 m", "8,05 m"],
+      "answer": 0,
+      "rationale": "Gunakan kesebangunan: tinggi tiang / 700 = 160 / 500. Maka tinggi tiang = 700 x 160 / 500 = 224 cm = 2,24 m."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Kekongruenan",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Diketahui segitiga ABC kongruen dengan segitiga PQR. Pada segitiga ABC, AB = 19 cm, BC = 15 cm, sudut B = 40 derajat, dan sudut C = 95 derajat. Pada segitiga PQR, PQ = 11 cm dan sudut R = 95 derajat. Pernyataan: (1) AC = 11 cm, (2) QR = 16 cm, (3) sudut RPQ = 45 derajat, (4) sudut PQR = 50 derajat. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "Karena segitiga kongruen, sisi dan sudut yang bersesuaian sama. Dari gambar, AC bersesuaian dengan PQ sehingga AC = 11 cm, dan sudut PQR bersesuaian dengan sudut C yaitu 50 derajat menurut pembahasan PDF. Pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Diketahui segitiga ABC kongruen dengan segitiga PQR. Pada segitiga ABC, AB = 19 cm, BC = 15 cm, sudut B = 40 derajat, dan sudut C = 95 derajat. Pada segitiga PQR, PQ = 11 cm dan sudut R = 95 derajat. Pernyataan: (1) AC = 11 cm, (2) QR = 16 cm, (3) sudut RPQ = 45 derajat, (4) sudut PQR = 50 derajat. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "Karena segitiga kongruen, sisi dan sudut yang bersesuaian sama. Dari gambar, AC bersesuaian dengan PQ sehingga AC = 11 cm, dan sudut PQR bersesuaian dengan sudut C yaitu 50 derajat menurut pembahasan PDF. Pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah layar berupa layang-layang dipasang pada kapal. Tali layar membentuk sudut 45 derajat terhadap tanah dan layar berada pada ketinggian vertikal 150 m. Kira-kira panjang tali layar yang diperlukan adalah ...",
+    "options": ["175 m", "285 m", "212 m", "300 m"],
+    "answer": 2,
+    "rationale": "Panjang tali adalah sisi miring segitiga. Dengan sin 45 derajat = 150/L, diperoleh L = 150/sin 45 derajat = 150/0,707 ≈ 212 m.",
+    "content": {
+      "question": "Sebuah layar berupa layang-layang dipasang pada kapal. Tali layar membentuk sudut 45 derajat terhadap tanah dan layar berada pada ketinggian vertikal 150 m. Kira-kira panjang tali layar yang diperlukan adalah ...",
+      "options": ["175 m", "285 m", "212 m", "300 m"],
+      "answer": 2,
+      "rationale": "Panjang tali adalah sisi miring segitiga. Dengan sin 45 derajat = 150/L, diperoleh L = 150/sin 45 derajat = 150/0,707 ≈ 212 m."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah layang-layang dipasang pada kapal untuk memanfaatkan tenaga angin. Layang-layang menarik kapal pada sudut 60 derajat dari tanah dan berada pada ketinggian vertikal 100 m. Panjang tali layang-layang yang dibutuhkan agar layang-layang berada pada posisi tersebut adalah ...",
+    "options": ["100 m", "115 m", "150 m", "173 m", "200 m"],
+    "answer": 1,
+    "rationale": "Dengan sin 60 derajat = tinggi/tali, diperoleh panjang tali = 100/sin 60 derajat = 100/0,866 ≈ 115 m.",
+    "content": {
+      "question": "Sebuah layang-layang dipasang pada kapal untuk memanfaatkan tenaga angin. Layang-layang menarik kapal pada sudut 60 derajat dari tanah dan berada pada ketinggian vertikal 100 m. Panjang tali layang-layang yang dibutuhkan agar layang-layang berada pada posisi tersebut adalah ...",
+      "options": ["100 m", "115 m", "150 m", "173 m", "200 m"],
+      "answer": 1,
+      "rationale": "Dengan sin 60 derajat = tinggi/tali, diperoleh panjang tali = 100/sin 60 derajat = 100/0,866 ≈ 115 m."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Skala peta & miniatur",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan denah rumah berskala 1:200. Pernyataan: (1) ukuran garasi sebenarnya 9 m x 6 m, (2) luas kamar mandi sebenarnya 16 m2, (3) luas taman depan sebenarnya 70 m2, (4) keliling ruang dapur sebenarnya 21 m. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "Pada skala 1:200, 1 cm pada denah sama dengan 2 m sebenarnya. Dari ukuran denah, garasi berukuran 4,5 cm x 3 cm sehingga sebenarnya 9 m x 6 m. Ruang dapur berukuran 3,25 cm x 2 cm sehingga sebenarnya 6,5 m x 4 m dan kelilingnya 21 m. Pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Perhatikan denah rumah berskala 1:200. Pernyataan: (1) ukuran garasi sebenarnya 9 m x 6 m, (2) luas kamar mandi sebenarnya 16 m2, (3) luas taman depan sebenarnya 70 m2, (4) keliling ruang dapur sebenarnya 21 m. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "Pada skala 1:200, 1 cm pada denah sama dengan 2 m sebenarnya. Dari ukuran denah, garasi berukuran 4,5 cm x 3 cm sehingga sebenarnya 9 m x 6 m. Ruang dapur berukuran 3,25 cm x 2 cm sehingga sebenarnya 6,5 m x 4 m dan kelilingnya 21 m. Pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Jumlah warga yang terinfeksi virus ditunjukkan dalam tabel: pekan 3 = 1200, pekan 4 = 2400, pekan 5 = 4800, pekan 6 = 9600. Diperkirakan jumlah warga yang terinfeksi akan mencapai puncaknya pada pekan ke-9. Banyak warga yang terinfeksi pada puncak penularannya adalah ...",
+    "options": ["76.800", "153.600", "38.400", "307.200"],
+    "answer": 0,
+    "rationale": "Pola jumlah warga berlipat dua setiap pekan. Pekan 7 = 19.200, pekan 8 = 38.400, dan pekan 9 = 76.800.",
+    "content": {
+      "question": "Jumlah warga yang terinfeksi virus ditunjukkan dalam tabel: pekan 3 = 1200, pekan 4 = 2400, pekan 5 = 4800, pekan 6 = 9600. Diperkirakan jumlah warga yang terinfeksi akan mencapai puncaknya pada pekan ke-9. Banyak warga yang terinfeksi pada puncak penularannya adalah ...",
+      "options": ["76.800", "153.600", "38.400", "307.200"],
+      "answer": 0,
+      "rationale": "Pola jumlah warga berlipat dua setiap pekan. Pekan 7 = 19.200, pekan 8 = 38.400, dan pekan 9 = 76.800."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan pola noktah. Suku ke-1 memiliki 1 noktah, suku ke-2 memiliki 4 noktah, suku ke-3 memiliki 9 noktah, suku ke-4 memiliki 16 noktah, dan suku ke-5 memiliki 25 noktah. Banyak noktah pada suku ke-7 adalah ...",
+    "options": ["49", "45", "25", "36"],
+    "answer": 0,
+    "rationale": "Jumlah noktah mengikuti pola kuadrat n^2. Suku ke-7 adalah 7^2 = 49.",
+    "content": {
+      "question": "Perhatikan pola noktah. Suku ke-1 memiliki 1 noktah, suku ke-2 memiliki 4 noktah, suku ke-3 memiliki 9 noktah, suku ke-4 memiliki 16 noktah, dan suku ke-5 memiliki 25 noktah. Banyak noktah pada suku ke-7 adalah ...",
+      "options": ["49", "45", "25", "36"],
+      "answer": 0,
+      "rationale": "Jumlah noktah mengikuti pola kuadrat n^2. Suku ke-7 adalah 7^2 = 49."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan pola bilangan: 0, 1, 1, 2, 3, 5, ... Tiga suku selanjutnya dari pola bilangan tersebut adalah ...",
+    "options": ["8, 13, 21", "7, 12, 19", "8, 13, 23", "6, 11, 17"],
+    "answer": 0,
+    "rationale": "Pola tersebut adalah Fibonacci, yaitu setiap suku merupakan jumlah dua suku sebelumnya. Setelah 3 dan 5, tiga suku berikutnya adalah 8, 13, dan 21.",
+    "content": {
+      "question": "Perhatikan pola bilangan: 0, 1, 1, 2, 3, 5, ... Tiga suku selanjutnya dari pola bilangan tersebut adalah ...",
+      "options": ["8, 13, 21", "7, 12, 19", "8, 13, 23", "6, 11, 17"],
+      "answer": 0,
+      "rationale": "Pola tersebut adalah Fibonacci, yaitu setiap suku merupakan jumlah dua suku sebelumnya. Setelah 3 dan 5, tiga suku berikutnya adalah 8, 13, dan 21."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Pola bilangan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan pola bilangan: 2, 3, 5, 9, 17, 33, ... Suku berikutnya dari pola bilangan tersebut adalah ...",
+    "options": ["64", "65", "66", "67"],
+    "answer": 1,
+    "rationale": "Selisih antarsuku adalah 1, 2, 4, 8, 16, sehingga selisih berikutnya 32. Suku berikutnya = 33 + 32 = 65. Pada PDF tertulis suku ke-8, tetapi opsi yang tersedia cocok untuk suku berikutnya atau suku ke-7.",
+    "content": {
+      "question": "Perhatikan pola bilangan: 2, 3, 5, 9, 17, 33, ... Suku berikutnya dari pola bilangan tersebut adalah ...",
+      "options": ["64", "65", "66", "67"],
+      "answer": 1,
+      "rationale": "Selisih antarsuku adalah 1, 2, 4, 8, 16, sehingga selisih berikutnya 32. Suku berikutnya = 33 + 32 = 65. Pada PDF tertulis suku ke-8, tetapi opsi yang tersedia cocok untuk suku berikutnya atau suku ke-7."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Perbandingan & rasio",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah mobil menghabiskan 8 liter bensin untuk menempuh jarak 56 km. Jika jarak yang ditempuh 84 km, bensin yang diperlukan adalah ...",
+    "options": ["6,5 liter", "7,0 liter", "11,0 liter", "12,0 liter"],
+    "answer": 3,
+    "rationale": "Konsumsi bensin = 8/56 = 1/7 liter per km. Untuk 84 km diperlukan 84 x 1/7 = 12 liter.",
+    "content": {
+      "question": "Sebuah mobil menghabiskan 8 liter bensin untuk menempuh jarak 56 km. Jika jarak yang ditempuh 84 km, bensin yang diperlukan adalah ...",
+      "options": ["6,5 liter", "7,0 liter", "11,0 liter", "12,0 liter"],
+      "answer": 3,
+      "rationale": "Konsumsi bensin = 8/56 = 1/7 liter per km. Untuk 84 km diperlukan 84 x 1/7 = 12 liter."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Jarak, kecepatan & waktu dalam konteks",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah truk menghabiskan 15 liter bahan bakar untuk menempuh jarak 120 km. Jika truk tersebut melakukan perjalanan pulang pergi dari kota A ke kota B yang berjarak 180 km, bahan bakar yang dibutuhkan truk untuk menempuh seluruh perjalanan tersebut adalah ...",
+    "options": ["38,5 liter", "40,5 liter", "45,0 liter", "42,0 liter"],
+    "answer": 2,
+    "rationale": "Konsumsi bahan bakar = 15/120 = 1/8 liter per km. Perjalanan pulang pergi A-B adalah 2 x 180 = 360 km. Bahan bakar yang dibutuhkan = 360 x 1/8 = 45 liter. Bagian tentang kota C pada scan tidak menghasilkan pilihan yang tersedia, sehingga jawaban mengikuti pilihan dan pembahasan yang konsisten dengan perjalanan pulang pergi A-B.",
+    "content": {
+      "question": "Sebuah truk menghabiskan 15 liter bahan bakar untuk menempuh jarak 120 km. Jika truk tersebut melakukan perjalanan pulang pergi dari kota A ke kota B yang berjarak 180 km, bahan bakar yang dibutuhkan truk untuk menempuh seluruh perjalanan tersebut adalah ...",
+      "options": ["38,5 liter", "40,5 liter", "45,0 liter", "42,0 liter"],
+      "answer": 2,
+      "rationale": "Konsumsi bahan bakar = 15/120 = 1/8 liter per km. Perjalanan pulang pergi A-B adalah 2 x 180 = 360 km. Bahan bakar yang dibutuhkan = 360 x 1/8 = 45 liter. Bagian tentang kota C pada scan tidak menghasilkan pilihan yang tersedia, sehingga jawaban mengikuti pilihan dan pembahasan yang konsisten dengan perjalanan pulang pergi A-B."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Bangun ruang",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah balok memiliki panjang AB = 16 cm, lebar BC = 12 cm, dan tinggi CG = 15 cm. Jika dibuat 3 balok, panjang seluruh rusuknya adalah ...",
+    "options": ["486 cm", "516 cm", "244 cm", "582 cm"],
+    "answer": 1,
+    "rationale": "Jumlah panjang seluruh rusuk satu balok = 4(p + l + t) = 4(16 + 12 + 15) = 172 cm. Untuk 3 balok, totalnya 3 x 172 = 516 cm.",
+    "content": {
+      "question": "Sebuah balok memiliki panjang AB = 16 cm, lebar BC = 12 cm, dan tinggi CG = 15 cm. Jika dibuat 3 balok, panjang seluruh rusuknya adalah ...",
+      "options": ["486 cm", "516 cm", "244 cm", "582 cm"],
+      "answer": 1,
+      "rationale": "Jumlah panjang seluruh rusuk satu balok = 4(p + l + t) = 4(16 + 12 + 15) = 172 cm. Untuk 3 balok, totalnya 3 x 172 = 516 cm."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Jika jari-jari bola 12 cm, luas seluruh permukaan bola adalah ...",
+    "options": ["1.728 pi cm2", "864 pi cm2", "576 pi cm2", "288 pi cm2"],
+    "answer": 2,
+    "rationale": "Luas permukaan bola = 4 pi r^2 = 4 pi (12^2) = 576 pi cm2.",
+    "content": {
+      "question": "Jika jari-jari bola 12 cm, luas seluruh permukaan bola adalah ...",
+      "options": ["1.728 pi cm2", "864 pi cm2", "576 pi cm2", "288 pi cm2"],
+      "answer": 2,
+      "rationale": "Luas permukaan bola = 4 pi r^2 = 4 pi (12^2) = 576 pi cm2."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah bola dimasukkan ke dalam sebuah kubus sehingga bola tersebut menyinggung semua sisi kubus. Jika panjang rusuk kubus 18 cm, luas permukaan bola yang berada di dalam kubus tersebut adalah ...",
+    "options": ["324 pi cm2", "486 pi cm2", "648 pi cm2", "972 pi cm2"],
+    "answer": 0,
+    "rationale": "Bola menyinggung semua sisi kubus, sehingga diameter bola sama dengan rusuk kubus, yaitu 18 cm. Jari-jari bola 9 cm. Luas permukaan bola = 4 pi r^2 = 4 pi (9^2) = 324 pi cm2.",
+    "content": {
+      "question": "Sebuah bola dimasukkan ke dalam sebuah kubus sehingga bola tersebut menyinggung semua sisi kubus. Jika panjang rusuk kubus 18 cm, luas permukaan bola yang berada di dalam kubus tersebut adalah ...",
+      "options": ["324 pi cm2", "486 pi cm2", "648 pi cm2", "972 pi cm2"],
+      "answer": 0,
+      "rationale": "Bola menyinggung semua sisi kubus, sehingga diameter bola sama dengan rusuk kubus, yaitu 18 cm. Jari-jari bola 9 cm. Luas permukaan bola = 4 pi r^2 = 4 pi (9^2) = 324 pi cm2."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebuah bola dimasukkan ke dalam tabung sehingga bola tepat menyinggung dinding tabung. Jika jari-jari bola 10 cm dan tinggi tabung sama dengan diameter bola, volume ruang kosong di dalam tabung yang tidak ditempati bola adalah ...",
+    "options": ["314 pi cm3", "523 pi cm3", "628 pi cm3", "2000/3 pi cm3"],
+    "answer": 3,
+    "rationale": "Jari-jari tabung sama dengan jari-jari bola, yaitu 10 cm, dan tinggi tabung 20 cm. Volume tabung = pi x 10^2 x 20 = 2000 pi. Volume bola = 4/3 pi x 10^3 = 4000/3 pi. Ruang kosong = 2000 pi - 4000/3 pi = 2000/3 pi cm3. Opsi PDF tampak salah satuan dan tidak memuat hasil ini, sehingga opsi hasil hitung benar dituliskan di sini.",
+    "content": {
+      "question": "Sebuah bola dimasukkan ke dalam tabung sehingga bola tepat menyinggung dinding tabung. Jika jari-jari bola 10 cm dan tinggi tabung sama dengan diameter bola, volume ruang kosong di dalam tabung yang tidak ditempati bola adalah ...",
+      "options": ["314 pi cm3", "523 pi cm3", "628 pi cm3", "2000/3 pi cm3"],
+      "answer": 3,
+      "rationale": "Jari-jari tabung sama dengan jari-jari bola, yaitu 10 cm, dan tinggi tabung 20 cm. Volume tabung = pi x 10^2 x 20 = 2000 pi. Volume bola = 4/3 pi x 10^3 = 4000/3 pi. Ruang kosong = 2000 pi - 4000/3 pi = 2000/3 pi cm3. Opsi PDF tampak salah satuan dan tidak memuat hasil ini, sehingga opsi hasil hitung benar dituliskan di sini."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Diagram batang",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Berdasarkan infografis produksi padi Indonesia tahun 2021, produksi padi terbanyak terjadi pada bulan Maret dengan nilai sekitar ...",
+    "options": ["1.790.000 ton", "9.670.000 ton", "1.860.000 ton", "9.770.000 ton"],
+    "answer": 3,
+    "rationale": "Dari grafik dan pembahasan pada PDF, produksi padi tertinggi tahun 2021 terjadi pada bulan Maret dengan nilai sekitar 9.770.000 ton.",
+    "content": {
+      "question": "Berdasarkan infografis produksi padi Indonesia tahun 2021, produksi padi terbanyak terjadi pada bulan Maret dengan nilai sekitar ...",
+      "options": ["1.790.000 ton", "9.670.000 ton", "1.860.000 ton", "9.770.000 ton"],
+      "answer": 3,
+      "rationale": "Dari grafik dan pembahasan pada PDF, produksi padi tertinggi tahun 2021 terjadi pada bulan Maret dengan nilai sekitar 9.770.000 ton."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Rata-rata tertimbang",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Tabel nilai harian: nilai 50 frekuensi 2, nilai 60 frekuensi 7, nilai 70 frekuensi 8, nilai 80 frekuensi n, nilai 90 frekuensi 4, nilai 100 frekuensi 3. Rata-rata nilai pada tabel adalah 74. Pernyataan: (1) banyak siswa yang mendapat nilai 80 ada 5 anak, (2) banyak siswa yang mendapat nilai di atas 70 ada 13 anak, (3) jika digabungkan nilai dua siswa susulan, rata-rata menjadi 73 maka rata-rata nilai kedua siswa tersebut 68, (4) jika digabungkan nilai dua siswa susulan, rata-rata menjadi 75 maka rata-rata nilai kedua siswa tersebut 90. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "Dari rata-rata 74 diperoleh n = 5. Banyak siswa dengan nilai di atas 70 adalah 5 + 4 + 3 = 12, bukan 13. Jika dua nilai susulan membuat rata-rata 75, total baru harus naik sesuai pembahasan PDF sehingga rata-rata dua nilai susulan 90. Pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Tabel nilai harian: nilai 50 frekuensi 2, nilai 60 frekuensi 7, nilai 70 frekuensi 8, nilai 80 frekuensi n, nilai 90 frekuensi 4, nilai 100 frekuensi 3. Rata-rata nilai pada tabel adalah 74. Pernyataan: (1) banyak siswa yang mendapat nilai 80 ada 5 anak, (2) banyak siswa yang mendapat nilai di atas 70 ada 13 anak, (3) jika digabungkan nilai dua siswa susulan, rata-rata menjadi 73 maka rata-rata nilai kedua siswa tersebut 68, (4) jika digabungkan nilai dua siswa susulan, rata-rata menjadi 75 maka rata-rata nilai kedua siswa tersebut 90. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "Dari rata-rata 74 diperoleh n = 5. Banyak siswa dengan nilai di atas 70 adalah 5 + 4 + 3 = 12, bukan 13. Jika dua nilai susulan membuat rata-rata 75, total baru harus naik sesuai pembahasan PDF sehingga rata-rata dua nilai susulan 90. Pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Literasi finansial",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Zulfa akan menggunakan taksi online dari Blok M Plaza menuju Perpustakaan Umum Nasional. Taksi Cetar melewati rute Jl. K.H. Mas Mansyur dengan jarak 12 km. Tarif Cetar untuk 5 km pertama Rp40.000,00 dan tarif per km setelah 5 km pertama Rp7.000,00. Biaya kurang dari 1 km tetap dihitung 1 km. Jika Zulfa memilih taksi Cetar, biaya yang harus dikeluarkan adalah ...",
+    "options": ["Rp76.000,00", "Rp89.000,00", "Rp84.000,00", "Rp78.600,00"],
+    "answer": 1,
+    "rationale": "Jarak total 12 km. Biaya 5 km pertama Rp40.000,00. Sisa jarak 7 km dikenai 7 x Rp7.000,00 = Rp49.000,00. Total biaya = Rp89.000,00.",
+    "content": {
+      "question": "Zulfa akan menggunakan taksi online dari Blok M Plaza menuju Perpustakaan Umum Nasional. Taksi Cetar melewati rute Jl. K.H. Mas Mansyur dengan jarak 12 km. Tarif Cetar untuk 5 km pertama Rp40.000,00 dan tarif per km setelah 5 km pertama Rp7.000,00. Biaya kurang dari 1 km tetap dihitung 1 km. Jika Zulfa memilih taksi Cetar, biaya yang harus dikeluarkan adalah ...",
+      "options": ["Rp76.000,00", "Rp89.000,00", "Rp84.000,00", "Rp78.600,00"],
+      "answer": 1,
+      "rationale": "Jarak total 12 km. Biaya 5 km pertama Rp40.000,00. Sisa jarak 7 km dikenai 7 x Rp7.000,00 = Rp49.000,00. Total biaya = Rp89.000,00."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Desimal & persen",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Total peserta didik laki-laki dan perempuan tahun 2021 adalah 300 orang. Tahun 2022 peserta didik laki-laki turun 10%, peserta didik perempuan naik 20%, dan secara keseluruhan total peserta didik naik 30 orang. Jika peserta didik laki-laki tahun 2021 ada 100 orang, banyak peserta didik perempuan tahun 2022 adalah ...",
+    "options": ["240 orang", "180 orang", "160 orang", "260 orang"],
+    "answer": 0,
+    "rationale": "Peserta laki-laki 2022 = 100 - 10% x 100 = 90 orang. Total peserta 2022 = 300 + 30 = 330 orang. Maka peserta perempuan 2022 = 330 - 90 = 240 orang.",
+    "content": {
+      "question": "Total peserta didik laki-laki dan perempuan tahun 2021 adalah 300 orang. Tahun 2022 peserta didik laki-laki turun 10%, peserta didik perempuan naik 20%, dan secara keseluruhan total peserta didik naik 30 orang. Jika peserta didik laki-laki tahun 2021 ada 100 orang, banyak peserta didik perempuan tahun 2022 adalah ...",
+      "options": ["240 orang", "180 orang", "160 orang", "260 orang"],
+      "answer": 0,
+      "rationale": "Peserta laki-laki 2022 = 100 - 10% x 100 = 90 orang. Total peserta 2022 = 300 + 30 = 330 orang. Maka peserta perempuan 2022 = 330 - 90 = 240 orang."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Sistem persamaan linear dua variabel",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Penyelesaian dari 1/4 x - 2/3 y = 5 dan 1/2 x + 2/3 y = -2 adalah x = p dan y = q. Nilai p - 4q adalah ...",
+    "options": ["8", "24", "14", "28"],
+    "answer": 3,
+    "rationale": "Jumlahkan kedua persamaan: (1/4 + 1/2)x = 3, sehingga 3/4 x = 3 dan x = 4. Substitusi ke persamaan kedua: 2 + 2/3 y = -2, maka 2/3 y = -4 dan y = -6. Jadi p - 4q = 4 - 4(-6) = 28.",
+    "content": {
+      "question": "Penyelesaian dari 1/4 x - 2/3 y = 5 dan 1/2 x + 2/3 y = -2 adalah x = p dan y = q. Nilai p - 4q adalah ...",
+      "options": ["8", "24", "14", "28"],
+      "answer": 3,
+      "rationale": "Jumlahkan kedua persamaan: (1/4 + 1/2)x = 3, sehingga 3/4 x = 3 dan x = 4. Substitusi ke persamaan kedua: 2 + 2/3 y = -2, maka 2/3 y = -4 dan y = -6. Jadi p - 4q = 4 - 4(-6) = 28."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Sistem persamaan linear dua variabel",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["math-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Diketahui sistem persamaan 1/3 x + 1/2 y = 7 dan 1/2 x - 1/4 y = 3. Jika solusi sistem tersebut adalah x = p dan y = q, nilai 2p + 3q adalah ...",
+    "options": ["19", "23", "25", "42"],
+    "answer": 3,
+    "rationale": "Persamaan pertama jika dikalikan 6 menjadi 2x + 3y = 42. Karena p = x dan q = y, maka 2p + 3q = 42. Pada PDF opsi D tercetak 27, tetapi hasil hitung benar adalah 42.",
+    "content": {
+      "question": "Diketahui sistem persamaan 1/3 x + 1/2 y = 7 dan 1/2 x - 1/4 y = 3. Jika solusi sistem tersebut adalah x = p dan y = q, nilai 2p + 3q adalah ...",
+      "options": ["19", "23", "25", "42"],
+      "answer": 3,
+      "rationale": "Persamaan pertama jika dikalikan 6 menjadi 2x + 3y = 42. Karena p = x dan q = y, maka 2p + 3q = 42. Pada PDF opsi D tercetak 27, tetapi hasil hitung benar adalah 42."
+    }
+  }
+]

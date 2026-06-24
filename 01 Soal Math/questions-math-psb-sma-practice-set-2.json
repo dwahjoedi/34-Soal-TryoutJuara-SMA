@@ -1,0 +1,502 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah yayasan membagikan bantuan sosial berupa 351 kg beras dan 234 liter minyak kepada beberapa kepala keluarga. Jika setiap kepala keluarga mendapat beras dan minyak dalam jumlah yang sama, maka banyak kepala keluarga yang mendapat bantuan adalah ...",
+    "options": ["113 keluarga", "117 keluarga", "119 keluarga", "115 keluarga"],
+    "answer": 1,
+    "rationale": "Jumlah kepala keluarga harus menjadi pembagi 351 dan 234. FPB dari 351 dan 234 adalah 117, sehingga bantuan dapat dibagi sama rata kepada 117 keluarga.",
+    "content": {
+      "question": "Sebuah yayasan membagikan bantuan sosial berupa 351 kg beras dan 234 liter minyak kepada beberapa kepala keluarga. Jika setiap kepala keluarga mendapat beras dan minyak dalam jumlah yang sama, maka banyak kepala keluarga yang mendapat bantuan adalah ...",
+      "options": ["113 keluarga", "117 keluarga", "119 keluarga", "115 keluarga"],
+      "answer": 1,
+      "rationale": "Jumlah kepala keluarga harus menjadi pembagi 351 dan 234. FPB dari 351 dan 234 adalah 117, sehingga bantuan dapat dibagi sama rata kepada 117 keluarga."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "FPB & KPK",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah toko memiliki 540 botol susu dan 360 botol jus. Pemilik toko ingin mengemasnya dalam paket dengan jumlah botol susu dan jus yang sama. Jika jumlah paket harus berupa bilangan prima, jumlah paket terbanyak yang mungkin disediakan toko adalah ...",
+    "options": ["2", "3", "5", "7"],
+    "answer": 2,
+    "rationale": "Jumlah paket harus membagi 540 dan 360. Faktor prima yang menjadi pembagi bersama adalah 2, 3, dan 5. Jumlah paket terbanyak yang memenuhi syarat adalah 5.",
+    "content": {
+      "question": "Sebuah toko memiliki 540 botol susu dan 360 botol jus. Pemilik toko ingin mengemasnya dalam paket dengan jumlah botol susu dan jus yang sama. Jika jumlah paket harus berupa bilangan prima, jumlah paket terbanyak yang mungkin disediakan toko adalah ...",
+      "options": ["2", "3", "5", "7"],
+      "answer": 2,
+      "rationale": "Jumlah paket harus membagi 540 dan 360. Faktor prima yang menjadi pembagi bersama adalah 2, 3, dan 5. Jumlah paket terbanyak yang memenuhi syarat adalah 5."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan gambar tabung, kerucut, dan setengah bola. Diketahui diameter setengah bola 14 cm, diameter kerucut 20 cm, tinggi kerucut 35 cm, diameter tabung 80 cm, dan tinggi tabung 210 cm. Jika tabung diisi minyak goreng, maka kapasitas maksimal tabung adalah ...",
+    "options": ["4.224 liter", "1.055 liter", "3.922 liter", "1.924 liter"],
+    "answer": 1,
+    "rationale": "Kapasitas tabung dihitung dengan V = pi r^2 t. Jari-jari tabung 40 cm dan tingginya 210 cm, sehingga V = 3,14 x 40^2 x 210 = 1.055.040 cm3 = 1.055,04 liter. Pilihan terdekat adalah 1.055 liter.",
+    "content": {
+      "question": "Perhatikan gambar tabung, kerucut, dan setengah bola. Diketahui diameter setengah bola 14 cm, diameter kerucut 20 cm, tinggi kerucut 35 cm, diameter tabung 80 cm, dan tinggi tabung 210 cm. Jika tabung diisi minyak goreng, maka kapasitas maksimal tabung adalah ...",
+      "options": ["4.224 liter", "1.055 liter", "3.922 liter", "1.924 liter"],
+      "answer": 1,
+      "rationale": "Kapasitas tabung dihitung dengan V = pi r^2 t. Jari-jari tabung 40 cm dan tingginya 210 cm, sehingga V = 3,14 x 40^2 x 210 = 1.055.040 cm3 = 1.055,04 liter. Pilihan terdekat adalah 1.055 liter."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah tabung minyak memiliki diameter 40 cm dan tinggi 100 cm. Di dalam tabung terdapat kerucut terbalik dengan diameter 40 cm dan tinggi 50 cm yang tidak diisi minyak. Kapasitas minyak dalam tabung adalah ...",
+    "options": ["125,6 liter", "104,67 liter", "85,33 liter", "75,20 liter"],
+    "answer": 1,
+    "rationale": "Volume tabung = 3,14 x 20^2 x 100 = 125.600 cm3. Volume kerucut kosong = 1/3 x 3,14 x 20^2 x 50 = 20.933,33 cm3. Kapasitas minyak = 104.666,67 cm3 = 104,67 liter.",
+    "content": {
+      "question": "Sebuah tabung minyak memiliki diameter 40 cm dan tinggi 100 cm. Di dalam tabung terdapat kerucut terbalik dengan diameter 40 cm dan tinggi 50 cm yang tidak diisi minyak. Kapasitas minyak dalam tabung adalah ...",
+      "options": ["125,6 liter", "104,67 liter", "85,33 liter", "75,20 liter"],
+      "answer": 1,
+      "rationale": "Volume tabung = 3,14 x 20^2 x 100 = 125.600 cm3. Volume kerucut kosong = 1/3 x 3,14 x 20^2 x 50 = 20.933,33 cm3. Kapasitas minyak = 104.666,67 cm3 = 104,67 liter."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Ibu membeli 7 2/3 liter susu kedelai. Sebanyak 2 1/6 liter diberikan kepada nenek dan sisanya dituang ke beberapa gelas. Jika setiap gelas berisi 1/4 liter susu, jumlah gelas yang diperlukan adalah ...",
+    "options": ["24 gelas", "23 gelas", "21 gelas", "22 gelas"],
+    "answer": 3,
+    "rationale": "Sisa susu = 7 2/3 - 2 1/6 = 23/3 - 13/6 = 33/6 = 11/2 liter. Banyak gelas = 11/2 : 1/4 = 11/2 x 4 = 22 gelas.",
+    "content": {
+      "question": "Ibu membeli 7 2/3 liter susu kedelai. Sebanyak 2 1/6 liter diberikan kepada nenek dan sisanya dituang ke beberapa gelas. Jika setiap gelas berisi 1/4 liter susu, jumlah gelas yang diperlukan adalah ...",
+      "options": ["24 gelas", "23 gelas", "21 gelas", "22 gelas"],
+      "answer": 3,
+      "rationale": "Sisa susu = 7 2/3 - 2 1/6 = 23/3 - 13/6 = 33/6 = 11/2 liter. Banyak gelas = 11/2 : 1/4 = 11/2 x 4 = 22 gelas."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Seorang petani memiliki 8 1/3 liter susu sapi. Ia mencampurkannya dengan 3 2/5 liter susu kambing. Campuran susu dituangkan ke botol berkapasitas 3/5 liter. Banyak botol yang diperlukan adalah ...",
+    "options": ["18 botol", "19 botol", "20 botol", "21 botol"],
+    "answer": 2,
+    "rationale": "Total susu = 8 1/3 + 3 2/5 = 25/3 + 17/5 = 176/15 liter. Banyak botol = 176/15 : 3/5 = 176/9 = 19,56. Karena perlu menampung seluruh susu, dibutuhkan 20 botol.",
+    "content": {
+      "question": "Seorang petani memiliki 8 1/3 liter susu sapi. Ia mencampurkannya dengan 3 2/5 liter susu kambing. Campuran susu dituangkan ke botol berkapasitas 3/5 liter. Banyak botol yang diperlukan adalah ...",
+      "options": ["18 botol", "19 botol", "20 botol", "21 botol"],
+      "answer": 2,
+      "rationale": "Total susu = 8 1/3 + 3 2/5 = 25/3 + 17/5 = 176/15 liter. Banyak botol = 176/15 : 3/5 = 176/9 = 19,56. Karena perlu menampung seluruh susu, dibutuhkan 20 botol."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Keliling & luas bangun datar",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah bangun datar tersusun dari persegi panjang di kiri berukuran 5 cm x 6 cm dan bagian kanan berbentuk trapesium dengan sisi sejajar 2 cm dan 6 cm serta jarak antarsisi sejajar 7 cm. Luas bangun datar tersebut adalah ...",
+    "options": ["30 cm2", "48 cm2", "52 cm2", "58 cm2"],
+    "answer": 3,
+    "rationale": "Luas bagian kiri = 5 x 6 = 30 cm2. Luas bagian kanan = 1/2 x (2 + 6) x 7 = 28 cm2. Total luas = 30 + 28 = 58 cm2.",
+    "content": {
+      "question": "Sebuah bangun datar tersusun dari persegi panjang di kiri berukuran 5 cm x 6 cm dan bagian kanan berbentuk trapesium dengan sisi sejajar 2 cm dan 6 cm serta jarak antarsisi sejajar 7 cm. Luas bangun datar tersebut adalah ...",
+      "options": ["30 cm2", "48 cm2", "52 cm2", "58 cm2"],
+      "answer": 3,
+      "rationale": "Luas bagian kiri = 5 x 6 = 30 cm2. Luas bagian kanan = 1/2 x (2 + 6) x 7 = 28 cm2. Total luas = 30 + 28 = 58 cm2."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Aljabar",
+    "subtopic": "Fungsi kuadrat dasar",
+    "skill_type": "modeling",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Seorang anak menyundul bola dari ketinggian 1,80 m. Bola mencapai tinggi maksimum 1,96 m pada jarak horizontal 0,4 m dari anak. Fungsi kuadrat yang memodelkan lambungan bola adalah ...",
+    "options": ["f(x) = -(x - 0,4)^2 + 1,96", "f(x) = (x - 0,4)^2 - 1,6", "f(x) = -(x + 0,4)^2 + 1,6", "f(x) = (x - 0,4)^2 + 1,6"],
+    "answer": 0,
+    "rationale": "Titik puncak parabola adalah (0,4, 1,96). Bentuknya f(x) = a(x - 0,4)^2 + 1,96. Karena f(0) = 1,80, diperoleh 1,80 = 0,16a + 1,96 sehingga a = -1. Jadi f(x) = -(x - 0,4)^2 + 1,96. Pada PDF, opsi A tampak tercetak +1,6, tetapi pembahasan mengarah ke +1,96.",
+    "content": {
+      "question": "Seorang anak menyundul bola dari ketinggian 1,80 m. Bola mencapai tinggi maksimum 1,96 m pada jarak horizontal 0,4 m dari anak. Fungsi kuadrat yang memodelkan lambungan bola adalah ...",
+      "options": ["f(x) = -(x - 0,4)^2 + 1,96", "f(x) = (x - 0,4)^2 - 1,6", "f(x) = -(x + 0,4)^2 + 1,6", "f(x) = (x - 0,4)^2 + 1,6"],
+      "answer": 0,
+      "rationale": "Titik puncak parabola adalah (0,4, 1,96). Bentuknya f(x) = a(x - 0,4)^2 + 1,96. Karena f(0) = 1,80, diperoleh 1,80 = 0,16a + 1,96 sehingga a = -1. Jadi f(x) = -(x - 0,4)^2 + 1,96. Pada PDF, opsi A tampak tercetak +1,6, tetapi pembahasan mengarah ke +1,96."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan kuadrat sederhana",
+    "skill_type": "multi_step_problem",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Karton persegi panjang dibuat menjadi kotak tanpa tutup dengan membuang persegi berukuran 4 cm x 4 cm di setiap pojoknya. Jika panjang alas kotak 6 cm lebih panjang dari lebarnya dan volume kotak 288 cm3, panjang dan lebar alas kotak berturut-turut adalah ...",
+    "options": ["21 cm dan 15 cm", "15 cm dan 9 cm", "8 cm dan 6 cm", "12 cm dan 6 cm"],
+    "answer": 3,
+    "rationale": "Tinggi kotak adalah 4 cm, sehingga luas alas = 288 : 4 = 72 cm2. Misalkan lebar alas x cm, maka panjang alas x + 6 cm. Persamaannya x(x + 6) = 72, sehingga x^2 + 6x - 72 = 0 dan x = 6. Jadi panjang dan lebar alas adalah 12 cm dan 6 cm. Opsi PDF tidak memuat pasangan ini secara tepat.",
+    "content": {
+      "question": "Karton persegi panjang dibuat menjadi kotak tanpa tutup dengan membuang persegi berukuran 4 cm x 4 cm di setiap pojoknya. Jika panjang alas kotak 6 cm lebih panjang dari lebarnya dan volume kotak 288 cm3, panjang dan lebar alas kotak berturut-turut adalah ...",
+      "options": ["21 cm dan 15 cm", "15 cm dan 9 cm", "8 cm dan 6 cm", "12 cm dan 6 cm"],
+      "answer": 3,
+      "rationale": "Tinggi kotak adalah 4 cm, sehingga luas alas = 288 : 4 = 72 cm2. Misalkan lebar alas x cm, maka panjang alas x + 6 cm. Persamaannya x(x + 6) = 72, sehingga x^2 + 6x - 72 = 0 dan x = 6. Jadi panjang dan lebar alas adalah 12 cm dan 6 cm. Opsi PDF tidak memuat pasangan ini secara tepat."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Teorema Pythagoras",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah taman berbentuk segitiga siku-siku memiliki sisi alas 36 m dan sisi miring 45 m. Panjang sisi tegak segitiga tersebut adalah ...",
+    "options": ["24 m", "33 m", "27 m", "30 m"],
+    "answer": 2,
+    "rationale": "Dengan teorema Pythagoras, x^2 = 45^2 - 36^2 = 2025 - 1296 = 729, sehingga x = 27 m. Pada PDF, opsi ini tampak tercetak -27 m, tetapi panjang sisi harus bernilai positif.",
+    "content": {
+      "question": "Sebuah taman berbentuk segitiga siku-siku memiliki sisi alas 36 m dan sisi miring 45 m. Panjang sisi tegak segitiga tersebut adalah ...",
+      "options": ["24 m", "33 m", "27 m", "30 m"],
+      "answer": 2,
+      "rationale": "Dengan teorema Pythagoras, x^2 = 45^2 - 36^2 = 2025 - 1296 = 729, sehingga x = 27 m. Pada PDF, opsi ini tampak tercetak -27 m, tetapi panjang sisi harus bernilai positif."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Lingkaran, busur & juring",
+    "skill_type": "understanding",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Tiga anak bermain sepeda. Diameter roda sepeda mereka masing-masing 42 cm, 56 cm, dan 35 cm. Perbandingan keliling roda ketiga sepeda tersebut adalah ...",
+    "options": ["4 : 3 : 5", "6 : 8 : 5", "3 : 4 : 5", "6 : 7 : 5"],
+    "answer": 1,
+    "rationale": "Keliling lingkaran sebanding dengan diameternya karena K = pi d. Jadi perbandingan keliling roda = 42 : 56 : 35 = 6 : 8 : 5.",
+    "content": {
+      "question": "Tiga anak bermain sepeda. Diameter roda sepeda mereka masing-masing 42 cm, 56 cm, dan 35 cm. Perbandingan keliling roda ketiga sepeda tersebut adalah ...",
+      "options": ["4 : 3 : 5", "6 : 8 : 5", "3 : 4 : 5", "6 : 7 : 5"],
+      "answer": 1,
+      "rationale": "Keliling lingkaran sebanding dengan diameternya karena K = pi d. Jadi perbandingan keliling roda = 42 : 56 : 35 = 6 : 8 : 5."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Untung, rugi & persentase",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Seorang pedagang membeli 45 semangka. Ia mengalami kerugian Rp13.500,00 karena hanya memperoleh hasil penjualan Rp495.000,00. Harga pembelian tiap semangka adalah ...",
+    "options": ["Rp13.200,00", "Rp12.300,00", "Rp11.300,00", "Rp10.400,00"],
+    "answer": 2,
+    "rationale": "Total harga beli = hasil penjualan + rugi = Rp495.000,00 + Rp13.500,00 = Rp508.500,00. Harga beli tiap semangka = Rp508.500,00 : 45 = Rp11.300,00.",
+    "content": {
+      "question": "Seorang pedagang membeli 45 semangka. Ia mengalami kerugian Rp13.500,00 karena hanya memperoleh hasil penjualan Rp495.000,00. Harga pembelian tiap semangka adalah ...",
+      "options": ["Rp13.200,00", "Rp12.300,00", "Rp11.300,00", "Rp10.400,00"],
+      "answer": 2,
+      "rationale": "Total harga beli = hasil penjualan + rugi = Rp495.000,00 + Rp13.500,00 = Rp508.500,00. Harga beli tiap semangka = Rp508.500,00 : 45 = Rp11.300,00."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Diskon, pajak & biaya layanan",
+    "skill_type": "data_interpretation",
+    "question_type": "multi_step",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Harga sebuah sepeda Rp200.000.000,00. Toko A memberi diskon 50%, toko B memberi diskon berturut-turut 40% dan 10%, sedangkan toko C memberi diskon berturut-turut 30% dan 20%. Pernyataan: (1) Selisih harga di toko A dan B adalah Rp6.000.000,00. (2) Selisih harga di toko B dan C adalah Rp4.000.000,00. (3) Harga di toko B lebih murah daripada di toko C. (4) Harga di toko A lebih mahal daripada di toko B. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 2,
+    "rationale": "Harga toko A = 200.000.000 x 50% = Rp100.000.000,00. Harga toko B = 200.000.000 x 60% x 90% = Rp108.000.000,00. Harga toko C = 200.000.000 x 70% x 80% = Rp112.000.000,00. Jadi selisih B dan C Rp4.000.000,00 dan B lebih murah daripada C.",
+    "content": {
+      "question": "Harga sebuah sepeda Rp200.000.000,00. Toko A memberi diskon 50%, toko B memberi diskon berturut-turut 40% dan 10%, sedangkan toko C memberi diskon berturut-turut 30% dan 20%. Pernyataan: (1) Selisih harga di toko A dan B adalah Rp6.000.000,00. (2) Selisih harga di toko B dan C adalah Rp4.000.000,00. (3) Harga di toko B lebih murah daripada di toko C. (4) Harga di toko A lebih mahal daripada di toko B. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 2,
+      "rationale": "Harga toko A = 200.000.000 x 50% = Rp100.000.000,00. Harga toko B = 200.000.000 x 60% x 90% = Rp108.000.000,00. Harga toko C = 200.000.000 x 70% x 80% = Rp112.000.000,00. Jadi selisih B dan C Rp4.000.000,00 dan B lebih murah daripada C."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Operasi aljabar",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Bentuk sederhana dari (2x - 3)(4x + 5) - 6(x - 1) adalah ...",
+    "options": ["8x^2 - 8x - 21", "8x^2 - 8x - 9", "8x^2 - 2x - 9", "8x^2 - 2x - 16"],
+    "answer": 1,
+    "rationale": "(2x - 3)(4x + 5) = 8x^2 - 2x - 15. Kemudian dikurangi 6(x - 1) menjadi 8x^2 - 2x - 15 - 6x + 6 = 8x^2 - 8x - 9.",
+    "content": {
+      "question": "Bentuk sederhana dari (2x - 3)(4x + 5) - 6(x - 1) adalah ...",
+      "options": ["8x^2 - 8x - 21", "8x^2 - 8x - 9", "8x^2 - 2x - 9", "8x^2 - 2x - 16"],
+      "answer": 1,
+      "rationale": "(2x - 3)(4x + 5) = 8x^2 - 2x - 15. Kemudian dikurangi 6(x - 1) menjadi 8x^2 - 2x - 15 - 6x + 6 = 8x^2 - 8x - 9."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Bentuk aljabar",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Pada sebuah persegi panjang besar berukuran (4x - 3) dan (x + 3), terdapat bagian tidak diarsir berbentuk persegi panjang berukuran 2 dan (3x - 1). Luas daerah yang diarsir adalah ...",
+    "options": ["4x^2 - 6x - 11", "4x^2 - 6x - 7", "4x^2 + 3x - 11", "4x^2 + 3x - 7"],
+    "answer": 3,
+    "rationale": "Luas persegi panjang besar = (4x - 3)(x + 3) = 4x^2 + 9x - 9. Luas bagian tidak diarsir = 2(3x - 1) = 6x - 2. Luas daerah diarsir = 4x^2 + 9x - 9 - (6x - 2) = 4x^2 + 3x - 7.",
+    "content": {
+      "question": "Pada sebuah persegi panjang besar berukuran (4x - 3) dan (x + 3), terdapat bagian tidak diarsir berbentuk persegi panjang berukuran 2 dan (3x - 1). Luas daerah yang diarsir adalah ...",
+      "options": ["4x^2 - 6x - 11", "4x^2 - 6x - 7", "4x^2 + 3x - 11", "4x^2 + 3x - 7"],
+      "answer": 3,
+      "rationale": "Luas persegi panjang besar = (4x - 3)(x + 3) = 4x^2 + 9x - 9. Luas bagian tidak diarsir = 2(3x - 1) = 6x - 2. Luas daerah diarsir = 4x^2 + 9x - 9 - (6x - 2) = 4x^2 + 3x - 7."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Himpunan & Diagram Venn",
+    "subtopic": "Selisih himpunan",
+    "skill_type": "reasoning",
+    "question_type": "concept_check",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Diketahui S = {bilangan asli kurang dari 16}, A = {x | x <= 11, x bilangan prima}, dan B = {faktor dari 15}. Pernyataan: (1) A - B = {2, 7, 11}; (2) A irisan B = {1, 3, 5}; (3) A gabungan B = {1, 2, 5, 7, 11, 15}; (4) komplemen dari A gabungan B adalah {4, 6, 8, 9, 10, 12, 13, 14}. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "A = {2, 3, 5, 7, 11} dan B = {1, 3, 5, 15}. Maka A - B = {2, 7, 11}, benar. A gabungan B = {1, 2, 3, 5, 7, 11, 15}, sehingga komplemennya dalam S adalah {4, 6, 8, 9, 10, 12, 13, 14}. Pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Diketahui S = {bilangan asli kurang dari 16}, A = {x | x <= 11, x bilangan prima}, dan B = {faktor dari 15}. Pernyataan: (1) A - B = {2, 7, 11}; (2) A irisan B = {1, 3, 5}; (3) A gabungan B = {1, 2, 5, 7, 11, 15}; (4) komplemen dari A gabungan B adalah {4, 6, 8, 9, 10, 12, 13, 14}. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "A = {2, 3, 5, 7, 11} dan B = {1, 3, 5, 15}. Maka A - B = {2, 7, 11}, benar. A gabungan B = {1, 2, 3, 5, 7, 11, 15}, sehingga komplemennya dalam S adalah {4, 6, 8, 9, 10, 12, 13, 14}. Pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Himpunan & Diagram Venn",
+    "subtopic": "Soal cerita himpunan",
+    "skill_type": "reasoning",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Seleksi pegawai mensyaratkan pelamar diterima jika lulus tes tertulis dan wawancara. Dari 85 pelamar, 52 lulus tes tertulis, 47 lulus wawancara, dan 10 tidak lulus keduanya. Pernyataan: (1) 24 pelamar diterima; (2) 15 pelamar hanya lulus wawancara; (3) 28 pelamar hanya lulus tes tertulis; (4) 19 pelamar tidak lulus tes tertulis. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 0,
+    "rationale": "Pelamar yang lulus minimal satu tes = 85 - 10 = 75. Yang lulus keduanya = 52 + 47 - 75 = 24, jadi diterima 24 orang. Yang hanya lulus tes tertulis = 52 - 24 = 28. Pernyataan benar adalah (1) dan (3).",
+    "content": {
+      "question": "Seleksi pegawai mensyaratkan pelamar diterima jika lulus tes tertulis dan wawancara. Dari 85 pelamar, 52 lulus tes tertulis, 47 lulus wawancara, dan 10 tidak lulus keduanya. Pernyataan: (1) 24 pelamar diterima; (2) 15 pelamar hanya lulus wawancara; (3) 28 pelamar hanya lulus tes tertulis; (4) 19 pelamar tidak lulus tes tertulis. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 0,
+      "rationale": "Pelamar yang lulus minimal satu tes = 85 - 10 = 75. Yang lulus keduanya = 52 + 47 - 75 = 24, jadi diterima 24 orang. Yang hanya lulus tes tertulis = 52 - 24 = 28. Pernyataan benar adalah (1) dan (3)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Himpunan & Diagram Venn",
+    "subtopic": "Diagram Venn tiga himpunan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Di suatu kelas terdapat 56 siswa. Sebanyak 25 siswa gemar matematika, 28 gemar fisika, 26 gemar kimia, 12 gemar matematika dan fisika, 10 gemar matematika dan kimia, 14 gemar fisika dan kimia, serta 6 siswa gemar ketiganya. Banyak siswa yang tidak gemar ketiga mata pelajaran tersebut adalah ...",
+    "options": ["7 siswa", "6 siswa", "5 siswa", "8 siswa"],
+    "answer": 0,
+    "rationale": "Dengan prinsip inklusi-eksklusi, banyak siswa yang gemar minimal satu pelajaran = 25 + 28 + 26 - 12 - 10 - 14 + 6 = 49. Jadi yang tidak gemar ketiganya = 56 - 49 = 7 siswa.",
+    "content": {
+      "question": "Di suatu kelas terdapat 56 siswa. Sebanyak 25 siswa gemar matematika, 28 gemar fisika, 26 gemar kimia, 12 gemar matematika dan fisika, 10 gemar matematika dan kimia, 14 gemar fisika dan kimia, serta 6 siswa gemar ketiganya. Banyak siswa yang tidak gemar ketiga mata pelajaran tersebut adalah ...",
+      "options": ["7 siswa", "6 siswa", "5 siswa", "8 siswa"],
+      "answer": 0,
+      "rationale": "Dengan prinsip inklusi-eksklusi, banyak siswa yang gemar minimal satu pelajaran = 25 + 28 + 26 - 12 - 10 - 14 + 6 = 49. Jadi yang tidak gemar ketiganya = 56 - 49 = 7 siswa."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Relasi & fungsi",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Diketahui f(x) = 3x + 4 dan g(x) = 5x - 3. Jika f(n) = -8, nilai g(n) adalah ...",
+    "options": ["-17", "-23", "-37", "-43"],
+    "answer": 1,
+    "rationale": "Dari f(n) = -8 diperoleh 3n + 4 = -8, sehingga n = -4. Maka g(n) = 5(-4) - 3 = -23.",
+    "content": {
+      "question": "Diketahui f(x) = 3x + 4 dan g(x) = 5x - 3. Jika f(n) = -8, nilai g(n) adalah ...",
+      "options": ["-17", "-23", "-37", "-43"],
+      "answer": 1,
+      "rationale": "Dari f(n) = -8 diperoleh 3n + 4 = -8, sehingga n = -4. Maka g(n) = 5(-4) - 3 = -23."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Dua dadu dilempar bersamaan. Peluang muncul jumlah mata dadu lebih dari 9 adalah ...",
+    "options": ["7/36", "1/12", "5/36", "1/6"],
+    "answer": 3,
+    "rationale": "Jumlah lebih dari 9 adalah 10, 11, dan 12. Banyak kejadiannya masing-masing 3, 2, dan 1, total 6 dari 36 kemungkinan. Peluangnya 6/36 = 1/6.",
+    "content": {
+      "question": "Dua dadu dilempar bersamaan. Peluang muncul jumlah mata dadu lebih dari 9 adalah ...",
+      "options": ["7/36", "1/12", "5/36", "1/6"],
+      "answer": 3,
+      "rationale": "Jumlah lebih dari 9 adalah 10, 11, dan 12. Banyak kejadiannya masing-masing 3, 2, dan 1, total 6 dari 36 kemungkinan. Peluangnya 6/36 = 1/6."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "reasoning",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Dua dadu dilempar bersamaan. Peluang jumlah mata dadu merupakan bilangan prima kurang dari 10 adalah ...",
+    "options": ["5/18", "1/3", "1/4", "13/36"],
+    "answer": 3,
+    "rationale": "Bilangan prima kurang dari 10 yang mungkin menjadi jumlah dua dadu adalah 2, 3, 5, dan 7. Banyak kejadian masing-masing 1, 2, 4, dan 6, total 13 kejadian dari 36 kemungkinan. Peluangnya 13/36. Pada PDF, opsi D tampak tercetak 7/18, tetapi hasil hitung yang sesuai adalah 13/36.",
+    "content": {
+      "question": "Dua dadu dilempar bersamaan. Peluang jumlah mata dadu merupakan bilangan prima kurang dari 10 adalah ...",
+      "options": ["5/18", "1/3", "1/4", "13/36"],
+      "answer": 3,
+      "rationale": "Bilangan prima kurang dari 10 yang mungkin menjadi jumlah dua dadu adalah 2, 3, 5, dan 7. Banyak kejadian masing-masing 1, 2, 4, dan 6, total 13 kejadian dari 36 kemungkinan. Peluangnya 13/36. Pada PDF, opsi D tampak tercetak 7/18, tetapi hasil hitung yang sesuai adalah 13/36."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Rata-rata usia 8 kakek adalah 75,5 tahun. Satu kakek paling tua, sedangkan 7 kakek lainnya berusia sama. Selisih usia kakek tertua dan salah satu kakek lainnya adalah 4 tahun. Usia kakek tertua adalah ...",
+    "options": ["75 tahun", "76 tahun", "79 tahun", "80 tahun"],
+    "answer": 2,
+    "rationale": "Total usia 8 kakek = 8 x 75,5 = 604 tahun. Misalkan usia 7 kakek lainnya x, maka usia kakek tertua x + 4. Persamaan: 7x + (x + 4) = 604, sehingga x = 75 dan usia tertua = 79 tahun. Pada PDF, jawaban tercetak A, tetapi hasil hitung menunjukkan C.",
+    "content": {
+      "question": "Rata-rata usia 8 kakek adalah 75,5 tahun. Satu kakek paling tua, sedangkan 7 kakek lainnya berusia sama. Selisih usia kakek tertua dan salah satu kakek lainnya adalah 4 tahun. Usia kakek tertua adalah ...",
+      "options": ["75 tahun", "76 tahun", "79 tahun", "80 tahun"],
+      "answer": 2,
+      "rationale": "Total usia 8 kakek = 8 x 75,5 = 604 tahun. Misalkan usia 7 kakek lainnya x, maka usia kakek tertua x + 4. Persamaan: 7x + (x + 4) = 604, sehingga x = 75 dan usia tertua = 79 tahun. Pada PDF, jawaban tercetak A, tetapi hasil hitung menunjukkan C."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Persamaan linear satu variabel",
+    "skill_type": "modeling",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Pak Dadang memiliki 4 anak yang masih sekolah. Uang saku anak pertama, kedua, dan ketiga sama besar, sedangkan anak keempat mendapat uang saku paling kecil. Selisih uang saku anak pertama dan anak keempat adalah Rp12.000,00. Jika rata-rata uang saku keempat anak adalah Rp17.000,00, besar uang saku anak keempat adalah ...",
+    "options": ["Rp20.000,00", "Rp10.000,00", "Rp8.000,00", "Rp6.000,00"],
+    "answer": 2,
+    "rationale": "Misalkan uang saku tiga anak pertama x, maka uang saku anak keempat x - 12.000. Rata-rata 17.000 berarti total uang saku 68.000. Jadi 3x + (x - 12.000) = 68.000, sehingga x = 20.000 dan uang saku anak keempat = 8.000.",
+    "content": {
+      "question": "Pak Dadang memiliki 4 anak yang masih sekolah. Uang saku anak pertama, kedua, dan ketiga sama besar, sedangkan anak keempat mendapat uang saku paling kecil. Selisih uang saku anak pertama dan anak keempat adalah Rp12.000,00. Jika rata-rata uang saku keempat anak adalah Rp17.000,00, besar uang saku anak keempat adalah ...",
+      "options": ["Rp20.000,00", "Rp10.000,00", "Rp8.000,00", "Rp6.000,00"],
+      "answer": 2,
+      "rationale": "Misalkan uang saku tiga anak pertama x, maka uang saku anak keempat x - 12.000. Rata-rata 17.000 berarti total uang saku 68.000. Jadi 3x + (x - 12.000) = 68.000, sehingga x = 20.000 dan uang saku anak keempat = 8.000."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Diagram batang",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Diagram nilai ulangan matematika kelas 9A memiliki rata-rata 77. Frekuensi nilai 60 adalah 7, nilai 70 adalah 8, nilai 80 adalah 6, nilai 90 adalah 5, dan nilai 100 adalah 4. Pernyataan: (1) Banyak siswa yang mendapat nilai 90 adalah 8 orang. (2) Median data adalah 75. (3) Jika KKM 70, terdapat 15 siswa yang tidak tuntas. (4) Banyak siswa yang nilainya di atas rata-rata sama dengan banyak siswa yang nilainya di bawah rata-rata. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 3,
+    "rationale": "Jumlah siswa = 7 + 8 + 6 + 5 + 4 = 30. Data ke-15 adalah 70 dan data ke-16 adalah 80, sehingga median = (70 + 80) : 2 = 75. Siswa di atas rata-rata 77 adalah yang bernilai 80, 90, dan 100, jumlahnya 6 + 5 + 4 = 15. Siswa di bawah rata-rata adalah yang bernilai 60 dan 70, jumlahnya 7 + 8 = 15. Pernyataan benar adalah (2) dan (4).",
+    "content": {
+      "question": "Diagram nilai ulangan matematika kelas 9A memiliki rata-rata 77. Frekuensi nilai 60 adalah 7, nilai 70 adalah 8, nilai 80 adalah 6, nilai 90 adalah 5, dan nilai 100 adalah 4. Pernyataan: (1) Banyak siswa yang mendapat nilai 90 adalah 8 orang. (2) Median data adalah 75. (3) Jika KKM 70, terdapat 15 siswa yang tidak tuntas. (4) Banyak siswa yang nilainya di atas rata-rata sama dengan banyak siswa yang nilainya di bawah rata-rata. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 3,
+      "rationale": "Jumlah siswa = 7 + 8 + 6 + 5 + 4 = 30. Data ke-15 adalah 70 dan data ke-16 adalah 80, sehingga median = (70 + 80) : 2 = 75. Siswa di atas rata-rata 77 adalah yang bernilai 80, 90, dan 100, jumlahnya 6 + 5 + 4 = 15. Siswa di bawah rata-rata adalah yang bernilai 60 dan 70, jumlahnya 7 + 8 = 15. Pernyataan benar adalah (2) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah tabung berdiameter 40 cm berisi air setinggi 60 cm. Di dalam tabung terdapat 3 bola besi, masing-masing berdiameter 20 cm. Jika ketiga bola besi dikeluarkan, tinggi air dalam tabung menjadi ...",
+    "options": ["50 cm", "40 cm", "30 cm", "20 cm"],
+    "answer": 0,
+    "rationale": "Luas alas tabung = pi x 20^2 = 400pi cm2. Volume 3 bola = 3 x 4/3 x pi x 10^3 = 4000pi cm3. Kenaikan air akibat bola = 4000pi : 400pi = 10 cm. Setelah bola dikeluarkan, tinggi air = 60 - 10 = 50 cm.",
+    "content": {
+      "question": "Sebuah tabung berdiameter 40 cm berisi air setinggi 60 cm. Di dalam tabung terdapat 3 bola besi, masing-masing berdiameter 20 cm. Jika ketiga bola besi dikeluarkan, tinggi air dalam tabung menjadi ...",
+      "options": ["50 cm", "40 cm", "30 cm", "20 cm"],
+      "answer": 0,
+      "rationale": "Luas alas tabung = pi x 20^2 = 400pi cm2. Volume 3 bola = 3 x 4/3 x pi x 10^3 = 4000pi cm3. Kenaikan air akibat bola = 4000pi : 400pi = 10 cm. Setelah bola dikeluarkan, tinggi air = 60 - 10 = 50 cm."
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Pecahan",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Hasil dari (5/6 + 1/3) / (5/6 - 1/3) adalah ...",
+    "options": ["1 2/3", "1 3/4", "2 1/3", "2 5/9"],
+    "answer": 2,
+    "rationale": "Pembilang = 5/6 + 1/3 = 7/6. Penyebut = 5/6 - 1/3 = 3/6 = 1/2. Maka nilainya 7/6 : 1/2 = 7/3 = 2 1/3. Kunci cetak PDF tampak memilih B, tetapi hasil hitung yang benar adalah C.",
+    "content": {
+      "question": "Hasil dari (5/6 + 1/3) / (5/6 - 1/3) adalah ...",
+      "options": ["1 2/3", "1 3/4", "2 1/3", "2 5/9"],
+      "answer": 2,
+      "rationale": "Pembilang = 5/6 + 1/3 = 7/6. Penyebut = 5/6 - 1/3 = 3/6 = 1/2. Maka nilainya 7/6 : 1/2 = 7/3 = 2 1/3. Kunci cetak PDF tampak memilih B, tetapi hasil hitung yang benar adalah C."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Bilangan & Operasi",
+    "subtopic": "Bilangan berpangkat sederhana",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Bentuk sederhana dari ((a^(2/3))/(b^(1/3)))^3 (a^(-2)b)^2 : akar pangkat empat dari (a^4/b^8) adalah ...",
+    "options": ["a/b", "(b/a)^3", "b/a", "1"],
+    "answer": 1,
+    "rationale": "Bagian pertama bernilai a^2/b. Bagian kedua bernilai a^(-4)b^2, sehingga hasil kalinya a^(-2)b. Akar pangkat empat dari a^4/b^8 adalah a/b^2. Maka hasil akhir = a^(-2)b : (a/b^2) = b^3/a^3 = (b/a)^3.",
+    "content": {
+      "question": "Bentuk sederhana dari ((a^(2/3))/(b^(1/3)))^3 (a^(-2)b)^2 : akar pangkat empat dari (a^4/b^8) adalah ...",
+      "options": ["a/b", "(b/a)^3", "b/a", "1"],
+      "answer": 1,
+      "rationale": "Bagian pertama bernilai a^2/b. Bagian kedua bernilai a^(-4)b^2, sehingga hasil kalinya a^(-2)b. Akar pangkat empat dari a^4/b^8 adalah a/b^2. Maka hasil akhir = a^(-2)b : (a/b^2) = b^3/a^3 = (b/a)^3."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Pemodelan Matematika",
+    "subtopic": "Problem campuran multi-konsep",
+    "skill_type": "modeling",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Pada dasar sebuah tong terdapat 3 keran. Dari keadaan penuh, jika keran pertama dan kedua dibuka, tong kosong dalam 70 menit. Jika keran pertama dan ketiga dibuka, tong kosong dalam 84 menit. Jika keran kedua dan ketiga dibuka, tong kosong dalam 140 menit. Jika ketiga keran dibuka bersama-sama, tong kosong dalam waktu ...",
+    "options": ["55 menit", "45 menit", "50 menit", "60 menit"],
+    "answer": 3,
+    "rationale": "Misalkan laju keran pertama, kedua, dan ketiga adalah a, b, dan c. Diketahui a+b=1/70, a+c=1/84, dan b+c=1/140. Jumlahkan ketiganya: 2(a+b+c)=1/70+1/84+1/140=1/30. Jadi a+b+c=1/60, sehingga tong kosong dalam 60 menit.",
+    "content": {
+      "question": "Pada dasar sebuah tong terdapat 3 keran. Dari keadaan penuh, jika keran pertama dan kedua dibuka, tong kosong dalam 70 menit. Jika keran pertama dan ketiga dibuka, tong kosong dalam 84 menit. Jika keran kedua dan ketiga dibuka, tong kosong dalam 140 menit. Jika ketiga keran dibuka bersama-sama, tong kosong dalam waktu ...",
+      "options": ["55 menit", "45 menit", "50 menit", "60 menit"],
+      "answer": 3,
+      "rationale": "Misalkan laju keran pertama, kedua, dan ketiga adalah a, b, dan c. Diketahui a+b=1/70, a+c=1/84, dan b+c=1/140. Jumlahkan ketiganya: 2(a+b+c)=1/70+1/84+1/140=1/30. Jadi a+b+c=1/60, sehingga tong kosong dalam 60 menit."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Koordinat & jarak pada bidang",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Diketahui persegi ABCD dengan panjang sisi AB = 20 cm. Titik E terletak pada AD dengan DE = 5 cm dan titik F terletak pada DC dengan CF = 5 cm. Garis AF dan EB berpotongan tegak lurus di G. Panjang GF adalah ...",
+    "options": ["9 cm", "10 cm", "12 cm", "13 cm"],
+    "answer": 3,
+    "rationale": "Ambil koordinat A(0,0), B(20,0), C(20,20), D(0,20), E(0,15), dan F(15,20). Garis AF memiliki panjang sqrt(15^2 + 20^2) = 25. Titik potong G membagi AF dengan parameter t = 0,48 dari A, sehingga GF = (1 - 0,48) x 25 = 13 cm.",
+    "content": {
+      "question": "Diketahui persegi ABCD dengan panjang sisi AB = 20 cm. Titik E terletak pada AD dengan DE = 5 cm dan titik F terletak pada DC dengan CF = 5 cm. Garis AF dan EB berpotongan tegak lurus di G. Panjang GF adalah ...",
+      "options": ["9 cm", "10 cm", "12 cm", "13 cm"],
+      "answer": 3,
+      "rationale": "Ambil koordinat A(0,0), B(20,0), C(20,20), D(0,20), E(0,15), dan F(15,20). Garis AF memiliki panjang sqrt(15^2 + 20^2) = 25. Titik potong G membagi AF dengan parameter t = 0,48 dari A, sehingga GF = (1 - 0,48) x 25 = 13 cm."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Aljabar",
+    "subtopic": "Sistem persamaan linear dua variabel",
+    "skill_type": "data_interpretation",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Bu Ana dan Pak Budi membeli buku tulis dan pensil di dua toko. Di toko A, Bu Ana membeli 18 buku tulis dan 15 pensil seharga Rp120.000,00, sedangkan Pak Budi membeli 12 buku tulis dan 20 pensil seharga Rp100.000,00. Di toko B, Bu Ana membeli 10 buku tulis dan 7 pensil seharga Rp61.000,00, sedangkan Pak Budi membeli 9 buku tulis dan 8 pensil seharga Rp60.000,00. Pernyataan yang benar adalah ...",
+    "options": ["Harga sebuah buku di toko A lebih murah daripada harga sebuah buku di toko B", "Harga sebuah buku di toko B lebih mahal daripada harga sebuah buku di toko A", "Harga sebuah pensil di toko B lebih murah daripada harga sebuah pensil di toko A", "Tidak ada pernyataan A, B, dan C yang benar"],
+    "answer": 3,
+    "rationale": "Di toko A, harga buku Rp5.000,00 dan pensil Rp2.000,00. Di toko B, harga buku Rp4.000,00 dan pensil Rp3.000,00. Maka buku toko A lebih mahal daripada toko B, dan pensil toko B lebih mahal daripada toko A. Tiga pernyataan pertama salah. Pada PDF, opsi D tampak tercetak sebagai pernyataan yang juga salah, sehingga opsi D ditulis sebagai koreksi.",
+    "content": {
+      "question": "Bu Ana dan Pak Budi membeli buku tulis dan pensil di dua toko. Di toko A, Bu Ana membeli 18 buku tulis dan 15 pensil seharga Rp120.000,00, sedangkan Pak Budi membeli 12 buku tulis dan 20 pensil seharga Rp100.000,00. Di toko B, Bu Ana membeli 10 buku tulis dan 7 pensil seharga Rp61.000,00, sedangkan Pak Budi membeli 9 buku tulis dan 8 pensil seharga Rp60.000,00. Pernyataan yang benar adalah ...",
+      "options": ["Harga sebuah buku di toko A lebih murah daripada harga sebuah buku di toko B", "Harga sebuah buku di toko B lebih mahal daripada harga sebuah buku di toko A", "Harga sebuah pensil di toko B lebih murah daripada harga sebuah pensil di toko A", "Tidak ada pernyataan A, B, dan C yang benar"],
+      "answer": 3,
+      "rationale": "Di toko A, harga buku Rp5.000,00 dan pensil Rp2.000,00. Di toko B, harga buku Rp4.000,00 dan pensil Rp3.000,00. Maka buku toko A lebih mahal daripada toko B, dan pensil toko B lebih mahal daripada toko A. Tiga pernyataan pertama salah. Pada PDF, opsi D tampak tercetak sebagai pernyataan yang juga salah, sehingga opsi D ditulis sebagai koreksi."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Kesebangunan",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Pada trapesium ABCD, AB sejajar EF sejajar DC. Panjang AB = 15 cm dan DC = 5 cm. Sisi AD dibagi oleh titik E dengan DE = 2 cm dan EA = 3 cm. Panjang EF adalah ...",
+    "options": ["15 cm", "10 cm", "9 cm", "8 cm"],
+    "answer": 2,
+    "rationale": "Panjang garis sejajar berubah linear dari DC ke AB. Titik E berada 2/5 jarak dari atas karena DE/(DA)=2/(2+3)=2/5. Maka EF = 5 + (15 - 5) x 2/5 = 9 cm.",
+    "content": {
+      "question": "Pada trapesium ABCD, AB sejajar EF sejajar DC. Panjang AB = 15 cm dan DC = 5 cm. Sisi AD dibagi oleh titik E dengan DE = 2 cm dan EA = 3 cm. Panjang EF adalah ...",
+      "options": ["15 cm", "10 cm", "9 cm", "8 cm"],
+      "answer": 2,
+      "rationale": "Panjang garis sejajar berubah linear dari DC ke AB. Titik E berada 2/5 jarak dari atas karena DE/(DA)=2/(2+3)=2/5. Maka EF = 5 + (15 - 5) x 2/5 = 9 cm."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Sebuah balok diisi dengan kubus satuan seperti pada gambar. Agar balok terisi penuh, banyak kubus satuan yang diperlukan adalah ...",
+    "options": ["38 buah", "67 buah", "72 buah", "85 buah"],
+    "answer": 2,
+    "rationale": "Dari ukuran pada gambar, balok tersusun atas 72 kubus satuan untuk memenuhi seluruh ruangnya. Jadi banyak kubus satuan yang diperlukan adalah 72 buah.",
+    "content": {
+      "question": "Sebuah balok diisi dengan kubus satuan seperti pada gambar. Agar balok terisi penuh, banyak kubus satuan yang diperlukan adalah ...",
+      "options": ["38 buah", "67 buah", "72 buah", "85 buah"],
+      "answer": 2,
+      "rationale": "Dari ukuran pada gambar, balok tersusun atas 72 kubus satuan untuk memenuhi seluruh ruangnya. Jadi banyak kubus satuan yang diperlukan adalah 72 buah."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Koordinat, Gradien & Persamaan Garis",
+    "subtopic": "Gradien garis",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Pada gambar terdapat garis p melalui titik (-3,4) dan (3,1), garis r melalui titik (-2,1) serta tegak lurus garis p, dan garis q sejajar garis p melalui titik (-2,0). Pernyataan: (1) gradien garis q = -2; (2) gradien garis r = 2; (3) persamaan garis p adalah 3x + 6y + 15 = 0; (4) titik potong garis r dengan sumbu Y adalah (0,5). Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 3,
+    "rationale": "Gradien p = (1 - 4)/(3 - (-3)) = -1/2, sehingga gradien q juga -1/2, bukan -2. Garis r tegak lurus p, maka gradien r = 2. Karena r melalui (-2,1), persamaannya y = 2x + 5 sehingga memotong sumbu Y di (0,5). Pernyataan benar adalah (2) dan (4).",
+    "content": {
+      "question": "Pada gambar terdapat garis p melalui titik (-3,4) dan (3,1), garis r melalui titik (-2,1) serta tegak lurus garis p, dan garis q sejajar garis p melalui titik (-2,0). Pernyataan: (1) gradien garis q = -2; (2) gradien garis r = 2; (3) persamaan garis p adalah 3x + 6y + 15 = 0; (4) titik potong garis r dengan sumbu Y adalah (0,5). Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 3,
+      "rationale": "Gradien p = (1 - 4)/(3 - (-3)) = -1/2, sehingga gradien q juga -1/2, bukan -2. Garis r tegak lurus p, maka gradien r = 2. Karena r melalui (-2,1), persamaannya y = 2x + 5 sehingga memotong sumbu Y di (0,5). Pernyataan benar adalah (2) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Himpunan & Diagram Venn",
+    "subtopic": "Soal cerita himpunan",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Sebuah perusahaan menerima pelamar yang lulus tes tertulis dan tes wawancara. Dari 85 pelamar, 52 lulus tes tertulis, 47 lulus tes wawancara, dan 10 tidak lulus kedua tes. Pernyataan: (1) 24 pelamar diterima; (2) 15 pelamar hanya lulus tes wawancara; (3) 28 pelamar hanya lulus tes tertulis; (4) 19 pelamar tidak lulus tes tertulis. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 0,
+    "rationale": "Pelamar yang lulus minimal satu tes = 85 - 10 = 75. Yang lulus keduanya = 52 + 47 - 75 = 24, sehingga diterima 24 orang. Yang hanya lulus tes tertulis = 52 - 24 = 28. Jadi pernyataan benar adalah (1) dan (3).",
+    "content": {
+      "question": "Sebuah perusahaan menerima pelamar yang lulus tes tertulis dan tes wawancara. Dari 85 pelamar, 52 lulus tes tertulis, 47 lulus tes wawancara, dan 10 tidak lulus kedua tes. Pernyataan: (1) 24 pelamar diterima; (2) 15 pelamar hanya lulus tes wawancara; (3) 28 pelamar hanya lulus tes tertulis; (4) 19 pelamar tidak lulus tes tertulis. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 0,
+      "rationale": "Pelamar yang lulus minimal satu tes = 85 - 10 = 75. Yang lulus keduanya = 52 + 47 - 75 = 24, sehingga diterima 24 orang. Yang hanya lulus tes tertulis = 52 - 24 = 28. Jadi pernyataan benar adalah (1) dan (3)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Sistem persamaan linear dua variabel",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Di Toko Laris, harga sebuah buku tulis Rp2.000,00 lebih mahal daripada sebuah bolpoin. Bayu membeli 3 buku dan 2 bolpoin seharga Rp21.000,00, sedangkan Nanik membeli 2 buku dan 3 bolpoin. Pernyataan: (1) salah satu model persamaannya adalah y - x = 2.000; (2) harga alat tulis yang dibeli Nanik adalah Rp19.000,00; (3) harga 3 buku adalah Rp15.000,00; (4) harga satu bolpoin adalah Rp5.000,00. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 2,
+    "rationale": "Misalkan harga buku x dan bolpoin y. Karena buku Rp2.000,00 lebih mahal, x - y = 2.000. Dari 3x + 2y = 21.000 diperoleh y = 3.000 dan x = 5.000. Harga belanja Nanik = 2x + 3y = 10.000 + 9.000 = 19.000. Harga 3 buku = 15.000. Jadi pernyataan benar adalah (2) dan (3).",
+    "content": {
+      "question": "Di Toko Laris, harga sebuah buku tulis Rp2.000,00 lebih mahal daripada sebuah bolpoin. Bayu membeli 3 buku dan 2 bolpoin seharga Rp21.000,00, sedangkan Nanik membeli 2 buku dan 3 bolpoin. Pernyataan: (1) salah satu model persamaannya adalah y - x = 2.000; (2) harga alat tulis yang dibeli Nanik adalah Rp19.000,00; (3) harga 3 buku adalah Rp15.000,00; (4) harga satu bolpoin adalah Rp5.000,00. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 2,
+      "rationale": "Misalkan harga buku x dan bolpoin y. Karena buku Rp2.000,00 lebih mahal, x - y = 2.000. Dari 3x + 2y = 21.000 diperoleh y = 3.000 dan x = 5.000. Harga belanja Nanik = 2x + 3y = 10.000 + 9.000 = 19.000. Harga 3 buku = 15.000. Jadi pernyataan benar adalah (2) dan (3)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "hard",
+    "topic": "Geometri",
+    "subtopic": "Keliling & luas bangun datar",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Diketahui bangun gabungan terdiri atas belah ketupat ABCG dan bangun CDEFG seperti pada gambar. Diagonal belah ketupat ABCG adalah AC = 16 cm dan BG = 12 cm. Keliling bangun ABCDEFG adalah ...",
+    "options": ["56 cm", "66 cm", "76 cm", "80 cm"],
+    "answer": 0,
+    "rationale": "Pada belah ketupat, diagonal saling tegak lurus dan membagi dua sama panjang. Sisi belah ketupat = sqrt(8^2 + 6^2) = 10 cm. Dengan menggunakan sisi-sisi yang ditandai sama pada gambar, keliling luar bangun ABCDEFG adalah 56 cm.",
+    "content": {
+      "question": "Diketahui bangun gabungan terdiri atas belah ketupat ABCG dan bangun CDEFG seperti pada gambar. Diagonal belah ketupat ABCG adalah AC = 16 cm dan BG = 12 cm. Keliling bangun ABCDEFG adalah ...",
+      "options": ["56 cm", "66 cm", "76 cm", "80 cm"],
+      "answer": 0,
+      "rationale": "Pada belah ketupat, diagonal saling tegak lurus dan membagi dua sama panjang. Sisi belah ketupat = sqrt(8^2 + 6^2) = 10 cm. Dengan menggunakan sisi-sisi yang ditandai sama pada gambar, keliling luar bangun ABCDEFG adalah 56 cm."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Geometri",
+    "subtopic": "Volume & luas permukaan",
+    "skill_type": "multi_step_problem",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Bangun gabungan terdiri atas kubus dengan rusuk 12 cm dan limas segiempat di atasnya. Tinggi total bangun 20 cm. Pernyataan: (1) panjang TU adalah 10 cm; (2) tinggi limas 12 cm; (3) luas permukaan bangun adalah 970 cm2; (4) volume bangun adalah 2.112 cm3. Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 1,
+    "rationale": "Tinggi limas = 20 - 12 = 8 cm. Garis pelukis TU = sqrt(8^2 + 6^2) = 10 cm, jadi (1) benar dan (2) salah. Volume kubus = 12^3 = 1.728 cm3, volume limas = 1/3 x 12^2 x 8 = 384 cm3, total 2.112 cm3. Jadi pernyataan benar adalah (1) dan (4).",
+    "content": {
+      "question": "Bangun gabungan terdiri atas kubus dengan rusuk 12 cm dan limas segiempat di atasnya. Tinggi total bangun 20 cm. Pernyataan: (1) panjang TU adalah 10 cm; (2) tinggi limas 12 cm; (3) luas permukaan bangun adalah 970 cm2; (4) volume bangun adalah 2.112 cm3. Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 1,
+      "rationale": "Tinggi limas = 20 - 12 = 8 cm. Garis pelukis TU = sqrt(8^2 + 6^2) = 10 cm, jadi (1) benar dan (2) salah. Volume kubus = 12^3 = 1.728 cm3, volume limas = 1/3 x 12^2 x 8 = 384 cm3, total 2.112 cm3. Jadi pernyataan benar adalah (1) dan (4)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Mean, median, modus",
+    "skill_type": "application",
+    "question_type": "story_problem",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Rata-rata umur 8 orang kakek adalah 75,5 tahun. Terdapat seorang kakek tertua dan 7 kakek lainnya memiliki umur sama. Jika selisih umur kakek tertua dengan salah satu kakek lainnya adalah 4 tahun, umur kakek tertua adalah ...",
+    "options": ["75 tahun", "76 tahun", "79 tahun", "80 tahun"],
+    "answer": 2,
+    "rationale": "Total umur = 8 x 75,5 = 604 tahun. Misalkan umur 7 kakek lainnya x, maka umur tertua x + 4. Persamaan 7x + (x + 4) = 604 menghasilkan x = 75, sehingga umur tertua = 79 tahun.",
+    "content": {
+      "question": "Rata-rata umur 8 orang kakek adalah 75,5 tahun. Terdapat seorang kakek tertua dan 7 kakek lainnya memiliki umur sama. Jika selisih umur kakek tertua dengan salah satu kakek lainnya adalah 4 tahun, umur kakek tertua adalah ...",
+      "options": ["75 tahun", "76 tahun", "79 tahun", "80 tahun"],
+      "answer": 2,
+      "rationale": "Total umur = 8 x 75,5 = 604 tahun. Misalkan umur 7 kakek lainnya x, maka umur tertua x + 4. Persamaan 7x + (x + 4) = 604 menghasilkan x = 75, sehingga umur tertua = 79 tahun."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Fungsi kuadrat dasar",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Grafik fungsi y = -x^2 - 4x + 12 memiliki sumbu simetri x = r, titik potong sumbu X di p dan q, serta titik potong sumbu Y di s. Pernyataan: (1) r = -1; (2) p - q = -8; (3) s = 12; (4) titik puncak A(-1,17). Pernyataan yang benar adalah ...",
+    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "answer": 2,
+    "rationale": "Fungsi dapat ditulis y = -(x + 2)^2 + 16, sehingga sumbu simetri x = -2 dan titik puncak (-2,16). Titik potong sumbu X diperoleh dari -x^2 - 4x + 12 = 0, yaitu x = -6 dan x = 2, sehingga p - q = -6 - 2 = -8. Titik potong sumbu Y adalah 12. Jadi pernyataan benar adalah (2) dan (3).",
+    "content": {
+      "question": "Grafik fungsi y = -x^2 - 4x + 12 memiliki sumbu simetri x = r, titik potong sumbu X di p dan q, serta titik potong sumbu Y di s. Pernyataan: (1) r = -1; (2) p - q = -8; (3) s = 12; (4) titik puncak A(-1,17). Pernyataan yang benar adalah ...",
+      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "answer": 2,
+      "rationale": "Fungsi dapat ditulis y = -(x + 2)^2 + 16, sehingga sumbu simetri x = -2 dan titik puncak (-2,16). Titik potong sumbu X diperoleh dari -x^2 - 4x + 12 = 0, yaitu x = -6 dan x = 2, sehingga p - q = -6 - 2 = -8. Titik potong sumbu Y adalah 12. Jadi pernyataan benar adalah (2) dan (3)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Relasi & fungsi",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Fungsi h dirumuskan dengan h(x) = mx + n. Jika h(2) = 1 dan h(4) = 5, nilai h(3) adalah ...",
+    "options": ["3", "-3", "1/3", "-1/3"],
+    "answer": 0,
+    "rationale": "Karena h linear, h(3) berada tepat di tengah nilai h(2) dan h(4). Jadi h(3) = (1 + 5)/2 = 3. Dapat juga dihitung m = 2 dan n = -3, sehingga h(3) = 3.",
+    "content": {
+      "question": "Fungsi h dirumuskan dengan h(x) = mx + n. Jika h(2) = 1 dan h(4) = 5, nilai h(3) adalah ...",
+      "options": ["3", "-3", "1/3", "-1/3"],
+      "answer": 0,
+      "rationale": "Karena h linear, h(3) berada tepat di tengah nilai h(2) dan h(4). Jadi h(3) = (1 + 5)/2 = 3. Dapat juga dihitung m = 2 dan n = -3, sehingga h(3) = 3."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "medium",
+    "topic": "Aljabar",
+    "subtopic": "Operasi aljabar",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Bentuk sederhana dari (6x^2 + 23x + 15) / (6x^2 + 17x - 3) adalah ...",
+    "options": ["(6x + 5)/(6x - 1)", "(x + 3)/(6x + 1)", "(x + 3)/(6x - 1)", "(6x - 5)/(x - 3)"],
+    "answer": 0,
+    "rationale": "Pembilang 6x^2 + 23x + 15 = (6x + 5)(x + 3), sedangkan penyebut 6x^2 + 17x - 3 = (6x - 1)(x + 3). Faktor x + 3 dapat dicoret, sehingga hasilnya (6x + 5)/(6x - 1).",
+    "content": {
+      "question": "Bentuk sederhana dari (6x^2 + 23x + 15) / (6x^2 + 17x - 3) adalah ...",
+      "options": ["(6x + 5)/(6x - 1)", "(x + 3)/(6x + 1)", "(x + 3)/(6x - 1)", "(6x - 5)/(x - 3)"],
+      "answer": 0,
+      "rationale": "Pembilang 6x^2 + 23x + 15 = (6x + 5)(x + 3), sedangkan penyebut 6x^2 + 17x - 3 = (6x - 1)(x + 3). Faktor x + 3 dapat dicoret, sehingga hasilnya (6x + 5)/(6x - 1)."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Barisan aritmatika & geometri",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Dari suatu barisan aritmetika diketahui suku ke-8 = 55 dan suku ke-22 = 139. Suku ke-60 barisan tersebut adalah ...",
+    "options": ["362", "366", "367", "368"],
+    "answer": 2,
+    "rationale": "Selisih indeks 22 - 8 = 14 dan selisih suku 139 - 55 = 84, sehingga beda barisan d = 84/14 = 6. Suku pertama a = 55 - 7(6) = 13. Suku ke-60 = 13 + 59(6) = 367.",
+    "content": {
+      "question": "Dari suatu barisan aritmetika diketahui suku ke-8 = 55 dan suku ke-22 = 139. Suku ke-60 barisan tersebut adalah ...",
+      "options": ["362", "366", "367", "368"],
+      "answer": 2,
+      "rationale": "Selisih indeks 22 - 8 = 14 dan selisih suku 139 - 55 = 84, sehingga beda barisan d = 84/14 = 6. Suku pertama a = 55 - 7(6) = 13. Suku ke-60 = 13 + 59(6) = 367."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Statistik & Peluang",
+    "subtopic": "Peluang sederhana",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Empat pemain sepak bola melakukan latihan tendangan penalti. Data latihan: Arif 12 tendangan dengan 10 sukses, Bambang 10 tendangan dengan 8 sukses, Candra 20 tendangan dengan 15 sukses, dan Dedi 15 tendangan dengan 12 sukses. Pemain yang mempunyai peluang terbesar untuk sukses dalam tendangan penalti adalah ...",
+    "options": ["Arif", "Bambang", "Candra", "Dedi"],
+    "answer": 0,
+    "rationale": "Peluang sukses Arif = 10/12 = 0,833; Bambang = 8/10 = 0,8; Candra = 15/20 = 0,75; dan Dedi = 12/15 = 0,8. Peluang terbesar dimiliki Arif.",
+    "content": {
+      "question": "Empat pemain sepak bola melakukan latihan tendangan penalti. Data latihan: Arif 12 tendangan dengan 10 sukses, Bambang 10 tendangan dengan 8 sukses, Candra 20 tendangan dengan 15 sukses, dan Dedi 15 tendangan dengan 12 sukses. Pemain yang mempunyai peluang terbesar untuk sukses dalam tendangan penalti adalah ...",
+      "options": ["Arif", "Bambang", "Candra", "Dedi"],
+      "answer": 0,
+      "rationale": "Peluang sukses Arif = 10/12 = 0,833; Bambang = 8/10 = 0,8; Candra = 15/20 = 0,75; dan Dedi = 12/15 = 0,8. Peluang terbesar dimiliki Arif."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Geometri",
+    "subtopic": "Transformasi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Persegi panjang PQRS diputar 180 derajat dengan pusat rotasi titik T, yaitu titik potong diagonal-diagonal persegi panjang. Pernyataan yang benar adalah ...",
+    "options": ["Titik S akan menempati titik R", "Titik R akan menempati titik S", "Titik Q akan menempati titik P", "Titik P akan menempati titik R"],
+    "answer": 3,
+    "rationale": "Rotasi 180 derajat terhadap pusat persegi panjang menukar setiap titik dengan titik sudut yang berhadapan. Jadi P berpindah ke R, Q ke S, R ke P, dan S ke Q. Pernyataan yang benar adalah titik P akan menempati titik R.",
+    "content": {
+      "question": "Persegi panjang PQRS diputar 180 derajat dengan pusat rotasi titik T, yaitu titik potong diagonal-diagonal persegi panjang. Pernyataan yang benar adalah ...",
+      "options": ["Titik S akan menempati titik R", "Titik R akan menempati titik S", "Titik Q akan menempati titik P", "Titik P akan menempati titik R"],
+      "answer": 3,
+      "rationale": "Rotasi 180 derajat terhadap pusat persegi panjang menukar setiap titik dengan titik sudut yang berhadapan. Jadi P berpindah ke R, Q ke S, R ke P, dan S ke Q. Pernyataan yang benar adalah titik P akan menempati titik R."
+    }
+  },
+  {
+    "subject": "matematika",
+    "difficulty": "easy",
+    "topic": "Aljabar",
+    "subtopic": "Pertidaksamaan linear satu variabel",
+    "skill_type": "application",
+    "question_type": "direct",
+    "tags": ["math-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Penyelesaian dari pertidaksamaan (3x + 1)/2 >= (2x - 6)/3 adalah ...",
+    "options": ["x >= -5", "x >= -3", "x >= 5", "x >= 3"],
+    "answer": 1,
+    "rationale": "Kalikan kedua ruas dengan 6: 3(3x + 1) >= 2(2x - 6), sehingga 9x + 3 >= 4x - 12. Maka 5x >= -15 dan x >= -3.",
+    "content": {
+      "question": "Penyelesaian dari pertidaksamaan (3x + 1)/2 >= (2x - 6)/3 adalah ...",
+      "options": ["x >= -5", "x >= -3", "x >= 5", "x >= 3"],
+      "answer": 1,
+      "rationale": "Kalikan kedua ruas dengan 6: 3(3x + 1) >= 2(2x - 6), sehingga 9x + 3 >= 4x - 12. Maka 5x >= -15 dan x >= -3."
+    }
+  }
+]
