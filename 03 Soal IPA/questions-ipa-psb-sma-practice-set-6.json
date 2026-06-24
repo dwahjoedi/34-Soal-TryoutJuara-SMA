@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Kalau kita amati peristiwa kilat dan petir yang terjadi pada waktu hujan, bunyi petir akan terdengar setelah cahaya kilat. Hal yang menjadi penyebab peristiwa tersebut adalah ...",
+    "options": [
+      "cahaya kilat dan bunyi petir kejadiannya tidak bersamaan",
+      "cahaya merupakan gelombang transversal sedang bunyi gelombang longitudinal",
+      "gelombang cahaya terlihat sedangkan gelombang bunyi tidak",
+      "cepat rambat cahaya jauh lebih cepat daripada cepat rambat bunyi"
+    ],
+    "answer": 3,
+    "rationale": "Kilat dan petir terjadi hampir bersamaan, tetapi cahaya merambat jauh lebih cepat daripada bunyi. Karena itu cahaya kilat terlihat lebih dahulu, lalu bunyi petir terdengar setelahnya.",
+    "content": {
+      "question": "Kalau kita amati peristiwa kilat dan petir yang terjadi pada waktu hujan, bunyi petir akan terdengar setelah cahaya kilat. Hal yang menjadi penyebab peristiwa tersebut adalah ...",
+      "options": [
+        "cahaya kilat dan bunyi petir kejadiannya tidak bersamaan",
+        "cahaya merupakan gelombang transversal sedang bunyi gelombang longitudinal",
+        "gelombang cahaya terlihat sedangkan gelombang bunyi tidak",
+        "cepat rambat cahaya jauh lebih cepat daripada cepat rambat bunyi"
+      ],
+      "answer": 3,
+      "rationale": "Kilat dan petir terjadi hampir bersamaan, tetapi cahaya merambat jauh lebih cepat daripada bunyi. Karena itu cahaya kilat terlihat lebih dahulu, lalu bunyi petir terdengar setelahnya."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Cermin & lensa sederhana",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Sebuah benda yang tingginya 3 cm diletakkan di depan lensa cembung yang berjarak titik api 12 cm. Jika diperoleh bayangan tegak diperbesar 3 kali, benda terletak di muka lensa pada jarak ...",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "answer": 1,
+    "rationale": "Bayangan tegak pada lensa cembung berarti bayangan maya, sehingga s' bernilai negatif. Perbesaran m = 3 = -s'/s, maka s' = -3s. Dengan 1/f = 1/s + 1/s' dan f = 12 cm, diperoleh 1/12 = 1/s - 1/(3s) = 2/(3s), sehingga s = 8 cm.",
+    "content": {
+      "question": "Sebuah benda yang tingginya 3 cm diletakkan di depan lensa cembung yang berjarak titik api 12 cm. Jika diperoleh bayangan tegak diperbesar 3 kali, benda terletak di muka lensa pada jarak ...",
+      "options": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "answer": 1,
+      "rationale": "Bayangan tegak pada lensa cembung berarti bayangan maya, sehingga s' bernilai negatif. Perbesaran m = 3 = -s'/s, maka s' = -3s. Dengan 1/f = 1/s + 1/s' dan f = 12 cm, diperoleh 1/12 = 1/s - 1/(3s) = 2/(3s), sehingga s = 8 cm."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Perhatikan cara pembuatan magnet dengan dialiri arus listrik searah. Setelah terbentuk magnet, ujung Q dari magnet PQ didekatkan dengan besi K-L sehingga besi K-L menjadi magnet. Kutub-kutub magnet yang benar adalah ...",
+    "options": [
+      "K = kutub utara, L = kutub selatan",
+      "K = kutub selatan, L = kutub utara",
+      "K = kutub selatan, L = kutub selatan",
+      "K = kutub utara, L = kutub utara"
+    ],
+    "answer": 1,
+    "rationale": "Dengan kaidah tangan kanan pada arah arus dan lilitan, ujung Q bertindak sebagai kutub utara. Pada induksi magnet, ujung besi yang dekat dengan kutub utara menjadi kutub selatan, sehingga K menjadi selatan dan L menjadi utara.",
+    "content": {
+      "question": "Perhatikan cara pembuatan magnet dengan dialiri arus listrik searah. Setelah terbentuk magnet, ujung Q dari magnet PQ didekatkan dengan besi K-L sehingga besi K-L menjadi magnet. Kutub-kutub magnet yang benar adalah ...",
+      "options": [
+        "K = kutub utara, L = kutub selatan",
+        "K = kutub selatan, L = kutub utara",
+        "K = kutub selatan, L = kutub selatan",
+        "K = kutub utara, L = kutub utara"
+      ],
+      "answer": 1,
+      "rationale": "Dengan kaidah tangan kanan pada arah arus dan lilitan, ujung Q bertindak sebagai kutub utara. Pada induksi magnet, ujung besi yang dekat dengan kutub utara menjadi kutub selatan, sehingga K menjadi selatan dan L menjadi utara."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Posisi sebuah benda yang bergerak sepanjang sumbu x ditunjukkan oleh grafik posisi terhadap waktu. Pada grafik, posisi berubah linear pada selang 0-5 detik, 15-25 detik, dan 35-40 detik, sedangkan posisi tetap pada selang 5-15 detik dan 25-35 detik. Grafik tersebut menunjukkan bahwa benda bergerak dengan laju konstan pada selang waktu antara ...",
+    "options": [
+      "5 s/d 15 detik dan 25 s/d 35 detik",
+      "0 s/d 5 detik dan 35 s/d 40 detik",
+      "15 s/d 25 detik",
+      "0 s/d 5 detik, 15 s/d 25 detik dan 35 s/d 40 detik"
+    ],
+    "answer": 3,
+    "rationale": "Pada grafik posisi-waktu, gerak dengan laju konstan ditunjukkan oleh garis miring lurus karena kemiringannya tetap. Selang tersebut adalah 0-5 detik, 15-25 detik, dan 35-40 detik. Garis datar menunjukkan benda diam.",
+    "content": {
+      "question": "Posisi sebuah benda yang bergerak sepanjang sumbu x ditunjukkan oleh grafik posisi terhadap waktu. Pada grafik, posisi berubah linear pada selang 0-5 detik, 15-25 detik, dan 35-40 detik, sedangkan posisi tetap pada selang 5-15 detik dan 25-35 detik. Grafik tersebut menunjukkan bahwa benda bergerak dengan laju konstan pada selang waktu antara ...",
+      "options": [
+        "5 s/d 15 detik dan 25 s/d 35 detik",
+        "0 s/d 5 detik dan 35 s/d 40 detik",
+        "15 s/d 25 detik",
+        "0 s/d 5 detik, 15 s/d 25 detik dan 35 s/d 40 detik"
+      ],
+      "answer": 3,
+      "rationale": "Pada grafik posisi-waktu, gerak dengan laju konstan ditunjukkan oleh garis miring lurus karena kemiringannya tetap. Selang tersebut adalah 0-5 detik, 15-25 detik, dan 35-40 detik. Garis datar menunjukkan benda diam."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Air yang suhunya 100 derajat C dan bermassa 300 gram dicampur dengan air yang bersuhu 40 derajat C dan bermassa 200 gram. Jika kalor jenis air 4.200 J/kg derajat C dan tidak ada kalor yang berpindah ke lingkungan, maka suhu akhir campuran adalah ...",
+    "options": [
+      "48 derajat C",
+      "68 derajat C",
+      "58 derajat C",
+      "76 derajat C"
+    ],
+    "answer": 3,
+    "rationale": "Karena kedua zat sama-sama air dan tidak ada kalor hilang, suhu akhir adalah rata-rata berbobot massa: T = (300 x 100 + 200 x 40)/(300 + 200) = 38000/500 = 76 derajat C.",
+    "content": {
+      "question": "Air yang suhunya 100 derajat C dan bermassa 300 gram dicampur dengan air yang bersuhu 40 derajat C dan bermassa 200 gram. Jika kalor jenis air 4.200 J/kg derajat C dan tidak ada kalor yang berpindah ke lingkungan, maka suhu akhir campuran adalah ...",
+      "options": [
+        "48 derajat C",
+        "68 derajat C",
+        "58 derajat C",
+        "76 derajat C"
+      ],
+      "answer": 3,
+      "rationale": "Karena kedua zat sama-sama air dan tidak ada kalor hilang, suhu akhir adalah rata-rata berbobot massa: T = (300 x 100 + 200 x 40)/(300 + 200) = 38000/500 = 76 derajat C."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Rotasi & revolusi bumi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Gambar menunjukkan skema gerak semu tahunan Matahari. Akibat gerak semu tahunan Matahari, dalam peredaran bumi dari tanggal 21 Maret sampai 21 Juni yang terjadi adalah belahan bumi Utara mengalami musim ...",
+    "options": [
+      "semi dan belahan bumi selatan mengalami musim gugur",
+      "panas dan belahan bumi selatan mengalami musim dingin",
+      "dingin dan belahan bumi selatan mengalami musim panas",
+      "gugur dan belahan bumi selatan mengalami musim semi"
+    ],
+    "answer": 0,
+    "rationale": "Pada rentang 21 Maret sampai 21 Juni, belahan bumi Utara mengalami musim semi menuju musim panas, sedangkan belahan bumi Selatan mengalami musim gugur menuju musim dingin. Pilihan yang paling tepat adalah musim semi di Utara dan gugur di Selatan.",
+    "content": {
+      "question": "Gambar menunjukkan skema gerak semu tahunan Matahari. Akibat gerak semu tahunan Matahari, dalam peredaran bumi dari tanggal 21 Maret sampai 21 Juni yang terjadi adalah belahan bumi Utara mengalami musim ...",
+      "options": [
+        "semi dan belahan bumi selatan mengalami musim gugur",
+        "panas dan belahan bumi selatan mengalami musim dingin",
+        "dingin dan belahan bumi selatan mengalami musim panas",
+        "gugur dan belahan bumi selatan mengalami musim semi"
+      ],
+      "answer": 0,
+      "rationale": "Pada rentang 21 Maret sampai 21 Juni, belahan bumi Utara mengalami musim semi menuju musim panas, sedangkan belahan bumi Selatan mengalami musim gugur menuju musim dingin. Pilihan yang paling tepat adalah musim semi di Utara dan gugur di Selatan."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Listrik statis",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Dua buah muatan Q1 = 12 nC dan Q2 = 20 nC terpisah sejauh R. Jika gaya interaksi Coulomb antara kedua muatan 1,5 x 10^-4 N dan tetapan k = 9 x 10^9 N.m^2/C^2, maka besar R adalah ...",
+    "options": [
+      "1,44 cm",
+      "8 cm",
+      "12 cm",
+      "14,4 cm"
+    ],
+    "answer": 2,
+    "rationale": "Dengan hukum Coulomb F = k q1 q2 / R^2. Maka R^2 = (9 x 10^9 x 12 x 10^-9 x 20 x 10^-9)/(1,5 x 10^-4) = 0,0144 m^2, sehingga R = 0,12 m = 12 cm.",
+    "content": {
+      "question": "Dua buah muatan Q1 = 12 nC dan Q2 = 20 nC terpisah sejauh R. Jika gaya interaksi Coulomb antara kedua muatan 1,5 x 10^-4 N dan tetapan k = 9 x 10^9 N.m^2/C^2, maka besar R adalah ...",
+      "options": [
+        "1,44 cm",
+        "8 cm",
+        "12 cm",
+        "14,4 cm"
+      ],
+      "answer": 2,
+      "rationale": "Dengan hukum Coulomb F = k q1 q2 / R^2. Maka R^2 = (9 x 10^9 x 12 x 10^-9 x 20 x 10^-9)/(1,5 x 10^-4) = 0,0144 m^2, sehingga R = 0,12 m = 12 cm."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Unsur, senyawa, dan campuran",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Perhatikan tabel ciri-ciri senyawa dan campuran. Baris 1: senyawa tersusun oleh unsur, campuran tersusun oleh dua jenis zat tunggal atau lebih. Baris 2: senyawa dapat dipisahkan secara fisika, campuran dipisahkan dengan cara kimia biasa. Baris 3: sifat senyawa berbeda dengan sifat unsur penyusunnya, sifat zat penyusun campuran masih tampak. Baris 4: perbandingan massa unsur penyusun senyawa tidak tetap, massa campuran tersebar merata. Ciri-ciri senyawa dan campuran yang benar adalah ...",
+    "options": [
+      "1 dan 4",
+      "1 dan 3",
+      "2 dan 4",
+      "2 dan 3"
+    ],
+    "answer": 1,
+    "rationale": "Baris 1 benar karena senyawa tersusun dari unsur dan campuran tersusun dari dua zat atau lebih. Baris 3 benar karena sifat senyawa berbeda dari unsur penyusunnya, sedangkan pada campuran sifat zat penyusunnya masih tampak. Baris 2 dan 4 tidak tepat.",
+    "content": {
+      "question": "Perhatikan tabel ciri-ciri senyawa dan campuran. Baris 1: senyawa tersusun oleh unsur, campuran tersusun oleh dua jenis zat tunggal atau lebih. Baris 2: senyawa dapat dipisahkan secara fisika, campuran dipisahkan dengan cara kimia biasa. Baris 3: sifat senyawa berbeda dengan sifat unsur penyusunnya, sifat zat penyusun campuran masih tampak. Baris 4: perbandingan massa unsur penyusun senyawa tidak tetap, massa campuran tersebar merata. Ciri-ciri senyawa dan campuran yang benar adalah ...",
+      "options": [
+        "1 dan 4",
+        "1 dan 3",
+        "2 dan 4",
+        "2 dan 3"
+      ],
+      "answer": 1,
+      "rationale": "Baris 1 benar karena senyawa tersusun dari unsur dan campuran tersusun dari dua zat atau lebih. Baris 3 benar karena sifat senyawa berbeda dari unsur penyusunnya, sedangkan pada campuran sifat zat penyusunnya masih tampak. Baris 2 dan 4 tidak tepat."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem ekskresi",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Perhatikan gambar nefron ginjal. Bagian X menunjuk pada glomerulus atau badan Malpighi. Gejala awal yang muncul jika terjadi kerusakan organ ginjal pada bagian X mengakibatkan ...",
+    "options": [
+      "terbentuk batu ginjal",
+      "perut menjadi buncit",
+      "seluruh tubuh bengkak",
+      "penimbunan air di kaki"
+    ],
+    "answer": 3,
+    "rationale": "Glomerulus berperan menyaring darah. Kerusakan pada bagian ini dapat menyebabkan protein keluar bersama urine dan menurunkan tekanan osmotik darah, sehingga cairan tertahan di jaringan. Gejala awal yang umum adalah edema atau penimbunan air, misalnya pada kaki.",
+    "content": {
+      "question": "Perhatikan gambar nefron ginjal. Bagian X menunjuk pada glomerulus atau badan Malpighi. Gejala awal yang muncul jika terjadi kerusakan organ ginjal pada bagian X mengakibatkan ...",
+      "options": [
+        "terbentuk batu ginjal",
+        "perut menjadi buncit",
+        "seluruh tubuh bengkak",
+        "penimbunan air di kaki"
+      ],
+      "answer": 3,
+      "rationale": "Glomerulus berperan menyaring darah. Kerusakan pada bagian ini dapat menyebabkan protein keluar bersama urine dan menurunkan tekanan osmotik darah, sehingga cairan tertahan di jaringan. Gejala awal yang umum adalah edema atau penimbunan air, misalnya pada kaki."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Genetika Mendel dasar",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Kacang ercis (Pisum sativum) batang tinggi biji bulat yang bergenotip heterozigot untuk kedua sifat disilangkan dengan sesamanya. Jika diketahui batang tinggi (T) dan biji bulat (B) dominan terhadap pasangan sifatnya dan dari hasil persilangannya diperoleh 80 keturunan, maka kemungkinan keturunannya yang bergenotip TtBb adalah ...",
+    "options": [
+      "4",
+      "5",
+      "15",
+      "20"
+    ],
+    "answer": 3,
+    "rationale": "Persilangan TtBb x TtBb menghasilkan peluang genotipe Tt untuk sifat tinggi sebesar 1/2 dan Bb untuk sifat bentuk biji sebesar 1/2. Peluang TtBb = 1/2 x 1/2 = 1/4. Dari 80 keturunan, jumlahnya 1/4 x 80 = 20.",
+    "content": {
+      "question": "Kacang ercis (Pisum sativum) batang tinggi biji bulat yang bergenotip heterozigot untuk kedua sifat disilangkan dengan sesamanya. Jika diketahui batang tinggi (T) dan biji bulat (B) dominan terhadap pasangan sifatnya dan dari hasil persilangannya diperoleh 80 keturunan, maka kemungkinan keturunannya yang bergenotip TtBb adalah ...",
+      "options": [
+        "4",
+        "5",
+        "15",
+        "20"
+      ],
+      "answer": 3,
+      "rationale": "Persilangan TtBb x TtBb menghasilkan peluang genotipe Tt untuk sifat tinggi sebesar 1/2 dan Bb untuk sifat bentuk biji sebesar 1/2. Peluang TtBb = 1/2 x 1/2 = 1/4. Dari 80 keturunan, jumlahnya 1/4 x 80 = 20."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Klasifikasi makhluk hidup",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Perhatikan kunci determinasi berikut. 1a hewan tidak bertulang belakang; 1b hewan bertulang belakang. 2a habitat air tawar; 2b habitat tidak di air tawar. 3a tubuh bersisik -> ikan; 3b tubuh tidak bersisik. 4a bisa terbang; 4b tidak bisa terbang. 5a hidup di laut; 5b tidak hidup di laut. 6a melata -> ular; 6b tidak melata -> cacing. 7a alat gerak utama sayap -> capung; 7b alat gerak utama bukan sayap -> belalang. Kunci determinasi capung adalah ...",
+    "options": [
+      "1a-2b-3b-4a-7b",
+      "1a-2b-3b-4a-7a",
+      "1a-2a-3b-4b-7a",
+      "1a-2a-3b"
+    ],
+    "answer": 1,
+    "rationale": "Capung adalah hewan tidak bertulang belakang, bukan hewan air tawar dalam konteks kunci ini, tidak bersisik, dapat terbang, dan alat gerak utamanya adalah sayap. Urutannya 1a-2b-3b-4a-7a.",
+    "content": {
+      "question": "Perhatikan kunci determinasi berikut. 1a hewan tidak bertulang belakang; 1b hewan bertulang belakang. 2a habitat air tawar; 2b habitat tidak di air tawar. 3a tubuh bersisik -> ikan; 3b tubuh tidak bersisik. 4a bisa terbang; 4b tidak bisa terbang. 5a hidup di laut; 5b tidak hidup di laut. 6a melata -> ular; 6b tidak melata -> cacing. 7a alat gerak utama sayap -> capung; 7b alat gerak utama bukan sayap -> belalang. Kunci determinasi capung adalah ...",
+      "options": [
+        "1a-2b-3b-4a-7b",
+        "1a-2b-3b-4a-7a",
+        "1a-2a-3b-4b-7a",
+        "1a-2a-3b"
+      ],
+      "answer": 1,
+      "rationale": "Capung adalah hewan tidak bertulang belakang, bukan hewan air tawar dalam konteks kunci ini, tidak bersisik, dapat terbang, dan alat gerak utamanya adalah sayap. Urutannya 1a-2b-3b-4a-7a."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Berikut ini adalah fungsi sel darah: (a) menghindarkan tubuh dari infeksi, (b) melakukan proses pembekuan darah, (c) mengikat CO2 dari jaringan menuju paru-paru, (d) mengedarkan O2 dari paru-paru ke seluruh tubuh, (e) mengangkut sari-sari makanan ke seluruh tubuh. Fungsi eritrosit ditunjukkan oleh nomor ...",
+    "options": [
+      "a dan c",
+      "d dan e",
+      "b dan c",
+      "c dan d"
+    ],
+    "answer": 3,
+    "rationale": "Eritrosit atau sel darah merah berfungsi mengangkut oksigen dari paru-paru ke jaringan dan sebagian karbon dioksida dari jaringan ke paru-paru. Jadi fungsi yang sesuai adalah c dan d.",
+    "content": {
+      "question": "Berikut ini adalah fungsi sel darah: (a) menghindarkan tubuh dari infeksi, (b) melakukan proses pembekuan darah, (c) mengikat CO2 dari jaringan menuju paru-paru, (d) mengedarkan O2 dari paru-paru ke seluruh tubuh, (e) mengangkut sari-sari makanan ke seluruh tubuh. Fungsi eritrosit ditunjukkan oleh nomor ...",
+      "options": [
+        "a dan c",
+        "d dan e",
+        "b dan c",
+        "c dan d"
+      ],
+      "answer": 3,
+      "rationale": "Eritrosit atau sel darah merah berfungsi mengangkut oksigen dari paru-paru ke jaringan dan sebagian karbon dioksida dari jaringan ke paru-paru. Jadi fungsi yang sesuai adalah c dan d."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Bioteknologi sederhana",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Perhatikan pernyataan-pernyataan berikut: (1) menjadi organisme unggul, (2) kapasitas reproduksi lebih tinggi daripada spesies alami, (3) selalu melibatkan mikroba, (4) dihasilkan dari proses insersi gen-gen spesifik. Dari pernyataan di atas, pernyataan yang benar tentang Genetically Modified Organism (GMO) adalah ...",
+    "options": [
+      "1,2",
+      "1,2,3",
+      "3,4",
+      "1,2,3,4"
+    ],
+    "answer": 3,
+    "rationale": "Dalam konteks soal, GMO dipahami sebagai organisme hasil modifikasi genetik untuk memperoleh sifat unggul melalui penyisipan gen tertentu, dan prosesnya sering dijelaskan melibatkan mikroba sebagai vektor. Karena pilihan yang tersedia tidak memuat kombinasi 1 dan 4 saja, pilihan paling sesuai dengan konteks PDF adalah seluruh pernyataan.",
+    "content": {
+      "question": "Perhatikan pernyataan-pernyataan berikut: (1) menjadi organisme unggul, (2) kapasitas reproduksi lebih tinggi daripada spesies alami, (3) selalu melibatkan mikroba, (4) dihasilkan dari proses insersi gen-gen spesifik. Dari pernyataan di atas, pernyataan yang benar tentang Genetically Modified Organism (GMO) adalah ...",
+      "options": [
+        "1,2",
+        "1,2,3",
+        "3,4",
+        "1,2,3,4"
+      ],
+      "answer": 3,
+      "rationale": "Dalam konteks soal, GMO dipahami sebagai organisme hasil modifikasi genetik untuk memperoleh sifat unggul melalui penyisipan gen tertentu, dan prosesnya sering dijelaskan melibatkan mikroba sebagai vektor. Karena pilihan yang tersedia tidak memuat kombinasi 1 dan 4 saja, pilihan paling sesuai dengan konteks PDF adalah seluruh pernyataan."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Pewarisan sifat",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Jika seorang perempuan heterozigot untuk buta warna bersuami seorang laki-laki berpenglihatan normal, kemungkinan anak perempuannya yang membawa sifat buta warna adalah ...",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "answer": 2,
+    "rationale": "Perempuan heterozigot memiliki genotipe XN Xc, sedangkan laki-laki normal XN Y. Semua anak perempuan menerima XN dari ayah dan menerima XN atau Xc dari ibu. Jadi 50% anak perempuan normal homozigot dan 50% anak perempuan carrier. Tidak ada anak perempuan yang buta warna; opsi PDF cocok jika dimaknai sebagai pembawa sifat.",
+    "content": {
+      "question": "Jika seorang perempuan heterozigot untuk buta warna bersuami seorang laki-laki berpenglihatan normal, kemungkinan anak perempuannya yang membawa sifat buta warna adalah ...",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2,
+      "rationale": "Perempuan heterozigot memiliki genotipe XN Xc, sedangkan laki-laki normal XN Y. Semua anak perempuan menerima XN dari ayah dan menerima XN atau Xc dari ibu. Jadi 50% anak perempuan normal homozigot dan 50% anak perempuan carrier. Tidak ada anak perempuan yang buta warna; opsi PDF cocok jika dimaknai sebagai pembawa sifat."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pernapasan",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-6"],
+    "is_active": true,
+    "question": "Berikut ini adalah ciri-ciri dari suatu kelainan pada sistem respirasi: (1) paru-paru kehilangan kelenturannya, (2) terdapat penumpukan gas pernapasan pada bagian paru-paru, (3) napas menjadi pendek-pendek bahkan pada saat istirahat, (4) otot polos yang kaku pada saluran pernapasan. Berdasarkan ciri-ciri tersebut, nama kelainan yang dimaksud dan organ yang terganggu adalah ...",
+    "options": [
+      "emfisema-alveolus",
+      "pneumonia-pleura",
+      "tuberculosis-bronkiolus",
+      "astiksi-trakea"
+    ],
+    "answer": 0,
+    "rationale": "Emfisema menyebabkan alveolus kehilangan elastisitasnya dan udara terperangkap di paru-paru, sehingga penderita mengalami napas pendek. Organ yang terutama terganggu adalah alveolus.",
+    "content": {
+      "question": "Berikut ini adalah ciri-ciri dari suatu kelainan pada sistem respirasi: (1) paru-paru kehilangan kelenturannya, (2) terdapat penumpukan gas pernapasan pada bagian paru-paru, (3) napas menjadi pendek-pendek bahkan pada saat istirahat, (4) otot polos yang kaku pada saluran pernapasan. Berdasarkan ciri-ciri tersebut, nama kelainan yang dimaksud dan organ yang terganggu adalah ...",
+      "options": [
+        "emfisema-alveolus",
+        "pneumonia-pleura",
+        "tuberculosis-bronkiolus",
+        "astiksi-trakea"
+      ],
+      "answer": 0,
+      "rationale": "Emfisema menyebabkan alveolus kehilangan elastisitasnya dan udara terperangkap di paru-paru, sehingga penderita mengalami napas pendek. Organ yang terutama terganggu adalah alveolus."
+    }
+  }
+]

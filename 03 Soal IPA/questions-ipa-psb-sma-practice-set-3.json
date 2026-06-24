@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Sebuah benda bergerak menempuh lintasan A-B-C-D-E. Lintasan A-B menanjak, B-C hampir datar, C-D menanjak, dan D-E menurun. Jika perubahan kecepatan benda dipengaruhi oleh bentuk lintasan, grafik kecepatan terhadap waktu yang paling sesuai adalah ...",
+    "options": [
+      "Grafik A: kecepatan turun dari A ke B, naik ke C, turun ke D, lalu naik ke E.",
+      "Grafik B: kecepatan turun dari A ke B, hampir tetap dari B ke C, turun ke D, lalu naik ke E.",
+      "Grafik C: kecepatan tetap dari A ke B, turun ke C, naik ke D, lalu turun ke E.",
+      "Grafik D: kecepatan naik dari A ke B, tetap dari B ke C, naik ke D, lalu turun ke E."
+    ],
+    "answer": 1,
+    "rationale": "Saat benda bergerak pada lintasan menanjak, kecepatannya cenderung berkurang. Pada lintasan hampir datar, kecepatannya relatif tetap. Pada lintasan menurun, kecepatannya bertambah. Pola tersebut sesuai dengan grafik B.",
+    "content": {
+      "question": "Sebuah benda bergerak menempuh lintasan A-B-C-D-E. Lintasan A-B menanjak, B-C hampir datar, C-D menanjak, dan D-E menurun. Jika perubahan kecepatan benda dipengaruhi oleh bentuk lintasan, grafik kecepatan terhadap waktu yang paling sesuai adalah ...",
+      "options": [
+        "Grafik A: kecepatan turun dari A ke B, naik ke C, turun ke D, lalu naik ke E.",
+        "Grafik B: kecepatan turun dari A ke B, hampir tetap dari B ke C, turun ke D, lalu naik ke E.",
+        "Grafik C: kecepatan tetap dari A ke B, turun ke C, naik ke D, lalu turun ke E.",
+        "Grafik D: kecepatan naik dari A ke B, tetap dari B ke C, naik ke D, lalu turun ke E."
+      ],
+      "answer": 1,
+      "rationale": "Saat benda bergerak pada lintasan menanjak, kecepatannya cenderung berkurang. Pada lintasan hampir datar, kecepatannya relatif tetap. Pada lintasan menurun, kecepatannya bertambah. Pola tersebut sesuai dengan grafik B."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Perhatikan gelombang pada gambar. Amplitudo gelombang ditunjukkan sebesar 4 cm. Gelombang menempuh panjang 24 m dan waktu 6 sekon. Pada gambar tampak 3 gelombang penuh. Besar amplitudo, periode, frekuensi, dan cepat rambat gelombang berturut-turut adalah ...",
+    "options": [
+      "2 cm, 1 s, 2 Hz, dan 2 m/s",
+      "4 cm, 1,5 s, 3 Hz, dan 2,5 m/s",
+      "4 cm, 2 s, 1,5 Hz, dan 3 m/s",
+      "4 cm, 2 s, 0,5 Hz, dan 4 m/s"
+    ],
+    "answer": 3,
+    "rationale": "Amplitudo pada gambar adalah 4 cm. Tiga gelombang penuh terjadi selama 6 s sehingga periodenya T = 6/3 = 2 s dan frekuensinya f = 1/T = 0,5 Hz. Panjang 24 m memuat 3 panjang gelombang, sehingga lambda = 8 m dan v = lambda x f = 8 x 0,5 = 4 m/s.",
+    "content": {
+      "question": "Perhatikan gelombang pada gambar. Amplitudo gelombang ditunjukkan sebesar 4 cm. Gelombang menempuh panjang 24 m dan waktu 6 sekon. Pada gambar tampak 3 gelombang penuh. Besar amplitudo, periode, frekuensi, dan cepat rambat gelombang berturut-turut adalah ...",
+      "options": [
+        "2 cm, 1 s, 2 Hz, dan 2 m/s",
+        "4 cm, 1,5 s, 3 Hz, dan 2,5 m/s",
+        "4 cm, 2 s, 1,5 Hz, dan 3 m/s",
+        "4 cm, 2 s, 0,5 Hz, dan 4 m/s"
+      ],
+      "answer": 3,
+      "rationale": "Amplitudo pada gambar adalah 4 cm. Tiga gelombang penuh terjadi selama 6 s sehingga periodenya T = 6/3 = 2 s dan frekuensinya f = 1/T = 0,5 Hz. Panjang 24 m memuat 3 panjang gelombang, sehingga lambda = 8 m dan v = lambda x f = 8 x 0,5 = 4 m/s."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Cermin & lensa sederhana",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Sebuah benda diletakkan 2 cm di depan lensa cembung yang fokusnya 6 cm. Tentukan letak bayangan terhadap lensa dan sifat bayangan yang terbentuk.",
+    "options": [
+      "3 cm di depan lensa dan maya",
+      "3 cm di belakang lensa dan nyata",
+      "12 cm di belakang lensa dan maya",
+      "12 cm di depan lensa dan nyata"
+    ],
+    "answer": 0,
+    "rationale": "Dengan persamaan lensa 1/f = 1/s + 1/s', diperoleh 1/6 = 1/2 + 1/s', sehingga 1/s' = -1/3 dan s' = -3 cm. Tanda negatif menunjukkan bayangan berada di depan lensa dan bersifat maya.",
+    "content": {
+      "question": "Sebuah benda diletakkan 2 cm di depan lensa cembung yang fokusnya 6 cm. Tentukan letak bayangan terhadap lensa dan sifat bayangan yang terbentuk.",
+      "options": [
+        "3 cm di depan lensa dan maya",
+        "3 cm di belakang lensa dan nyata",
+        "12 cm di belakang lensa dan maya",
+        "12 cm di depan lensa dan nyata"
+      ],
+      "answer": 0,
+      "rationale": "Dengan persamaan lensa 1/f = 1/s + 1/s', diperoleh 1/6 = 1/2 + 1/s', sehingga 1/s' = -1/3 dan s' = -3 cm. Tanda negatif menunjukkan bayangan berada di depan lensa dan bersifat maya."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Fenomena astronomi sederhana",
+    "skill_type": "recall",
+    "question_type": "direct",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Urutan planet di bawah ini dengan jarak yang makin jauh dari Matahari adalah ...",
+    "options": [
+      "Mars, Bumi, Venus, Yupiter",
+      "Jupiter, Saturnus, Neptunus, Uranus",
+      "Bumi, Mars, Jupiter, Saturnus",
+      "Merkurius, Mars, Venus, Bumi"
+    ],
+    "answer": 2,
+    "rationale": "Urutan planet dari yang terdekat ke yang lebih jauh dari Matahari adalah Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus. Dari pilihan yang tersedia, urutan yang benar adalah Bumi, Mars, Jupiter, Saturnus.",
+    "content": {
+      "question": "Urutan planet di bawah ini dengan jarak yang makin jauh dari Matahari adalah ...",
+      "options": [
+        "Mars, Bumi, Venus, Yupiter",
+        "Jupiter, Saturnus, Neptunus, Uranus",
+        "Bumi, Mars, Jupiter, Saturnus",
+        "Merkurius, Mars, Venus, Bumi"
+      ],
+      "answer": 2,
+      "rationale": "Urutan planet dari yang terdekat ke yang lebih jauh dari Matahari adalah Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus. Dari pilihan yang tersedia, urutan yang benar adalah Bumi, Mars, Jupiter, Saturnus."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Partikel penyusun zat",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Perhatikan gambar partikel X, Y, dan Z. Pada gambar, X memiliki jumlah proton dan elektron yang sama, Y memiliki jumlah elektron lebih sedikit daripada proton, sedangkan Z memiliki jumlah elektron lebih banyak daripada proton. Kesimpulan mengenai jenis partikel X, Y, dan Z berturut-turut adalah ...",
+    "options": [
+      "anion, kation, dan atom",
+      "atom, kation, dan anion",
+      "atom, anion, dan kation",
+      "kation, atom, dan anion"
+    ],
+    "answer": 1,
+    "rationale": "Partikel netral memiliki jumlah proton dan elektron sama sehingga X adalah atom. Partikel yang kekurangan elektron bermuatan positif sehingga Y adalah kation. Partikel yang kelebihan elektron bermuatan negatif sehingga Z adalah anion.",
+    "content": {
+      "question": "Perhatikan gambar partikel X, Y, dan Z. Pada gambar, X memiliki jumlah proton dan elektron yang sama, Y memiliki jumlah elektron lebih sedikit daripada proton, sedangkan Z memiliki jumlah elektron lebih banyak daripada proton. Kesimpulan mengenai jenis partikel X, Y, dan Z berturut-turut adalah ...",
+      "options": [
+        "anion, kation, dan atom",
+        "atom, kation, dan anion",
+        "atom, anion, dan kation",
+        "kation, atom, dan anion"
+      ],
+      "answer": 1,
+      "rationale": "Partikel netral memiliki jumlah proton dan elektron sama sehingga X adalah atom. Partikel yang kekurangan elektron bermuatan positif sehingga Y adalah kation. Partikel yang kelebihan elektron bermuatan negatif sehingga Z adalah anion."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Hukum Ohm",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Perhatikan rangkaian listrik berikut. R1 = 1,5 ohm tersusun seri dengan cabang paralel R2 = 3 ohm dan R3 = 6 ohm, lalu seri dengan R4 = 0,5 ohm. Tegangan sumber adalah 12 volt. Arus listrik yang melalui rangkaian sebesar ...",
+    "options": [
+      "0,5 Ampere",
+      "1,0 Ampere",
+      "2,0 Ampere",
+      "3,0 Ampere"
+    ],
+    "answer": 3,
+    "rationale": "Hambatan pengganti paralel R2 dan R3 adalah 1/Rp = 1/3 + 1/6 = 1/2, sehingga Rp = 2 ohm. Hambatan total = 1,5 + 2 + 0,5 = 4 ohm. Arus total I = V/R = 12/4 = 3 A.",
+    "content": {
+      "question": "Perhatikan rangkaian listrik berikut. R1 = 1,5 ohm tersusun seri dengan cabang paralel R2 = 3 ohm dan R3 = 6 ohm, lalu seri dengan R4 = 0,5 ohm. Tegangan sumber adalah 12 volt. Arus listrik yang melalui rangkaian sebesar ...",
+      "options": [
+        "0,5 Ampere",
+        "1,0 Ampere",
+        "2,0 Ampere",
+        "3,0 Ampere"
+      ],
+      "answer": 3,
+      "rationale": "Hambatan pengganti paralel R2 dan R3 adalah 1/Rp = 1/3 + 1/6 = 1/2, sehingga Rp = 2 ohm. Hambatan total = 1,5 + 2 + 0,5 = 4 ohm. Arus total I = V/R = 12/4 = 3 A."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Organ tumbuhan & fungsinya",
+    "skill_type": "recall",
+    "question_type": "direct",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Tanaman monokotil tidak mempunyai lingkaran tahun jika dipotong batangnya karena pada tumbuhan monokotil tidak mempunyai ...",
+    "options": [
+      "kambium",
+      "xilem",
+      "meristem",
+      "floem"
+    ],
+    "answer": 0,
+    "rationale": "Lingkaran tahun terbentuk karena aktivitas kambium yang menghasilkan pertumbuhan sekunder. Tumbuhan monokotil umumnya tidak memiliki kambium sehingga tidak membentuk lingkaran tahun.",
+    "content": {
+      "question": "Tanaman monokotil tidak mempunyai lingkaran tahun jika dipotong batangnya karena pada tumbuhan monokotil tidak mempunyai ...",
+      "options": [
+        "kambium",
+        "xilem",
+        "meristem",
+        "floem"
+      ],
+      "answer": 0,
+      "rationale": "Lingkaran tahun terbentuk karena aktivitas kambium yang menghasilkan pertumbuhan sekunder. Tumbuhan monokotil umumnya tidak memiliki kambium sehingga tidak membentuk lingkaran tahun."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Menarik kesimpulan dari data",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Perhatikan tabel hasil panen kacang tanah berikut. Petak 1 diberi pupuk kandang menghasilkan 38,4 kg. Petak 2 diberi pupuk NPK menghasilkan 42,3 kg. Petak 3 tidak diberi pupuk menghasilkan 20,4 kg. Kesimpulan yang tepat adalah ...",
+    "options": [
+      "Pemberian pupuk meningkatkan hasil panen",
+      "Penggunaan pupuk NPK memberikan hasil panen yang lebih banyak daripada pupuk kandang",
+      "Ukuran biji kacang pada tanaman yang dipupuk lebih besar daripada yang tidak dipupuk",
+      "Penggunaan pupuk kandang memberikan hasil panen lebih baik daripada tanpa pemupukan"
+    ],
+    "answer": 1,
+    "rationale": "Data menunjukkan petak dengan pupuk NPK menghasilkan 42,3 kg, lebih besar daripada petak dengan pupuk kandang yang menghasilkan 38,4 kg. Kesimpulan tentang ukuran biji tidak didukung oleh data tabel.",
+    "content": {
+      "question": "Perhatikan tabel hasil panen kacang tanah berikut. Petak 1 diberi pupuk kandang menghasilkan 38,4 kg. Petak 2 diberi pupuk NPK menghasilkan 42,3 kg. Petak 3 tidak diberi pupuk menghasilkan 20,4 kg. Kesimpulan yang tepat adalah ...",
+      "options": [
+        "Pemberian pupuk meningkatkan hasil panen",
+        "Penggunaan pupuk NPK memberikan hasil panen yang lebih banyak daripada pupuk kandang",
+        "Ukuran biji kacang pada tanaman yang dipupuk lebih besar daripada yang tidak dipupuk",
+        "Penggunaan pupuk kandang memberikan hasil panen lebih baik daripada tanpa pemupukan"
+      ],
+      "answer": 1,
+      "rationale": "Data menunjukkan petak dengan pupuk NPK menghasilkan 42,3 kg, lebih besar daripada petak dengan pupuk kandang yang menghasilkan 38,4 kg. Kesimpulan tentang ukuran biji tidak didukung oleh data tabel."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Bioteknologi sederhana",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Di daerah Boyolali, Jawa Tengah, susu sapi segar sangat melimpah sehingga sebagian besar dibuat yogurt. Yogurt terbuat dari susu dengan menggunakan bakteri Lactobacillus bulgaricus. Proses yang terjadi pada pembuatan yogurt adalah ...",
+    "options": [
+      "pengubahan susu menjadi alkohol dan gula",
+      "pemisahan lemak menjadi asam lemak",
+      "pada masa inkubasi dihasilkan asam laktat",
+      "penguraian susu menjadi lemak berprotein"
+    ],
+    "answer": 2,
+    "rationale": "Lactobacillus bulgaricus melakukan fermentasi laktosa pada susu dan menghasilkan asam laktat. Asam laktat inilah yang berperan dalam pembentukan yogurt.",
+    "content": {
+      "question": "Di daerah Boyolali, Jawa Tengah, susu sapi segar sangat melimpah sehingga sebagian besar dibuat yogurt. Yogurt terbuat dari susu dengan menggunakan bakteri Lactobacillus bulgaricus. Proses yang terjadi pada pembuatan yogurt adalah ...",
+      "options": [
+        "pengubahan susu menjadi alkohol dan gula",
+        "pemisahan lemak menjadi asam lemak",
+        "pada masa inkubasi dihasilkan asam laktat",
+        "penguraian susu menjadi lemak berprotein"
+      ],
+      "answer": 2,
+      "rationale": "Lactobacillus bulgaricus melakukan fermentasi laktosa pada susu dan menghasilkan asam laktat. Asam laktat inilah yang berperan dalam pembentukan yogurt."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Unsur, senyawa, dan campuran",
+    "skill_type": "concept_understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Sistem koloid dapat diuraikan berdasarkan fase terdispersi dan fase pendispersi. Jenis koloid yang diberikan adalah: A. cair-gas, B. cair-cair, C. cair-padat, D. padat-cair. Contoh yang tersedia adalah: 1. sampo, 2. agar-agar, 3. kabut, 4. cat. Pernyataan yang sesuai adalah ...",
+    "options": [
+      "A - 1, B - 2, C - 3, D - 4",
+      "A - 2, B - 1, C - 4, D - 3",
+      "A - 4, B - 3, C - 2, D - 1",
+      "A - 3, B - 1, C - 2, D - 4"
+    ],
+    "answer": 3,
+    "rationale": "Kabut adalah cair dalam gas, sampo termasuk cair dalam cair, agar-agar adalah cair dalam padat, dan cat adalah padat dalam cair. Jadi pasangan yang benar adalah A-3, B-1, C-2, D-4.",
+    "content": {
+      "question": "Sistem koloid dapat diuraikan berdasarkan fase terdispersi dan fase pendispersi. Jenis koloid yang diberikan adalah: A. cair-gas, B. cair-cair, C. cair-padat, D. padat-cair. Contoh yang tersedia adalah: 1. sampo, 2. agar-agar, 3. kabut, 4. cat. Pernyataan yang sesuai adalah ...",
+      "options": [
+        "A - 1, B - 2, C - 3, D - 4",
+        "A - 2, B - 1, C - 4, D - 3",
+        "A - 4, B - 3, C - 2, D - 1",
+        "A - 3, B - 1, C - 2, D - 4"
+      ],
+      "answer": 3,
+      "rationale": "Kabut adalah cair dalam gas, sampo termasuk cair dalam cair, agar-agar adalah cair dalam padat, dan cat adalah padat dalam cair. Jadi pasangan yang benar adalah A-3, B-1, C-2, D-4."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Reproduksi makhluk hidup",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Perhatikan gambar perkembangbiakan hewan berikut. Gambar I menunjukkan planaria, gambar II menunjukkan lebah, gambar III menunjukkan Paramecium, dan gambar IV menunjukkan Hydra. Urutan cara perkembangbiakan pada hewan tersebut adalah ...",
+    "options": [
+      "membelah diri, konjugasi, membelah diri, tunas",
+      "membelah diri, partenogenesis, spora, tunas",
+      "fragmentasi, partenogenesis, membelah diri, tunas",
+      "fragmentasi, konjugasi, membelah diri, tunas"
+    ],
+    "answer": 2,
+    "rationale": "Planaria berkembang biak dengan fragmentasi, lebah dapat berkembang biak secara partenogenesis, Paramecium berkembang biak dengan membelah diri, dan Hydra berkembang biak dengan tunas.",
+    "content": {
+      "question": "Perhatikan gambar perkembangbiakan hewan berikut. Gambar I menunjukkan planaria, gambar II menunjukkan lebah, gambar III menunjukkan Paramecium, dan gambar IV menunjukkan Hydra. Urutan cara perkembangbiakan pada hewan tersebut adalah ...",
+      "options": [
+        "membelah diri, konjugasi, membelah diri, tunas",
+        "membelah diri, partenogenesis, spora, tunas",
+        "fragmentasi, partenogenesis, membelah diri, tunas",
+        "fragmentasi, konjugasi, membelah diri, tunas"
+      ],
+      "answer": 2,
+      "rationale": "Planaria berkembang biak dengan fragmentasi, lebah dapat berkembang biak secara partenogenesis, Paramecium berkembang biak dengan membelah diri, dan Hydra berkembang biak dengan tunas."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Klasifikasi makhluk hidup",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Spesies adalah unit dasar dari klasifikasi biologi. Alasan dua individu yang berbeda dikelompokkan ke dalam satu spesies yang sama adalah ...",
+    "options": [
+      "mempunyai kesamaan nenek moyang",
+      "mempunyai banyak persamaan",
+      "mempunyai banyak perbedaan",
+      "dapat saling kawin dan menghasilkan keturunan fertile"
+    ],
+    "answer": 3,
+    "rationale": "Dalam konsep spesies biologis, individu termasuk spesies yang sama jika dapat saling kawin dan menghasilkan keturunan yang subur atau fertile.",
+    "content": {
+      "question": "Spesies adalah unit dasar dari klasifikasi biologi. Alasan dua individu yang berbeda dikelompokkan ke dalam satu spesies yang sama adalah ...",
+      "options": [
+        "mempunyai kesamaan nenek moyang",
+        "mempunyai banyak persamaan",
+        "mempunyai banyak perbedaan",
+        "dapat saling kawin dan menghasilkan keturunan fertile"
+      ],
+      "answer": 3,
+      "rationale": "Dalam konsep spesies biologis, individu termasuk spesies yang sama jika dapat saling kawin dan menghasilkan keturunan yang subur atau fertile."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Ketika sedang makan siang, Syahla mengalami tersedak dan batuk-batuk sehingga tidak bisa melanjutkan makannya. Kejadian tersedak yang dialami Syahla terjadi karena ...",
+    "options": [
+      "banyak udara yang masuk bersama makanan",
+      "gagalnya makanan masuk ventrikulus",
+      "kelebihan makanan dalam esophagus",
+      "kegagalan fungsi epiglotis"
+    ],
+    "answer": 3,
+    "rationale": "Epiglotis berfungsi menutup saluran pernapasan saat menelan agar makanan masuk ke kerongkongan. Jika epiglotis tidak bekerja dengan baik, makanan dapat masuk ke saluran pernapasan dan menyebabkan tersedak.",
+    "content": {
+      "question": "Ketika sedang makan siang, Syahla mengalami tersedak dan batuk-batuk sehingga tidak bisa melanjutkan makannya. Kejadian tersedak yang dialami Syahla terjadi karena ...",
+      "options": [
+        "banyak udara yang masuk bersama makanan",
+        "gagalnya makanan masuk ventrikulus",
+        "kelebihan makanan dalam esophagus",
+        "kegagalan fungsi epiglotis"
+      ],
+      "answer": 3,
+      "rationale": "Epiglotis berfungsi menutup saluran pernapasan saat menelan agar makanan masuk ke kerongkongan. Jika epiglotis tidak bekerja dengan baik, makanan dapat masuk ke saluran pernapasan dan menyebabkan tersedak."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Variabel bebas, terikat & kontrol",
+    "skill_type": "experiment_interpretation",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Seorang siswa mencoba melakukan percobaan membuat tempe dengan menggunakan kedelai varietas A, B, dan C. Jenis jamur yang digunakan adalah Rhizopus oryzae dengan dosis yang sama untuk ketiganya. Setelah itu, ia membandingkan tekstur ketiga tempe yang dihasilkan. Rumusan masalah yang paling tepat adalah ...",
+    "options": [
+      "Apakah varietas kedelai memengaruhi tekstur tempe?",
+      "Mengapa jamur Rhizopus oryzae dapat mengubah kedelai menjadi tempe?",
+      "Apakah kandungan protein kedelai memengaruhi tekstur tempe?",
+      "Bagaimana proses pembuatan tempe pada ketiga varietas kedelai?"
+    ],
+    "answer": 0,
+    "rationale": "Percobaan membedakan varietas kedelai sebagai variabel bebas dan membandingkan tekstur tempe sebagai variabel terikat. Rumusan masalah yang tepat menanyakan pengaruh varietas kedelai terhadap tekstur tempe.",
+    "content": {
+      "question": "Seorang siswa mencoba melakukan percobaan membuat tempe dengan menggunakan kedelai varietas A, B, dan C. Jenis jamur yang digunakan adalah Rhizopus oryzae dengan dosis yang sama untuk ketiganya. Setelah itu, ia membandingkan tekstur ketiga tempe yang dihasilkan. Rumusan masalah yang paling tepat adalah ...",
+      "options": [
+        "Apakah varietas kedelai memengaruhi tekstur tempe?",
+        "Mengapa jamur Rhizopus oryzae dapat mengubah kedelai menjadi tempe?",
+        "Apakah kandungan protein kedelai memengaruhi tekstur tempe?",
+        "Bagaimana proses pembuatan tempe pada ketiga varietas kedelai?"
+      ],
+      "answer": 0,
+      "rationale": "Percobaan membedakan varietas kedelai sebagai variabel bebas dan membandingkan tekstur tempe sebagai variabel terikat. Rumusan masalah yang tepat menanyakan pengaruh varietas kedelai terhadap tekstur tempe."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Pewarisan sifat",
+    "skill_type": "recall",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-3"],
+    "is_active": true,
+    "question": "Sifat dari suatu organisme yang tidak muncul karena terkalahkan oleh pemunculan sifat lain yang sejenis disebut ...",
+    "options": [
+      "dominan",
+      "heterozigot",
+      "intermediate",
+      "resesif"
+    ],
+    "answer": 3,
+    "rationale": "Sifat resesif adalah sifat yang tertutupi atau tidak muncul ketika berpasangan dengan sifat dominan.",
+    "content": {
+      "question": "Sifat dari suatu organisme yang tidak muncul karena terkalahkan oleh pemunculan sifat lain yang sejenis disebut ...",
+      "options": [
+        "dominan",
+        "heterozigot",
+        "intermediate",
+        "resesif"
+      ],
+      "answer": 3,
+      "rationale": "Sifat resesif adalah sifat yang tertutupi atau tidak muncul ketika berpasangan dengan sifat dominan."
+    }
+  }
+]

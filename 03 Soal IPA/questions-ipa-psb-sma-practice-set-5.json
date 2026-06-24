@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Besaran, satuan & pengukuran",
+    "skill_type": "understanding",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Perhatikan tabel berikut. Kolom X berisi besaran: X1 = tekanan, X2 = waktu, X3 = massa, X4 = suhu. Kolom Y berisi alat ukur: Y1 = stopwatch, Y2 = termometer, Y3 = manometer, Y4 = neraca. Kolom Z berisi satuan: Z1 = kg, Z2 = Pa, Z3 = s, Z4 = K. Pasangan antara besaran fisika yang merupakan besaran pokok, satuan dalam SI, dan alat ukur yang sesuai adalah ...",
+    "options": [
+      "X3, Y1, Z3",
+      "X2, Y3, Z1",
+      "X1, Y4, Z2",
+      "X4, Y2, Z4"
+    ],
+    "answer": 3,
+    "rationale": "Suhu merupakan besaran pokok, alat ukurnya termometer, dan satuan SI-nya kelvin (K). Jadi pasangan yang tepat adalah X4, Y2, Z4.",
+    "content": {
+      "question": "Perhatikan tabel berikut. Kolom X berisi besaran: X1 = tekanan, X2 = waktu, X3 = massa, X4 = suhu. Kolom Y berisi alat ukur: Y1 = stopwatch, Y2 = termometer, Y3 = manometer, Y4 = neraca. Kolom Z berisi satuan: Z1 = kg, Z2 = Pa, Z3 = s, Z4 = K. Pasangan antara besaran fisika yang merupakan besaran pokok, satuan dalam SI, dan alat ukur yang sesuai adalah ...",
+      "options": [
+        "X3, Y1, Z3",
+        "X2, Y3, Z1",
+        "X1, Y4, Z2",
+        "X4, Y2, Z4"
+      ],
+      "answer": 3,
+      "rationale": "Suhu merupakan besaran pokok, alat ukurnya termometer, dan satuan SI-nya kelvin (K). Jadi pasangan yang tepat adalah X4, Y2, Z4."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Sekelompok siswa melakukan percobaan gelombang dengan menggetarkan tali. Pada gambar, jarak dari titik P ke Q adalah 300 cm dan tampak memuat 3 panjang gelombang. Waktu yang diperlukan gelombang untuk merambat dari P ke Q adalah 6 detik. Pernyataan: (1) panjang gelombang adalah 300 cm, (2) periode gelombang adalah 6 detik, (3) frekuensi gelombang adalah 0,5 hertz, (4) cepat rambat gelombang adalah 50 cm/det. Kesimpulan yang benar dari percobaan tersebut adalah ...",
+    "options": [
+      "(1) dan (2)",
+      "(1) dan (3)",
+      "(2) dan (4)",
+      "(3) dan (4)"
+    ],
+    "answer": 3,
+    "rationale": "Jarak 300 cm memuat 3 panjang gelombang, sehingga lambda = 100 cm. Waktu untuk 3 gelombang adalah 6 s, sehingga periode T = 2 s dan frekuensi f = 1/T = 0,5 Hz. Cepat rambat v = 300 cm / 6 s = 50 cm/det. Jadi pernyataan benar adalah (3) dan (4).",
+    "content": {
+      "question": "Sekelompok siswa melakukan percobaan gelombang dengan menggetarkan tali. Pada gambar, jarak dari titik P ke Q adalah 300 cm dan tampak memuat 3 panjang gelombang. Waktu yang diperlukan gelombang untuk merambat dari P ke Q adalah 6 detik. Pernyataan: (1) panjang gelombang adalah 300 cm, (2) periode gelombang adalah 6 detik, (3) frekuensi gelombang adalah 0,5 hertz, (4) cepat rambat gelombang adalah 50 cm/det. Kesimpulan yang benar dari percobaan tersebut adalah ...",
+      "options": [
+        "(1) dan (2)",
+        "(1) dan (3)",
+        "(2) dan (4)",
+        "(3) dan (4)"
+      ],
+      "answer": 3,
+      "rationale": "Jarak 300 cm memuat 3 panjang gelombang, sehingga lambda = 100 cm. Waktu untuk 3 gelombang adalah 6 s, sehingga periode T = 2 s dan frekuensi f = 1/T = 0,5 Hz. Cepat rambat v = 300 cm / 6 s = 50 cm/det. Jadi pernyataan benar adalah (3) dan (4)."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Cermin & lensa sederhana",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Sebuah cermin cekung memiliki jari-jari kelengkungan 10 cm. Agar cermin itu membentuk bayangan maya dan tegak yang tingginya 5 kali tinggi benda, maka benda harus diletakkan pada jarak ...",
+    "options": [
+      "5 cm di belakang cermin cekung",
+      "5 cm di depan cermin cekung",
+      "4 cm di belakang cermin cekung",
+      "4 cm di depan cermin cekung"
+    ],
+    "answer": 3,
+    "rationale": "Jari-jari kelengkungan 10 cm berarti fokus cermin f = 5 cm. Untuk bayangan maya tegak dengan perbesaran 5, berlaku m = -s'/s = 5 sehingga s' = -5s. Dengan 1/f = 1/s + 1/s', diperoleh 1/5 = 1/s - 1/(5s) = 4/(5s), sehingga s = 4 cm di depan cermin.",
+    "content": {
+      "question": "Sebuah cermin cekung memiliki jari-jari kelengkungan 10 cm. Agar cermin itu membentuk bayangan maya dan tegak yang tingginya 5 kali tinggi benda, maka benda harus diletakkan pada jarak ...",
+      "options": [
+        "5 cm di belakang cermin cekung",
+        "5 cm di depan cermin cekung",
+        "4 cm di belakang cermin cekung",
+        "4 cm di depan cermin cekung"
+      ],
+      "answer": 3,
+      "rationale": "Jari-jari kelengkungan 10 cm berarti fokus cermin f = 5 cm. Untuk bayangan maya tegak dengan perbesaran 5, berlaku m = -s'/s = 5 sehingga s' = -5s. Dengan 1/f = 1/s + 1/s', diperoleh 1/5 = 1/s - 1/(5s) = 4/(5s), sehingga s = 4 cm di depan cermin."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Seorang siswa memindahkan benda dari titik A ke titik B dengan papan miring. Pada gambar, tinggi awal papan 1 m, tinggi akhir 4 m, dan jarak mendatar antara kedua penyangga 4 m. Jika gesekan antara benda dengan papan diabaikan, maka keuntungan mekanik pada kegiatan itu adalah ...",
+    "options": [
+      "3/4",
+      "5/4",
+      "5/3",
+      "4"
+    ],
+    "answer": 2,
+    "rationale": "Kenaikan tinggi benda adalah 4 m - 1 m = 3 m. Dari gambar terbentuk segitiga dengan alas 4 m dan tinggi 3 m, sehingga panjang bidang miring efektif 5 m. Keuntungan mekanik bidang miring = panjang bidang / tinggi = 5/3.",
+    "content": {
+      "question": "Seorang siswa memindahkan benda dari titik A ke titik B dengan papan miring. Pada gambar, tinggi awal papan 1 m, tinggi akhir 4 m, dan jarak mendatar antara kedua penyangga 4 m. Jika gesekan antara benda dengan papan diabaikan, maka keuntungan mekanik pada kegiatan itu adalah ...",
+      "options": [
+        "3/4",
+        "5/4",
+        "5/3",
+        "4"
+      ],
+      "answer": 2,
+      "rationale": "Kenaikan tinggi benda adalah 4 m - 1 m = 3 m. Dari gambar terbentuk segitiga dengan alas 4 m dan tinggi 3 m, sehingga panjang bidang miring efektif 5 m. Keuntungan mekanik bidang miring = panjang bidang / tinggi = 5/3."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Daya listrik",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Sebuah lampu bertuliskan 100 W/240 V. Jika lampu tersebut diberi tegangan 120 V, maka daya yang terdapat pada lampu itu adalah ...",
+    "options": [
+      "80 W",
+      "50 W",
+      "25 W",
+      "20 W"
+    ],
+    "answer": 2,
+    "rationale": "Hambatan lampu dianggap tetap, sehingga daya berbanding lurus dengan kuadrat tegangan. P' = 100 x (120/240)^2 = 100 x 1/4 = 25 W.",
+    "content": {
+      "question": "Sebuah lampu bertuliskan 100 W/240 V. Jika lampu tersebut diberi tegangan 120 V, maka daya yang terdapat pada lampu itu adalah ...",
+      "options": [
+        "80 W",
+        "50 W",
+        "25 W",
+        "20 W"
+      ],
+      "answer": 2,
+      "rationale": "Hambatan lampu dianggap tetap, sehingga daya berbanding lurus dengan kuadrat tegangan. P' = 100 x (120/240)^2 = 100 x 1/4 = 25 W."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Apa yang terjadi bila 2 kg es bersuhu -10 derajat C diberikan kalor sebesar 8,5 kkal? Diketahui kalor jenis es = 0,5 kal/g derajat C, kalor jenis air = 1 kal/g derajat C, dan kalor lebur es = 80 kal/g.",
+    "options": [
+      "Es belum mencair dan suhunya masih di bawah 0 derajat C",
+      "Baru sebagian es mencair dan suhunya 0 derajat C",
+      "Seluruh es telah mencair dan suhunya 0 derajat C",
+      "Seluruh es telah mencair dan suhunya di atas 0 derajat C"
+    ],
+    "answer": 0,
+    "rationale": "Kalor yang dibutuhkan untuk menaikkan suhu es dari -10 derajat C ke 0 derajat C adalah Q = m c Delta T = 2000 x 0,5 x 10 = 10000 kal = 10 kkal. Kalor yang diberikan hanya 8,5 kkal, sehingga es belum mencapai 0 derajat C dan belum mencair.",
+    "content": {
+      "question": "Apa yang terjadi bila 2 kg es bersuhu -10 derajat C diberikan kalor sebesar 8,5 kkal? Diketahui kalor jenis es = 0,5 kal/g derajat C, kalor jenis air = 1 kal/g derajat C, dan kalor lebur es = 80 kal/g.",
+      "options": [
+        "Es belum mencair dan suhunya masih di bawah 0 derajat C",
+        "Baru sebagian es mencair dan suhunya 0 derajat C",
+        "Seluruh es telah mencair dan suhunya 0 derajat C",
+        "Seluruh es telah mencair dan suhunya di atas 0 derajat C"
+      ],
+      "answer": 0,
+      "rationale": "Kalor yang dibutuhkan untuk menaikkan suhu es dari -10 derajat C ke 0 derajat C adalah Q = m c Delta T = 2000 x 0,5 x 10 = 10000 kal = 10 kkal. Kalor yang diberikan hanya 8,5 kkal, sehingga es belum mencapai 0 derajat C dan belum mencair."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Hukum Ohm",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Perhatikan rangkaian listrik. Hambatan 2 ohm tersusun seri dengan rangkaian antara titik A dan B, kemudian seri dengan hambatan 6 ohm. Di antara A dan B, cabang atas terdiri dari hambatan 5 ohm dan 3 ohm seri, sedangkan cabang bawah adalah hambatan 8 ohm. Sumber tegangannya 24 volt. Berdasarkan data pada gambar, besar kuat arus I adalah ...",
+    "options": [
+      "0,67 A",
+      "1,50 A",
+      "2,00 A",
+      "2,50 A"
+    ],
+    "answer": 2,
+    "rationale": "Cabang atas A-B bernilai 5 + 3 = 8 ohm dan cabang bawah 8 ohm, sehingga hambatan pengganti paralelnya 4 ohm. Hambatan total = 2 + 4 + 6 = 12 ohm. Arus total I = V/R = 24/12 = 2 A.",
+    "content": {
+      "question": "Perhatikan rangkaian listrik. Hambatan 2 ohm tersusun seri dengan rangkaian antara titik A dan B, kemudian seri dengan hambatan 6 ohm. Di antara A dan B, cabang atas terdiri dari hambatan 5 ohm dan 3 ohm seri, sedangkan cabang bawah adalah hambatan 8 ohm. Sumber tegangannya 24 volt. Berdasarkan data pada gambar, besar kuat arus I adalah ...",
+      "options": [
+        "0,67 A",
+        "1,50 A",
+        "2,00 A",
+        "2,50 A"
+      ],
+      "answer": 2,
+      "rationale": "Cabang atas A-B bernilai 5 + 3 = 8 ohm dan cabang bawah 8 ohm, sehingga hambatan pengganti paralelnya 4 ohm. Hambatan total = 2 + 4 + 6 = 12 ohm. Arus total I = V/R = 24/12 = 2 A."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Daya listrik",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Perhatikan rangkaian listrik. Hambatan 3 ohm dan 6 ohm tersusun paralel, dan arus total yang mengalir pada rangkaian adalah 3 A selama 5 detik. Besar energi listrik pada rangkaian tersebut adalah ...",
+    "options": [
+      "30 J",
+      "40 J",
+      "60 J",
+      "90 J"
+    ],
+    "answer": 3,
+    "rationale": "Hambatan pengganti paralel 3 ohm dan 6 ohm adalah 2 ohm. Energi listrik E = I^2 R t = 3^2 x 2 x 5 = 90 J.",
+    "content": {
+      "question": "Perhatikan rangkaian listrik. Hambatan 3 ohm dan 6 ohm tersusun paralel, dan arus total yang mengalir pada rangkaian adalah 3 A selama 5 detik. Besar energi listrik pada rangkaian tersebut adalah ...",
+      "options": [
+        "30 J",
+        "40 J",
+        "60 J",
+        "90 J"
+      ],
+      "answer": 3,
+      "rationale": "Hambatan pengganti paralel 3 ohm dan 6 ohm adalah 2 ohm. Energi listrik E = I^2 R t = 3^2 x 2 x 5 = 90 J."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Dalam suatu kolam terdapat beberapa ikan tawes, ikan mas, dan plankton. Bentuk interaksi yang mungkin terjadi pada kolam tersebut adalah ...",
+    "options": [
+      "netral antara ikan mas dan ikan tawes karena makanan keduanya berbeda",
+      "mutualisme antara ikan mas dan ikan tawes karena keduanya saling menguntungkan",
+      "predatorisme antara ikan mas dan ikan tawes karena ukuran keduanya berbeda",
+      "kompetisi antara ikan mas dan ikan tawes karena keduanya saling berebut plankton sebagai makanan"
+    ],
+    "answer": 3,
+    "rationale": "Ikan mas dan ikan tawes dapat memanfaatkan sumber makanan yang sama, yaitu plankton. Jika dua organisme menggunakan sumber daya yang sama, interaksi yang terjadi adalah kompetisi.",
+    "content": {
+      "question": "Dalam suatu kolam terdapat beberapa ikan tawes, ikan mas, dan plankton. Bentuk interaksi yang mungkin terjadi pada kolam tersebut adalah ...",
+      "options": [
+        "netral antara ikan mas dan ikan tawes karena makanan keduanya berbeda",
+        "mutualisme antara ikan mas dan ikan tawes karena keduanya saling menguntungkan",
+        "predatorisme antara ikan mas dan ikan tawes karena ukuran keduanya berbeda",
+        "kompetisi antara ikan mas dan ikan tawes karena keduanya saling berebut plankton sebagai makanan"
+      ],
+      "answer": 3,
+      "rationale": "Ikan mas dan ikan tawes dapat memanfaatkan sumber makanan yang sama, yaitu plankton. Jika dua organisme menggunakan sumber daya yang sama, interaksi yang terjadi adalah kompetisi."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sel & jaringan",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Perhatikan gambar sel hewan yang organelnya ditunjukkan dengan huruf P, Q, R, dan S. Huruf R menunjuk pada organel berbentuk lonjong seperti kacang dengan lipatan di dalamnya. Setiap organela dalam sel memiliki fungsi khusus. Proses respirasi sel terjadi pada organela yang ditunjuk dengan huruf ...",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "answer": 2,
+    "rationale": "Respirasi sel terjadi di mitokondria. Pada gambar, mitokondria ditunjukkan oleh huruf R karena berbentuk lonjong dengan lipatan membran di bagian dalam.",
+    "content": {
+      "question": "Perhatikan gambar sel hewan yang organelnya ditunjukkan dengan huruf P, Q, R, dan S. Huruf R menunjuk pada organel berbentuk lonjong seperti kacang dengan lipatan di dalamnya. Setiap organela dalam sel memiliki fungsi khusus. Proses respirasi sel terjadi pada organela yang ditunjuk dengan huruf ...",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": 2,
+      "rationale": "Respirasi sel terjadi di mitokondria. Pada gambar, mitokondria ditunjukkan oleh huruf R karena berbentuk lonjong dengan lipatan membran di bagian dalam."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Klasifikasi makhluk hidup",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Berikut adalah kunci dikotom pada filum Arthropoda. 1a tubuh terbagi menjadi kepala, dada, dan perut -> Insekta. 1b tubuh tidak terbagi menjadi kepala, dada, dan perut -> 2. 2a tubuh terbagi menjadi kepala dada bersatu dan perut -> 3. 2b tubuh terbagi menjadi kepala dan badan beruas-ruas -> 4. 3a pada kepala dada terdapat 4 pasang kaki -> Arachnida. 3b pada kepala dada terdapat 5 pasang kaki jalan -> Crustacea. 4a badan pipih beruas-ruas, tiap ruas terdapat 1 pasang kaki -> Chilopoda. 4b badan gilig beruas-ruas, tiap ruas terdapat 2 pasang kaki -> Diplopoda. Urutan kunci dikotom hewan kelabang yang tepat adalah ...",
+    "options": [
+      "1a, 2b, 3a, 4b",
+      "1b, 2a, 3a, 4a",
+      "1b, 2a, 3b",
+      "1b, 2b, 4a"
+    ],
+    "answer": 3,
+    "rationale": "Kelabang tidak memiliki pembagian tubuh kepala, dada, dan perut seperti serangga, sehingga mengikuti 1b. Kelabang memiliki kepala dan badan beruas-ruas, sehingga 2b. Badannya pipih dan tiap ruas memiliki satu pasang kaki, sehingga 4a atau Chilopoda.",
+    "content": {
+      "question": "Berikut adalah kunci dikotom pada filum Arthropoda. 1a tubuh terbagi menjadi kepala, dada, dan perut -> Insekta. 1b tubuh tidak terbagi menjadi kepala, dada, dan perut -> 2. 2a tubuh terbagi menjadi kepala dada bersatu dan perut -> 3. 2b tubuh terbagi menjadi kepala dan badan beruas-ruas -> 4. 3a pada kepala dada terdapat 4 pasang kaki -> Arachnida. 3b pada kepala dada terdapat 5 pasang kaki jalan -> Crustacea. 4a badan pipih beruas-ruas, tiap ruas terdapat 1 pasang kaki -> Chilopoda. 4b badan gilig beruas-ruas, tiap ruas terdapat 2 pasang kaki -> Diplopoda. Urutan kunci dikotom hewan kelabang yang tepat adalah ...",
+      "options": [
+        "1a, 2b, 3a, 4b",
+        "1b, 2a, 3a, 4a",
+        "1b, 2a, 3b",
+        "1b, 2b, 4a"
+      ],
+      "answer": 3,
+      "rationale": "Kelabang tidak memiliki pembagian tubuh kepala, dada, dan perut seperti serangga, sehingga mengikuti 1b. Kelabang memiliki kepala dan badan beruas-ruas, sehingga 2b. Badannya pipih dan tiap ruas memiliki satu pasang kaki, sehingga 4a atau Chilopoda."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Bioteknologi sederhana",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Salah satu kendala di bidang peternakan adalah tingkat reproduksi hewan ternak rendah. Hal ini disebabkan rendahnya tingkat keberhasilan hewan jantan untuk mengawini hewan betina. Untuk meningkatkan daya reproduksi hewan ternak dapat dilakukan dengan ...",
+    "options": [
+      "lingkungan yang nyaman",
+      "disediakan hewan betina dengan jumlah banyak",
+      "inseminasi buatan",
+      "kawin paksa"
+    ],
+    "answer": 2,
+    "rationale": "Inseminasi buatan adalah teknik reproduksi pada peternakan untuk memasukkan sperma pejantan unggul ke saluran reproduksi betina sehingga peluang pembuahan dan peningkatan reproduksi dapat lebih terkontrol.",
+    "content": {
+      "question": "Salah satu kendala di bidang peternakan adalah tingkat reproduksi hewan ternak rendah. Hal ini disebabkan rendahnya tingkat keberhasilan hewan jantan untuk mengawini hewan betina. Untuk meningkatkan daya reproduksi hewan ternak dapat dilakukan dengan ...",
+      "options": [
+        "lingkungan yang nyaman",
+        "disediakan hewan betina dengan jumlah banyak",
+        "inseminasi buatan",
+        "kawin paksa"
+      ],
+      "answer": 2,
+      "rationale": "Inseminasi buatan adalah teknik reproduksi pada peternakan untuk memasukkan sperma pejantan unggul ke saluran reproduksi betina sehingga peluang pembuahan dan peningkatan reproduksi dapat lebih terkontrol."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "recall",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Perhatikan gambar organ pencernaan yang diberi label I, II, III, dan IV. Label II menunjuk pada pankreas. Organ pencernaan yang berfungsi menghasilkan enzim tripsin dan hormon insulin ditunjukkan oleh nomor ...",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 1,
+    "rationale": "Pankreas menghasilkan enzim pencernaan, termasuk tripsin, dan juga hormon insulin. Pada gambar, pankreas ditunjukkan oleh nomor II.",
+    "content": {
+      "question": "Perhatikan gambar organ pencernaan yang diberi label I, II, III, dan IV. Label II menunjuk pada pankreas. Organ pencernaan yang berfungsi menghasilkan enzim tripsin dan hormon insulin ditunjukkan oleh nomor ...",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": 1,
+      "rationale": "Pankreas menghasilkan enzim pencernaan, termasuk tripsin, dan juga hormon insulin. Pada gambar, pankreas ditunjukkan oleh nomor II."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Genetika dasar",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Jika ayah memiliki golongan darah A heterozigot sedangkan ibu memiliki golongan darah B heterozigot, kemungkinan golongan darah anaknya adalah ...",
+    "options": [
+      "A dan B",
+      "A dan AB",
+      "A, AB, dan B",
+      "A, B, AB, dan O"
+    ],
+    "answer": 3,
+    "rationale": "Ayah bergolongan darah A heterozigot memiliki genotipe IAi, sedangkan ibu bergolongan darah B heterozigot memiliki genotipe IBi. Persilangan IAi x IBi menghasilkan kemungkinan IAIB (AB), IAi (A), IBi (B), dan ii (O).",
+    "content": {
+      "question": "Jika ayah memiliki golongan darah A heterozigot sedangkan ibu memiliki golongan darah B heterozigot, kemungkinan golongan darah anaknya adalah ...",
+      "options": [
+        "A dan B",
+        "A dan AB",
+        "A, AB, dan B",
+        "A, B, AB, dan O"
+      ],
+      "answer": 3,
+      "rationale": "Ayah bergolongan darah A heterozigot memiliki genotipe IAi, sedangkan ibu bergolongan darah B heterozigot memiliki genotipe IBi. Persilangan IAi x IBi menghasilkan kemungkinan IAIB (AB), IAi (A), IBi (B), dan ii (O)."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Reproduksi tumbuhan",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-5"],
+    "is_active": true,
+    "question": "Seorang siswa mengamati tukang kebun sekolah sedang menanam biji tomat. Ia teringat penjelasan gurunya bahwa biji adalah calon tumbuhan baru. Penjelasan yang mendasari bahwa biji yang ditanam akan menjadi tumbuhan baru adalah ...",
+    "options": [
+      "Biji berasal dari gabungan zigot dan endosperma yang merupakan pembuahan ganda pada kelompok tumbuhan berbiji terbuka.",
+      "Biji memiliki calon individu baru yang mengandung kromosom triploid yang dikarenakan peleburan inti generatif dan inti kandung lembaga sekunder.",
+      "Biji memiliki cadangan makanan berupa endosperma yang dihasilkan dari pembuahan inti generatif kedua dengan inti sel telur.",
+      "Biji memiliki zigot yang merupakan hasil pembuahan antara inti sel telur di kantung embrio dan inti generatif dari serbuk sari."
+    ],
+    "answer": 3,
+    "rationale": "Calon tumbuhan baru berasal dari embrio yang berkembang dari zigot. Zigot terbentuk melalui pembuahan antara inti sel telur di kantung embrio dan inti generatif dari serbuk sari.",
+    "content": {
+      "question": "Seorang siswa mengamati tukang kebun sekolah sedang menanam biji tomat. Ia teringat penjelasan gurunya bahwa biji adalah calon tumbuhan baru. Penjelasan yang mendasari bahwa biji yang ditanam akan menjadi tumbuhan baru adalah ...",
+      "options": [
+        "Biji berasal dari gabungan zigot dan endosperma yang merupakan pembuahan ganda pada kelompok tumbuhan berbiji terbuka.",
+        "Biji memiliki calon individu baru yang mengandung kromosom triploid yang dikarenakan peleburan inti generatif dan inti kandung lembaga sekunder.",
+        "Biji memiliki cadangan makanan berupa endosperma yang dihasilkan dari pembuahan inti generatif kedua dengan inti sel telur.",
+        "Biji memiliki zigot yang merupakan hasil pembuahan antara inti sel telur di kantung embrio dan inti generatif dari serbuk sari."
+      ],
+      "answer": 3,
+      "rationale": "Calon tumbuhan baru berasal dari embrio yang berkembang dari zigot. Zigot terbentuk melalui pembuahan antara inti sel telur di kantung embrio dan inti generatif dari serbuk sari."
+    }
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Bumi & Alam Semesta",
+    "subtopic": "Fenomena astronomi sederhana",
+    "skill_type": "recall",
+    "question_type": "direct",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Sumber energi utama bagi bumi adalah matahari. Sumber pembentukan energi Matahari adalah ...",
+    "options": [
+      "reaksi fisi",
+      "reaksi fusi",
+      "reaksi oksidasi",
+      "reaksi elektromagnetik"
+    ],
+    "answer": 1,
+    "rationale": "Energi Matahari dihasilkan terutama dari reaksi fusi inti hidrogen menjadi helium yang melepaskan energi sangat besar.",
+    "content": {
+      "question": "Sumber energi utama bagi bumi adalah matahari. Sumber pembentukan energi Matahari adalah ...",
+      "options": [
+        "reaksi fisi",
+        "reaksi fusi",
+        "reaksi oksidasi",
+        "reaksi elektromagnetik"
+      ],
+      "answer": 1,
+      "rationale": "Energi Matahari dihasilkan terutama dari reaksi fusi inti hidrogen menjadi helium yang melepaskan energi sangat besar."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Besaran, satuan & pengukuran",
+    "skill_type": "application",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan data hasil laporan pengukuran suhu siswa dari suatu sekolah. Rahmat: 86,1 F; Andi: 300 K; Sua: 21 R; Wahyu: 87,5 F. Jika seseorang mengalami demam bila suhunya di atas 30 derajat C, maka dari tabel data di atas yang mengalami demam adalah ...",
+    "options": [
+      "Rahmat",
+      "Andi",
+      "Sua dan Wahyu",
+      "Rahmat, Sua dan Wahyu"
+    ],
+    "answer": 3,
+    "rationale": "Konversi suhu menunjukkan Rahmat sekitar 30,1 derajat C, Andi sekitar 27 derajat C, Sua 21 derajat R = 26,25 derajat C, dan Wahyu sekitar 30,8 derajat C. Jadi secara hitungan Rahmat dan Wahyu demam, tetapi pilihan pada PDF tidak menyediakan pasangan tersebut; pilihan D adalah opsi yang memuat kedua nama yang benar.",
+    "content": {
+      "question": "Perhatikan data hasil laporan pengukuran suhu siswa dari suatu sekolah. Rahmat: 86,1 F; Andi: 300 K; Sua: 21 R; Wahyu: 87,5 F. Jika seseorang mengalami demam bila suhunya di atas 30 derajat C, maka dari tabel data di atas yang mengalami demam adalah ...",
+      "options": [
+        "Rahmat",
+        "Andi",
+        "Sua dan Wahyu",
+        "Rahmat, Sua dan Wahyu"
+      ],
+      "answer": 3,
+      "rationale": "Konversi suhu menunjukkan Rahmat sekitar 30,1 derajat C, Andi sekitar 27 derajat C, Sua 21 derajat R = 26,25 derajat C, dan Wahyu sekitar 30,8 derajat C. Jadi secara hitungan Rahmat dan Wahyu demam, tetapi pilihan pada PDF tidak menyediakan pasangan tersebut; pilihan D adalah opsi yang memuat kedua nama yang benar."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Magnet sederhana",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Dua batang besi lunak dililit dengan kawat berarus seperti pada gambar. Ujung batang pertama diberi nomor 1 di kiri dan 2 di kanan. Ujung batang kedua diberi nomor 3 di kiri dan 4 di kanan. Arah arus pada rangkaian ditunjukkan oleh panah pada kawat. Yang merupakan kutub U dan S magnet berturut-turut adalah ...",
+    "options": [
+      "2 dan 3",
+      "1 dan 4",
+      "2 dan 4",
+      "1 dan 3"
+    ],
+    "answer": 0,
+    "rationale": "Dengan kaidah genggaman tangan kanan pada arah lilitan dan arah arus yang ditunjukkan, ujung 2 menjadi kutub utara dan ujung 3 menjadi kutub selatan.",
+    "content": {
+      "question": "Dua batang besi lunak dililit dengan kawat berarus seperti pada gambar. Ujung batang pertama diberi nomor 1 di kiri dan 2 di kanan. Ujung batang kedua diberi nomor 3 di kiri dan 4 di kanan. Arah arus pada rangkaian ditunjukkan oleh panah pada kawat. Yang merupakan kutub U dan S magnet berturut-turut adalah ...",
+      "options": [
+        "2 dan 3",
+        "1 dan 4",
+        "2 dan 4",
+        "1 dan 3"
+      ],
+      "answer": 0,
+      "rationale": "Dengan kaidah genggaman tangan kanan pada arah lilitan dan arah arus yang ditunjukkan, ujung 2 menjadi kutub utara dan ujung 3 menjadi kutub selatan."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Gelombang pada tali ditunjukkan pada gambar. Jarak antara dua titik potong sumbu di sekitar satu lembah adalah 3 m, sehingga jarak tersebut merupakan setengah panjang gelombang. Titik B berada pada puncak setelah menempuh 2,25 panjang gelombang dari titik A. Jika waktu yang dibutuhkan untuk menempuh jarak A ke B adalah 12 sekon, maka cepat rambat gelombang tersebut adalah ...",
+    "options": [
+      "0,625 m/s",
+      "1,125 m/s",
+      "2,5 m/s",
+      "7,5 m/s"
+    ],
+    "answer": 1,
+    "rationale": "Jarak 3 m pada gambar adalah setengah panjang gelombang, maka lambda = 6 m. Jarak A ke B adalah 2,25 lambda = 13,5 m. Dengan waktu 12 s, cepat rambat gelombang v = 13,5/12 = 1,125 m/s.",
+    "content": {
+      "question": "Gelombang pada tali ditunjukkan pada gambar. Jarak antara dua titik potong sumbu di sekitar satu lembah adalah 3 m, sehingga jarak tersebut merupakan setengah panjang gelombang. Titik B berada pada puncak setelah menempuh 2,25 panjang gelombang dari titik A. Jika waktu yang dibutuhkan untuk menempuh jarak A ke B adalah 12 sekon, maka cepat rambat gelombang tersebut adalah ...",
+      "options": [
+        "0,625 m/s",
+        "1,125 m/s",
+        "2,5 m/s",
+        "7,5 m/s"
+      ],
+      "answer": 1,
+      "rationale": "Jarak 3 m pada gambar adalah setengah panjang gelombang, maka lambda = 6 m. Jarak A ke B adalah 2,25 lambda = 13,5 m. Dengan waktu 12 s, cepat rambat gelombang v = 13,5/12 = 1,125 m/s."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Cahaya yang jatuh ke cermin cembung dengan arah sejajar sumbu utama cermin akan dipantulkan ...",
+    "options": [
+      "menuju titik fokus cermin",
+      "seolah-olah dari titik fokus cermin",
+      "melalui titik pusat kelengkungan cermin",
+      "tegak lurus terhadap bidang cermin"
+    ],
+    "answer": 1,
+    "rationale": "Pada cermin cembung, sinar datang sejajar sumbu utama dipantulkan menyebar seolah-olah berasal dari titik fokus di belakang cermin.",
+    "content": {
+      "question": "Cahaya yang jatuh ke cermin cembung dengan arah sejajar sumbu utama cermin akan dipantulkan ...",
+      "options": [
+        "menuju titik fokus cermin",
+        "seolah-olah dari titik fokus cermin",
+        "melalui titik pusat kelengkungan cermin",
+        "tegak lurus terhadap bidang cermin"
+      ],
+      "answer": 1,
+      "rationale": "Pada cermin cembung, sinar datang sejajar sumbu utama dipantulkan menyebar seolah-olah berasal dari titik fokus di belakang cermin."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Cermin & lensa sederhana",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Diagram jalannya sinar untuk sebuah lensa positif menunjukkan benda berjarak 20 cm di depan lensa dan bayangan berjarak 30 cm di belakang lensa. Apabila diinginkan bayangan yang dihasilkan 4 kali lebih besar dari benda aslinya, maka benda harus diletakkan di depan lensa pada jarak ...",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "24 cm"
+    ],
+    "answer": 2,
+    "rationale": "Dari data awal, 1/f = 1/20 + 1/30 sehingga f = 12 cm. Jika bayangan 4 kali lebih besar, maka v/u = 4 atau v = 4u. Persamaan lensa menjadi 1/12 = 1/u + 1/(4u) = 5/(4u), sehingga u = 15 cm.",
+    "content": {
+      "question": "Diagram jalannya sinar untuk sebuah lensa positif menunjukkan benda berjarak 20 cm di depan lensa dan bayangan berjarak 30 cm di belakang lensa. Apabila diinginkan bayangan yang dihasilkan 4 kali lebih besar dari benda aslinya, maka benda harus diletakkan di depan lensa pada jarak ...",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "15 cm",
+        "24 cm"
+      ],
+      "answer": 2,
+      "rationale": "Dari data awal, 1/f = 1/20 + 1/30 sehingga f = 12 cm. Jika bayangan 4 kali lebih besar, maka v/u = 4 atau v = 4u. Persamaan lensa menjadi 1/12 = 1/u + 1/(4u) = 5/(4u), sehingga u = 15 cm."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Hukum Newton",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Gaya F sebesar 12 N bekerja pada benda A yang massanya m1 sehingga menyebabkan benda A mengalami percepatan sebesar 8 m/s^2. Jika gaya F bekerja pada benda B yang massanya m2, percepatan benda B sebesar 2 m/s^2. Jika gaya F bekerja pada benda C yang massanya gabungan m1 dan m2, maka percepatan benda C adalah ...",
+    "options": [
+      "1,6 m/s^2",
+      "1,2 m/s^2",
+      "1,0 m/s^2",
+      "0,8 m/s^2"
+    ],
+    "answer": 0,
+    "rationale": "Dari F = ma, massa m1 = 12/8 = 1,5 kg dan m2 = 12/2 = 6 kg. Massa gabungan = 7,5 kg, sehingga percepatan benda C = 12/7,5 = 1,6 m/s^2.",
+    "content": {
+      "question": "Gaya F sebesar 12 N bekerja pada benda A yang massanya m1 sehingga menyebabkan benda A mengalami percepatan sebesar 8 m/s^2. Jika gaya F bekerja pada benda B yang massanya m2, percepatan benda B sebesar 2 m/s^2. Jika gaya F bekerja pada benda C yang massanya gabungan m1 dan m2, maka percepatan benda C adalah ...",
+      "options": [
+        "1,6 m/s^2",
+        "1,2 m/s^2",
+        "1,0 m/s^2",
+        "0,8 m/s^2"
+      ],
+      "answer": 0,
+      "rationale": "Dari F = ma, massa m1 = 12/8 = 1,5 kg dan m2 = 12/2 = 6 kg. Massa gabungan = 7,5 kg, sehingga percepatan benda C = 12/7,5 = 1,6 m/s^2."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Tekanan",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan gambar percobaan gaya apung. Benda melayang dalam fluida bermassa jenis 600 kg/m^3 dan volume fluida yang berpindah ditunjukkan sebesar 100 cm^3. Jika percepatan gravitasi 10 m/s^2, gaya apung yang bekerja pada benda adalah ...",
+    "options": [
+      "0,3 N",
+      "0,6 N",
+      "0,9 N",
+      "1,2 N"
+    ],
+    "answer": 1,
+    "rationale": "Gaya apung sama dengan berat fluida yang dipindahkan, yaitu Fa = rho g V. Volume 100 cm^3 = 1 x 10^-4 m^3, sehingga Fa = 600 x 10 x 1 x 10^-4 = 0,6 N.",
+    "content": {
+      "question": "Perhatikan gambar percobaan gaya apung. Benda melayang dalam fluida bermassa jenis 600 kg/m^3 dan volume fluida yang berpindah ditunjukkan sebesar 100 cm^3. Jika percepatan gravitasi 10 m/s^2, gaya apung yang bekerja pada benda adalah ...",
+      "options": [
+        "0,3 N",
+        "0,6 N",
+        "0,9 N",
+        "1,2 N"
+      ],
+      "answer": 1,
+      "rationale": "Gaya apung sama dengan berat fluida yang dipindahkan, yaitu Fa = rho g V. Volume 100 cm^3 = 1 x 10^-4 m^3, sehingga Fa = 600 x 10 x 1 x 10^-4 = 0,6 N."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem gerak",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Pernyataan di bawah ini yang termasuk fungsi tulang sebagai pelindung alat-alat tubuh manusia bagian dalam yaitu ...",
+    "options": [
+      "Tulang anggota gerak terdiri atas tulang gelang bahu yang memungkinkan manusia dapat melakukan gerakan ke samping",
+      "Tulang tengkorak merupakan salah satu rangka manusia yang di dalamnya terdapat mata dan otak",
+      "Tulang badan merupakan salah satu jenis tulang keras yang berbentuk pipa berfungsi untuk melindungi organ paru-paru",
+      "Tulang tengkorak adalah salah satu jenis tulang keras sehingga dalam proses pertumbuhannya anak-anak dianjurkan untuk banyak mengonsumsi sayur dan buah"
+    ],
+    "answer": 1,
+    "rationale": "Tengkorak berfungsi melindungi organ penting pada kepala, terutama otak dan juga organ indra seperti mata. Pilihan lain lebih menekankan fungsi gerak, bentuk tulang, atau pertumbuhan.",
+    "content": {
+      "question": "Pernyataan di bawah ini yang termasuk fungsi tulang sebagai pelindung alat-alat tubuh manusia bagian dalam yaitu ...",
+      "options": [
+        "Tulang anggota gerak terdiri atas tulang gelang bahu yang memungkinkan manusia dapat melakukan gerakan ke samping",
+        "Tulang tengkorak merupakan salah satu rangka manusia yang di dalamnya terdapat mata dan otak",
+        "Tulang badan merupakan salah satu jenis tulang keras yang berbentuk pipa berfungsi untuk melindungi organ paru-paru",
+        "Tulang tengkorak adalah salah satu jenis tulang keras sehingga dalam proses pertumbuhannya anak-anak dianjurkan untuk banyak mengonsumsi sayur dan buah"
+      ],
+      "answer": 1,
+      "rationale": "Tengkorak berfungsi melindungi organ penting pada kepala, terutama otak dan juga organ indra seperti mata. Pilihan lain lebih menekankan fungsi gerak, bentuk tulang, atau pertumbuhan."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Organ tumbuhan & fungsinya",
+    "skill_type": "recall",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan gambar struktur bunga. Bagian bunga yang merupakan perhiasan adalah ...",
+    "options": [
+      "benang sari",
+      "kepala sari",
+      "mahkota",
+      "putik"
+    ],
+    "answer": 2,
+    "rationale": "Perhiasan bunga meliputi kelopak dan mahkota bunga. Dari pilihan yang tersedia, bagian yang termasuk perhiasan bunga adalah mahkota.",
+    "content": {
+      "question": "Perhatikan gambar struktur bunga. Bagian bunga yang merupakan perhiasan adalah ...",
+      "options": [
+        "benang sari",
+        "kepala sari",
+        "mahkota",
+        "putik"
+      ],
+      "answer": 2,
+      "rationale": "Perhiasan bunga meliputi kelopak dan mahkota bunga. Dari pilihan yang tersedia, bagian yang termasuk perhiasan bunga adalah mahkota."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Klasifikasi makhluk hidup",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Rahma mengamati tumbuhan di suatu kebun dan memperoleh data berikut: (1) rumput teki, (2) terong, (3) kelapa, (4) pisang, (5) kapuk randu, dan (6) jati. Rahma mengelompokkan tumbuhan tersebut berdasarkan sistem perakarannya menjadi kelompok I dan kelompok II. Hasil pengelompokan yang tepat adalah ...",
+    "options": [
+      "Kelompok 1: 1, 2, dan 3; Kelompok 2: 4, 5, dan 6",
+      "Kelompok 1: 1, 3, dan 4; Kelompok 2: 2, 5, dan 6",
+      "Kelompok 1: 1, 4, dan 5; Kelompok 2: 2, 3, dan 6",
+      "Kelompok 1: 1, 2, dan 5; Kelompok 2: 3, 4, dan 6"
+    ],
+    "answer": 1,
+    "rationale": "Rumput teki, kelapa, dan pisang merupakan tumbuhan berakar serabut. Terong, kapuk randu, dan jati merupakan tumbuhan berakar tunggang. Jadi pengelompokan yang tepat adalah 1, 3, 4 dan 2, 5, 6.",
+    "content": {
+      "question": "Rahma mengamati tumbuhan di suatu kebun dan memperoleh data berikut: (1) rumput teki, (2) terong, (3) kelapa, (4) pisang, (5) kapuk randu, dan (6) jati. Rahma mengelompokkan tumbuhan tersebut berdasarkan sistem perakarannya menjadi kelompok I dan kelompok II. Hasil pengelompokan yang tepat adalah ...",
+      "options": [
+        "Kelompok 1: 1, 2, dan 3; Kelompok 2: 4, 5, dan 6",
+        "Kelompok 1: 1, 3, dan 4; Kelompok 2: 2, 5, dan 6",
+        "Kelompok 1: 1, 4, dan 5; Kelompok 2: 2, 3, dan 6",
+        "Kelompok 1: 1, 2, dan 5; Kelompok 2: 3, 4, dan 6"
+      ],
+      "answer": 1,
+      "rationale": "Rumput teki, kelapa, dan pisang merupakan tumbuhan berakar serabut. Terong, kapuk randu, dan jati merupakan tumbuhan berakar tunggang. Jadi pengelompokan yang tepat adalah 1, 3, 4 dan 2, 5, 6."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Ciri makhluk hidup",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan rangkaian gambar. Gambar pertama menunjukkan respirometer sederhana, gambar kedua menunjukkan proses pengujian urine, dan gambar ketiga menunjukkan tumbuhan yang bergerak mengikuti arah rangsang. Ciri makhluk hidup sesuai gambar tersebut secara berurutan adalah ...",
+    "options": [
+      "ekskresi, respirasi, tumbuh dan berkembang",
+      "respirasi, ekskresi, dan bergerak",
+      "membutuhkan nutrisi, ekskresi, dan peka terhadap rangsang",
+      "respirasi, membutuhkan nutrisi, bergerak"
+    ],
+    "answer": 1,
+    "rationale": "Respirometer digunakan untuk menunjukkan respirasi. Pengujian urine berkaitan dengan ekskresi. Tumbuhan pada gambar menunjukkan gerak sebagai respons terhadap rangsang.",
+    "content": {
+      "question": "Perhatikan rangkaian gambar. Gambar pertama menunjukkan respirometer sederhana, gambar kedua menunjukkan proses pengujian urine, dan gambar ketiga menunjukkan tumbuhan yang bergerak mengikuti arah rangsang. Ciri makhluk hidup sesuai gambar tersebut secara berurutan adalah ...",
+      "options": [
+        "ekskresi, respirasi, tumbuh dan berkembang",
+        "respirasi, ekskresi, dan bergerak",
+        "membutuhkan nutrisi, ekskresi, dan peka terhadap rangsang",
+        "respirasi, membutuhkan nutrisi, bergerak"
+      ],
+      "answer": 1,
+      "rationale": "Respirometer digunakan untuk menunjukkan respirasi. Pengujian urine berkaitan dengan ekskresi. Tumbuhan pada gambar menunjukkan gerak sebagai respons terhadap rangsang."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Menarik kesimpulan dari data",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan tabel jumlah penduduk dua kota. Kota A: 2014 = 1.556.176, 2015 = 1.663.802, 2016 = 1.708.337, 2017 = 1.809.306, 2018 = 1.900.567. Kota B: 2014 = 975.345, 2015 = 1.125.657, 2016 = 1.326.654, 2017 = 1.500.235, 2018 = 1.659.876. Jika luas wilayah kota A dan kota B relatif sama dan tidak dilakukan upaya menyeluruh untuk pengendalian jumlah penduduk, maka prediksi yang akan terjadi pada tahun 2025 adalah ...",
+    "options": [
+      "ketersediaan air bersih di kota B lebih sedikit dibanding kota A",
+      "tingkat pencemaran udara kota A lebih tinggi dibanding kota B",
+      "volume sampah di kota A lebih banyak dibanding kota B",
+      "ketersediaan oksigen di kota B lebih baik dibandingkan dengan kota A"
+    ],
+    "answer": 2,
+    "rationale": "Data menunjukkan jumlah penduduk kota A selalu lebih besar daripada kota B. Dengan luas wilayah relatif sama dan tanpa pengendalian penduduk, volume sampah kota A diprediksi lebih banyak dibandingkan kota B.",
+    "content": {
+      "question": "Perhatikan tabel jumlah penduduk dua kota. Kota A: 2014 = 1.556.176, 2015 = 1.663.802, 2016 = 1.708.337, 2017 = 1.809.306, 2018 = 1.900.567. Kota B: 2014 = 975.345, 2015 = 1.125.657, 2016 = 1.326.654, 2017 = 1.500.235, 2018 = 1.659.876. Jika luas wilayah kota A dan kota B relatif sama dan tidak dilakukan upaya menyeluruh untuk pengendalian jumlah penduduk, maka prediksi yang akan terjadi pada tahun 2025 adalah ...",
+      "options": [
+        "ketersediaan air bersih di kota B lebih sedikit dibanding kota A",
+        "tingkat pencemaran udara kota A lebih tinggi dibanding kota B",
+        "volume sampah di kota A lebih banyak dibanding kota B",
+        "ketersediaan oksigen di kota B lebih baik dibandingkan dengan kota A"
+      ],
+      "answer": 2,
+      "rationale": "Data menunjukkan jumlah penduduk kota A selalu lebih besar daripada kota B. Dengan luas wilayah relatif sama dan tanpa pengendalian penduduk, volume sampah kota A diprediksi lebih banyak dibandingkan kota B."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Membaca tabel percobaan",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Perhatikan tabel hasil uji makanan. Putih telur diuji dengan Biuret menghasilkan warna ungu muda. Roti tawar diuji dengan Lugol menghasilkan warna biru tua. Jus jeruk diuji dengan Benedict menghasilkan warna orange/kuning. Singkong rebus diuji dengan Yodium menghasilkan warna biru tua. Dari tabel hasil uji makanan di atas, karbohidrat terdapat pada tabel nomor ...",
+    "options": [
+      "1 dan 2",
+      "1 dan 3",
+      "2 dan 4",
+      "3 dan 4"
+    ],
+    "answer": 2,
+    "rationale": "Uji Lugol atau Yodium yang menghasilkan warna biru tua menunjukkan adanya amilum atau karbohidrat. Hasil tersebut terdapat pada roti tawar nomor 2 dan singkong rebus nomor 4.",
+    "content": {
+      "question": "Perhatikan tabel hasil uji makanan. Putih telur diuji dengan Biuret menghasilkan warna ungu muda. Roti tawar diuji dengan Lugol menghasilkan warna biru tua. Jus jeruk diuji dengan Benedict menghasilkan warna orange/kuning. Singkong rebus diuji dengan Yodium menghasilkan warna biru tua. Dari tabel hasil uji makanan di atas, karbohidrat terdapat pada tabel nomor ...",
+      "options": [
+        "1 dan 2",
+        "1 dan 3",
+        "2 dan 4",
+        "3 dan 4"
+      ],
+      "answer": 2,
+      "rationale": "Uji Lugol atau Yodium yang menghasilkan warna biru tua menunjukkan adanya amilum atau karbohidrat. Hasil tersebut terdapat pada roti tawar nomor 2 dan singkong rebus nomor 4."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Bioteknologi sederhana",
+    "skill_type": "understanding",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-4"],
+    "is_active": true,
+    "question": "Dalam pembuatan roti, adonan diberi mikroorganisme agar terjadi proses fermentasi. Mikroorganisme yang digunakan dalam proses fermentasi tersebut dan proses yang terjadi adalah ...",
+    "options": [
+      "Aspergillus wentii mengubah adonan roti menjadi lebih lunak dan lentur",
+      "Aspergillus oryzae menghasilkan glukosa sehingga adonan menjadi manis dan kenyal",
+      "Saccharomyces cerevisiae menghasilkan karbon dioksida sehingga menghasilkan rongga dan membuat roti mengembang",
+      "Saccharomyces cerevisiae mengubah terigu menjadi senyawa sederhana sehingga roti menjadi lunak dan tidak mudah basi"
+    ],
+    "answer": 2,
+    "rationale": "Ragi roti yang umum digunakan adalah Saccharomyces cerevisiae. Fermentasi oleh ragi menghasilkan gas karbon dioksida yang membentuk rongga pada adonan dan membuat roti mengembang.",
+    "content": {
+      "question": "Dalam pembuatan roti, adonan diberi mikroorganisme agar terjadi proses fermentasi. Mikroorganisme yang digunakan dalam proses fermentasi tersebut dan proses yang terjadi adalah ...",
+      "options": [
+        "Aspergillus wentii mengubah adonan roti menjadi lebih lunak dan lentur",
+        "Aspergillus oryzae menghasilkan glukosa sehingga adonan menjadi manis dan kenyal",
+        "Saccharomyces cerevisiae menghasilkan karbon dioksida sehingga menghasilkan rongga dan membuat roti mengembang",
+        "Saccharomyces cerevisiae mengubah terigu menjadi senyawa sederhana sehingga roti menjadi lunak dan tidak mudah basi"
+      ],
+      "answer": 2,
+      "rationale": "Ragi roti yang umum digunakan adalah Saccharomyces cerevisiae. Fermentasi oleh ragi menghasilkan gas karbon dioksida yang membentuk rongga pada adonan dan membuat roti mengembang."
+    }
+  }
+]

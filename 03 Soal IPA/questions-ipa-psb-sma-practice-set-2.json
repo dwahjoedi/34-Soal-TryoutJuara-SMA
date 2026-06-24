@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Gerak lurus",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Benda yang memiliki massa 5 kg jatuh bebas dari ketinggian 40 m pada suatu tempat yang memiliki gravitasi 10 m/s^2. Jika gesekan udara dengan permukaan benda diabaikan, maka kecepatan benda saat ketinggian 20 m dari atas tanah adalah ...",
+    "options": [
+      "10 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s"
+    ],
+    "answer": 1,
+    "rationale": "Saat benda berada pada ketinggian 20 m dari tanah, benda sudah jatuh sejauh 20 m dari posisi awal 40 m. Dengan v^2 = 2gh, diperoleh v^2 = 2 x 10 x 20 = 400 sehingga v = 20 m/s.",
+    "content": {
+      "question": "Benda yang memiliki massa 5 kg jatuh bebas dari ketinggian 40 m pada suatu tempat yang memiliki gravitasi 10 m/s^2. Jika gesekan udara dengan permukaan benda diabaikan, maka kecepatan benda saat ketinggian 20 m dari atas tanah adalah ...",
+      "options": [
+        "10 m/s",
+        "20 m/s",
+        "30 m/s",
+        "40 m/s"
+      ],
+      "answer": 1,
+      "rationale": "Saat benda berada pada ketinggian 20 m dari tanah, benda sudah jatuh sejauh 20 m dari posisi awal 40 m. Dengan v^2 = 2gh, diperoleh v^2 = 2 x 10 x 20 = 400 sehingga v = 20 m/s."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Pemantulan cahaya",
+    "skill_type": "reasoning",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Dua buah cermin datar disusun membentuk sudut 120°. Seberkas cahaya datang pada cermin pertama dengan sudut datang 65° terhadap garis normal cermin pertama. Setelah dipantulkan oleh cermin pertama, sinar menuju cermin kedua.\n\nBesar sudut antara sinar datang dengan sinar pantul pada cermin kedua adalah ...",
+    "options": [
+      "130°",
+      "110°",
+      "55°",
+      "35°"
+    ],
+    "answer": 1,
+    "rationale": "Sudut datang pada cermin pertama 65° terhadap normal, sehingga sudut sinar terhadap permukaan cermin pertama adalah 25°. Setelah dipantulkan, sinar membentuk sudut 25° terhadap cermin pertama menuju cermin kedua. Karena sudut antarcermin 120°, sudut sinar terhadap permukaan cermin kedua menjadi 35°, sehingga sudut datang terhadap normal cermin kedua adalah 55°. Sudut antara sinar datang dan sinar pantul pada cermin kedua = 2 x 55° = 110°.",
+    "content": {
+      "question": "Dua buah cermin datar disusun membentuk sudut 120°. Seberkas cahaya datang pada cermin pertama dengan sudut datang 65° terhadap garis normal cermin pertama. Setelah dipantulkan oleh cermin pertama, sinar menuju cermin kedua.\n\nBesar sudut antara sinar datang dengan sinar pantul pada cermin kedua adalah ...",
+      "options": [
+        "130°",
+        "110°",
+        "55°",
+        "35°"
+      ],
+      "answer": 1,
+      "rationale": "Sudut datang pada cermin pertama 65° terhadap normal, sehingga sudut sinar terhadap permukaan cermin pertama adalah 25°. Setelah dipantulkan, sinar membentuk sudut 25° terhadap cermin pertama menuju cermin kedua. Karena sudut antarcermin 120°, sudut sinar terhadap permukaan cermin kedua menjadi 35°, sehingga sudut datang terhadap normal cermin kedua adalah 55°. Sudut antara sinar datang dan sinar pantul pada cermin kedua = 2 x 55° = 110°."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Tekanan",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Sebuah pompa hidrolik memiliki perbandingan luas penampang pada lengan-lengannya sebesar 1 : 100. Jika percepatan gravitasi 10 m/s^2, maka besar gaya yang dibutuhkan untuk mengangkat beban sebesar 2 ton adalah ...",
+    "options": [
+      "10 N",
+      "20 N",
+      "100 N",
+      "200 N"
+    ],
+    "answer": 3,
+    "rationale": "Beban 2 ton = 2000 kg, sehingga beratnya 2000 x 10 = 20.000 N. Pada pompa hidrolik, F1/A1 = F2/A2. Karena A1 : A2 = 1 : 100, gaya kecil yang dibutuhkan = 20.000/100 = 200 N.",
+    "content": {
+      "question": "Sebuah pompa hidrolik memiliki perbandingan luas penampang pada lengan-lengannya sebesar 1 : 100. Jika percepatan gravitasi 10 m/s^2, maka besar gaya yang dibutuhkan untuk mengangkat beban sebesar 2 ton adalah ...",
+      "options": [
+        "10 N",
+        "20 N",
+        "100 N",
+        "200 N"
+      ],
+      "answer": 3,
+      "rationale": "Beban 2 ton = 2000 kg, sehingga beratnya 2000 x 10 = 20.000 N. Pada pompa hidrolik, F1/A1 = F2/A2. Karena A1 : A2 = 1 : 100, gaya kecil yang dibutuhkan = 20.000/100 = 200 N."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "concept_understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Faktor-faktor yang dapat mempercepat perambatan gelombang pada dawai adalah:\n\n1) Memperpanjang kawat\n2) Memperbesar massa jenis kawat\n3) Memperbesar tegangan kawat\n4) Memperbesar ukuran kawat\n\nPernyataan yang benar adalah ...",
+    "options": [
+      "1, 2 dan 3",
+      "3 dan 4",
+      "3 saja",
+      "Semua benar"
+    ],
+    "answer": 2,
+    "rationale": "Kecepatan gelombang pada dawai bergantung pada akar perbandingan tegangan terhadap massa per satuan panjang. Memperbesar tegangan kawat mempercepat rambat gelombang, sedangkan memperbesar massa jenis atau ukuran kawat cenderung memperbesar massa per satuan panjang sehingga tidak mempercepat.",
+    "content": {
+      "question": "Faktor-faktor yang dapat mempercepat perambatan gelombang pada dawai adalah:\n\n1) Memperpanjang kawat\n2) Memperbesar massa jenis kawat\n3) Memperbesar tegangan kawat\n4) Memperbesar ukuran kawat\n\nPernyataan yang benar adalah ...",
+      "options": [
+        "1, 2 dan 3",
+        "3 dan 4",
+        "3 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "rationale": "Kecepatan gelombang pada dawai bergantung pada akar perbandingan tegangan terhadap massa per satuan panjang. Memperbesar tegangan kawat mempercepat rambat gelombang, sedangkan memperbesar massa jenis atau ukuran kawat cenderung memperbesar massa per satuan panjang sehingga tidak mempercepat."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Rangkaian listrik",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Jumlah lilitan primer dan sekunder transformator adalah 800 lilitan. Jika perbandingan banyaknya lilitan primer dan sekunder 1 : 3 dan transformator tersebut diberikan tegangan primer 12 volt, maka banyaknya lilitan primer dan besar tegangan sekunder berturut-turut adalah ...",
+    "options": [
+      "600 lilitan dan 24 volt",
+      "300 lilitan dan 24 volt",
+      "200 lilitan dan 36 volt",
+      "100 lilitan dan 36 volt"
+    ],
+    "answer": 2,
+    "rationale": "Perbandingan Np : Ns = 1 : 3 berarti total 4 bagian. Jumlah lilitan primer = 1/4 x 800 = 200 lilitan. Tegangan sekunder mengikuti Vs/Vp = Ns/Np = 3, sehingga Vs = 3 x 12 = 36 volt.",
+    "content": {
+      "question": "Jumlah lilitan primer dan sekunder transformator adalah 800 lilitan. Jika perbandingan banyaknya lilitan primer dan sekunder 1 : 3 dan transformator tersebut diberikan tegangan primer 12 volt, maka banyaknya lilitan primer dan besar tegangan sekunder berturut-turut adalah ...",
+      "options": [
+        "600 lilitan dan 24 volt",
+        "300 lilitan dan 24 volt",
+        "200 lilitan dan 36 volt",
+        "100 lilitan dan 36 volt"
+      ],
+      "answer": 2,
+      "rationale": "Perbandingan Np : Ns = 1 : 3 berarti total 4 bagian. Jumlah lilitan primer = 1/4 x 800 = 200 lilitan. Tegangan sekunder mengikuti Vs/Vp = Ns/Np = 3, sehingga Vs = 3 x 12 = 36 volt."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan skema pesawat sederhana berupa tuas. Beban B sebesar 330 N berada pada lengan pendek dengan panjang a, sedangkan gaya F diberikan pada lengan panjang b. Perbandingan panjang a dan b adalah a : b = 1 : 2,2. Nilai minimum gaya F untuk mengangkat beban B adalah ... N.",
+    "options": [
+      "100",
+      "150",
+      "2.200",
+      "7.260"
+    ],
+    "answer": 1,
+    "rationale": "Pada tuas berlaku B x a = F x b. Karena a : b = 1 : 2,2, maka F = 330 x (1/2,2) = 150 N.",
+    "content": {
+      "question": "Perhatikan skema pesawat sederhana berupa tuas. Beban B sebesar 330 N berada pada lengan pendek dengan panjang a, sedangkan gaya F diberikan pada lengan panjang b. Perbandingan panjang a dan b adalah a : b = 1 : 2,2. Nilai minimum gaya F untuk mengangkat beban B adalah ... N.",
+      "options": [
+        "100",
+        "150",
+        "2.200",
+        "7.260"
+      ],
+      "answer": 1,
+      "rationale": "Pada tuas berlaku B x a = F x b. Karena a : b = 1 : 2,2, maka F = 330 x (1/2,2) = 150 N."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Hukum Ohm",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan rangkaian paralel berikut! Sebuah sumber tegangan 6 V dihubungkan pada dua cabang paralel. Cabang atas berisi amperemeter A1 dan hambatan 10 ohm, sedangkan cabang bawah berisi amperemeter B1 dan hambatan 15 ohm. Angka yang ditunjukkan oleh amperemeter A1 dan B1 adalah ...",
+    "options": [
+      "0,5 A dan 0,6 A",
+      "0,6 A dan 0,4 A",
+      "0,7 A dan 0,4 A",
+      "0,7 A dan 0,3 A"
+    ],
+    "answer": 1,
+    "rationale": "Pada rangkaian paralel, tegangan di tiap cabang sama, yaitu 6 V. Arus pada cabang 10 ohm adalah I = 6/10 = 0,6 A, sedangkan arus pada cabang 15 ohm adalah I = 6/15 = 0,4 A.",
+    "content": {
+      "question": "Perhatikan rangkaian paralel berikut! Sebuah sumber tegangan 6 V dihubungkan pada dua cabang paralel. Cabang atas berisi amperemeter A1 dan hambatan 10 ohm, sedangkan cabang bawah berisi amperemeter B1 dan hambatan 15 ohm. Angka yang ditunjukkan oleh amperemeter A1 dan B1 adalah ...",
+      "options": [
+        "0,5 A dan 0,6 A",
+        "0,6 A dan 0,4 A",
+        "0,7 A dan 0,4 A",
+        "0,7 A dan 0,3 A"
+      ],
+      "answer": 1,
+      "rationale": "Pada rangkaian paralel, tegangan di tiap cabang sama, yaitu 6 V. Arus pada cabang 10 ohm adalah I = 6/10 = 0,6 A, sedangkan arus pada cabang 15 ohm adalah I = 6/15 = 0,4 A."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Unsur, senyawa, dan campuran",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Zat di bawah ini yang termasuk senyawa adalah ...",
+    "options": [
+      "Hidrogen",
+      "Gas oksigen",
+      "Ozon",
+      "Metana"
+    ],
+    "answer": 3,
+    "rationale": "Senyawa tersusun dari dua atau lebih jenis unsur. Metana memiliki rumus CH4, sehingga tersusun dari karbon dan hidrogen. Hidrogen, oksigen, dan ozon hanya tersusun dari satu jenis unsur.",
+    "content": {
+      "question": "Zat di bawah ini yang termasuk senyawa adalah ...",
+      "options": [
+        "Hidrogen",
+        "Gas oksigen",
+        "Ozon",
+        "Metana"
+      ],
+      "answer": 3,
+      "rationale": "Senyawa tersusun dari dua atau lebih jenis unsur. Metana memiliki rumus CH4, sehingga tersusun dari karbon dan hidrogen. Hidrogen, oksigen, dan ozon hanya tersusun dari satu jenis unsur."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Fotosintesis & respirasi tumbuhan",
+    "skill_type": "experiment_interpretation",
+    "question_type": "experiment_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan percobaan fotosintesis dengan Hydrilla dalam air kolam yang ditutup corong dan tabung terbalik untuk menampung gas hasil fotosintesis. Percobaan diletakkan di bawah cahaya matahari. Jika pada air ditambahkan natrium hidrogen karbonat (NaHCO3), maka perubahan yang terlihat pada percobaan fotosintesis ini adalah ...",
+    "options": [
+      "peningkatan volume air pada gelas",
+      "peningkatan jumlah hidrogen dalam air",
+      "peningkatan jumlah oksigen yang dihasilkan pada tabung",
+      "peningkatan jumlah karbondioksida yang dihasilkan pada tabung"
+    ],
+    "answer": 2,
+    "rationale": "NaHCO3 menyediakan sumber CO2 terlarut untuk fotosintesis. Jika fotosintesis meningkat, gas oksigen yang dihasilkan Hydrilla dan tertampung di tabung juga meningkat.",
+    "content": {
+      "question": "Perhatikan percobaan fotosintesis dengan Hydrilla dalam air kolam yang ditutup corong dan tabung terbalik untuk menampung gas hasil fotosintesis. Percobaan diletakkan di bawah cahaya matahari. Jika pada air ditambahkan natrium hidrogen karbonat (NaHCO3), maka perubahan yang terlihat pada percobaan fotosintesis ini adalah ...",
+      "options": [
+        "peningkatan volume air pada gelas",
+        "peningkatan jumlah hidrogen dalam air",
+        "peningkatan jumlah oksigen yang dihasilkan pada tabung",
+        "peningkatan jumlah karbondioksida yang dihasilkan pada tabung"
+      ],
+      "answer": 2,
+      "rationale": "NaHCO3 menyediakan sumber CO2 terlarut untuk fotosintesis. Jika fotosintesis meningkat, gas oksigen yang dihasilkan Hydrilla dan tertampung di tabung juga meningkat."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sel & jaringan",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan isi tabel berikut!\n\nPembeda | Serat Elastin | Serat Retikuler | Serat Kolagen\nProtein penyusun | Protein kolagen | Protein retikuler | Protein elastin\nSifat | Elastis, fleksibel dan dapat meregang | Longgar dan fleksibel | Tebal, kuat, fleksibel\nBentuk | Untaian panjang | Jaring-jaring bercabang | Untaian panjang yang transparan\nLetak | Kulit, tulang rawan dan otot polos | Dinding arteri besar | Hati, kelenjar endokrin\n\nBerdasarkan isi tabel di atas, perbedaan yang tepat antara serat elastin, serat retikuler dan serat kolagen adalah ...",
+    "options": [
+      "Bentuk dan letaknya",
+      "Sifat dan bentuk",
+      "Protein penyusun dan sifat",
+      "Letak dan protein"
+    ],
+    "answer": 1,
+    "rationale": "Data sifat dan bentuk pada tabel paling tepat membedakan karakter serat elastin, retikuler, dan kolagen. Baris protein penyusun tertukar, dan baris letak tidak sepenuhnya sesuai.",
+    "content": {
+      "question": "Perhatikan isi tabel berikut!\n\nPembeda | Serat Elastin | Serat Retikuler | Serat Kolagen\nProtein penyusun | Protein kolagen | Protein retikuler | Protein elastin\nSifat | Elastis, fleksibel dan dapat meregang | Longgar dan fleksibel | Tebal, kuat, fleksibel\nBentuk | Untaian panjang | Jaring-jaring bercabang | Untaian panjang yang transparan\nLetak | Kulit, tulang rawan dan otot polos | Dinding arteri besar | Hati, kelenjar endokrin\n\nBerdasarkan isi tabel di atas, perbedaan yang tepat antara serat elastin, serat retikuler dan serat kolagen adalah ...",
+      "options": [
+        "Bentuk dan letaknya",
+        "Sifat dan bentuk",
+        "Protein penyusun dan sifat",
+        "Letak dan protein"
+      ],
+      "answer": 1,
+      "rationale": "Data sifat dan bentuk pada tabel paling tepat membedakan karakter serat elastin, retikuler, dan kolagen. Baris protein penyusun tertukar, dan baris letak tidak sepenuhnya sesuai."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sel & jaringan",
+    "skill_type": "understanding",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan gambar sel hewan dan sel tumbuhan. Organel X terdapat pada sel tumbuhan, tetapi tidak terdapat pada sel hewan. Organel X berupa kloroplas. Organel X ini berperan pada proses ...",
+    "options": [
+      "Respirasi aerob dalam sel",
+      "Mengontrol pertukaran zat",
+      "Sintesis protein",
+      "Pembentukan karbohidrat"
+    ],
+    "answer": 3,
+    "rationale": "Kloroplas hanya terdapat pada sel tumbuhan dan berfungsi sebagai tempat fotosintesis. Fotosintesis menghasilkan karbohidrat dari CO2 dan air dengan bantuan cahaya.",
+    "content": {
+      "question": "Perhatikan gambar sel hewan dan sel tumbuhan. Organel X terdapat pada sel tumbuhan, tetapi tidak terdapat pada sel hewan. Organel X berupa kloroplas. Organel X ini berperan pada proses ...",
+      "options": [
+        "Respirasi aerob dalam sel",
+        "Mengontrol pertukaran zat",
+        "Sintesis protein",
+        "Pembentukan karbohidrat"
+      ],
+      "answer": 3,
+      "rationale": "Kloroplas hanya terdapat pada sel tumbuhan dan berfungsi sebagai tempat fotosintesis. Fotosintesis menghasilkan karbohidrat dari CO2 dan air dengan bantuan cahaya."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Ekosistem",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan daur nitrogen berikut! Nomor 1 menunjukkan perubahan dari organisme mati menjadi amonia. Nomor 2 menunjukkan perubahan nitrogen bebas di udara menjadi nitrat. Nomor 3 menunjukkan perubahan nitrat kembali menjadi nitrogen bebas di udara.\n\nBerdasarkan daur nitrogen tersebut, proses yang ditunjukkan oleh nomor 1, 2, dan 3 secara berturut-turut adalah ...",
+    "options": [
+      "amonifikasi, denitrifikasi dan fiksasi",
+      "amonifikasi, fiksasi dan denitrifikasi",
+      "nitrifikasi, nitrafikasi dan fiksasi",
+      "nitrifikasi, amonifikasi dan denitrifikasi"
+    ],
+    "answer": 1,
+    "rationale": "Penguraian organisme mati menjadi amonia adalah amonifikasi. Perubahan nitrogen bebas menjadi senyawa nitrogen yang dapat digunakan tumbuhan adalah fiksasi nitrogen. Perubahan nitrat kembali menjadi N2 di udara adalah denitrifikasi.",
+    "content": {
+      "question": "Perhatikan daur nitrogen berikut! Nomor 1 menunjukkan perubahan dari organisme mati menjadi amonia. Nomor 2 menunjukkan perubahan nitrogen bebas di udara menjadi nitrat. Nomor 3 menunjukkan perubahan nitrat kembali menjadi nitrogen bebas di udara.\n\nBerdasarkan daur nitrogen tersebut, proses yang ditunjukkan oleh nomor 1, 2, dan 3 secara berturut-turut adalah ...",
+      "options": [
+        "amonifikasi, denitrifikasi dan fiksasi",
+        "amonifikasi, fiksasi dan denitrifikasi",
+        "nitrifikasi, nitrafikasi dan fiksasi",
+        "nitrifikasi, amonifikasi dan denitrifikasi"
+      ],
+      "answer": 1,
+      "rationale": "Penguraian organisme mati menjadi amonia adalah amonifikasi. Perubahan nitrogen bebas menjadi senyawa nitrogen yang dapat digunakan tumbuhan adalah fiksasi nitrogen. Perubahan nitrat kembali menjadi N2 di udara adalah denitrifikasi."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Klasifikasi makhluk hidup",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Perhatikan diagram kekerabatan beberapa organisme dengan kode HER, EOS, SMA, SER, BUL, UKR, HUN, SLO, CRO, TUR, GRE, ROM, CAL, ITA, ALB, dan KAL. Pada diagram, CRO berada dalam satu cabang besar dengan HUN, sedangkan TUR berada pada cabang besar yang berbeda. Pernyataan yang benar berdasarkan diagram tersebut adalah ...",
+    "options": [
+      "CRO lebih dekat kekerabatannya dengan TUR dibandingkan HUN",
+      "SER lebih dekat kekerabatannya dengan BUL dibandingkan SMA",
+      "CRO lebih dekat kekerabatannya dengan HUN dibandingkan TUR",
+      "ITA memiliki kekerabatan lebih dekat dengan KAL dibandingkan ROM"
+    ],
+    "answer": 2,
+    "rationale": "Pada diagram, CRO dan HUN berada dalam cabang besar yang sama, sedangkan TUR berada pada cabang lain. Organisme yang berada pada cabang lebih dekat memiliki kekerabatan yang lebih dekat.",
+    "content": {
+      "question": "Perhatikan diagram kekerabatan beberapa organisme dengan kode HER, EOS, SMA, SER, BUL, UKR, HUN, SLO, CRO, TUR, GRE, ROM, CAL, ITA, ALB, dan KAL. Pada diagram, CRO berada dalam satu cabang besar dengan HUN, sedangkan TUR berada pada cabang besar yang berbeda. Pernyataan yang benar berdasarkan diagram tersebut adalah ...",
+      "options": [
+        "CRO lebih dekat kekerabatannya dengan TUR dibandingkan HUN",
+        "SER lebih dekat kekerabatannya dengan BUL dibandingkan SMA",
+        "CRO lebih dekat kekerabatannya dengan HUN dibandingkan TUR",
+        "ITA memiliki kekerabatan lebih dekat dengan KAL dibandingkan ROM"
+      ],
+      "answer": 2,
+      "rationale": "Pada diagram, CRO dan HUN berada dalam cabang besar yang sama, sedangkan TUR berada pada cabang lain. Organisme yang berada pada cabang lebih dekat memiliki kekerabatan yang lebih dekat."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Membaca grafik sains",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Data hasil pengamatan panjang daun tanaman sansevieria disajikan dalam grafik. Grafik menunjukkan titik-titik: bulan ke-2 panjang 8 cm, bulan ke-4 panjang 16 cm, bulan ke-6 panjang 24 cm, bulan ke-8 panjang 32 cm, dan bulan ke-10 panjang 40 cm. Jika pertumbuhan berlanjut dengan pola yang sama, panjang daun sansevieria diperkirakan mencapai 50 cm pada bulan ke ...",
+    "options": [
+      "10-11",
+      "11-12",
+      "12-13",
+      "13-14"
+    ],
+    "answer": 2,
+    "rationale": "Pertumbuhan bertambah 8 cm tiap 2 bulan, atau 4 cm per bulan. Setelah bulan ke-10 panjangnya 40 cm. Untuk mencapai 50 cm perlu tambahan 10 cm, yaitu 10/4 = 2,5 bulan. Jadi waktunya sekitar bulan ke-12,5, berada pada rentang 12-13.",
+    "content": {
+      "question": "Data hasil pengamatan panjang daun tanaman sansevieria disajikan dalam grafik. Grafik menunjukkan titik-titik: bulan ke-2 panjang 8 cm, bulan ke-4 panjang 16 cm, bulan ke-6 panjang 24 cm, bulan ke-8 panjang 32 cm, dan bulan ke-10 panjang 40 cm. Jika pertumbuhan berlanjut dengan pola yang sama, panjang daun sansevieria diperkirakan mencapai 50 cm pada bulan ke ...",
+      "options": [
+        "10-11",
+        "11-12",
+        "12-13",
+        "13-14"
+      ],
+      "answer": 2,
+      "rationale": "Pertumbuhan bertambah 8 cm tiap 2 bulan, atau 4 cm per bulan. Setelah bulan ke-10 panjangnya 40 cm. Untuk mencapai 50 cm perlu tambahan 10 cm, yaitu 10/4 = 2,5 bulan. Jadi waktunya sekitar bulan ke-12,5, berada pada rentang 12-13."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Pewarisan sifat",
+    "skill_type": "reasoning",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-2"],
+    "is_active": true,
+    "question": "Jika seorang perempuan heterozigot untuk buta warna bersuami seorang laki-laki berpenglihatan normal, kemungkinan anak perempuannya yang membawa sifat buta warna adalah ...",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "answer": 2,
+    "rationale": "Buta warna terpaut kromosom X. Perempuan heterozigot dapat ditulis XN Xb, sedangkan laki-laki normal XN Y. Semua anak perempuan menerima XN dari ayah dan menerima XN atau Xb dari ibu, sehingga 50% anak perempuan menjadi carrier atau membawa sifat buta warna. Secara genetik, tidak ada anak perempuan yang benar-benar buta warna dari pasangan ini; pilihan yang tersedia menunjukkan maksud soal adalah pembawa sifat.",
+    "content": {
+      "question": "Jika seorang perempuan heterozigot untuk buta warna bersuami seorang laki-laki berpenglihatan normal, kemungkinan anak perempuannya yang membawa sifat buta warna adalah ...",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2,
+      "rationale": "Buta warna terpaut kromosom X. Perempuan heterozigot dapat ditulis XN Xb, sedangkan laki-laki normal XN Y. Semua anak perempuan menerima XN dari ayah dan menerima XN atau Xb dari ibu, sehingga 50% anak perempuan menjadi carrier atau membawa sifat buta warna. Secara genetik, tidak ada anak perempuan yang benar-benar buta warna dari pasangan ini; pilihan yang tersedia menunjukkan maksud soal adalah pembawa sifat."
+    }
+  }
+]
