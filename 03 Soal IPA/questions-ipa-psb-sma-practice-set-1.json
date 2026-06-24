@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Inquiry & Literasi Sains",
+    "subtopic": "Besaran, satuan & pengukuran",
+    "skill_type": "recall",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan tabel berikut!\n\nNo | Besaran Fisika | Satuan\n1 | A | m\n2 | Massa | B\n3 | Waktu | C\n4 | D | m^2\n5 | E | N\n\nUntuk melengkapi data pada tabel dengan sistem Internasional (SI), maka A, B, C, D, dan E secara berurutan adalah ...",
+    "options": [
+      "Panjang, gram, sekon, luas, usaha",
+      "Panjang, newton, detik, luas, gaya",
+      "Panjang, kilogram, sekon, luas, gaya",
+      "Panjang, kilogram, detik, volume, gaya"
+    ],
+    "answer": 2,
+    "rationale": "Satuan SI meter (m) adalah satuan panjang, massa memakai kilogram, waktu memakai sekon, m^2 adalah satuan luas, dan newton (N) adalah satuan gaya.",
+    "content": {
+      "question": "Perhatikan tabel berikut!\n\nNo | Besaran Fisika | Satuan\n1 | A | m\n2 | Massa | B\n3 | Waktu | C\n4 | D | m^2\n5 | E | N\n\nUntuk melengkapi data pada tabel dengan sistem Internasional (SI), maka A, B, C, D, dan E secara berurutan adalah ...",
+      "options": [
+        "Panjang, gram, sekon, luas, usaha",
+        "Panjang, newton, detik, luas, gaya",
+        "Panjang, kilogram, sekon, luas, gaya",
+        "Panjang, kilogram, detik, volume, gaya"
+      ],
+      "answer": 2,
+      "rationale": "Satuan SI meter (m) adalah satuan panjang, massa memakai kilogram, waktu memakai sekon, m^2 adalah satuan luas, dan newton (N) adalah satuan gaya."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Sifat fisika & kimia zat",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Balok kayu memiliki massa jenis 800 kg/m^3 dan bervolume 2 m^3. Jika balok tersebut dimasukkan ke air yang massa jenisnya 1000 kg/m^3, maka volume balok yang ada di atas air adalah ...",
+    "options": [
+      "1,2 m^3",
+      "0,8 m^3",
+      "0,4 m^3",
+      "0,2 m^3"
+    ],
+    "answer": 2,
+    "rationale": "Fraksi volume balok yang tercelup sama dengan perbandingan massa jenis balok terhadap massa jenis air, yaitu 800/1000 = 0,8. Volume tercelup = 0,8 x 2 = 1,6 m^3. Maka volume yang berada di atas air = 2 - 1,6 = 0,4 m^3.",
+    "content": {
+      "question": "Balok kayu memiliki massa jenis 800 kg/m^3 dan bervolume 2 m^3. Jika balok tersebut dimasukkan ke air yang massa jenisnya 1000 kg/m^3, maka volume balok yang ada di atas air adalah ...",
+      "options": [
+        "1,2 m^3",
+        "0,8 m^3",
+        "0,4 m^3",
+        "0,2 m^3"
+      ],
+      "answer": 2,
+      "rationale": "Fraksi volume balok yang tercelup sama dengan perbandingan massa jenis balok terhadap massa jenis air, yaitu 800/1000 = 0,8. Volume tercelup = 0,8 x 2 = 1,6 m^3. Maka volume yang berada di atas air = 2 - 1,6 = 0,4 m^3."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebanyak m gram es -10 °C dicampur dengan n gram air bersuhu 25 °C, sehingga menghasilkan suhu campuran 10 °C. Jika kalor lebur es 80 kal/gr, kalor jenis es 0,5 kal/gr°C, dan kalor jenis air 1 kal/gr°C, perbandingan m/n adalah ...",
+    "options": [
+      "3 : 19",
+      "1 : 6",
+      "1 : 5",
+      "3 : 17"
+    ],
+    "answer": 0,
+    "rationale": "Kalor yang diterima es: menaikkan suhu es dari -10 °C ke 0 °C = m x 0,5 x 10 = 5m, meleburkan es = 80m, dan menaikkan air hasil lelehan dari 0 °C ke 10 °C = 10m. Total = 95m. Kalor yang dilepas air = n x 1 x (25 - 10) = 15n. Karena 95m = 15n, maka m/n = 15/95 = 3/19.",
+    "content": {
+      "question": "Sebanyak m gram es -10 °C dicampur dengan n gram air bersuhu 25 °C, sehingga menghasilkan suhu campuran 10 °C. Jika kalor lebur es 80 kal/gr, kalor jenis es 0,5 kal/gr°C, dan kalor jenis air 1 kal/gr°C, perbandingan m/n adalah ...",
+      "options": [
+        "3 : 19",
+        "1 : 6",
+        "1 : 5",
+        "3 : 17"
+      ],
+      "answer": 0,
+      "rationale": "Kalor yang diterima es: menaikkan suhu es dari -10 °C ke 0 °C = m x 0,5 x 10 = 5m, meleburkan es = 80m, dan menaikkan air hasil lelehan dari 0 °C ke 10 °C = 10m. Total = 95m. Kalor yang dilepas air = n x 1 x (25 - 10) = 15n. Karena 95m = 15n, maka m/n = 15/95 = 3/19."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Struktur materi",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Rahma menemukan suatu unsur pada tabel periodik dengan nomor atom 65 dan nomor massa 159. Jumlah elektron, neutron, dan proton dalam atom tersebut secara berturut-turut adalah ...",
+    "options": [
+      "65, 94, dan 65",
+      "65, 65, dan 94",
+      "94, 94, dan 65",
+      "94, 65, dan 94"
+    ],
+    "answer": 0,
+    "rationale": "Pada atom netral, jumlah elektron sama dengan nomor atom, yaitu 65, dan jumlah proton juga 65. Jumlah neutron = nomor massa - nomor atom = 159 - 65 = 94.",
+    "content": {
+      "question": "Rahma menemukan suatu unsur pada tabel periodik dengan nomor atom 65 dan nomor massa 159. Jumlah elektron, neutron, dan proton dalam atom tersebut secara berturut-turut adalah ...",
+      "options": [
+        "65, 94, dan 65",
+        "65, 65, dan 94",
+        "94, 94, dan 65",
+        "94, 65, dan 94"
+      ],
+      "answer": 0,
+      "rationale": "Pada atom netral, jumlah elektron sama dengan nomor atom, yaitu 65, dan jumlah proton juga 65. Jumlah neutron = nomor massa - nomor atom = 159 - 65 = 94."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "hard",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Kalor & perpindahan panas",
+    "skill_type": "application",
+    "question_type": "multi_step",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Sebanyak a gram es -10 °C dicampur dengan b gram air bersuhu 25 °C, sehingga menghasilkan suhu campuran 10 °C. Jika kalor lebur es 80 kal/gr, kalor jenis es 0,5 kal/gr°C dan kalor jenis air 1 kal/gr°C, perbandingan a/b adalah ...",
+    "options": [
+      "3 : 19",
+      "1 : 6",
+      "1 : 5",
+      "3 : 17"
+    ],
+    "answer": 0,
+    "rationale": "Kalor yang diperlukan es tiap gram adalah 0,5 x 10 + 80 + 1 x 10 = 95 kal. Kalor yang dilepas air tiap gram adalah 1 x (25 - 10) = 15 kal. Maka 95a = 15b, sehingga a/b = 15/95 = 3/19.",
+    "content": {
+      "question": "Sebanyak a gram es -10 °C dicampur dengan b gram air bersuhu 25 °C, sehingga menghasilkan suhu campuran 10 °C. Jika kalor lebur es 80 kal/gr, kalor jenis es 0,5 kal/gr°C dan kalor jenis air 1 kal/gr°C, perbandingan a/b adalah ...",
+      "options": [
+        "3 : 19",
+        "1 : 6",
+        "1 : 5",
+        "3 : 17"
+      ],
+      "answer": 0,
+      "rationale": "Kalor yang diperlukan es tiap gram adalah 0,5 x 10 + 80 + 1 x 10 = 95 kal. Kalor yang dilepas air tiap gram adalah 1 x (25 - 10) = 15 kal. Maka 95a = 15b, sehingga a/b = 15/95 = 3/19."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Listrik, Gelombang & Optik",
+    "subtopic": "Gelombang & bunyi",
+    "skill_type": "data_interpretation",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan gambar sebuah pegas yang diberi beban kemudian digetarkan. Posisi B dan C merupakan dua simpangan maksimum yang berlawanan, dan jarak B-C adalah 4 cm. Jika waktu tempuh B-A-C adalah 0,25 s, maka frekuensi dan amplitudo yang dimiliki oleh pegas tersebut berturut-turut adalah ...",
+    "options": [
+      "0,5 Hz, 2 cm",
+      "0,5 Hz, 4 cm",
+      "2,0 Hz, 2 cm",
+      "2,0 Hz, 4 cm"
+    ],
+    "answer": 2,
+    "rationale": "Gerak dari B ke A ke C adalah dari simpangan maksimum satu sisi ke simpangan maksimum sisi lain, yaitu setengah periode. Jika T/2 = 0,25 s, maka T = 0,5 s dan frekuensi f = 1/T = 2 Hz. Jarak B-C = 4 cm adalah dua kali amplitudo, sehingga amplitudo = 2 cm.",
+    "content": {
+      "question": "Perhatikan gambar sebuah pegas yang diberi beban kemudian digetarkan. Posisi B dan C merupakan dua simpangan maksimum yang berlawanan, dan jarak B-C adalah 4 cm. Jika waktu tempuh B-A-C adalah 0,25 s, maka frekuensi dan amplitudo yang dimiliki oleh pegas tersebut berturut-turut adalah ...",
+      "options": [
+        "0,5 Hz, 2 cm",
+        "0,5 Hz, 4 cm",
+        "2,0 Hz, 2 cm",
+        "2,0 Hz, 4 cm"
+      ],
+      "answer": 2,
+      "rationale": "Gerak dari B ke A ke C adalah dari simpangan maksimum satu sisi ke simpangan maksimum sisi lain, yaitu setengah periode. Jika T/2 = 0,25 s, maka T = 0,5 s dan frekuensi f = 1/T = 2 Hz. Jarak B-C = 4 cm adalah dua kali amplitudo, sehingga amplitudo = 2 cm."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Gerak, Gaya & Energi",
+    "subtopic": "Pesawat sederhana",
+    "skill_type": "application",
+    "question_type": "visual_analysis",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan gambar kesetimbangan berikut!\n\nPada sisi kiri titik tumpu terdapat beban 80 N berjarak 20 cm dari titik tumpu dan beban 50 N yang berjarak 30 cm lebih jauh dari beban 80 N. Pada sisi kanan titik tumpu terdapat beban X berjarak 50 cm dari titik tumpu. Jika beban X diganti dengan beban lain yang memiliki berat 100 N, maka beban tersebut harus digeser ...",
+    "options": [
+      "2 cm menjauhi titik tumpu",
+      "4 cm mendekati titik tumpu",
+      "8 cm menjauhi titik tumpu",
+      "9 cm mendekati titik tumpu"
+    ],
+    "answer": 3,
+    "rationale": "Momen di kiri titik tumpu = 80 x 20 + 50 x 50 = 1600 + 2500 = 4100 Ncm. Agar seimbang dengan beban 100 N, jaraknya harus 4100/100 = 41 cm dari titik tumpu. Posisi semula di kanan 50 cm, sehingga harus digeser 9 cm mendekati titik tumpu.",
+    "content": {
+      "question": "Perhatikan gambar kesetimbangan berikut!\n\nPada sisi kiri titik tumpu terdapat beban 80 N berjarak 20 cm dari titik tumpu dan beban 50 N yang berjarak 30 cm lebih jauh dari beban 80 N. Pada sisi kanan titik tumpu terdapat beban X berjarak 50 cm dari titik tumpu. Jika beban X diganti dengan beban lain yang memiliki berat 100 N, maka beban tersebut harus digeser ...",
+      "options": [
+        "2 cm menjauhi titik tumpu",
+        "4 cm mendekati titik tumpu",
+        "8 cm menjauhi titik tumpu",
+        "9 cm mendekati titik tumpu"
+      ],
+      "answer": 3,
+      "rationale": "Momen di kiri titik tumpu = 80 x 20 + 50 x 50 = 1600 + 2500 = 4100 Ncm. Agar seimbang dengan beban 100 N, jaraknya harus 4100/100 = 41 cm dari titik tumpu. Posisi semula di kanan 50 cm, sehingga harus digeser 9 cm mendekati titik tumpu."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Materi & Perubahannya",
+    "subtopic": "Perubahan fisika vs kimia",
+    "skill_type": "understanding",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan tabel berikut!\n\nNo | Peristiwa | Nama Perubahan\n1 | Andi membuat pagar dari bambu | Kimia\n2 | Keju yang terbuat dari susu | Kimia\n3 | Makanan yang menjadi basi | Fisika\n4 | Rahmat membuat tepung beras | Fisika\n5 | Rani menyalakan petasan | Fisika\n6 | Andi membuat tape dari singkong | Kimia\n\nPada tabel di atas yang sesuai antara peristiwa dan proses yang terjadi adalah ...",
+    "options": [
+      "2, 4 dan 6",
+      "1, 3 dan 5",
+      "2, 3 dan 5",
+      "1, 2 dan 4"
+    ],
+    "answer": 0,
+    "rationale": "Keju dari susu dan tape dari singkong merupakan perubahan kimia karena menghasilkan zat baru melalui proses biokimia. Membuat tepung beras merupakan perubahan fisika karena hanya mengubah ukuran atau bentuk. Jadi yang sesuai adalah 2, 4, dan 6.",
+    "content": {
+      "question": "Perhatikan tabel berikut!\n\nNo | Peristiwa | Nama Perubahan\n1 | Andi membuat pagar dari bambu | Kimia\n2 | Keju yang terbuat dari susu | Kimia\n3 | Makanan yang menjadi basi | Fisika\n4 | Rahmat membuat tepung beras | Fisika\n5 | Rani menyalakan petasan | Fisika\n6 | Andi membuat tape dari singkong | Kimia\n\nPada tabel di atas yang sesuai antara peristiwa dan proses yang terjadi adalah ...",
+      "options": [
+        "2, 4 dan 6",
+        "1, 3 dan 5",
+        "2, 3 dan 5",
+        "1, 2 dan 4"
+      ],
+      "answer": 0,
+      "rationale": "Keju dari susu dan tape dari singkong merupakan perubahan kimia karena menghasilkan zat baru melalui proses biokimia. Membuat tepung beras merupakan perubahan fisika karena hanya mengubah ukuran atau bentuk. Jadi yang sesuai adalah 2, 4, dan 6."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Organ tumbuhan & fungsinya",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Saat proses mencangkok, jaringan yang dihilangkan pada organ batang dari luar ke dalam adalah ...",
+    "options": [
+      "epidermis-empulur-korteks-perisikel-xylem-kambium",
+      "epidermis-endodermis-floem-kambium-korteks",
+      "epidermis-korteks-floem-kambium-xylem",
+      "epidermis-korteks-endodermis-floem-kambium"
+    ],
+    "answer": 3,
+    "rationale": "Pada mencangkok, kulit batang dikupas sampai kambium agar aliran hasil fotosintesis melalui floem terhambat dan akar dapat tumbuh. Jaringan yang dihilangkan dari luar ke dalam mencakup epidermis, korteks, endodermis, floem, dan kambium, sedangkan xilem tetap dipertahankan.",
+    "content": {
+      "question": "Saat proses mencangkok, jaringan yang dihilangkan pada organ batang dari luar ke dalam adalah ...",
+      "options": [
+        "epidermis-empulur-korteks-perisikel-xylem-kambium",
+        "epidermis-endodermis-floem-kambium-korteks",
+        "epidermis-korteks-floem-kambium-xylem",
+        "epidermis-korteks-endodermis-floem-kambium"
+      ],
+      "answer": 3,
+      "rationale": "Pada mencangkok, kulit batang dikupas sampai kambium agar aliran hasil fotosintesis melalui floem terhambat dan akar dapat tumbuh. Jaringan yang dihilangkan dari luar ke dalam mencakup epidermis, korteks, endodermis, floem, dan kambium, sedangkan xilem tetap dipertahankan."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "data_interpretation",
+    "question_type": "data_interpretation",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Perhatikan tabel di bawah ini!\n\nJenis pembuluh darah:\n1. Arteri (nadi)\n2. Vena (balik)\n3. Kapiler\n\nCiri-ciri:\na. berdinding tipis, letaknya di permukaan kulit dan tidak elastis\nb. berdinding tipis dan tekanan darah sangat kecil\nc. berdinding elastis, letaknya di dalam permukaan kulit\n\nFungsi:\nx. pertukaran O2 dan CO2\ny. membawa darah kaya karbondioksida ke jantung\nz. membawa darah kaya oksigen dari jantung\n\nBerdasarkan tabel di atas, urutan jenis pembuluh darah, ciri-ciri, dan fungsinya yang sesuai adalah ...",
+    "options": [
+      "1-a-z",
+      "1-c-x",
+      "2-a-y",
+      "3-b-x"
+    ],
+    "answer": 3,
+    "rationale": "Kapiler memiliki dinding sangat tipis dan tekanan darah kecil, serta berfungsi sebagai tempat pertukaran O2 dan CO2. Jadi pasangan yang sesuai adalah 3-b-x.",
+    "content": {
+      "question": "Perhatikan tabel di bawah ini!\n\nJenis pembuluh darah:\n1. Arteri (nadi)\n2. Vena (balik)\n3. Kapiler\n\nCiri-ciri:\na. berdinding tipis, letaknya di permukaan kulit dan tidak elastis\nb. berdinding tipis dan tekanan darah sangat kecil\nc. berdinding elastis, letaknya di dalam permukaan kulit\n\nFungsi:\nx. pertukaran O2 dan CO2\ny. membawa darah kaya karbondioksida ke jantung\nz. membawa darah kaya oksigen dari jantung\n\nBerdasarkan tabel di atas, urutan jenis pembuluh darah, ciri-ciri, dan fungsinya yang sesuai adalah ...",
+      "options": [
+        "1-a-z",
+        "1-c-x",
+        "2-a-y",
+        "3-b-x"
+      ],
+      "answer": 3,
+      "rationale": "Kapiler memiliki dinding sangat tipis dan tekanan darah kecil, serta berfungsi sebagai tempat pertukaran O2 dan CO2. Jadi pasangan yang sesuai adalah 3-b-x."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem peredaran darah",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Berikut ini adalah fungsi sel darah!\n\na) Menghindarkan tubuh dari infeksi\nb) Melakukan proses pembekuan darah\nc) Mengikat CO2 dari jaringan menuju paru-paru\nd) Mengedarkan O2 dari paru-paru ke seluruh tubuh\ne) Mengangkut sari-sari makanan ke seluruh tubuh\n\nFungsi eritrosit ditunjukkan oleh nomor ...",
+    "options": [
+      "a dan c",
+      "d dan e",
+      "b dan c",
+      "c dan d"
+    ],
+    "answer": 3,
+    "rationale": "Eritrosit atau sel darah merah berfungsi mengangkut gas pernapasan, yaitu membawa O2 dari paru-paru ke jaringan dan membantu membawa CO2 dari jaringan ke paru-paru.",
+    "content": {
+      "question": "Berikut ini adalah fungsi sel darah!\n\na) Menghindarkan tubuh dari infeksi\nb) Melakukan proses pembekuan darah\nc) Mengikat CO2 dari jaringan menuju paru-paru\nd) Mengedarkan O2 dari paru-paru ke seluruh tubuh\ne) Mengangkut sari-sari makanan ke seluruh tubuh\n\nFungsi eritrosit ditunjukkan oleh nomor ...",
+      "options": [
+        "a dan c",
+        "d dan e",
+        "b dan c",
+        "c dan d"
+      ],
+      "answer": 3,
+      "rationale": "Eritrosit atau sel darah merah berfungsi mengangkut gas pernapasan, yaitu membawa O2 dari paru-paru ke jaringan dan membantu membawa CO2 dari jaringan ke paru-paru."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "cause_effect_reasoning",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Di suatu ekosistem sawah terdapat rantai makanan yang terdiri atas tanaman padi, belalang, tikus, ular, burung perkutut, dan burung elang.\n\nApabila populasi ular berkurang karena diburu orang untuk diambil kulitnya, maka kemungkinan yang akan terjadi adalah ...",
+    "options": [
+      "Populasi tikus meningkat dan populasi elang menurun",
+      "Populasi elang meningkat dan populasi belalang menurun",
+      "Populasi tumbuhan menurun dan populasi elang meningkat",
+      "Populasi tikus meningkat dan populasi burung menurun"
+    ],
+    "answer": 0,
+    "rationale": "Jika populasi ular berkurang, tekanan predasi terhadap tikus berkurang sehingga tikus meningkat. Elang yang memakan ular dapat kekurangan salah satu sumber makanan sehingga populasinya cenderung menurun.",
+    "content": {
+      "question": "Di suatu ekosistem sawah terdapat rantai makanan yang terdiri atas tanaman padi, belalang, tikus, ular, burung perkutut, dan burung elang.\n\nApabila populasi ular berkurang karena diburu orang untuk diambil kulitnya, maka kemungkinan yang akan terjadi adalah ...",
+      "options": [
+        "Populasi tikus meningkat dan populasi elang menurun",
+        "Populasi elang meningkat dan populasi belalang menurun",
+        "Populasi tumbuhan menurun dan populasi elang meningkat",
+        "Populasi tikus meningkat dan populasi burung menurun"
+      ],
+      "answer": 0,
+      "rationale": "Jika populasi ular berkurang, tekanan predasi terhadap tikus berkurang sehingga tikus meningkat. Elang yang memakan ular dapat kekurangan salah satu sumber makanan sehingga populasinya cenderung menurun."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Rantai makanan & jaring-jaring makanan",
+    "skill_type": "reasoning",
+    "question_type": "scenario_analysis",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Di suatu ekosistem sawah terdapat rantai makanan yang terdiri atas tanaman padi, belalang, tikus, ular, burung perkutut, dan burung elang.\n\nHal yang tidak benar tentang jaring makanan adalah ...",
+    "options": [
+      "Ular berperan sebagai konsumen 2 dan konsumen 3",
+      "Trofik 1 ditempati oleh tikus dan belalang",
+      "Elang menempati tingkat trofik IV",
+      "Konsumen sekunder adalah burung perkutut"
+    ],
+    "answer": 1,
+    "rationale": "Tingkat trofik 1 ditempati oleh produsen, yaitu tanaman padi. Tikus dan belalang adalah konsumen, sehingga pernyataan bahwa trofik 1 ditempati tikus dan belalang tidak benar.",
+    "content": {
+      "question": "Di suatu ekosistem sawah terdapat rantai makanan yang terdiri atas tanaman padi, belalang, tikus, ular, burung perkutut, dan burung elang.\n\nHal yang tidak benar tentang jaring makanan adalah ...",
+      "options": [
+        "Ular berperan sebagai konsumen 2 dan konsumen 3",
+        "Trofik 1 ditempati oleh tikus dan belalang",
+        "Elang menempati tingkat trofik IV",
+        "Konsumen sekunder adalah burung perkutut"
+      ],
+      "answer": 1,
+      "rationale": "Tingkat trofik 1 ditempati oleh produsen, yaitu tanaman padi. Tikus dan belalang adalah konsumen, sehingga pernyataan bahwa trofik 1 ditempati tikus dan belalang tidak benar."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "medium",
+    "topic": "Ekologi & Pewarisan",
+    "subtopic": "Genetika dasar",
+    "skill_type": "recall",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Dalam tubuh makhluk hidup terdapat bahan yang berperan untuk menyusun makhluk bernama nukleotida. Komponen penyusun nukleotida adalah ...",
+    "options": [
+      "fosfat, gula pentosa dan basa nitrogen",
+      "fosfat, gula pentosa dan protein histon",
+      "gula, protein histon dan basa nitrogen",
+      "hanya fosfat dan gula pentosa"
+    ],
+    "answer": 0,
+    "rationale": "Nukleotida tersusun atas tiga komponen utama, yaitu gugus fosfat, gula pentosa, dan basa nitrogen.",
+    "content": {
+      "question": "Dalam tubuh makhluk hidup terdapat bahan yang berperan untuk menyusun makhluk bernama nukleotida. Komponen penyusun nukleotida adalah ...",
+      "options": [
+        "fosfat, gula pentosa dan basa nitrogen",
+        "fosfat, gula pentosa dan protein histon",
+        "gula, protein histon dan basa nitrogen",
+        "hanya fosfat dan gula pentosa"
+      ],
+      "answer": 0,
+      "rationale": "Nukleotida tersusun atas tiga komponen utama, yaitu gugus fosfat, gula pentosa, dan basa nitrogen."
+    }
+  },
+  {
+    "subject": "ipa",
+    "difficulty": "easy",
+    "topic": "Sistem Kehidupan",
+    "subtopic": "Sistem pencernaan",
+    "skill_type": "understanding",
+    "question_type": "concept_check",
+    "tags": ["ipa-psb-sma-practice-set-1"],
+    "is_active": true,
+    "question": "Gangguan pencernaan makanan dan penyebabnya yang benar adalah ...",
+    "options": [
+      "Diare disebabkan oleh kekurangan selulosa pada makanan",
+      "Konstipasi disebabkan oleh kekurangan vitamin dan mineral",
+      "Gastritis disebabkan oleh jumlah asam lambung berlebih",
+      "Parotitis disebabkan oleh produksi ludah yang berkurang"
+    ],
+    "answer": 2,
+    "rationale": "Gastritis adalah peradangan pada dinding lambung yang dapat dipicu oleh jumlah asam lambung berlebih. Diare umumnya disebabkan infeksi atau iritasi usus, konstipasi berkaitan dengan kurang serat dan cairan, sedangkan parotitis adalah peradangan kelenjar parotis.",
+    "content": {
+      "question": "Gangguan pencernaan makanan dan penyebabnya yang benar adalah ...",
+      "options": [
+        "Diare disebabkan oleh kekurangan selulosa pada makanan",
+        "Konstipasi disebabkan oleh kekurangan vitamin dan mineral",
+        "Gastritis disebabkan oleh jumlah asam lambung berlebih",
+        "Parotitis disebabkan oleh produksi ludah yang berkurang"
+      ],
+      "answer": 2,
+      "rationale": "Gastritis adalah peradangan pada dinding lambung yang dapat dipicu oleh jumlah asam lambung berlebih. Diare umumnya disebabkan infeksi atau iritasi usus, konstipasi berkaitan dengan kurang serat dan cairan, sedangkan parotitis adalah peradangan kelenjar parotis."
+    }
+  }
+]
