@@ -6,17 +6,29 @@
     "subtopic": "Keliling & luas bangun datar",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Pada bidang koordinat, daerah diarsir terdiri atas segitiga dengan titik (0,8), (4,0), dan (6,2), serta jajargenjang dengan titik (6,2), (8,0), (13,5), dan (9,5). Luas daerah yang diarsir adalah ...",
-    "options": ["32 cm2", "28 cm2", "22 cm2", "18 cm2"],
+    "question": "Pada bidang koordinat, daerah diarsir terdiri atas segitiga dengan titik ($0{,}8$), ($4{,}0$), dan ($6{,}2$), serta jajargenjang dengan titik ($6{,}2$), ($8{,}0$), ($13{,}5$), dan ($9{,}5$). Luas daerah yang diarsir adalah ...",
+    "options": [
+      "$32\\ \\text{cm}^2$",
+      "$28\\ \\text{cm}^2$",
+      "$22\\ \\text{cm}^2$",
+      "$18\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Luas segitiga pertama dari koordinatnya adalah 12 cm2. Luas jajargenjang di kanan adalah 16 cm2. Jadi luas daerah diarsir = 12 + 16 = 28 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Keliling & luas bangun datar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Luas segitiga pertama dari koordinatnya adalah $12\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas jajargenjang di kanan adalah $16\\ \\text{cm}^2$. Jadi luas daerah diarsir = $12 + 16$ = $28\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $28\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Keliling & luas bangun datar**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $28\\ \\text{cm}^2$**",
     "content": {
-      "question": "Pada bidang koordinat, daerah diarsir terdiri atas segitiga dengan titik (0,8), (4,0), dan (6,2), serta jajargenjang dengan titik (6,2), (8,0), (13,5), dan (9,5). Luas daerah yang diarsir adalah ...",
-      "options": ["32 cm2", "28 cm2", "22 cm2", "18 cm2"],
+      "question": "Pada bidang koordinat, daerah diarsir terdiri atas segitiga dengan titik ($0{,}8$), ($4{,}0$), dan ($6{,}2$), serta jajargenjang dengan titik ($6{,}2$), ($8{,}0$), ($13{,}5$), dan ($9{,}5$). Luas daerah yang diarsir adalah ...",
+      "options": [
+        "$32\\ \\text{cm}^2$",
+        "$28\\ \\text{cm}^2$",
+        "$22\\ \\text{cm}^2$",
+        "$18\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Luas segitiga pertama dari koordinatnya adalah 12 cm2. Luas jajargenjang di kanan adalah 16 cm2. Jadi luas daerah diarsir = 12 + 16 = 28 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Keliling & luas bangun datar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Luas segitiga pertama dari koordinatnya adalah $12\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas jajargenjang di kanan adalah $16\\ \\text{cm}^2$. Jadi luas daerah diarsir = $12 + 16$ = $28\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $28\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Keliling & luas bangun datar**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $28\\ \\text{cm}^2$**"
     }
   },
   {
@@ -26,17 +38,29 @@
     "subtopic": "Sudut & garis",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Pada segitiga ABC, besar sudut A = 8x, sudut C = 7x, dan sudut luar ABP = 100 + 5x. Besar sudut ABP adalah ...",
-    "options": ["175 derajat", "150 derajat", "125 derajat", "115 derajat"],
+    "options": [
+      "$175^\\circ$",
+      "$150^\\circ$",
+      "$125^\\circ$",
+      "$115^\\circ$"
+    ],
     "answer": 1,
-    "rationale": "Sudut dalam di B adalah 180 - (100 + 5x) = 80 - 5x. Jumlah sudut segitiga: 8x + 7x + (80 - 5x) = 180, sehingga x = 10. Maka sudut ABP = 100 + 5(10) = 150 derajat.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sudut & garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Sudut dalam di B adalah $180 - (100 + 5x)$ = 80 - 5x.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jumlah sudut segitiga: 8x + 7x + (80 - 5x) = 180, sehingga $x = 10$. Maka sudut ABP = $100 + 5$(10) = $150^\\circ$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $150^\\circ$.\n**Materi terkait:**\n- **Geometri** - **Sudut & garis**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $150^\\circ$**",
     "content": {
       "question": "Pada segitiga ABC, besar sudut A = 8x, sudut C = 7x, dan sudut luar ABP = 100 + 5x. Besar sudut ABP adalah ...",
-      "options": ["175 derajat", "150 derajat", "125 derajat", "115 derajat"],
+      "options": [
+        "$175^\\circ$",
+        "$150^\\circ$",
+        "$125^\\circ$",
+        "$115^\\circ$"
+      ],
       "answer": 1,
-      "rationale": "Sudut dalam di B adalah 180 - (100 + 5x) = 80 - 5x. Jumlah sudut segitiga: 8x + 7x + (80 - 5x) = 180, sehingga x = 10. Maka sudut ABP = 100 + 5(10) = 150 derajat."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sudut & garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Sudut dalam di B adalah $180 - (100 + 5x)$ = 80 - 5x.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jumlah sudut segitiga: 8x + 7x + (80 - 5x) = 180, sehingga $x = 10$. Maka sudut ABP = $100 + 5$(10) = $150^\\circ$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $150^\\circ$.\n**Materi terkait:**\n- **Geometri** - **Sudut & garis**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $150^\\circ$**"
     }
   },
   {
@@ -46,17 +70,29 @@
     "subtopic": "Transformasi",
     "skill_type": "understanding",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Pada diagram koordinat, titik rusa A bergerak menuju titik C. Berdasarkan gambar, translasi yang dilakukan rusa adalah (9, 0). Pasangan bilangan yang harus dilakukan harimau agar mendapat translasi yang sama adalah ...",
-    "options": ["(6, 7)", "(-7, -7)", "(9, 0)", "(7, 7)"],
+    "options": [
+      "(6, 7)",
+      "(-7, -7)",
+      "(9, 0)",
+      "(7, 7)"
+    ],
     "answer": 2,
-    "rationale": "Translasi yang sama berarti perpindahan harimau harus memiliki vektor yang sama dengan perpindahan rusa dari A ke C. Dari gambar, vektor translasi rusa adalah (9, 0), sehingga harimau juga harus ditranslasi oleh (9, 0).",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Transformasi**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Translasi yang sama berarti perpindahan harimau harus memiliki vektor yang sama dengan perpindahan rusa dari A ke C.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Dari gambar, vektor translasi rusa adalah (9, 0), sehingga harimau juga harus ditranslasi oleh (9, 0).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu (9, 0).\n**Materi terkait:**\n- **Geometri** - **Transformasi**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. (9, 0)**",
     "content": {
       "question": "Pada diagram koordinat, titik rusa A bergerak menuju titik C. Berdasarkan gambar, translasi yang dilakukan rusa adalah (9, 0). Pasangan bilangan yang harus dilakukan harimau agar mendapat translasi yang sama adalah ...",
-      "options": ["(6, 7)", "(-7, -7)", "(9, 0)", "(7, 7)"],
+      "options": [
+        "(6, 7)",
+        "(-7, -7)",
+        "(9, 0)",
+        "(7, 7)"
+      ],
       "answer": 2,
-      "rationale": "Translasi yang sama berarti perpindahan harimau harus memiliki vektor yang sama dengan perpindahan rusa dari A ke C. Dari gambar, vektor translasi rusa adalah (9, 0), sehingga harimau juga harus ditranslasi oleh (9, 0)."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Transformasi**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Translasi yang sama berarti perpindahan harimau harus memiliki vektor yang sama dengan perpindahan rusa dari A ke C.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Dari gambar, vektor translasi rusa adalah (9, 0), sehingga harimau juga harus ditranslasi oleh (9, 0).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu (9, 0).\n**Materi terkait:**\n- **Geometri** - **Transformasi**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. (9, 0)**"
     }
   },
   {
@@ -66,17 +102,29 @@
     "subtopic": "Barisan aritmatika & geometri",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Dalam suatu gedung pertunjukan terdapat 20 baris kursi. Pada baris pertama terdapat 16 kursi, dan baris berikutnya selalu bertambah 2 kursi dari baris di depannya. Banyak kursi seluruhnya adalah ...",
-    "options": ["876 buah", "700 buah", "480 buah", "256 buah"],
+    "options": [
+      "876 buah",
+      "700 buah",
+      "480 buah",
+      "256 buah"
+    ],
     "answer": 1,
-    "rationale": "Deret aritmetika memiliki a = 16, b = 2, dan n = 20. Jumlah kursi = n/2(2a + (n - 1)b) = 20/2(32 + 38) = 700.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Barisan aritmatika & geometri**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Deret aritmetika memiliki $a = 16$, $b = 2$, dan $n = 20$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jumlah kursi = n/2(2a + (n - 1)b) = $\\frac{20}{2}$($32 + 38$) = 700.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 700 buah.\n**Materi terkait:**\n- **Aljabar** - **Barisan aritmatika & geometri**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 700 buah**",
     "content": {
       "question": "Dalam suatu gedung pertunjukan terdapat 20 baris kursi. Pada baris pertama terdapat 16 kursi, dan baris berikutnya selalu bertambah 2 kursi dari baris di depannya. Banyak kursi seluruhnya adalah ...",
-      "options": ["876 buah", "700 buah", "480 buah", "256 buah"],
+      "options": [
+        "876 buah",
+        "700 buah",
+        "480 buah",
+        "256 buah"
+      ],
       "answer": 1,
-      "rationale": "Deret aritmetika memiliki a = 16, b = 2, dan n = 20. Jumlah kursi = n/2(2a + (n - 1)b) = 20/2(32 + 38) = 700."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Barisan aritmatika & geometri**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Deret aritmetika memiliki $a = 16$, $b = 2$, dan $n = 20$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jumlah kursi = n/2(2a + (n - 1)b) = $\\frac{20}{2}$($32 + 38$) = 700.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 700 buah.\n**Materi terkait:**\n- **Aljabar** - **Barisan aritmatika & geometri**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 700 buah**"
     }
   },
   {
@@ -86,17 +134,29 @@
     "subtopic": "Akar kuadrat & akar pangkat tiga",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Nilai dari -2sqrt(3)/3 + 1/(sqrt(3)/2) adalah ...",
-    "options": ["0", "1", "2", "3"],
+    "question": "Nilai dari -2sqrt(3)/$3 + 1$/(sqrt(3)/2) adalah ...",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
     "answer": 0,
-    "rationale": "Nilai 1/(sqrt(3)/2) = 2/sqrt(3) = 2sqrt(3)/3. Maka -2sqrt(3)/3 + 2sqrt(3)/3 = 0.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Akar kuadrat & akar pangkat tiga**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Nilai 1/(sqrt(3)/2) = 2/sqrt(3) = 2sqrt(3)/3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka -2sqrt(3)/3 + 2sqrt(3)/3 = 0.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 0.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Akar kuadrat & akar pangkat tiga**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 0**",
     "content": {
-      "question": "Nilai dari -2sqrt(3)/3 + 1/(sqrt(3)/2) adalah ...",
-      "options": ["0", "1", "2", "3"],
+      "question": "Nilai dari -2sqrt(3)/$3 + 1$/(sqrt(3)/2) adalah ...",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
       "answer": 0,
-      "rationale": "Nilai 1/(sqrt(3)/2) = 2/sqrt(3) = 2sqrt(3)/3. Maka -2sqrt(3)/3 + 2sqrt(3)/3 = 0."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Akar kuadrat & akar pangkat tiga**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Nilai 1/(sqrt(3)/2) = 2/sqrt(3) = 2sqrt(3)/3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka -2sqrt(3)/3 + 2sqrt(3)/3 = 0.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 0.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Akar kuadrat & akar pangkat tiga**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 0**"
     }
   },
   {
@@ -106,17 +166,29 @@
     "subtopic": "Gradien garis",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Garis PQ melalui titik P(1,3) dan Q(5,1). Jika garis PQ diperpanjang, titik potongnya dengan sumbu y adalah ...",
-    "options": ["(0, 7/2)", "(0, 17/5)", "(0, 7/3)", "(0, 5/17)"],
+    "question": "Garis PQ melalui titik P($1{,}3$) dan Q($5{,}1$). Jika garis PQ diperpanjang, titik potongnya dengan sumbu y adalah ...",
+    "options": [
+      "(0, $\\frac{7}{2}$)",
+      "(0, $\\frac{17}{5}$)",
+      "(0, $\\frac{7}{3}$)",
+      "(0, $\\frac{5}{17}$)"
+    ],
     "answer": 0,
-    "rationale": "Gradien garis PQ = (1 - 3)/(5 - 1) = -1/2. Persamaan garis melalui P(1,3): y - 3 = -1/2(x - 1). Saat x = 0, y = 3 + 1/2 = 7/2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Gradien garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Gradien garis PQ = ($1 - 3$)/($5 - 1$) = -$\\frac{1}{2}$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Persamaan garis melalui P($1{,}3$): y - 3 = -$\\frac{1}{2}$(x - 1). Saat $x = 0$, y = $3 + 1$/2 = $\\frac{7}{2}$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Koordinat, Gradien & Persamaan Garis** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu (0, $\\frac{7}{2}$).\n**Materi terkait:**\n- **Koordinat, Gradien & Persamaan Garis** - **Gradien garis**.\n- Baca hubungan titik, gradien, dan garis secara berurutan. Cek apakah garis sejajar, tegak lurus, atau memotong sumbu tertentu.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. (0, $\\frac{7}{2}$)**",
     "content": {
-      "question": "Garis PQ melalui titik P(1,3) dan Q(5,1). Jika garis PQ diperpanjang, titik potongnya dengan sumbu y adalah ...",
-      "options": ["(0, 7/2)", "(0, 17/5)", "(0, 7/3)", "(0, 5/17)"],
+      "question": "Garis PQ melalui titik P($1{,}3$) dan Q($5{,}1$). Jika garis PQ diperpanjang, titik potongnya dengan sumbu y adalah ...",
+      "options": [
+        "(0, $\\frac{7}{2}$)",
+        "(0, $\\frac{17}{5}$)",
+        "(0, $\\frac{7}{3}$)",
+        "(0, $\\frac{5}{17}$)"
+      ],
       "answer": 0,
-      "rationale": "Gradien garis PQ = (1 - 3)/(5 - 1) = -1/2. Persamaan garis melalui P(1,3): y - 3 = -1/2(x - 1). Saat x = 0, y = 3 + 1/2 = 7/2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Gradien garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Gradien garis PQ = ($1 - 3$)/($5 - 1$) = -$\\frac{1}{2}$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Persamaan garis melalui P($1{,}3$): y - 3 = -$\\frac{1}{2}$(x - 1). Saat $x = 0$, y = $3 + 1$/2 = $\\frac{7}{2}$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Koordinat, Gradien & Persamaan Garis** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu (0, $\\frac{7}{2}$).\n**Materi terkait:**\n- **Koordinat, Gradien & Persamaan Garis** - **Gradien garis**.\n- Baca hubungan titik, gradien, dan garis secara berurutan. Cek apakah garis sejajar, tegak lurus, atau memotong sumbu tertentu.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. (0, $\\frac{7}{2}$)**"
     }
   },
   {
@@ -126,17 +198,29 @@
     "subtopic": "Volume & luas permukaan",
     "skill_type": "understanding",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Sebuah limas beralas persegi dan sebuah kerucut memiliki tinggi yang sama. Rusuk alas limas sama dengan diameter kerucut, yaitu 14 cm. Perbandingan volume limas dan kerucut adalah ...",
-    "options": ["14 : 13", "12 : 11", "14 : 11", "11 : 8"],
+    "options": [
+      "$14 : 13$",
+      "$12 : 11$",
+      "$14 : 11$",
+      "$11 : 8$"
+    ],
     "answer": 2,
-    "rationale": "Volume limas = 1/3 x 14^2 x t, sedangkan volume kerucut = 1/3 x pi x 7^2 x t. Perbandingan volume = 196 : 49pi. Dengan pi = 22/7, diperoleh 196 : 154 = 14 : 11.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Volume limas = $\\frac{1}{3} \\times 14^{2} \\times t$, sedangkan volume kerucut = $\\frac{1}{3}$ x pi x $7^{2}$ x t.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Perbandingan volume = 196 : 49pi. Dengan pi = $\\frac{22}{7}$, diperoleh $196 : 154$ = 14 : 11.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $14 : 11$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $14 : 11$**",
     "content": {
       "question": "Sebuah limas beralas persegi dan sebuah kerucut memiliki tinggi yang sama. Rusuk alas limas sama dengan diameter kerucut, yaitu 14 cm. Perbandingan volume limas dan kerucut adalah ...",
-      "options": ["14 : 13", "12 : 11", "14 : 11", "11 : 8"],
+      "options": [
+        "$14 : 13$",
+        "$12 : 11$",
+        "$14 : 11$",
+        "$11 : 8$"
+      ],
       "answer": 2,
-      "rationale": "Volume limas = 1/3 x 14^2 x t, sedangkan volume kerucut = 1/3 x pi x 7^2 x t. Perbandingan volume = 196 : 49pi. Dengan pi = 22/7, diperoleh 196 : 154 = 14 : 11."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Volume limas = $\\frac{1}{3} \\times 14^{2} \\times t$, sedangkan volume kerucut = $\\frac{1}{3}$ x pi x $7^{2}$ x t.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Perbandingan volume = 196 : 49pi. Dengan pi = $\\frac{22}{7}$, diperoleh $196 : 154$ = 14 : 11.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $14 : 11$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $14 : 11$**"
     }
   },
   {
@@ -146,17 +230,29 @@
     "subtopic": "Persamaan garis lurus",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Pada gambar, garis g memotong sumbu y di 3 dan sumbu x di 6. Garis l melalui titik (6,0) dan tegak lurus garis g. Persamaan garis l adalah ...",
-    "options": ["y = 2x + 12", "y = 2x - 12", "2y = -x + 6", "2y = -x - 6"],
+    "question": "Pada gambar, garis g memotong sumbu y di 3 dan sumbu x di 6. Garis l melalui titik ($6{,}0$) dan tegak lurus garis g. Persamaan garis l adalah ...",
+    "options": [
+      "y = 2x + 12",
+      "y = 2x - 12",
+      "2y = -x + 6",
+      "2y = -x - 6"
+    ],
     "answer": 1,
-    "rationale": "Gradien garis g = (0 - 3)/(6 - 0) = -1/2. Garis yang tegak lurus g memiliki gradien 2. Karena garis l melalui (6,0), persamaannya y = 2(x - 6) = 2x - 12.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Persamaan garis lurus**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Gradien garis g = ($0 - 3$)/($6 - 0$) = -$\\frac{1}{2}$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Garis yang tegak lurus g memiliki gradien 2. Karena garis l melalui ($6{,}0$), persamaannya $y = 2$(x - 6) = 2x - 12.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Koordinat, Gradien & Persamaan Garis** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu y = 2x - 12.\n**Materi terkait:**\n- **Koordinat, Gradien & Persamaan Garis** - **Persamaan garis lurus**.\n- Baca hubungan titik, gradien, dan garis secara berurutan. Cek apakah garis sejajar, tegak lurus, atau memotong sumbu tertentu.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. y = 2x - 12**",
     "content": {
-      "question": "Pada gambar, garis g memotong sumbu y di 3 dan sumbu x di 6. Garis l melalui titik (6,0) dan tegak lurus garis g. Persamaan garis l adalah ...",
-      "options": ["y = 2x + 12", "y = 2x - 12", "2y = -x + 6", "2y = -x - 6"],
+      "question": "Pada gambar, garis g memotong sumbu y di 3 dan sumbu x di 6. Garis l melalui titik ($6{,}0$) dan tegak lurus garis g. Persamaan garis l adalah ...",
+      "options": [
+        "y = 2x + 12",
+        "y = 2x - 12",
+        "2y = -x + 6",
+        "2y = -x - 6"
+      ],
       "answer": 1,
-      "rationale": "Gradien garis g = (0 - 3)/(6 - 0) = -1/2. Garis yang tegak lurus g memiliki gradien 2. Karena garis l melalui (6,0), persamaannya y = 2(x - 6) = 2x - 12."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Persamaan garis lurus**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Gradien garis g = ($0 - 3$)/($6 - 0$) = -$\\frac{1}{2}$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Garis yang tegak lurus g memiliki gradien 2. Karena garis l melalui ($6{,}0$), persamaannya $y = 2$(x - 6) = 2x - 12.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Koordinat, Gradien & Persamaan Garis** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu y = 2x - 12.\n**Materi terkait:**\n- **Koordinat, Gradien & Persamaan Garis** - **Persamaan garis lurus**.\n- Baca hubungan titik, gradien, dan garis secara berurutan. Cek apakah garis sejajar, tegak lurus, atau memotong sumbu tertentu.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. y = 2x - 12**"
     }
   },
   {
@@ -166,17 +262,29 @@
     "subtopic": "Bangun gabungan",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Persegi panjang ABCD berukuran AB = 10 cm dan BC = 21 cm beririsan dengan persegi panjang AEFH berukuran AH = 25 cm dan FH = 13 cm. Selisih daerah bersih pada persegi panjang AEFH dengan daerah bersih pada persegi panjang ABCD adalah ...",
-    "options": ["102 cm2", "115 cm2", "124 cm2", "142 cm2"],
+    "options": [
+      "$102\\ \\text{cm}^2$",
+      "$115\\ \\text{cm}^2$",
+      "$124\\ \\text{cm}^2$",
+      "$142\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Selisih daerah bersih kedua persegi panjang sama dengan selisih luas kedua persegi panjang karena bagian irisan dikurangkan dari keduanya. Luas AEFH = 25 x 13 = 325 cm2 dan luas ABCD = 10 x 21 = 210 cm2. Selisihnya 115 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Selisih daerah bersih kedua persegi panjang sama dengan selisih luas kedua persegi panjang karena bagian irisan dikurangkan dari keduanya.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas AEFH = $25 \\times 13$ = $325\\ \\text{cm}^2$ dan luas ABCD = $10 \\times 21$ = $210\\ \\text{cm}^2$. Selisihnya $115\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $115\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $115\\ \\text{cm}^2$**",
     "content": {
       "question": "Persegi panjang ABCD berukuran AB = 10 cm dan BC = 21 cm beririsan dengan persegi panjang AEFH berukuran AH = 25 cm dan FH = 13 cm. Selisih daerah bersih pada persegi panjang AEFH dengan daerah bersih pada persegi panjang ABCD adalah ...",
-      "options": ["102 cm2", "115 cm2", "124 cm2", "142 cm2"],
+      "options": [
+        "$102\\ \\text{cm}^2$",
+        "$115\\ \\text{cm}^2$",
+        "$124\\ \\text{cm}^2$",
+        "$142\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Selisih daerah bersih kedua persegi panjang sama dengan selisih luas kedua persegi panjang karena bagian irisan dikurangkan dari keduanya. Luas AEFH = 25 x 13 = 325 cm2 dan luas ABCD = 10 x 21 = 210 cm2. Selisihnya 115 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Selisih daerah bersih kedua persegi panjang sama dengan selisih luas kedua persegi panjang karena bagian irisan dikurangkan dari keduanya.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas AEFH = $25 \\times 13$ = $325\\ \\text{cm}^2$ dan luas ABCD = $10 \\times 21$ = $210\\ \\text{cm}^2$. Selisihnya $115\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $115\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $115\\ \\text{cm}^2$**"
     }
   },
   {
@@ -186,17 +294,29 @@
     "subtopic": "Fungsi kuadrat dasar",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Seorang siswa melempar bola basket. Tinggi bola terhadap titik lempar dimodelkan oleh h(t) = 60t - 2t^2, dengan t dalam detik dan h dalam sentimeter. Jika tinggi titik lempar dari tanah 170 cm, tinggi maksimum bola dari tanah adalah ...",
-    "options": ["300 cm", "450 cm", "620 cm", "720 cm"],
+    "question": "Seorang siswa melempar bola basket. Tinggi bola terhadap titik lempar dimodelkan oleh h(t) = 60t - $2t^{2}$, dengan t dalam detik dan h dalam sentimeter. Jika tinggi titik lempar dari tanah 170 cm, tinggi maksimum bola dari tanah adalah ...",
+    "options": [
+      "300 cm",
+      "450 cm",
+      "620 cm",
+      "720 cm"
+    ],
     "answer": 2,
-    "rationale": "Fungsi h(t) = -2t^2 + 60t memiliki titik puncak pada t = -b/(2a) = -60/(2(-2)) = 15. Nilai maksimum h(15) = 60(15) - 2(15^2) = 450 cm. Karena diukur dari tanah dan titik lempar setinggi 170 cm, tinggi maksimum = 450 + 170 = 620 cm.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Fungsi kuadrat dasar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Fungsi h(t) = -$2t^{2}$ + 60t memiliki titik puncak pada t = -b/(2a) = -60/(2(-2)) = 15.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Nilai maksimum $h(15) = 60$(15) - 2($15^{2}$) = 450 cm. Karena diukur dari tanah dan titik lempar setinggi 170 cm, tinggi maksimum = $450 + 170$ = 620 cm.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 620 cm.\n**Materi terkait:**\n- **Aljabar** - **Fungsi kuadrat dasar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 620 cm**",
     "content": {
-      "question": "Seorang siswa melempar bola basket. Tinggi bola terhadap titik lempar dimodelkan oleh h(t) = 60t - 2t^2, dengan t dalam detik dan h dalam sentimeter. Jika tinggi titik lempar dari tanah 170 cm, tinggi maksimum bola dari tanah adalah ...",
-      "options": ["300 cm", "450 cm", "620 cm", "720 cm"],
+      "question": "Seorang siswa melempar bola basket. Tinggi bola terhadap titik lempar dimodelkan oleh h(t) = 60t - $2t^{2}$, dengan t dalam detik dan h dalam sentimeter. Jika tinggi titik lempar dari tanah 170 cm, tinggi maksimum bola dari tanah adalah ...",
+      "options": [
+        "300 cm",
+        "450 cm",
+        "620 cm",
+        "720 cm"
+      ],
       "answer": 2,
-      "rationale": "Fungsi h(t) = -2t^2 + 60t memiliki titik puncak pada t = -b/(2a) = -60/(2(-2)) = 15. Nilai maksimum h(15) = 60(15) - 2(15^2) = 450 cm. Karena diukur dari tanah dan titik lempar setinggi 170 cm, tinggi maksimum = 450 + 170 = 620 cm."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Fungsi kuadrat dasar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Fungsi h(t) = -$2t^{2}$ + 60t memiliki titik puncak pada t = -b/(2a) = -60/(2(-2)) = 15.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Nilai maksimum $h(15) = 60$(15) - 2($15^{2}$) = 450 cm. Karena diukur dari tanah dan titik lempar setinggi 170 cm, tinggi maksimum = $450 + 170$ = 620 cm.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 620 cm.\n**Materi terkait:**\n- **Aljabar** - **Fungsi kuadrat dasar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 620 cm**"
     }
   },
   {
@@ -206,17 +326,29 @@
     "subtopic": "Volume & luas permukaan",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Sekelompok siswa menyusun kubus-kubus kecil dengan panjang rusuk 2 cm seperti pada gambar tampak depan dan tampak belakang. Jika susunan kubus tersebut diwarnai, luas permukaan bangun yang akan diwarnai adalah ...",
-    "options": ["384 cm2", "320 cm2", "256 cm2", "192 cm2"],
+    "options": [
+      "$384\\ \\text{cm}^2$",
+      "$320\\ \\text{cm}^2$",
+      "$256\\ \\text{cm}^2$",
+      "$192\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Dari tampak depan dan tampak belakang, bangun memiliki luas permukaan setara 80 sisi kubus kecil. Setiap sisi kubus kecil luasnya 2 x 2 = 4 cm2, sehingga luas permukaan yang diwarnai = 80 x 4 = 320 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari tampak depan dan tampak belakang, bangun memiliki luas permukaan setara 80 sisi kubus kecil.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Setiap sisi kubus kecil luasnya $2 \\times 2$ = $4\\ \\text{cm}^2$, sehingga luas permukaan yang diwarnai = $80 \\times 4$ = $320\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $320\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $320\\ \\text{cm}^2$**",
     "content": {
       "question": "Sekelompok siswa menyusun kubus-kubus kecil dengan panjang rusuk 2 cm seperti pada gambar tampak depan dan tampak belakang. Jika susunan kubus tersebut diwarnai, luas permukaan bangun yang akan diwarnai adalah ...",
-      "options": ["384 cm2", "320 cm2", "256 cm2", "192 cm2"],
+      "options": [
+        "$384\\ \\text{cm}^2$",
+        "$320\\ \\text{cm}^2$",
+        "$256\\ \\text{cm}^2$",
+        "$192\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Dari tampak depan dan tampak belakang, bangun memiliki luas permukaan setara 80 sisi kubus kecil. Setiap sisi kubus kecil luasnya 2 x 2 = 4 cm2, sehingga luas permukaan yang diwarnai = 80 x 4 = 320 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari tampak depan dan tampak belakang, bangun memiliki luas permukaan setara 80 sisi kubus kecil.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Setiap sisi kubus kecil luasnya $2 \\times 2$ = $4\\ \\text{cm}^2$, sehingga luas permukaan yang diwarnai = $80 \\times 4$ = $320\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $320\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $320\\ \\text{cm}^2$**"
     }
   },
   {
@@ -226,17 +358,29 @@
     "subtopic": "Kesebangunan",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Foto wayang Pandawa ABCD ditempel pada karton KLMN. Karton berukuran 80 cm x 60 cm. Jarak kiri dan kanan foto ke tepi karton masing-masing 8 cm, sedangkan jarak atas dan bawah foto ke tepi karton masing-masing x cm. Foto dan karton sebangun. Pernyataan: (1) panjang AB = 72 cm; (2) panjang AD = 48 cm; (3) x = 7 cm; (4) luas karton yang tidak tertutup foto adalah 1.728 cm2. Pernyataan yang benar adalah ...",
-    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "question": "Foto wayang Pandawa ABCD ditempel pada karton KLMN. Karton berukuran 80 cm x 60 cm. Jarak kiri dan kanan foto ke tepi karton masing-masing 8 cm, sedangkan jarak atas dan bawah foto ke tepi karton masing-masing x cm. Foto dan karton sebangun. Pernyataan: (1) panjang AB = 72 cm; (2) panjang AD = 48 cm; (3) $x = 7$ cm; (4) luas karton yang tidak tertutup foto adalah 1.$728\\ \\text{cm}^2$. Pernyataan yang benar adalah ...",
+    "options": [
+      "(1) dan (3)",
+      "(1) dan (4)",
+      "(2) dan (3)",
+      "(2) dan (4)"
+    ],
     "answer": 3,
-    "rationale": "Lebar foto = 80 - 8 - 8 = 64 cm. Karena sebangun dengan karton 80 : 60 = 4 : 3, tinggi foto = 64 x 3/4 = 48 cm, sehingga AD = 48. Luas karton = 4.800 cm2 dan luas foto = 64 x 48 = 3.072 cm2, maka luas yang tidak tertutup foto = 1.728 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Lebar foto = $80 - 8 - 8$ = 64 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena sebangun dengan karton $80 : 60$ = $4 : 3$, tinggi foto = $64 \\times 3$/4 = 48 cm, sehingga AD = 48. Luas karton = 4.$800\\ \\text{cm}^2$ dan luas foto = $64 \\times 48$ = 3.$072\\ \\text{cm}^2$, maka luas yang tidak tertutup foto = 1.$728\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu (2) dan (4).\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. (2) dan (4)**",
     "content": {
-      "question": "Foto wayang Pandawa ABCD ditempel pada karton KLMN. Karton berukuran 80 cm x 60 cm. Jarak kiri dan kanan foto ke tepi karton masing-masing 8 cm, sedangkan jarak atas dan bawah foto ke tepi karton masing-masing x cm. Foto dan karton sebangun. Pernyataan: (1) panjang AB = 72 cm; (2) panjang AD = 48 cm; (3) x = 7 cm; (4) luas karton yang tidak tertutup foto adalah 1.728 cm2. Pernyataan yang benar adalah ...",
-      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "question": "Foto wayang Pandawa ABCD ditempel pada karton KLMN. Karton berukuran 80 cm x 60 cm. Jarak kiri dan kanan foto ke tepi karton masing-masing 8 cm, sedangkan jarak atas dan bawah foto ke tepi karton masing-masing x cm. Foto dan karton sebangun. Pernyataan: (1) panjang AB = 72 cm; (2) panjang AD = 48 cm; (3) $x = 7$ cm; (4) luas karton yang tidak tertutup foto adalah 1.$728\\ \\text{cm}^2$. Pernyataan yang benar adalah ...",
+      "options": [
+        "(1) dan (3)",
+        "(1) dan (4)",
+        "(2) dan (3)",
+        "(2) dan (4)"
+      ],
       "answer": 3,
-      "rationale": "Lebar foto = 80 - 8 - 8 = 64 cm. Karena sebangun dengan karton 80 : 60 = 4 : 3, tinggi foto = 64 x 3/4 = 48 cm, sehingga AD = 48. Luas karton = 4.800 cm2 dan luas foto = 64 x 48 = 3.072 cm2, maka luas yang tidak tertutup foto = 1.728 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Lebar foto = $80 - 8 - 8$ = 64 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena sebangun dengan karton $80 : 60$ = $4 : 3$, tinggi foto = $64 \\times 3$/4 = 48 cm, sehingga AD = 48. Luas karton = 4.$800\\ \\text{cm}^2$ dan luas foto = $64 \\times 48$ = 3.$072\\ \\text{cm}^2$, maka luas yang tidak tertutup foto = 1.$728\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu (2) dan (4).\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. (2) dan (4)**"
     }
   },
   {
@@ -246,17 +390,29 @@
     "subtopic": "Volume & luas permukaan",
     "skill_type": "understanding",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Sebuah bangun ruang merupakan gabungan kerucut dan setengah bola. Jari-jari alas kerucut sama dengan jari-jari setengah bola. Luas permukaan bangun tersebut 264pi cm2. Jika jari-jari dan tinggi kerucut diperbesar tiga kali, luas permukaan bangun ruang yang baru adalah ...",
-    "options": ["2.376pi cm2", "1.056pi cm2", "792pi cm2", "528pi cm2"],
+    "options": [
+      "2.376pi cm2",
+      "1.056pi cm2",
+      "792pi cm2",
+      "528pi cm2"
+    ],
     "answer": 0,
-    "rationale": "Jika semua ukuran panjang diperbesar 3 kali, luas permukaan diperbesar 3^2 = 9 kali. Luas baru = 9 x 264pi = 2.376pi cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jika semua ukuran panjang diperbesar 3 kali, luas permukaan diperbesar $3^{2}$ = 9 kali.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas baru = 9 x 264pi = 2.376pi cm2.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 2.376pi cm2.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 2.376pi cm2**",
     "content": {
       "question": "Sebuah bangun ruang merupakan gabungan kerucut dan setengah bola. Jari-jari alas kerucut sama dengan jari-jari setengah bola. Luas permukaan bangun tersebut 264pi cm2. Jika jari-jari dan tinggi kerucut diperbesar tiga kali, luas permukaan bangun ruang yang baru adalah ...",
-      "options": ["2.376pi cm2", "1.056pi cm2", "792pi cm2", "528pi cm2"],
+      "options": [
+        "2.376pi cm2",
+        "1.056pi cm2",
+        "792pi cm2",
+        "528pi cm2"
+      ],
       "answer": 0,
-      "rationale": "Jika semua ukuran panjang diperbesar 3 kali, luas permukaan diperbesar 3^2 = 9 kali. Luas baru = 9 x 264pi = 2.376pi cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jika semua ukuran panjang diperbesar 3 kali, luas permukaan diperbesar $3^{2}$ = 9 kali.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas baru = 9 x 264pi = 2.376pi cm2.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 2.376pi cm2.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 2.376pi cm2**"
     }
   },
   {
@@ -266,17 +422,29 @@
     "subtopic": "Persamaan linear satu variabel",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Diketahui keliling persegi panjang 94 cm, panjangnya (5x + 2) cm dan lebarnya (2x + 3) cm. Panjang dan lebar sebenarnya berturut-turut adalah ...",
-    "options": ["24 cm dan 23 cm", "25 cm dan 22 cm", "32 cm dan 15 cm", "36 cm dan 11 cm"],
+    "options": [
+      "24 cm dan 23 cm",
+      "25 cm dan 22 cm",
+      "32 cm dan 15 cm",
+      "36 cm dan 11 cm"
+    ],
     "answer": 2,
-    "rationale": "Keliling 94 cm berarti panjang + lebar = 47 cm. Maka (5x + 2) + (2x + 3) = 47, sehingga 7x + 5 = 47 dan x = 6. Panjang = 5(6) + 2 = 32 cm, lebar = 2(6) + 3 = 15 cm.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Persamaan linear satu variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Keliling 94 cm berarti panjang + lebar = 47 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka $(5x + 2) + (2x + 3)$ = 47, sehingga 7x + 5 = 47 dan $x = 6$. Panjang = 5(6) + 2 = 32 cm, lebar = 2(6) + 3 = 15 cm.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 32 cm dan 15 cm.\n**Materi terkait:**\n- **Aljabar** - **Persamaan linear satu variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 32 cm dan 15 cm**",
     "content": {
       "question": "Diketahui keliling persegi panjang 94 cm, panjangnya (5x + 2) cm dan lebarnya (2x + 3) cm. Panjang dan lebar sebenarnya berturut-turut adalah ...",
-      "options": ["24 cm dan 23 cm", "25 cm dan 22 cm", "32 cm dan 15 cm", "36 cm dan 11 cm"],
+      "options": [
+        "24 cm dan 23 cm",
+        "25 cm dan 22 cm",
+        "32 cm dan 15 cm",
+        "36 cm dan 11 cm"
+      ],
       "answer": 2,
-      "rationale": "Keliling 94 cm berarti panjang + lebar = 47 cm. Maka (5x + 2) + (2x + 3) = 47, sehingga 7x + 5 = 47 dan x = 6. Panjang = 5(6) + 2 = 32 cm, lebar = 2(6) + 3 = 15 cm."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Persamaan linear satu variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Keliling 94 cm berarti panjang + lebar = 47 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka $(5x + 2) + (2x + 3)$ = 47, sehingga 7x + 5 = 47 dan $x = 6$. Panjang = 5(6) + 2 = 32 cm, lebar = 2(6) + 3 = 15 cm.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 32 cm dan 15 cm.\n**Materi terkait:**\n- **Aljabar** - **Persamaan linear satu variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 32 cm dan 15 cm**"
     }
   },
   {
@@ -286,17 +454,29 @@
     "subtopic": "Operasi aljabar",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Bentuk sederhana dari (6x^2 + 13x + 5) / (4x^2 - 25) adalah ...",
-    "options": ["(3x - 1) / (2x - 5)", "(3x + 1) / (2x - 5)", "(3x - 1) / (2x + 5)", "((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))"],
+    "question": "Bentuk sederhana dari $(6x^{2} + 13x + 5) / (4x^{2} - 25)$ adalah ...",
+    "options": [
+      "$(3x - 1) / (2x - 5)$",
+      "$(3x + 1) / (2x - 5)$",
+      "$(3x - 1) / (2x + 5)$",
+      "((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))"
+    ],
     "answer": 3,
-    "rationale": "Pembilang 6x^2 + 13x + 5 = (2x + 1)(3x + 5), sedangkan penyebut 4x^2 - 25 = (2x - 5)(2x + 5). Tidak ada faktor yang sama untuk dicoret, sehingga bentuk sederhana tetap dalam bentuk faktornya. Opsi PDF tidak memuat jawaban benar; opsi D ditulis sebagai koreksi.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi aljabar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Pembilang $6x^{2}$ + 13x + 5 = (2x + 1)(3x + 5), sedangkan penyebut $4x^{2} - 25$ = (2x - 5)(2x + 5).\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Tidak ada faktor yang sama untuk dicoret, sehingga bentuk sederhana tetap dalam bentuk faktornya.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu ((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5)).\n**Materi terkait:**\n- **Aljabar** - **Operasi aljabar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. ((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))**",
     "content": {
-      "question": "Bentuk sederhana dari (6x^2 + 13x + 5) / (4x^2 - 25) adalah ...",
-      "options": ["(3x - 1) / (2x - 5)", "(3x + 1) / (2x - 5)", "(3x - 1) / (2x + 5)", "((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))"],
+      "question": "Bentuk sederhana dari $(6x^{2} + 13x + 5) / (4x^{2} - 25)$ adalah ...",
+      "options": [
+        "$(3x - 1) / (2x - 5)$",
+        "$(3x + 1) / (2x - 5)$",
+        "$(3x - 1) / (2x + 5)$",
+        "((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))"
+      ],
       "answer": 3,
-      "rationale": "Pembilang 6x^2 + 13x + 5 = (2x + 1)(3x + 5), sedangkan penyebut 4x^2 - 25 = (2x - 5)(2x + 5). Tidak ada faktor yang sama untuk dicoret, sehingga bentuk sederhana tetap dalam bentuk faktornya. Opsi PDF tidak memuat jawaban benar; opsi D ditulis sebagai koreksi."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi aljabar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Pembilang $6x^{2}$ + 13x + 5 = (2x + 1)(3x + 5), sedangkan penyebut $4x^{2} - 25$ = (2x - 5)(2x + 5).\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Tidak ada faktor yang sama untuk dicoret, sehingga bentuk sederhana tetap dalam bentuk faktornya.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu ((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5)).\n**Materi terkait:**\n- **Aljabar** - **Operasi aljabar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. ((2x + 1)(3x + 5)) / ((2x - 5)(2x + 5))**"
     }
   },
   {
@@ -306,17 +486,29 @@
     "subtopic": "Keliling & luas bangun datar",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Pada sebuah jajargenjang, titik pada sisi kiri dan titik pada sisi alas masing-masing adalah titik tengah. Daerah diarsir di bagian atas memiliki luas 40 cm2. Luas jajargenjang ABCD adalah ...",
-    "options": ["36 cm2", "64 cm2", "72 cm2", "80 cm2"],
+    "question": "Pada sebuah jajargenjang, titik pada sisi kiri dan titik pada sisi alas masing-masing adalah titik tengah. Daerah diarsir di bagian atas memiliki luas $40\\ \\text{cm}^2$. Luas jajargenjang ABCD adalah ...",
+    "options": [
+      "$36\\ \\text{cm}^2$",
+      "$64\\ \\text{cm}^2$",
+      "$72\\ \\text{cm}^2$",
+      "$80\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Dengan memisalkan luas jajargenjang sebagai L, pembagian oleh titik tengah pada sisi kiri dan alas membuat luas daerah diarsir sama dengan 5/8 L. Karena daerah diarsir 40 cm2, maka L = 40 x 8/5 = 64 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Keliling & luas bangun datar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dengan memisalkan luas jajargenjang sebagai L, pembagian oleh titik tengah pada sisi kiri dan alas membuat luas daerah diarsir sama dengan $\\frac{5}{8}$ L.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena daerah diarsir $40\\ \\text{cm}^2$, maka L = $40 \\times 8$/5 = $64\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $64\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Keliling & luas bangun datar**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $64\\ \\text{cm}^2$**",
     "content": {
-      "question": "Pada sebuah jajargenjang, titik pada sisi kiri dan titik pada sisi alas masing-masing adalah titik tengah. Daerah diarsir di bagian atas memiliki luas 40 cm2. Luas jajargenjang ABCD adalah ...",
-      "options": ["36 cm2", "64 cm2", "72 cm2", "80 cm2"],
+      "question": "Pada sebuah jajargenjang, titik pada sisi kiri dan titik pada sisi alas masing-masing adalah titik tengah. Daerah diarsir di bagian atas memiliki luas $40\\ \\text{cm}^2$. Luas jajargenjang ABCD adalah ...",
+      "options": [
+        "$36\\ \\text{cm}^2$",
+        "$64\\ \\text{cm}^2$",
+        "$72\\ \\text{cm}^2$",
+        "$80\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Dengan memisalkan luas jajargenjang sebagai L, pembagian oleh titik tengah pada sisi kiri dan alas membuat luas daerah diarsir sama dengan 5/8 L. Karena daerah diarsir 40 cm2, maka L = 40 x 8/5 = 64 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Keliling & luas bangun datar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dengan memisalkan luas jajargenjang sebagai L, pembagian oleh titik tengah pada sisi kiri dan alas membuat luas daerah diarsir sama dengan $\\frac{5}{8}$ L.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena daerah diarsir $40\\ \\text{cm}^2$, maka L = $40 \\times 8$/5 = $64\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $64\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Keliling & luas bangun datar**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $64\\ \\text{cm}^2$**"
     }
   },
   {
@@ -326,17 +518,29 @@
     "subtopic": "Soal cerita himpunan",
     "skill_type": "data_interpretation",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Penduduk Desa Suka Maju berjumlah 250 orang. Sebanyak 85% penduduk berusia di atas 15 tahun, 45% penduduk berusia di bawah 25 tahun, dan 25% penduduk berusia di atas 50 tahun. Banyak penduduk yang berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah ...",
-    "options": ["160 orang", "150 orang", "180 orang", "140 orang"],
+    "question": "Penduduk Desa Suka Maju berjumlah 250 orang. Sebanyak $85\\%$ penduduk berusia di atas 15 tahun, $45\\%$ penduduk berusia di bawah 25 tahun, dan $25\\%$ penduduk berusia di atas 50 tahun. Banyak penduduk yang berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah ...",
+    "options": [
+      "160 orang",
+      "150 orang",
+      "180 orang",
+      "140 orang"
+    ],
     "answer": 1,
-    "rationale": "Penduduk berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah penduduk di atas 15 tahun dikurangi penduduk di atas 50 tahun. Persentasenya 85% - 25% = 60%. Banyaknya = 60% x 250 = 150 orang.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Soal cerita himpunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Penduduk berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah penduduk di atas 15 tahun dikurangi penduduk di atas 50 tahun.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Persentasenya $85\\%$ - $25\\%$ = $60\\%$. Banyaknya = $60\\%$ x 250 = 150 orang.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Himpunan & Diagram Venn** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 150 orang.\n**Materi terkait:**\n- **Himpunan & Diagram Venn** - **Soal cerita himpunan**.\n- Bangun model **himpunan** dengan hati-hati agar bagian irisan, gabungan, dan komplemen tidak terhitung ganda.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 150 orang**",
     "content": {
-      "question": "Penduduk Desa Suka Maju berjumlah 250 orang. Sebanyak 85% penduduk berusia di atas 15 tahun, 45% penduduk berusia di bawah 25 tahun, dan 25% penduduk berusia di atas 50 tahun. Banyak penduduk yang berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah ...",
-      "options": ["160 orang", "150 orang", "180 orang", "140 orang"],
+      "question": "Penduduk Desa Suka Maju berjumlah 250 orang. Sebanyak $85\\%$ penduduk berusia di atas 15 tahun, $45\\%$ penduduk berusia di bawah 25 tahun, dan $25\\%$ penduduk berusia di atas 50 tahun. Banyak penduduk yang berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah ...",
+      "options": [
+        "160 orang",
+        "150 orang",
+        "180 orang",
+        "140 orang"
+      ],
       "answer": 1,
-      "rationale": "Penduduk berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah penduduk di atas 15 tahun dikurangi penduduk di atas 50 tahun. Persentasenya 85% - 25% = 60%. Banyaknya = 60% x 250 = 150 orang."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Soal cerita himpunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Penduduk berusia di atas 15 tahun dan tidak lebih dari 50 tahun adalah penduduk di atas 15 tahun dikurangi penduduk di atas 50 tahun.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Persentasenya $85\\%$ - $25\\%$ = $60\\%$. Banyaknya = $60\\%$ x 250 = 150 orang.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Himpunan & Diagram Venn** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 150 orang.\n**Materi terkait:**\n- **Himpunan & Diagram Venn** - **Soal cerita himpunan**.\n- Bangun model **himpunan** dengan hati-hati agar bagian irisan, gabungan, dan komplemen tidak terhitung ganda.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 150 orang**"
     }
   },
   {
@@ -346,17 +550,29 @@
     "subtopic": "Peluang sederhana",
     "skill_type": "multi_step_problem",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
     "question": "Dalam kantong terdapat 3 bola merah bernomor 1-3, 5 bola kuning bernomor 4-8, dan 4 bola hijau bernomor 9-12. Tiga bola diambil satu per satu tanpa dikembalikan. Pengambilan pertama muncul bola merah bernomor genap dan pengambilan kedua muncul bola hijau bernomor prima. Peluang terambilnya bola bernomor ganjil pada pengambilan ketiga adalah ...",
-    "options": ["30%", "40%", "50%", "60%"],
+    "options": [
+      "$30\\%$",
+      "$40\\%$",
+      "$50\\%$",
+      "$60\\%$"
+    ],
     "answer": 2,
-    "rationale": "Bola merah genap yang terambil pertama adalah nomor 2. Bola hijau prima yang terambil kedua adalah nomor 11. Semula ada 6 bola bernomor ganjil, yaitu 1, 3, 5, 7, 9, dan 11. Setelah nomor 11 terambil, tersisa 5 bola ganjil dari 10 bola. Peluangnya 5/10 = 50%.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Peluang sederhana**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Bola merah genap yang terambil pertama adalah nomor 2.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Bola hijau prima yang terambil kedua adalah nomor 11. Semula ada 6 bola bernomor ganjil, yaitu 1, 3, 5, 7, 9, dan 11. Setelah nomor 11 terambil, tersisa 5 bola ganjil dari 10 bola. Peluangnya $\\frac{5}{10}$ = $50\\%$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Statistik & Peluang** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $50\\%$.\n**Materi terkait:**\n- **Statistik & Peluang** - **Peluang sederhana**.\n- Pisahkan data yang diketahui, lalu gunakan **total, rata-rata, banyak kejadian, atau komplemen** sesuai pertanyaan.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $50\\%$**",
     "content": {
       "question": "Dalam kantong terdapat 3 bola merah bernomor 1-3, 5 bola kuning bernomor 4-8, dan 4 bola hijau bernomor 9-12. Tiga bola diambil satu per satu tanpa dikembalikan. Pengambilan pertama muncul bola merah bernomor genap dan pengambilan kedua muncul bola hijau bernomor prima. Peluang terambilnya bola bernomor ganjil pada pengambilan ketiga adalah ...",
-      "options": ["30%", "40%", "50%", "60%"],
+      "options": [
+        "$30\\%$",
+        "$40\\%$",
+        "$50\\%$",
+        "$60\\%$"
+      ],
       "answer": 2,
-      "rationale": "Bola merah genap yang terambil pertama adalah nomor 2. Bola hijau prima yang terambil kedua adalah nomor 11. Semula ada 6 bola bernomor ganjil, yaitu 1, 3, 5, 7, 9, dan 11. Setelah nomor 11 terambil, tersisa 5 bola ganjil dari 10 bola. Peluangnya 5/10 = 50%."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Peluang sederhana**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Bola merah genap yang terambil pertama adalah nomor 2.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Bola hijau prima yang terambil kedua adalah nomor 11. Semula ada 6 bola bernomor ganjil, yaitu 1, 3, 5, 7, 9, dan 11. Setelah nomor 11 terambil, tersisa 5 bola ganjil dari 10 bola. Peluangnya $\\frac{5}{10}$ = $50\\%$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Statistik & Peluang** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $50\\%$.\n**Materi terkait:**\n- **Statistik & Peluang** - **Peluang sederhana**.\n- Pisahkan data yang diketahui, lalu gunakan **total, rata-rata, banyak kejadian, atau komplemen** sesuai pertanyaan.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $50\\%$**"
     }
   },
   {
@@ -366,17 +582,29 @@
     "subtopic": "Skala peta & miniatur",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Dua orang berangkat dari kota P ke kota Q melalui jalan berbeda. Orang pertama melalui kota A, sedangkan orang kedua melalui kota B. Pada peta berskala 1 : 250.000, jarak P ke A = 8 cm, P ke B = 9 cm, A ke Q = 16 cm, dan B ke Q = 17 cm. Selisih jarak tempuh kedua orang adalah ...",
-    "options": ["50 km", "25 km", "5 km", "2,5 km"],
+    "question": "Dua orang berangkat dari kota P ke kota Q melalui jalan berbeda. Orang pertama melalui kota A, sedangkan orang kedua melalui kota B. Pada peta berskala 1 : 250.000, jarak P ke $A = 8$ cm, P ke $B = 9$ cm, A ke $Q = 16$ cm, dan B ke $Q = 17$ cm. Selisih jarak tempuh kedua orang adalah ...",
+    "options": [
+      "50 km",
+      "25 km",
+      "5 km",
+      "$2{,}5$ km"
+    ],
     "answer": 2,
-    "rationale": "Jarak rute pertama pada peta = 8 + 16 = 24 cm. Rute kedua = 9 + 17 = 26 cm. Selisihnya 2 cm. Skala 1 : 250.000 berarti 1 cm = 2,5 km, maka selisih jarak sebenarnya = 2 x 2,5 = 5 km.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Skala peta & miniatur**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jarak rute pertama pada peta = $8 + 16$ = 24 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Rute kedua = $9 + 17$ = 26 cm. Selisihnya 2 cm. Skala 1 : 250.000 berarti 1 cm = $2{,}5$ km, maka selisih jarak sebenarnya = $2 \\times 2{,}5$ = 5 km.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 5 km.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Skala peta & miniatur**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 5 km**",
     "content": {
-      "question": "Dua orang berangkat dari kota P ke kota Q melalui jalan berbeda. Orang pertama melalui kota A, sedangkan orang kedua melalui kota B. Pada peta berskala 1 : 250.000, jarak P ke A = 8 cm, P ke B = 9 cm, A ke Q = 16 cm, dan B ke Q = 17 cm. Selisih jarak tempuh kedua orang adalah ...",
-      "options": ["50 km", "25 km", "5 km", "2,5 km"],
+      "question": "Dua orang berangkat dari kota P ke kota Q melalui jalan berbeda. Orang pertama melalui kota A, sedangkan orang kedua melalui kota B. Pada peta berskala 1 : 250.000, jarak P ke $A = 8$ cm, P ke $B = 9$ cm, A ke $Q = 16$ cm, dan B ke $Q = 17$ cm. Selisih jarak tempuh kedua orang adalah ...",
+      "options": [
+        "50 km",
+        "25 km",
+        "5 km",
+        "$2{,}5$ km"
+      ],
       "answer": 2,
-      "rationale": "Jarak rute pertama pada peta = 8 + 16 = 24 cm. Rute kedua = 9 + 17 = 26 cm. Selisihnya 2 cm. Skala 1 : 250.000 berarti 1 cm = 2,5 km, maka selisih jarak sebenarnya = 2 x 2,5 = 5 km."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Skala peta & miniatur**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jarak rute pertama pada peta = $8 + 16$ = 24 cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Rute kedua = $9 + 17$ = 26 cm. Selisihnya 2 cm. Skala 1 : 250.000 berarti 1 cm = $2{,}5$ km, maka selisih jarak sebenarnya = $2 \\times 2{,}5$ = 5 km.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 5 km.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Skala peta & miniatur**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 5 km**"
     }
   },
   {
@@ -386,17 +614,29 @@
     "subtopic": "Sistem persamaan linear dua variabel",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-4"],
+    "tags": [
+      "math-psb-sma-practice-set-4"
+    ],
     "is_active": true,
-    "question": "Jika m dan n memenuhi persamaan 1/m + 1/n = 9/14 dan 1/m - 1/n = 5/14, maka nilai m^2 - n^2 adalah ...",
-    "options": ["-45", "-9", "9", "45"],
+    "question": "Jika m dan n memenuhi persamaan 1/m + 1/n = $\\frac{9}{14}$ dan 1/m - 1/n = $\\frac{5}{14}$, maka nilai $m^{2}$ - $n^{2}$ adalah ...",
+    "options": [
+      "-45",
+      "-9",
+      "9",
+      "45"
+    ],
     "answer": 0,
-    "rationale": "Jumlahkan kedua persamaan: 2/m = 14/14 = 1, sehingga m = 2. Kurangkan persamaan pertama dengan kedua: 2/n = 4/14 = 2/7, sehingga n = 7. Maka m^2 - n^2 = 2^2 - 7^2 = 4 - 49 = -45.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jumlahkan kedua persamaan: 2/m = $\\frac{14}{14}$ = 1, sehingga $m = 2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Kurangkan persamaan pertama dengan kedua: 2/n = $\\frac{4}{14}$ = $\\frac{2}{7}$, sehingga $n = 7$. Maka $m^{2}$ - $n^{2}$ = $2^{2} - 7^{2}$ = $4 - 49$ = -45.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu -45.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. -45**",
     "content": {
-      "question": "Jika m dan n memenuhi persamaan 1/m + 1/n = 9/14 dan 1/m - 1/n = 5/14, maka nilai m^2 - n^2 adalah ...",
-      "options": ["-45", "-9", "9", "45"],
+      "question": "Jika m dan n memenuhi persamaan 1/m + 1/n = $\\frac{9}{14}$ dan 1/m - 1/n = $\\frac{5}{14}$, maka nilai $m^{2}$ - $n^{2}$ adalah ...",
+      "options": [
+        "-45",
+        "-9",
+        "9",
+        "45"
+      ],
       "answer": 0,
-      "rationale": "Jumlahkan kedua persamaan: 2/m = 14/14 = 1, sehingga m = 2. Kurangkan persamaan pertama dengan kedua: 2/n = 4/14 = 2/7, sehingga n = 7. Maka m^2 - n^2 = 2^2 - 7^2 = 4 - 49 = -45."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jumlahkan kedua persamaan: 2/m = $\\frac{14}{14}$ = 1, sehingga $m = 2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Kurangkan persamaan pertama dengan kedua: 2/n = $\\frac{4}{14}$ = $\\frac{2}{7}$, sehingga $n = 7$. Maka $m^{2}$ - $n^{2}$ = $2^{2} - 7^{2}$ = $4 - 49$ = -45.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu -45.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. -45**"
     }
   }
 ]

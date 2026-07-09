@@ -6,17 +6,29 @@
     "subtopic": "Operasi bilangan",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Hasil dari 17 x (-15) - 8 x 45 : (-3) + 5 x 3 adalah ...",
-    "options": ["-360", "-120", "120", "360"],
+    "question": "Hasil dari $17 \\times (-15) - 8 \\times 45 : (-3) + 5 \\times 3$ adalah ...",
+    "options": [
+      "-360",
+      "-120",
+      "120",
+      "360"
+    ],
     "answer": 1,
-    "rationale": "Kerjakan perkalian dan pembagian lebih dahulu: 17 x (-15) = -255, 8 x 45 : (-3) = -120, dan 5 x 3 = 15. Maka hasilnya -255 - (-120) + 15 = -120. Kunci cetak PDF tampak memilih A, tetapi hasil operasi yang sesuai adalah B.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Kerjakan perkalian dan pembagian lebih dahulu: $17 \\times (-15)$ = -255, $8 \\times 45 : (-3)$ = -120, dan $5 \\times 3$ = 15.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka hasilnya $-255 - (-120) + 15$ = -120.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu -120.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. -120**",
     "content": {
-      "question": "Hasil dari 17 x (-15) - 8 x 45 : (-3) + 5 x 3 adalah ...",
-      "options": ["-360", "-120", "120", "360"],
+      "question": "Hasil dari $17 \\times (-15) - 8 \\times 45 : (-3) + 5 \\times 3$ adalah ...",
+      "options": [
+        "-360",
+        "-120",
+        "120",
+        "360"
+      ],
       "answer": 1,
-      "rationale": "Kerjakan perkalian dan pembagian lebih dahulu: 17 x (-15) = -255, 8 x 45 : (-3) = -120, dan 5 x 3 = 15. Maka hasilnya -255 - (-120) + 15 = -120. Kunci cetak PDF tampak memilih A, tetapi hasil operasi yang sesuai adalah B."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Kerjakan perkalian dan pembagian lebih dahulu: $17 \\times (-15)$ = -255, $8 \\times 45 : (-3)$ = -120, dan $5 \\times 3$ = 15.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka hasilnya $-255 - (-120) + 15$ = -120.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu -120.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. -120**"
     }
   },
   {
@@ -26,17 +38,29 @@
     "subtopic": "Bilangan berpangkat sederhana",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Nilai dari (27^(2/3) + (1/4)^(-2)) / 5^2 adalah ...",
-    "options": ["25", "9", "1", "0"],
+    "question": "Nilai dari $(27^{\\frac{2}{3}} + (\\frac{1}{4})^{-2}) / 5^{2}$ adalah ...",
+    "options": [
+      "25",
+      "9",
+      "1",
+      "0"
+    ],
     "answer": 2,
-    "rationale": "27^(2/3) = (akar pangkat tiga dari 27)^2 = 3^2 = 9. Selain itu, (1/4)^(-2) = 4^2 = 16. Pembilangnya 25 dan penyebutnya 5^2 = 25, sehingga nilainya 1.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bilangan berpangkat sederhana**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. $27^{\\frac{2}{3}}$ = (akar pangkat tiga dari 27)^2 = $3^{2}$ = 9.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Selain itu, $(\\frac{1}{4})^{-2}$ = $4^{2}$ = 16. Pembilangnya 25 dan penyebutnya $5^{2}$ = 25, sehingga nilainya 1.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 1.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Bilangan berpangkat sederhana**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 1**",
     "content": {
-      "question": "Nilai dari (27^(2/3) + (1/4)^(-2)) / 5^2 adalah ...",
-      "options": ["25", "9", "1", "0"],
+      "question": "Nilai dari $(27^{\\frac{2}{3}} + (\\frac{1}{4})^{-2}) / 5^{2}$ adalah ...",
+      "options": [
+        "25",
+        "9",
+        "1",
+        "0"
+      ],
       "answer": 2,
-      "rationale": "27^(2/3) = (akar pangkat tiga dari 27)^2 = 3^2 = 9. Selain itu, (1/4)^(-2) = 4^2 = 16. Pembilangnya 25 dan penyebutnya 5^2 = 25, sehingga nilainya 1."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bilangan berpangkat sederhana**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. $27^{\\frac{2}{3}}$ = (akar pangkat tiga dari 27)^2 = $3^{2}$ = 9.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Selain itu, $(\\frac{1}{4})^{-2}$ = $4^{2}$ = 16. Pembilangnya 25 dan penyebutnya $5^{2}$ = 25, sehingga nilainya 1.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 1.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Bilangan berpangkat sederhana**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 1**"
     }
   },
   {
@@ -46,17 +70,29 @@
     "subtopic": "Pecahan",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Ibu mempunyai persediaan 3/4 kg gula pasir, kemudian membeli lagi 1 1/2 kg. Jika ibu membuat 4 kue yang masing-masing menghabiskan 0,3 kg gula pasir, sisa gula pasir sekarang adalah ...",
-    "options": ["1 2/3 kg", "1 9/20 kg", "1 1/8 kg", "1 1/20 kg"],
+    "question": "Ibu mempunyai persediaan $\\frac{3}{4}$ kg gula pasir, kemudian membeli lagi $1\\frac{1}{2}$ kg. Jika ibu membuat 4 kue yang masing-masing menghabiskan $0{,}3$ kg gula pasir, sisa gula pasir sekarang adalah ...",
+    "options": [
+      "$1\\frac{2}{3}$ kg",
+      "$1\\frac{9}{20}$ kg",
+      "$1\\frac{1}{8}$ kg",
+      "$1\\frac{1}{20}$ kg"
+    ],
     "answer": 3,
-    "rationale": "Total gula = 3/4 + 1 1/2 = 0,75 + 1,5 = 2,25 kg. Gula yang dipakai = 4 x 0,3 = 1,2 kg. Sisa gula = 2,25 - 1,2 = 1,05 kg = 1 1/20 kg.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Pecahan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Total gula = 3/$4 + 1$ $\\frac{1}{2}$ = $0{,}75 + 1{,}5$ = $2{,}25$ kg.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Gula yang dipakai = $4 \\times 0{,}3$ = $1{,}2$ kg. Sisa gula = $2{,}25 - 1{,}2$ = $1{,}05$ kg = $1\\frac{1}{20}$ kg.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu $1\\frac{1}{20}$ kg.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Pecahan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. $1\\frac{1}{20}$ kg**",
     "content": {
-      "question": "Ibu mempunyai persediaan 3/4 kg gula pasir, kemudian membeli lagi 1 1/2 kg. Jika ibu membuat 4 kue yang masing-masing menghabiskan 0,3 kg gula pasir, sisa gula pasir sekarang adalah ...",
-      "options": ["1 2/3 kg", "1 9/20 kg", "1 1/8 kg", "1 1/20 kg"],
+      "question": "Ibu mempunyai persediaan $\\frac{3}{4}$ kg gula pasir, kemudian membeli lagi $1\\frac{1}{2}$ kg. Jika ibu membuat 4 kue yang masing-masing menghabiskan $0{,}3$ kg gula pasir, sisa gula pasir sekarang adalah ...",
+      "options": [
+        "$1\\frac{2}{3}$ kg",
+        "$1\\frac{9}{20}$ kg",
+        "$1\\frac{1}{8}$ kg",
+        "$1\\frac{1}{20}$ kg"
+      ],
       "answer": 3,
-      "rationale": "Total gula = 3/4 + 1 1/2 = 0,75 + 1,5 = 2,25 kg. Gula yang dipakai = 4 x 0,3 = 1,2 kg. Sisa gula = 2,25 - 1,2 = 1,05 kg = 1 1/20 kg."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Pecahan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Total gula = 3/$4 + 1$ $\\frac{1}{2}$ = $0{,}75 + 1{,}5$ = $2{,}25$ kg.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Gula yang dipakai = $4 \\times 0{,}3$ = $1{,}2$ kg. Sisa gula = $2{,}25 - 1{,}2$ = $1{,}05$ kg = $1\\frac{1}{20}$ kg.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu $1\\frac{1}{20}$ kg.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Pecahan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. $1\\frac{1}{20}$ kg**"
     }
   },
   {
@@ -66,17 +102,29 @@
     "subtopic": "Perbandingan & rasio",
     "skill_type": "multi_step_problem",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Dalam sebuah dompet terdapat uang nominal Rp7.000, Rp10.000, dan Rp50.000. Perbandingan banyak uang nominal Rp7.000 dan Rp10.000 adalah 4 : 15, sedangkan banyak uang nominal Rp50.000 adalah 20% dari banyak uang nominal Rp10.000. Jika jumlah uang di dalam dompet Rp656.000, banyak uang nominal Rp50.000 adalah ...",
-    "options": ["4 lembar", "6 lembar", "8 lembar", "30 lembar"],
+    "question": "Dalam sebuah dompet terdapat uang nominal Rp7.000, Rp10.000, dan Rp50.000. Perbandingan banyak uang nominal Rp7.000 dan Rp10.000 adalah $4 : 15$, sedangkan banyak uang nominal Rp50.000 adalah $20\\%$ dari banyak uang nominal Rp10.000. Jika jumlah uang di dalam dompet Rp656.000, banyak uang nominal Rp50.000 adalah ...",
+    "options": [
+      "4 lembar",
+      "6 lembar",
+      "8 lembar",
+      "30 lembar"
+    ],
     "answer": 1,
-    "rationale": "Misalkan banyak lembar Rp7.000, Rp10.000, dan Rp50.000 berturut-turut 4t, 15t, dan 20% x 15t = 3t. Total uang = 7.000(4t) + 10.000(15t) + 50.000(3t) = 328.000t. Karena totalnya Rp656.000, t = 2, sehingga lembar Rp50.000 = 3t = 6 lembar. Kunci cetak PDF tampak memilih C, tetapi hasil hitungnya B.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Perbandingan & rasio**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan banyak lembar Rp7.000, Rp10.000, dan Rp50.000 berturut-turut 4t, 15t, dan $20\\%$ x 15t = 3t.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Total uang = 7.000(4t) + 10.000(15t) + 50.000(3t) = 328.000t. Karena totalnya Rp656.000, $t = 2$, sehingga lembar Rp50.000 = 3t = 6 lembar.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 6 lembar.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Perbandingan & rasio**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 6 lembar**",
     "content": {
-      "question": "Dalam sebuah dompet terdapat uang nominal Rp7.000, Rp10.000, dan Rp50.000. Perbandingan banyak uang nominal Rp7.000 dan Rp10.000 adalah 4 : 15, sedangkan banyak uang nominal Rp50.000 adalah 20% dari banyak uang nominal Rp10.000. Jika jumlah uang di dalam dompet Rp656.000, banyak uang nominal Rp50.000 adalah ...",
-      "options": ["4 lembar", "6 lembar", "8 lembar", "30 lembar"],
+      "question": "Dalam sebuah dompet terdapat uang nominal Rp7.000, Rp10.000, dan Rp50.000. Perbandingan banyak uang nominal Rp7.000 dan Rp10.000 adalah $4 : 15$, sedangkan banyak uang nominal Rp50.000 adalah $20\\%$ dari banyak uang nominal Rp10.000. Jika jumlah uang di dalam dompet Rp656.000, banyak uang nominal Rp50.000 adalah ...",
+      "options": [
+        "4 lembar",
+        "6 lembar",
+        "8 lembar",
+        "30 lembar"
+      ],
       "answer": 1,
-      "rationale": "Misalkan banyak lembar Rp7.000, Rp10.000, dan Rp50.000 berturut-turut 4t, 15t, dan 20% x 15t = 3t. Total uang = 7.000(4t) + 10.000(15t) + 50.000(3t) = 328.000t. Karena totalnya Rp656.000, t = 2, sehingga lembar Rp50.000 = 3t = 6 lembar. Kunci cetak PDF tampak memilih C, tetapi hasil hitungnya B."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Perbandingan & rasio**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan banyak lembar Rp7.000, Rp10.000, dan Rp50.000 berturut-turut 4t, 15t, dan $20\\%$ x 15t = 3t.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Total uang = 7.000(4t) + 10.000(15t) + 50.000(3t) = 328.000t. Karena totalnya Rp656.000, $t = 2$, sehingga lembar Rp50.000 = 3t = 6 lembar.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 6 lembar.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Perbandingan & rasio**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 6 lembar**"
     }
   },
   {
@@ -86,17 +134,29 @@
     "subtopic": "Sudut & garis",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Pada gambar, dua garis sejajar dipotong oleh dua ruas garis miring yang bertemu di titik B. Sudut pada garis sejajar atas adalah (6x + 4) derajat, sudut di titik B adalah (2x + 16) derajat, dan sudut pada garis sejajar bawah adalah (5x + 2) derajat. Nilai x yang memenuhi adalah ...",
-    "options": ["26", "28", "30", "40"],
+    "options": [
+      "26",
+      "28",
+      "30",
+      "40"
+    ],
     "answer": 0,
-    "rationale": "Dari hubungan sudut pada gambar, ketiga sudut terkait membentuk satu putaran sehingga (6x + 4) + (2x + 16) + (5x + 2) = 360. Maka 13x + 22 = 360, sehingga x = 26.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sudut & garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari hubungan sudut pada gambar, ketiga sudut terkait membentuk satu putaran sehingga $(6x + 4) + (2x + 16) + (5x + 2)$ = 360.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka 13x + 22 = 360, sehingga $x = 26$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 26.\n**Materi terkait:**\n- **Geometri** - **Sudut & garis**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 26**",
     "content": {
       "question": "Pada gambar, dua garis sejajar dipotong oleh dua ruas garis miring yang bertemu di titik B. Sudut pada garis sejajar atas adalah (6x + 4) derajat, sudut di titik B adalah (2x + 16) derajat, dan sudut pada garis sejajar bawah adalah (5x + 2) derajat. Nilai x yang memenuhi adalah ...",
-      "options": ["26", "28", "30", "40"],
+      "options": [
+        "26",
+        "28",
+        "30",
+        "40"
+      ],
       "answer": 0,
-      "rationale": "Dari hubungan sudut pada gambar, ketiga sudut terkait membentuk satu putaran sehingga (6x + 4) + (2x + 16) + (5x + 2) = 360. Maka 13x + 22 = 360, sehingga x = 26."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sudut & garis**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari hubungan sudut pada gambar, ketiga sudut terkait membentuk satu putaran sehingga $(6x + 4) + (2x + 16) + (5x + 2)$ = 360.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Maka 13x + 22 = 360, sehingga $x = 26$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 26.\n**Materi terkait:**\n- **Geometri** - **Sudut & garis**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 26**"
     }
   },
   {
@@ -106,17 +166,29 @@
     "subtopic": "Operasi aljabar",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Bentuk sederhana dari (a^2 / (a^2 + 3a - 10)) : (2a / (2a + 10)) adalah ...",
-    "options": ["a / (a - 2)", "a - 2", "a + 2", "a / (a + 2)"],
+    "question": "Bentuk sederhana dari $(a^{2} / (a^{2} + 3a - 10)) : (2a / (2a + 10))$ adalah ...",
+    "options": [
+      "a / (a - 2)",
+      "a - 2",
+      "a + 2",
+      "a / (a + 2)"
+    ],
     "answer": 0,
-    "rationale": "Faktorkan a^2 + 3a - 10 = (a + 5)(a - 2) dan 2a + 10 = 2(a + 5). Bentuk kedua menjadi a/(a + 5). Maka a^2/((a + 5)(a - 2)) : a/(a + 5) = a/(a - 2).",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi aljabar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Faktorkan $a^{2}$ + 3a - 10 = (a + 5)(a - 2) dan 2a + 10 = 2(a + 5).\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Bentuk kedua menjadi a/(a + 5). Maka $a^{2}$/((a + 5)(a - 2)) : a/(a + 5) = a/(a - 2).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu a / (a - 2).\n**Materi terkait:**\n- **Aljabar** - **Operasi aljabar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. a / (a - 2)**",
     "content": {
-      "question": "Bentuk sederhana dari (a^2 / (a^2 + 3a - 10)) : (2a / (2a + 10)) adalah ...",
-      "options": ["a / (a - 2)", "a - 2", "a + 2", "a / (a + 2)"],
+      "question": "Bentuk sederhana dari $(a^{2} / (a^{2} + 3a - 10)) : (2a / (2a + 10))$ adalah ...",
+      "options": [
+        "a / (a - 2)",
+        "a - 2",
+        "a + 2",
+        "a / (a + 2)"
+      ],
       "answer": 0,
-      "rationale": "Faktorkan a^2 + 3a - 10 = (a + 5)(a - 2) dan 2a + 10 = 2(a + 5). Bentuk kedua menjadi a/(a + 5). Maka a^2/((a + 5)(a - 2)) : a/(a + 5) = a/(a - 2)."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi aljabar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Faktorkan $a^{2}$ + 3a - 10 = (a + 5)(a - 2) dan 2a + 10 = 2(a + 5).\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Bentuk kedua menjadi a/(a + 5). Maka $a^{2}$/((a + 5)(a - 2)) : a/(a + 5) = a/(a - 2).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu a / (a - 2).\n**Materi terkait:**\n- **Aljabar** - **Operasi aljabar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. a / (a - 2)**"
     }
   },
   {
@@ -126,17 +198,29 @@
     "subtopic": "Sistem persamaan linear dua variabel",
     "skill_type": "application",
     "question_type": "direct",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Diketahui persamaan linear x + 2y = -4 dan 2x - y = 7. Jika penyelesaiannya x = p dan y = q, maka nilai 4p - 3q adalah ...",
-    "options": ["17", "1", "-17", "-1"],
+    "question": "Diketahui persamaan linear x + 2y = -4 dan 2x - $y = 7$. Jika penyelesaiannya x = p dan y = q, maka nilai 4p - 3q adalah ...",
+    "options": [
+      "17",
+      "1",
+      "-17",
+      "-1"
+    ],
     "answer": 0,
-    "rationale": "Dari 2x - y = 7 diperoleh y = 2x - 7. Substitusi ke x + 2y = -4 menghasilkan x + 2(2x - 7) = -4, sehingga 5x = 10 dan x = 2. Maka y = -3. Nilai 4p - 3q = 4(2) - 3(-3) = 17.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari 2x - $y = 7$ diperoleh y = 2x - 7.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Substitusi ke x + 2y = -4 menghasilkan x + 2(2x - 7) = -4, sehingga 5x = 10 dan $x = 2$. Maka $y = -3$. Nilai 4p - 3q = 4(2) - 3(-3) = 17.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 17.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 17**",
     "content": {
-      "question": "Diketahui persamaan linear x + 2y = -4 dan 2x - y = 7. Jika penyelesaiannya x = p dan y = q, maka nilai 4p - 3q adalah ...",
-      "options": ["17", "1", "-17", "-1"],
+      "question": "Diketahui persamaan linear x + 2y = -4 dan 2x - $y = 7$. Jika penyelesaiannya x = p dan y = q, maka nilai 4p - 3q adalah ...",
+      "options": [
+        "17",
+        "1",
+        "-17",
+        "-1"
+      ],
       "answer": 0,
-      "rationale": "Dari 2x - y = 7 diperoleh y = 2x - 7. Substitusi ke x + 2y = -4 menghasilkan x + 2(2x - 7) = -4, sehingga 5x = 10 dan x = 2. Maka y = -3. Nilai 4p - 3q = 4(2) - 3(-3) = 17."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari 2x - $y = 7$ diperoleh y = 2x - 7.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Substitusi ke x + 2y = -4 menghasilkan x + 2(2x - 7) = -4, sehingga 5x = 10 dan $x = 2$. Maka $y = -3$. Nilai 4p - 3q = 4(2) - 3(-3) = 17.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu 17.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. 17**"
     }
   },
   {
@@ -146,17 +230,29 @@
     "subtopic": "Volume & luas permukaan",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Ayah membuat topi berbentuk kerucut dengan pinggiran lingkaran. Diameter alas kerucut 20 cm, garis pelukis kerucut 26 cm, dan jarak dari tepi luar pinggiran ke tepi alas kerucut sisi seberang 30 cm. Luas kain yang dibutuhkan adalah ...",
-    "options": ["1.695,6 cm2", "1.758,4 cm2", "2.072,4 cm2", "2.386,4 cm2"],
+    "options": [
+      "1.$695{{,}}6\\ \\text{cm}^2$",
+      "1.$758{{,}}4\\ \\text{cm}^2$",
+      "2.$072{{,}}4\\ \\text{cm}^2$",
+      "2.$386{{,}}4\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Jari-jari alas kerucut 10 cm dan garis pelukis 26 cm, sehingga luas selimut kerucut = 3,14 x 10 x 26 = 816,4 cm2. Jari-jari luar pinggiran topi = 30 - 10 = 20 cm, sehingga luas pinggiran = 3,14(20^2 - 10^2) = 942 cm2. Total luas kain = 816,4 + 942 = 1.758,4 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jari-jari alas kerucut 10 cm dan garis pelukis 26 cm, sehingga luas selimut kerucut = $3{,}14 \\times 10 \\times 26$ = $816{{,}}4\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jari-jari luar pinggiran topi = $30 - 10$ = 20 cm, sehingga luas pinggiran = $3{,}14$($20^{2} - 10^{2}$) = $942\\ \\text{cm}^2$. Total luas kain = $816{,}4 + 942$ = 1.$758{{,}}4\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 1.$758{{,}}4\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 1.$758{{,}}4\\ \\text{cm}^2$**",
     "content": {
       "question": "Ayah membuat topi berbentuk kerucut dengan pinggiran lingkaran. Diameter alas kerucut 20 cm, garis pelukis kerucut 26 cm, dan jarak dari tepi luar pinggiran ke tepi alas kerucut sisi seberang 30 cm. Luas kain yang dibutuhkan adalah ...",
-      "options": ["1.695,6 cm2", "1.758,4 cm2", "2.072,4 cm2", "2.386,4 cm2"],
+      "options": [
+        "1.$695{{,}}6\\ \\text{cm}^2$",
+        "1.$758{{,}}4\\ \\text{cm}^2$",
+        "2.$072{{,}}4\\ \\text{cm}^2$",
+        "2.$386{{,}}4\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Jari-jari alas kerucut 10 cm dan garis pelukis 26 cm, sehingga luas selimut kerucut = 3,14 x 10 x 26 = 816,4 cm2. Jari-jari luar pinggiran topi = 30 - 10 = 20 cm, sehingga luas pinggiran = 3,14(20^2 - 10^2) = 942 cm2. Total luas kain = 816,4 + 942 = 1.758,4 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Volume & luas permukaan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jari-jari alas kerucut 10 cm dan garis pelukis 26 cm, sehingga luas selimut kerucut = $3{,}14 \\times 10 \\times 26$ = $816{{,}}4\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jari-jari luar pinggiran topi = $30 - 10$ = 20 cm, sehingga luas pinggiran = $3{,}14$($20^{2} - 10^{2}$) = $942\\ \\text{cm}^2$. Total luas kain = $816{,}4 + 942$ = 1.$758{{,}}4\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 1.$758{{,}}4\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Volume & luas permukaan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 1.$758{{,}}4\\ \\text{cm}^2$**"
     }
   },
   {
@@ -166,17 +262,29 @@
     "subtopic": "Kesebangunan",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Sebuah kebun berbentuk persegi panjang berukuran 50 m x 30 m dibuat kolam ikan dan sisanya ditanami sayuran. Kolam dan kebun sebangun, dengan sisi tinggi kolam sama dengan 30 m seperti pada gambar. Pernyataan: (1) Lebar kolam = 18 m. (2) Luas kolam = 600 m2. (3) Panjang kebun yang ditanami sayuran 40 m. (4) Luas kebun yang ditanami sayuran = 960 m2. Pernyataan yang benar adalah ...",
-    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "question": "Sebuah kebun berbentuk persegi panjang berukuran 50 m x 30 m dibuat kolam ikan dan sisanya ditanami sayuran. Kolam dan kebun sebangun, dengan sisi tinggi kolam sama dengan 30 m seperti pada gambar. Pernyataan: (1) Lebar kolam = 18 m. (2) Luas kolam = $600\\ \\text{m}^2$. (3) Panjang kebun yang ditanami sayuran 40 m. (4) Luas kebun yang ditanami sayuran = $960\\ \\text{m}^2$. Pernyataan yang benar adalah ...",
+    "options": [
+      "(1) dan (3)",
+      "(1) dan (4)",
+      "(2) dan (3)",
+      "(2) dan (4)"
+    ],
     "answer": 1,
-    "rationale": "Perbandingan sisi kebun adalah 50 : 30 = 5 : 3. Karena kolam sebangun dan tinggi kolam 30 m menjadi sisi yang bersesuaian dengan 50 m, lebar kolam = 30 x 3/5 = 18 m. Luas kolam = 18 x 30 = 540 m2. Luas kebun = 50 x 30 = 1.500 m2, sehingga luas bagian sayuran = 1.500 - 540 = 960 m2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Perbandingan sisi kebun adalah $50 : 30$ = 5 : 3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena kolam sebangun dan tinggi kolam 30 m menjadi sisi yang bersesuaian dengan 50 m, lebar kolam = $30 \\times 3$/5 = 18 m. Luas kolam = $18 \\times 30$ = $540\\ \\text{m}^2$. Luas kebun = $50 \\times 30$ = 1.$500\\ \\text{m}^2$, sehingga luas bagian sayuran = 1.500 - 540 = $960\\ \\text{m}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu (1) dan (4).\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. (1) dan (4)**",
     "content": {
-      "question": "Sebuah kebun berbentuk persegi panjang berukuran 50 m x 30 m dibuat kolam ikan dan sisanya ditanami sayuran. Kolam dan kebun sebangun, dengan sisi tinggi kolam sama dengan 30 m seperti pada gambar. Pernyataan: (1) Lebar kolam = 18 m. (2) Luas kolam = 600 m2. (3) Panjang kebun yang ditanami sayuran 40 m. (4) Luas kebun yang ditanami sayuran = 960 m2. Pernyataan yang benar adalah ...",
-      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "question": "Sebuah kebun berbentuk persegi panjang berukuran 50 m x 30 m dibuat kolam ikan dan sisanya ditanami sayuran. Kolam dan kebun sebangun, dengan sisi tinggi kolam sama dengan 30 m seperti pada gambar. Pernyataan: (1) Lebar kolam = 18 m. (2) Luas kolam = $600\\ \\text{m}^2$. (3) Panjang kebun yang ditanami sayuran 40 m. (4) Luas kebun yang ditanami sayuran = $960\\ \\text{m}^2$. Pernyataan yang benar adalah ...",
+      "options": [
+        "(1) dan (3)",
+        "(1) dan (4)",
+        "(2) dan (3)",
+        "(2) dan (4)"
+      ],
       "answer": 1,
-      "rationale": "Perbandingan sisi kebun adalah 50 : 30 = 5 : 3. Karena kolam sebangun dan tinggi kolam 30 m menjadi sisi yang bersesuaian dengan 50 m, lebar kolam = 30 x 3/5 = 18 m. Luas kolam = 18 x 30 = 540 m2. Luas kebun = 50 x 30 = 1.500 m2, sehingga luas bagian sayuran = 1.500 - 540 = 960 m2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Perbandingan sisi kebun adalah $50 : 30$ = 5 : 3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena kolam sebangun dan tinggi kolam 30 m menjadi sisi yang bersesuaian dengan 50 m, lebar kolam = $30 \\times 3$/5 = 18 m. Luas kolam = $18 \\times 30$ = $540\\ \\text{m}^2$. Luas kebun = $50 \\times 30$ = 1.$500\\ \\text{m}^2$, sehingga luas bagian sayuran = 1.500 - 540 = $960\\ \\text{m}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu (1) dan (4).\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. (1) dan (4)**"
     }
   },
   {
@@ -186,17 +294,29 @@
     "subtopic": "Kesebangunan",
     "skill_type": "multi_step_problem",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Trapesium ABCD sebangun dengan trapesium CDEF. Diketahui AB = 48 cm, CD = 36 cm, EF = 27 cm, dan AE = 6 cm. Luas daerah EFCBA adalah ...",
-    "options": ["1.824 cm2", "1.606 cm2", "1.284 cm2", "1.008 cm2"],
+    "options": [
+      "1.$824\\ \\text{cm}^2$",
+      "1.$606\\ \\text{cm}^2$",
+      "1.$284\\ \\text{cm}^2$",
+      "1.$008\\ \\text{cm}^2$"
+    ],
     "answer": 3,
-    "rationale": "Skala trapesium kecil terhadap trapesium besar adalah 36 : 48 = 3 : 4. Jika tinggi trapesium kecil DE = h, maka tinggi trapesium besar AD = h + 6 dan h/(h + 6) = 3/4, sehingga h = 18 dan AD = 24. Luas EFCBA = luas ABCD - luas CDEF = 1/2(48 + 36)24 - 1/2(36 + 27)18 = 1.008 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Skala trapesium kecil terhadap trapesium besar adalah $36 : 48$ = 3 : 4.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jika tinggi trapesium kecil DE = h, maka tinggi trapesium besar AD = h + 6 dan h/(h + 6) = $\\frac{3}{4}$, sehingga $h = 18$ dan AD = 24. Luas EFCBA = luas ABCD - luas CDEF = $\\frac{1}{2}$($48 + 36$)$24 - 1$/2($36 + 27$)18 = 1.$008\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu 1.$008\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. 1.$008\\ \\text{cm}^2$**",
     "content": {
       "question": "Trapesium ABCD sebangun dengan trapesium CDEF. Diketahui AB = 48 cm, CD = 36 cm, EF = 27 cm, dan AE = 6 cm. Luas daerah EFCBA adalah ...",
-      "options": ["1.824 cm2", "1.606 cm2", "1.284 cm2", "1.008 cm2"],
+      "options": [
+        "1.$824\\ \\text{cm}^2$",
+        "1.$606\\ \\text{cm}^2$",
+        "1.$284\\ \\text{cm}^2$",
+        "1.$008\\ \\text{cm}^2$"
+      ],
       "answer": 3,
-      "rationale": "Skala trapesium kecil terhadap trapesium besar adalah 36 : 48 = 3 : 4. Jika tinggi trapesium kecil DE = h, maka tinggi trapesium besar AD = h + 6 dan h/(h + 6) = 3/4, sehingga h = 18 dan AD = 24. Luas EFCBA = luas ABCD - luas CDEF = 1/2(48 + 36)24 - 1/2(36 + 27)18 = 1.008 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Kesebangunan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Skala trapesium kecil terhadap trapesium besar adalah $36 : 48$ = 3 : 4.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jika tinggi trapesium kecil DE = h, maka tinggi trapesium besar AD = h + 6 dan h/(h + 6) = $\\frac{3}{4}$, sehingga $h = 18$ dan AD = 24. Luas EFCBA = luas ABCD - luas CDEF = $\\frac{1}{2}$($48 + 36$)$24 - 1$/2($36 + 27$)18 = 1.$008\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu 1.$008\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Kesebangunan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. 1.$008\\ \\text{cm}^2$**"
     }
   },
   {
@@ -206,17 +326,29 @@
     "subtopic": "Bangun gabungan",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Perhatikan bangun gabungan pada gambar yang terdiri atas beberapa segitiga dan persegi panjang dengan ukuran 12 cm, 8 cm, 10 cm, serta tinggi bertingkat 4 cm, 6 cm, dan 8 cm. Luas daerah yang diarsir adalah ...",
-    "options": ["212 cm2", "222 cm2", "260 cm2", "270 cm2"],
+    "options": [
+      "$212\\ \\text{cm}^2$",
+      "$222\\ \\text{cm}^2$",
+      "$260\\ \\text{cm}^2$",
+      "$270\\ \\text{cm}^2$"
+    ],
     "answer": 0,
-    "rationale": "Daerah diarsir dapat dipecah menjadi beberapa segitiga dan trapesium sesuai ukuran pada gambar. Dengan menghitung setiap bagian lalu menjumlahkannya, luas total daerah yang diarsir adalah 212 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Daerah diarsir dapat dipecah menjadi beberapa segitiga dan trapesium sesuai ukuran pada gambar.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Dengan menghitung setiap bagian lalu menjumlahkannya, luas total daerah yang diarsir adalah $212\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu $212\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. $212\\ \\text{cm}^2$**",
     "content": {
       "question": "Perhatikan bangun gabungan pada gambar yang terdiri atas beberapa segitiga dan persegi panjang dengan ukuran 12 cm, 8 cm, 10 cm, serta tinggi bertingkat 4 cm, 6 cm, dan 8 cm. Luas daerah yang diarsir adalah ...",
-      "options": ["212 cm2", "222 cm2", "260 cm2", "270 cm2"],
+      "options": [
+        "$212\\ \\text{cm}^2$",
+        "$222\\ \\text{cm}^2$",
+        "$260\\ \\text{cm}^2$",
+        "$270\\ \\text{cm}^2$"
+      ],
       "answer": 0,
-      "rationale": "Daerah diarsir dapat dipecah menjadi beberapa segitiga dan trapesium sesuai ukuran pada gambar. Dengan menghitung setiap bagian lalu menjumlahkannya, luas total daerah yang diarsir adalah 212 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Daerah diarsir dapat dipecah menjadi beberapa segitiga dan trapesium sesuai ukuran pada gambar.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Dengan menghitung setiap bagian lalu menjumlahkannya, luas total daerah yang diarsir adalah $212\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu $212\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. $212\\ \\text{cm}^2$**"
     }
   },
   {
@@ -226,17 +358,29 @@
     "subtopic": "Lingkaran, busur & juring",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Terdapat 6 pipa berdiameter 10,5 cm yang disusun membentuk segitiga dengan 3 pipa di baris bawah, 2 pipa di baris tengah, dan 1 pipa di baris atas. Pipa-pipa tersebut diikat sekelilingnya menggunakan karet. Panjang karet yang dibutuhkan adalah ...",
-    "options": ["66 cm", "86 cm", "96 cm", "192 cm"],
+    "question": "Terdapat 6 pipa berdiameter $10{,}5$ cm yang disusun membentuk segitiga dengan 3 pipa di baris bawah, 2 pipa di baris tengah, dan 1 pipa di baris atas. Pipa-pipa tersebut diikat sekelilingnya menggunakan karet. Panjang karet yang dibutuhkan adalah ...",
+    "options": [
+      "66 cm",
+      "86 cm",
+      "96 cm",
+      "192 cm"
+    ],
     "answer": 2,
-    "rationale": "Jari-jari pipa 5,25 cm. Kontur karet terdiri atas tiga ruas garis singgung luar dengan total panjang 3 x 4r = 12r = 63 cm dan busur luar yang totalnya setara satu keliling lingkaran, yaitu 2 x 3,14 x 5,25 = 32,97 cm. Totalnya sekitar 95,97 cm, dibulatkan menjadi 96 cm.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Lingkaran, busur & juring**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jari-jari pipa $5{,}25$ cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Kontur karet terdiri atas tiga ruas garis singgung luar dengan total panjang 3 x 4r = 12r = 63 cm dan busur luar yang totalnya setara satu keliling lingkaran, yaitu $2 \\times 3{,}14 \\times 5{,}25$ = $32{,}97$ cm. Totalnya sekitar $95{,}97$ cm, dibulatkan menjadi 96 cm.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 96 cm.\n**Materi terkait:**\n- **Geometri** - **Lingkaran, busur & juring**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 96 cm**",
     "content": {
-      "question": "Terdapat 6 pipa berdiameter 10,5 cm yang disusun membentuk segitiga dengan 3 pipa di baris bawah, 2 pipa di baris tengah, dan 1 pipa di baris atas. Pipa-pipa tersebut diikat sekelilingnya menggunakan karet. Panjang karet yang dibutuhkan adalah ...",
-      "options": ["66 cm", "86 cm", "96 cm", "192 cm"],
+      "question": "Terdapat 6 pipa berdiameter $10{,}5$ cm yang disusun membentuk segitiga dengan 3 pipa di baris bawah, 2 pipa di baris tengah, dan 1 pipa di baris atas. Pipa-pipa tersebut diikat sekelilingnya menggunakan karet. Panjang karet yang dibutuhkan adalah ...",
+      "options": [
+        "66 cm",
+        "86 cm",
+        "96 cm",
+        "192 cm"
+      ],
       "answer": 2,
-      "rationale": "Jari-jari pipa 5,25 cm. Kontur karet terdiri atas tiga ruas garis singgung luar dengan total panjang 3 x 4r = 12r = 63 cm dan busur luar yang totalnya setara satu keliling lingkaran, yaitu 2 x 3,14 x 5,25 = 32,97 cm. Totalnya sekitar 95,97 cm, dibulatkan menjadi 96 cm."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Lingkaran, busur & juring**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Jari-jari pipa $5{,}25$ cm.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Kontur karet terdiri atas tiga ruas garis singgung luar dengan total panjang 3 x 4r = 12r = 63 cm dan busur luar yang totalnya setara satu keliling lingkaran, yaitu $2 \\times 3{,}14 \\times 5{,}25$ = $32{,}97$ cm. Totalnya sekitar $95{,}97$ cm, dibulatkan menjadi 96 cm.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu 96 cm.\n**Materi terkait:**\n- **Geometri** - **Lingkaran, busur & juring**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. 96 cm**"
     }
   },
   {
@@ -246,17 +390,29 @@
     "subtopic": "Bangun gabungan",
     "skill_type": "application",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Diketahui segitiga ABC dan persegi EFGH. Pada segitiga ABC, sudut B siku-siku, AB = 8 cm, dan BC = 17 cm. Persegi EFGH memiliki sisi 13 cm. Jika luas daerah yang diarsir 18 cm2, luas daerah yang tidak diarsir adalah ...",
-    "options": ["193 cm2", "201 cm2", "211 cm2", "253 cm2"],
+    "question": "Diketahui segitiga ABC dan persegi EFGH. Pada segitiga ABC, sudut B siku-siku, AB = 8 cm, dan BC = 17 cm. Persegi EFGH memiliki sisi 13 cm. Jika luas daerah yang diarsir $18\\ \\text{cm}^2$, luas daerah yang tidak diarsir adalah ...",
+    "options": [
+      "$193\\ \\text{cm}^2$",
+      "$201\\ \\text{cm}^2$",
+      "$211\\ \\text{cm}^2$",
+      "$253\\ \\text{cm}^2$"
+    ],
     "answer": 1,
-    "rationale": "Luas segitiga ABC = 1/2 x 8 x 17 = 68 cm2. Luas persegi EFGH = 13 x 13 = 169 cm2. Daerah diarsir menjadi irisan kedua bangun, sehingga luas tidak diarsir = (68 - 18) + (169 - 18) = 201 cm2.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Luas segitiga ABC = 1/$2 \\times 8 \\times 17$ = $68\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas persegi EFGH = $13 \\times 13$ = $169\\ \\text{cm}^2$. Daerah diarsir menjadi irisan kedua bangun, sehingga luas tidak diarsir = $(68 - 18) + (169 - 18)$ = $201\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $201\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $201\\ \\text{cm}^2$**",
     "content": {
-      "question": "Diketahui segitiga ABC dan persegi EFGH. Pada segitiga ABC, sudut B siku-siku, AB = 8 cm, dan BC = 17 cm. Persegi EFGH memiliki sisi 13 cm. Jika luas daerah yang diarsir 18 cm2, luas daerah yang tidak diarsir adalah ...",
-      "options": ["193 cm2", "201 cm2", "211 cm2", "253 cm2"],
+      "question": "Diketahui segitiga ABC dan persegi EFGH. Pada segitiga ABC, sudut B siku-siku, AB = 8 cm, dan BC = 17 cm. Persegi EFGH memiliki sisi 13 cm. Jika luas daerah yang diarsir $18\\ \\text{cm}^2$, luas daerah yang tidak diarsir adalah ...",
+      "options": [
+        "$193\\ \\text{cm}^2$",
+        "$201\\ \\text{cm}^2$",
+        "$211\\ \\text{cm}^2$",
+        "$253\\ \\text{cm}^2$"
+      ],
       "answer": 1,
-      "rationale": "Luas segitiga ABC = 1/2 x 8 x 17 = 68 cm2. Luas persegi EFGH = 13 x 13 = 169 cm2. Daerah diarsir menjadi irisan kedua bangun, sehingga luas tidak diarsir = (68 - 18) + (169 - 18) = 201 cm2."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Bangun gabungan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Luas segitiga ABC = 1/$2 \\times 8 \\times 17$ = $68\\ \\text{cm}^2$.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Luas persegi EFGH = $13 \\times 13$ = $169\\ \\text{cm}^2$. Daerah diarsir menjadi irisan kedua bangun, sehingga luas tidak diarsir = $(68 - 18) + (169 - 18)$ = $201\\ \\text{cm}^2$.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Geometri** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu $201\\ \\text{cm}^2$.\n**Materi terkait:**\n- **Geometri** - **Bangun gabungan**.\n- Tentukan dulu **bangun, ukuran, dan hubungan antarbagian**. Setelah itu pilih rumus luas, volume, sudut, kongruensi, atau kesebangunan yang sesuai.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. $201\\ \\text{cm}^2$**"
     }
   },
   {
@@ -266,17 +422,29 @@
     "subtopic": "Diskon, pajak & biaya layanan",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Pak Reyhan menjual 10 kaos seharga Rp828.000,00 setelah dikenakan diskon 10%. Harga seluruh kaos sebelum dikenakan diskon adalah ...",
-    "options": ["Rp920.000,00", "Rp900.000,00", "Rp868.000,00", "Rp848.000,00"],
+    "question": "Pak Reyhan menjual 10 kaos seharga Rp828.000,00 setelah dikenakan diskon $10\\%$. Harga seluruh kaos sebelum dikenakan diskon adalah ...",
+    "options": [
+      "Rp920.000,00",
+      "Rp900.000,00",
+      "Rp868.000,00",
+      "Rp848.000,00"
+    ],
     "answer": 0,
-    "rationale": "Harga setelah diskon 10% berarti 90% dari harga awal. Jadi harga awal = Rp828.000,00 : 90% = Rp920.000,00.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Diskon, pajak & biaya layanan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Harga setelah diskon $10\\%$ berarti $90\\%$ dari harga awal.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jadi harga awal = Rp828.000,$00 : 90$% = Rp920.000,00.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu Rp920.000,00.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Diskon, pajak & biaya layanan**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. Rp920.000,00**",
     "content": {
-      "question": "Pak Reyhan menjual 10 kaos seharga Rp828.000,00 setelah dikenakan diskon 10%. Harga seluruh kaos sebelum dikenakan diskon adalah ...",
-      "options": ["Rp920.000,00", "Rp900.000,00", "Rp868.000,00", "Rp848.000,00"],
+      "question": "Pak Reyhan menjual 10 kaos seharga Rp828.000,00 setelah dikenakan diskon $10\\%$. Harga seluruh kaos sebelum dikenakan diskon adalah ...",
+      "options": [
+        "Rp920.000,00",
+        "Rp900.000,00",
+        "Rp868.000,00",
+        "Rp848.000,00"
+      ],
       "answer": 0,
-      "rationale": "Harga setelah diskon 10% berarti 90% dari harga awal. Jadi harga awal = Rp828.000,00 : 90% = Rp920.000,00."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Diskon, pajak & biaya layanan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Harga setelah diskon $10\\%$ berarti $90\\%$ dari harga awal.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Jadi harga awal = Rp828.000,$00 : 90$% = Rp920.000,00.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu Rp920.000,00.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Diskon, pajak & biaya layanan**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. Rp920.000,00**"
     }
   },
   {
@@ -286,17 +454,29 @@
     "subtopic": "Operasi bilangan",
     "skill_type": "reasoning",
     "question_type": "logic_puzzle",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Suatu tes matematika terdiri dari 30 soal pilihan ganda. Setiap jawaban benar mendapat nilai 5, jawaban kosong mendapat nilai 1, dan jawaban salah tidak mendapat nilai. Alex berkata nilainya 147, Beni 144, Coky 143, dan Doni 141. Jika tiga orang berbohong, siswa yang tidak berbohong adalah ...",
-    "options": ["Doni", "Coky", "Beni", "Alex"],
+    "options": [
+      "Doni",
+      "Coky",
+      "Beni",
+      "Alex"
+    ],
     "answer": 0,
-    "rationale": "Skor berbentuk 5b + k dengan b banyak jawaban benar, k banyak jawaban kosong, dan b + k <= 30. Skor 141 dapat diperoleh dari 28 benar, 1 kosong, dan 1 salah. Skor 147, 144, dan 143 tidak memenuhi batas jumlah 30 soal. Jadi yang tidak berbohong adalah Doni.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Skor berbentuk 5b + k dengan b banyak jawaban benar, k banyak jawaban kosong, dan b + k <= 30.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Skor 141 dapat diperoleh dari 28 benar, 1 kosong, dan 1 salah. Skor 147, 144, dan 143 tidak memenuhi batas jumlah 30 soal. Jadi yang tidak berbohong adalah Doni.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu Doni.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. Doni**",
     "content": {
       "question": "Suatu tes matematika terdiri dari 30 soal pilihan ganda. Setiap jawaban benar mendapat nilai 5, jawaban kosong mendapat nilai 1, dan jawaban salah tidak mendapat nilai. Alex berkata nilainya 147, Beni 144, Coky 143, dan Doni 141. Jika tiga orang berbohong, siswa yang tidak berbohong adalah ...",
-      "options": ["Doni", "Coky", "Beni", "Alex"],
+      "options": [
+        "Doni",
+        "Coky",
+        "Beni",
+        "Alex"
+      ],
       "answer": 0,
-      "rationale": "Skor berbentuk 5b + k dengan b banyak jawaban benar, k banyak jawaban kosong, dan b + k <= 30. Skor 141 dapat diperoleh dari 28 benar, 1 kosong, dan 1 salah. Skor 147, 144, dan 143 tidak memenuhi batas jumlah 30 soal. Jadi yang tidak berbohong adalah Doni."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Skor berbentuk 5b + k dengan b banyak jawaban benar, k banyak jawaban kosong, dan b + k <= 30.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Skor 141 dapat diperoleh dari 28 benar, 1 kosong, dan 1 salah. Skor 147, 144, dan 143 tidak memenuhi batas jumlah 30 soal. Jadi yang tidak berbohong adalah Doni.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **A**, yaitu Doni.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **A. Doni**"
     }
   },
   {
@@ -306,17 +486,29 @@
     "subtopic": "Operasi bilangan",
     "skill_type": "reasoning",
     "question_type": "logic_puzzle",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Dalam sebuah tes IPA terdapat 40 soal pilihan ganda. Jawaban benar diberi skor 4 poin, jawaban kosong diberi 1 poin, dan jawaban salah tidak mendapat poin. Empat siswa memberi pernyataan: Andi nilainya 135, Bima 134, Citra 132, dan Dewi 130. Jika hanya satu orang yang jujur, yang berbicara jujur adalah ...",
-    "options": ["Andi", "Bima", "Citra", "Dewi"],
+    "options": [
+      "Andi",
+      "Bima",
+      "Citra",
+      "Dewi"
+    ],
     "answer": 2,
-    "rationale": "Nilai 132 dapat diperoleh secara langsung dari 33 jawaban benar dan 7 jawaban salah. Berdasarkan kunci pada PDF, siswa yang jujur adalah Citra.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Nilai 132 dapat diperoleh secara langsung dari 33 jawaban benar dan 7 jawaban salah.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Hasil antara tersebut dipakai untuk memilih opsi yang paling sesuai dengan pertanyaan.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu Citra.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. Citra**",
     "content": {
       "question": "Dalam sebuah tes IPA terdapat 40 soal pilihan ganda. Jawaban benar diberi skor 4 poin, jawaban kosong diberi 1 poin, dan jawaban salah tidak mendapat poin. Empat siswa memberi pernyataan: Andi nilainya 135, Bima 134, Citra 132, dan Dewi 130. Jika hanya satu orang yang jujur, yang berbicara jujur adalah ...",
-      "options": ["Andi", "Bima", "Citra", "Dewi"],
+      "options": [
+        "Andi",
+        "Bima",
+        "Citra",
+        "Dewi"
+      ],
       "answer": 2,
-      "rationale": "Nilai 132 dapat diperoleh secara langsung dari 33 jawaban benar dan 7 jawaban salah. Berdasarkan kunci pada PDF, siswa yang jujur adalah Citra."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Operasi bilangan**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Nilai 132 dapat diperoleh secara langsung dari 33 jawaban benar dan 7 jawaban salah.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Hasil antara tersebut dipakai untuk memilih opsi yang paling sesuai dengan pertanyaan.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Bilangan & Operasi** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu Citra.\n**Materi terkait:**\n- **Bilangan & Operasi** - **Operasi bilangan**.\n- Perhatikan **urutan operasi**, bentuk bilangan, dan perubahan bentuk seperti pecahan, persen, atau pangkat sebelum membandingkan hasil.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. Citra**"
     }
   },
   {
@@ -326,17 +518,29 @@
     "subtopic": "Problem campuran multi-konsep",
     "skill_type": "modeling",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Jika Amir dan Budi bekerja sama, suatu pekerjaan selesai dalam 10 hari. Jika Budi dan Cecep bekerja sama, pekerjaan selesai dalam 15 hari. Jika Amir dan Cecep bekerja sama, pekerjaan selesai dalam 12 hari. Berapa hari yang diperlukan jika ketiganya bekerja bersama-sama?",
-    "options": ["6 hari", "8 hari", "9 hari", "10 hari"],
+    "options": [
+      "6 hari",
+      "8 hari",
+      "9 hari",
+      "10 hari"
+    ],
     "answer": 1,
-    "rationale": "Misalkan laju kerja Amir, Budi, dan Cecep adalah A, B, dan C. Diketahui A + B = 1/10, B + C = 1/15, dan A + C = 1/12. Jumlahkan ketiganya: 2(A + B + C) = 1/10 + 1/15 + 1/12 = 1/4, sehingga A + B + C = 1/8. Jadi mereka bertiga selesai dalam 8 hari.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Problem campuran multi-konsep**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan laju kerja Amir, Budi, dan Cecep adalah A, B, dan C.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Diketahui $A + B = \frac{1}{10}$, $B + C = \frac{1}{15}$, dan $A + C = \frac{1}{12}$. Jumlahkan ketiganya: 2(A + B + C) = $\frac{1}{10} + \frac{1}{15} + \frac{1}{12}$ = $\\frac{1}{4}$, sehingga $A + B + C = \frac{1}{8}$. Jadi mereka bertiga selesai dalam 8 hari.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Pemodelan Matematika** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 8 hari.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Problem campuran multi-konsep**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 8 hari**",
     "content": {
       "question": "Jika Amir dan Budi bekerja sama, suatu pekerjaan selesai dalam 10 hari. Jika Budi dan Cecep bekerja sama, pekerjaan selesai dalam 15 hari. Jika Amir dan Cecep bekerja sama, pekerjaan selesai dalam 12 hari. Berapa hari yang diperlukan jika ketiganya bekerja bersama-sama?",
-      "options": ["6 hari", "8 hari", "9 hari", "10 hari"],
+      "options": [
+        "6 hari",
+        "8 hari",
+        "9 hari",
+        "10 hari"
+      ],
       "answer": 1,
-      "rationale": "Misalkan laju kerja Amir, Budi, dan Cecep adalah A, B, dan C. Diketahui A + B = 1/10, B + C = 1/15, dan A + C = 1/12. Jumlahkan ketiganya: 2(A + B + C) = 1/10 + 1/15 + 1/12 = 1/4, sehingga A + B + C = 1/8. Jadi mereka bertiga selesai dalam 8 hari."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Problem campuran multi-konsep**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan laju kerja Amir, Budi, dan Cecep adalah A, B, dan C.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Diketahui $A + B = \frac{1}{10}$, $B + C = \frac{1}{15}$, dan $A + C = \frac{1}{12}$. Jumlahkan ketiganya: 2(A + B + C) = $\frac{1}{10} + \frac{1}{15} + \frac{1}{12}$ = $\\frac{1}{4}$, sehingga $A + B + C = \frac{1}{8}$. Jadi mereka bertiga selesai dalam 8 hari.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Pemodelan Matematika** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu 8 hari.\n**Materi terkait:**\n- **Pemodelan Matematika** - **Problem campuran multi-konsep**.\n- Terjemahkan cerita menjadi **model matematika** dulu; biasanya informasi penting tersembunyi di kata seperti sisa, selisih, total, atau setelah.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. 8 hari**"
     }
   },
   {
@@ -346,17 +550,29 @@
     "subtopic": "Sistem persamaan linear dua variabel",
     "skill_type": "modeling",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Pada sebuah tempat parkir terdapat 84 kendaraan yang terdiri dari sepeda motor beroda dua dan mobil beroda empat. Jumlah roda seluruhnya 220. Jika tarif parkir sepeda motor Rp1.000,00 dan mobil Rp5.000,00, besar uang yang diterima tukang parkir adalah ...",
-    "options": ["Rp120.000", "Rp136.000", "Rp128.000", "Rp188.000"],
+    "options": [
+      "Rp120.000",
+      "Rp136.000",
+      "Rp128.000",
+      "Rp188.000"
+    ],
     "answer": 3,
-    "rationale": "Misalkan motor m dan mobil c. Diketahui m + c = 84 dan 2m + 4c = 220, atau m + 2c = 110. Selisih kedua persamaan memberi c = 26 dan m = 58. Uang parkir = 58 x 1.000 + 26 x 5.000 = Rp188.000.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan motor m dan mobil c.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Diketahui m + $c = 84$ dan 2m + 4c = 220, atau m + 2c = 110. Selisih kedua persamaan memberi $c = 26$ dan $m = 58$. Uang parkir = 58 x 1.000 + 26 x 5.000 = Rp188.000.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu Rp188.000.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. Rp188.000**",
     "content": {
       "question": "Pada sebuah tempat parkir terdapat 84 kendaraan yang terdiri dari sepeda motor beroda dua dan mobil beroda empat. Jumlah roda seluruhnya 220. Jika tarif parkir sepeda motor Rp1.000,00 dan mobil Rp5.000,00, besar uang yang diterima tukang parkir adalah ...",
-      "options": ["Rp120.000", "Rp136.000", "Rp128.000", "Rp188.000"],
+      "options": [
+        "Rp120.000",
+        "Rp136.000",
+        "Rp128.000",
+        "Rp188.000"
+      ],
       "answer": 3,
-      "rationale": "Misalkan motor m dan mobil c. Diketahui m + c = 84 dan 2m + 4c = 220, atau m + 2c = 110. Selisih kedua persamaan memberi c = 26 dan m = 58. Uang parkir = 58 x 1.000 + 26 x 5.000 = Rp188.000."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Sistem persamaan linear dua variabel**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Misalkan motor m dan mobil c.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Diketahui m + $c = 84$ dan 2m + 4c = 220, atau m + 2c = 110. Selisih kedua persamaan memberi $c = 26$ dan $m = 58$. Uang parkir = 58 x 1.000 + 26 x 5.000 = Rp188.000.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **D**, yaitu Rp188.000.\n**Materi terkait:**\n- **Aljabar** - **Sistem persamaan linear dua variabel**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **D. Rp188.000**"
     }
   },
   {
@@ -366,17 +582,29 @@
     "subtopic": "Fungsi kuadrat dasar",
     "skill_type": "understanding",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
     "question": "Sebuah fungsi kuadrat memiliki titik puncak (2, 0) dan melalui titik (0, 4). Persamaan fungsi kuadrat tersebut adalah ...",
-    "options": ["f(x) = x^2 + 4x + 4", "f(x) = x^2 - 4x + 4", "f(x) = x^2 - 4x - 4", "f(x) = x^2 + 2x + 4"],
+    "options": [
+      "f(x) = $x^{2}$ + 4x + 4",
+      "f(x) = $x^{2}$ - 4x + 4",
+      "f(x) = $x^{2}$ - 4x - 4",
+      "f(x) = $x^{2}$ + 2x + 4"
+    ],
     "answer": 1,
-    "rationale": "Bentuk puncak fungsi adalah f(x) = a(x - 2)^2. Karena melalui (0, 4), diperoleh 4 = a(0 - 2)^2 = 4a, sehingga a = 1. Maka f(x) = (x - 2)^2 = x^2 - 4x + 4.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Fungsi kuadrat dasar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Bentuk puncak fungsi adalah f(x) = a(x - 2)^2.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena melalui (0, 4), diperoleh 4 = a($0 - 2$)^2 = 4a, sehingga $a = 1$. Maka f(x) = (x - 2)^2 = $x^{2}$ - 4x + 4.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu f(x) = $x^{2}$ - 4x + 4.\n**Materi terkait:**\n- **Aljabar** - **Fungsi kuadrat dasar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. f(x) = $x^{2}$ - 4x + 4**",
     "content": {
       "question": "Sebuah fungsi kuadrat memiliki titik puncak (2, 0) dan melalui titik (0, 4). Persamaan fungsi kuadrat tersebut adalah ...",
-      "options": ["f(x) = x^2 + 4x + 4", "f(x) = x^2 - 4x + 4", "f(x) = x^2 - 4x - 4", "f(x) = x^2 + 2x + 4"],
+      "options": [
+        "f(x) = $x^{2}$ + 4x + 4",
+        "f(x) = $x^{2}$ - 4x + 4",
+        "f(x) = $x^{2}$ - 4x - 4",
+        "f(x) = $x^{2}$ + 2x + 4"
+      ],
       "answer": 1,
-      "rationale": "Bentuk puncak fungsi adalah f(x) = a(x - 2)^2. Karena melalui (0, 4), diperoleh 4 = a(0 - 2)^2 = 4a, sehingga a = 1. Maka f(x) = (x - 2)^2 = x^2 - 4x + 4."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Fungsi kuadrat dasar**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Bentuk puncak fungsi adalah f(x) = a(x - 2)^2.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Karena melalui (0, 4), diperoleh 4 = a($0 - 2$)^2 = 4a, sehingga $a = 1$. Maka f(x) = (x - 2)^2 = $x^{2}$ - 4x + 4.\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **B**, yaitu f(x) = $x^{2}$ - 4x + 4.\n**Materi terkait:**\n- **Aljabar** - **Fungsi kuadrat dasar**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **B. f(x) = $x^{2}$ - 4x + 4**"
     }
   },
   {
@@ -386,17 +614,29 @@
     "subtopic": "Relasi & fungsi",
     "skill_type": "reasoning",
     "question_type": "visual_analysis",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Diagram panah fungsi f(x) = px + q menunjukkan pemetaan 2 ke -1, a ke 2, 5 ke b, dan -4 ke 17. Pernyataan: (1) f(x) = -3x + 7; (2) a = 1; (3) b = -10; (4) f(0) = 7. Pernyataan yang benar adalah ...",
-    "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+    "question": "Diagram panah fungsi f(x) = px + q menunjukkan pemetaan 2 ke -1, a ke 2, 5 ke b, dan -4 ke 17. Pernyataan: (1) f(x) = -3x + 7; (2) $a = 1$; (3) $b = -10$; (4) $f(0) = 7$. Pernyataan yang benar adalah ...",
+    "options": [
+      "(1) dan (3)",
+      "(1) dan (4)",
+      "(2) dan (3)",
+      "(2) dan (4)"
+    ],
     "answer": 2,
-    "rationale": "Dari f(2) = -1 dan f(-4) = 17, gradien p = (17 - (-1))/(-4 - 2) = -3. Substitusi f(2) = -1 memberi -1 = -6 + q, sehingga q = 5 dan f(x) = -3x + 5. Karena f(a) = 2, maka -3a + 5 = 2 sehingga a = 1. Selain itu b = f(5) = -15 + 5 = -10. Jadi pernyataan benar adalah (2) dan (3). Kunci cetak PDF tampak memilih B, tetapi diagram mengarah ke C.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Relasi & fungsi**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari $f(2) = -1$ dan $f(-4) = 17$, gradien p = ($17 - (-1)$)/($-4 - 2$) = -3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Substitusi $f(2) = -1$ memberi -1 = -6 + q, sehingga $q = 5$ dan f(x) = -3x + 5. Karena $f(a) = 2$, maka -3a + 5 = 2 sehingga $a = 1$. Selain itu b = f(5) = $-15 + 5$ = -10. Jadi pernyataan benar adalah (2) dan (3).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu (2) dan (3).\n**Materi terkait:**\n- **Aljabar** - **Relasi & fungsi**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. (2) dan (3)**",
     "content": {
-      "question": "Diagram panah fungsi f(x) = px + q menunjukkan pemetaan 2 ke -1, a ke 2, 5 ke b, dan -4 ke 17. Pernyataan: (1) f(x) = -3x + 7; (2) a = 1; (3) b = -10; (4) f(0) = 7. Pernyataan yang benar adalah ...",
-      "options": ["(1) dan (3)", "(1) dan (4)", "(2) dan (3)", "(2) dan (4)"],
+      "question": "Diagram panah fungsi f(x) = px + q menunjukkan pemetaan 2 ke -1, a ke 2, 5 ke b, dan -4 ke 17. Pernyataan: (1) f(x) = -3x + 7; (2) $a = 1$; (3) $b = -10$; (4) $f(0) = 7$. Pernyataan yang benar adalah ...",
+      "options": [
+        "(1) dan (3)",
+        "(1) dan (4)",
+        "(2) dan (3)",
+        "(2) dan (4)"
+      ],
       "answer": 2,
-      "rationale": "Dari f(2) = -1 dan f(-4) = 17, gradien p = (17 - (-1))/(-4 - 2) = -3. Substitusi f(2) = -1 memberi -1 = -6 + q, sehingga q = 5 dan f(x) = -3x + 5. Karena f(a) = 2, maka -3a + 5 = 2 sehingga a = 1. Selain itu b = f(5) = -15 + 5 = -10. Jadi pernyataan benar adalah (2) dan (3). Kunci cetak PDF tampak memilih B, tetapi diagram mengarah ke C."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Relasi & fungsi**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Dari $f(2) = -1$ dan $f(-4) = 17$, gradien p = ($17 - (-1)$)/($-4 - 2$) = -3.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Substitusi $f(2) = -1$ memberi -1 = -6 + q, sehingga $q = 5$ dan f(x) = -3x + 5. Karena $f(a) = 2$, maka -3a + 5 = 2 sehingga $a = 1$. Selain itu b = f(5) = $-15 + 5$ = -10. Jadi pernyataan benar adalah (2) dan (3).\nLangkah 4: Cek kembali apakah satuan, urutan operasi, dan syarat pada soal sudah konsisten. Langkah ini penting karena soal tipe **Aljabar** sering menjebak lewat informasi yang mirip tetapi tidak sama.\nLangkah 5: Bandingkan hasil dengan kemungkinan kesalahan umum. Jika ada opsi yang dekat, pastikan opsi itu tidak muncul dari salah membaca satuan, salah memilih rumus, atau berhenti di hasil antara.\nLangkah 6: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu (2) dan (3).\n**Materi terkait:**\n- **Aljabar** - **Relasi & fungsi**.\n- Ubah informasi menjadi **bentuk aljabar** yang rapi, lalu lakukan substitusi, pemfaktoran, atau penyederhanaan secara bertahap.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. (2) dan (3)**"
     }
   },
   {
@@ -406,17 +646,29 @@
     "subtopic": "Rata-rata tertimbang",
     "skill_type": "application",
     "question_type": "story_problem",
-    "tags": ["math-psb-sma-practice-set-3"],
+    "tags": [
+      "math-psb-sma-practice-set-3"
+    ],
     "is_active": true,
-    "question": "Nilai rata-rata kelompok A dengan 21 anggota adalah 6,2, sedangkan nilai rata-rata kelompok B dengan 28 anggota adalah 6,9. Jika kedua kelompok digabungkan, nilai rata-rata seluruhnya adalah ...",
-    "options": ["6,4", "6,5", "6,6", "6,7"],
+    "question": "Nilai rata-rata kelompok A dengan 21 anggota adalah $6{,}2$, sedangkan nilai rata-rata kelompok B dengan 28 anggota adalah 6,9. Jika kedua kelompok digabungkan, nilai rata-rata seluruhnya adalah ...",
+    "options": [
+      "$6{,}4$",
+      "$6{,}5$",
+      "$6{,}6$",
+      "$6{,}7$"
+    ],
     "answer": 2,
-    "rationale": "Rata-rata gabungan = (21 x 6,2 + 28 x 6,9) / (21 + 28) = (130,2 + 193,2) / 49 = 323,4 / 49 = 6,6.",
+    "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Rata-rata tertimbang**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Rata-rata gabungan = $(21 \\times 6{,}2 + 28 \\times 6{,}9) / (21 + 28)$ = $(130{,}2 + 193{,}2) / 49$ = $323{,}\\frac{4}{49}$ = 6,6.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Hasil antara tersebut dipakai untuk memilih opsi yang paling sesuai dengan pertanyaan.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $6{,}6$.\n**Materi terkait:**\n- **Statistik & Peluang** - **Rata-rata tertimbang**.\n- Pisahkan data yang diketahui, lalu gunakan **total, rata-rata, banyak kejadian, atau komplemen** sesuai pertanyaan.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $6{,}6$**",
     "content": {
-      "question": "Nilai rata-rata kelompok A dengan 21 anggota adalah 6,2, sedangkan nilai rata-rata kelompok B dengan 28 anggota adalah 6,9. Jika kedua kelompok digabungkan, nilai rata-rata seluruhnya adalah ...",
-      "options": ["6,4", "6,5", "6,6", "6,7"],
+      "question": "Nilai rata-rata kelompok A dengan 21 anggota adalah $6{,}2$, sedangkan nilai rata-rata kelompok B dengan 28 anggota adalah 6,9. Jika kedua kelompok digabungkan, nilai rata-rata seluruhnya adalah ...",
+      "options": [
+        "$6{,}4$",
+        "$6{,}5$",
+        "$6{,}6$",
+        "$6{,}7$"
+      ],
       "answer": 2,
-      "rationale": "Rata-rata gabungan = (21 x 6,2 + 28 x 6,9) / (21 + 28) = (130,2 + 193,2) / 49 = 323,4 / 49 = 6,6."
+      "rationale": "Langkah 1: Baca konteks soal dan tentukan apa yang diminta. Karena soal berada pada **Rata-rata tertimbang**, jangan langsung memilih angka yang tampak cocok; ubah dulu informasi penting menjadi hubungan matematika yang jelas.\nLangkah 2: Gunakan hubungan utama dari soal. Rata-rata gabungan = $(21 \\times 6{,}2 + 28 \\times 6{,}9) / (21 + 28)$ = $(130{,}2 + 193{,}2) / 49$ = $323{,}\\frac{4}{49}$ = 6,6.\nLangkah 3: Lanjutkan perhitungan atau penalaran dari hasil antara tadi. Hasil antara tersebut dipakai untuk memilih opsi yang paling sesuai dengan pertanyaan.\nLangkah 4: Cocokkan hasil akhir dengan pilihan jawaban. Pilihan yang sesuai dengan perhitungan adalah **C**, yaitu $6{,}6$.\n**Materi terkait:**\n- **Statistik & Peluang** - **Rata-rata tertimbang**.\n- Pisahkan data yang diketahui, lalu gunakan **total, rata-rata, banyak kejadian, atau komplemen** sesuai pertanyaan.\nInsight kunci: Soal seperti ini perlu diselesaikan dengan model kecil, bukan hanya menebak dari bentuk angka pada opsi. Setelah modelnya jelas, perhitungan biasanya menjadi lebih pendek dan lebih aman. Selalu cek kembali apakah hasil akhir menjawab pertanyaan, bukan sekadar hasil antara.\nKenapa opsi lain salah: Opsi lain dapat terlihat masuk akal jika siswa salah membaca syarat, salah urutan operasi, atau berhenti sebelum langkah terakhir. Distraktor terkuat biasanya berasal dari hasil antara atau dari penggunaan rumus yang benar pada bagian informasi yang keliru.\nJawaban akhir: **C. $6{,}6$**"
     }
   }
 ]
