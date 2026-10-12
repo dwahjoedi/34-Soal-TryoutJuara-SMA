@@ -282,12 +282,15 @@ def stems(path: Path) -> list[str]:
 
 
 def check_novelty(rep: Report, path: Path, threshold: float) -> None:
-    """Compare normalized stems with every other set in the same folder (cross-set audit)."""
+    """Compare normalized stems with every other set in the same subject folder, subfolders included."""
     def informative(stem: str) -> bool:
         return len(stem.split()) >= 8  # short computational stems collapse after normalization
 
+    folder = path.resolve().parent
+    if folder.parent != ROOT and ROOT in folder.parents:
+        folder = ROOT / folder.relative_to(ROOT).parts[0]  # e.g. a soal_latihan_section subfolder
     mine = stems(path)
-    for other in sorted(path.parent.glob("*.json")):
+    for other in sorted(folder.rglob("*.json")):
         if other.resolve() == path.resolve():
             continue
         for j, theirs in enumerate(stems(other), 1):
@@ -407,7 +410,7 @@ def validate_file(path: Path, tax: dict) -> Report:
 
 def collect(paths: list[str]) -> list[Path]:
     if not paths:
-        files = [p for d in DEFAULT_DIRS for p in sorted((ROOT / d).glob("*.json"))]
+        files = [p for d in DEFAULT_DIRS for p in sorted((ROOT / d).rglob("*.json"))]
         return files + sorted((ROOT / MICRO_DIR).glob("*/section-*/*/foundation-micro-authoring-pack.json"))
     files = []
     for raw in paths:

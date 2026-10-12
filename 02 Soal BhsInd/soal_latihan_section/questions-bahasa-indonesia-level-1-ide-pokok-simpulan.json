@@ -1,0 +1,229 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ide pokok",
+    "skill_type": "understanding",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "ide-pokok",
+      "deduktif"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Banyak sekolah kini menyediakan pojok baca di setiap kelas, yaitu rak kecil berisi buku cerita, majalah, dan buku pengetahuan. Biasanya, buku-buku itu berasal dari sumbangan siswa dan guru. Meskipun sederhana, pojok baca layak dipertahankan karena membawa manfaat nyata bagi siswa.\n\n(2) Pojok baca membuat buku lebih mudah dijangkau. Siswa tidak perlu berjalan ke perpustakaan yang letaknya jauh dari kelas. Saat menunggu guru datang atau selesai mengerjakan tugas lebih cepat, mereka cukup mengambil buku dari rak di belakang kelas. Waktu luang yang singkat pun dapat dipakai untuk membaca.\n\n(3) Selain itu, pojok baca melatih tanggung jawab bersama. Setiap minggu, petugas piket mencatat buku yang dipinjam dan merapikan rak. Jika ada buku yang rusak, seluruh kelas ikut mencari cara untuk memperbaikinya.\n\n(4) Oleh karena itu, pojok baca sebaiknya tidak dianggap sekadar hiasan kelas. Dengan koleksi yang diperbarui secara berkala, rak kecil itu dapat menjadi pintu masuk kebiasaan membaca yang bertahan hingga siswa dewasa.\n\nIde pokok paragraf (2) adalah ...",
+    "options": [
+      "Siswa tidak perlu berjalan ke perpustakaan yang jauh dari kelas.",
+      "Pojok baca membuat buku lebih mudah dijangkau siswa.",
+      "Waktu luang siswa di sekolah sangat terbatas dan singkat.",
+      "Perpustakaan sekolah sebaiknya dipindahkan ke dekat ruang kelas."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Temukan **topik** paragraf (2). Semua kalimatnya membicarakan pojok baca dan kemudahan siswa mendapatkan buku.\nLangkah 2: Cari **kalimat utama**. Kalimat pertama, *Pojok baca membuat buku lebih mudah dijangkau*, adalah kalimat paling umum. Kalimat-kalimat berikutnya merinci: tidak perlu ke perpustakaan, cukup mengambil dari rak, waktu luang singkat bisa dipakai membaca. Jadi, ini paragraf **deduktif**.\nLangkah 3: Lakukan **tes payung**. Pernyataan *pojok baca membuat buku lebih mudah dijangkau siswa* menaungi ketiga kalimat penjelas.\nLangkah 4: Opsi *tidak perlu berjalan ke perpustakaan* hanya satu rincian, sehingga **terlalu sempit**. Opsi *waktu luang sangat terbatas* bergeser: teks menyebut waktu luang yang singkat bisa dipakai membaca, bukan membahas keterbatasan waktu. Opsi *perpustakaan dipindahkan* menambah **saran** yang tidak ada di teks.\n**Materi terkait:**\n- Paragraf **deduktif** menempatkan kalimat utama di awal, lalu diikuti rincian.\n- Ide pokok = topik + apa yang dikatakan tentang topik. Di sini: pojok baca + membuat buku mudah dijangkau.\nInsight kunci: Kalimat penjelas biasanya lebih konkret dan lebih mudah diingat, sehingga sering dijadikan jebakan. Pilih pernyataan yang menaungi semua rincian, bukan rincian yang paling jelas tergambar.\nKenapa opsi lain salah: tidak perlu ke perpustakaan terlalu sempit; keterbatasan waktu luang bergeser dari isi; pemindahan perpustakaan menambah saran.\nJawaban akhir: **Pojok baca membuat buku lebih mudah dijangkau siswa.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Eksposisi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "gagasan-utama",
+      "eksposisi"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Banyak sekolah kini menyediakan pojok baca di setiap kelas, yaitu rak kecil berisi buku cerita, majalah, dan buku pengetahuan. Biasanya, buku-buku itu berasal dari sumbangan siswa dan guru. Meskipun sederhana, pojok baca layak dipertahankan karena membawa manfaat nyata bagi siswa.\n\n(2) Pojok baca membuat buku lebih mudah dijangkau. Siswa tidak perlu berjalan ke perpustakaan yang letaknya jauh dari kelas. Saat menunggu guru datang atau selesai mengerjakan tugas lebih cepat, mereka cukup mengambil buku dari rak di belakang kelas. Waktu luang yang singkat pun dapat dipakai untuk membaca.\n\n(3) Selain itu, pojok baca melatih tanggung jawab bersama. Setiap minggu, petugas piket mencatat buku yang dipinjam dan merapikan rak. Jika ada buku yang rusak, seluruh kelas ikut mencari cara untuk memperbaikinya.\n\n(4) Oleh karena itu, pojok baca sebaiknya tidak dianggap sekadar hiasan kelas. Dengan koleksi yang diperbarui secara berkala, rak kecil itu dapat menjadi pintu masuk kebiasaan membaca yang bertahan hingga siswa dewasa.\n\nGagasan utama yang dipertahankan penulis dalam seluruh bacaan adalah ...",
+    "options": [
+      "Pojok baca di kelas layak dipertahankan karena bermanfaat bagi siswa.",
+      "Pojok baca melatih siswa bertanggung jawab dalam mencatat dan merawat buku kelas.",
+      "Setiap sekolah perlu membangun perpustakaan yang lebih besar.",
+      "Koleksi buku di pojok baca harus diganti setiap minggu."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Soal ini meminta **gagasan utama seluruh teks**, bukan ide pokok satu paragraf. Jadi, kita perlu payung yang lebih besar, yaitu payung yang menaungi ide pokok semua paragraf.\nLangkah 2: Beri label setiap paragraf. Paragraf (1): pendapat bahwa pojok baca layak dipertahankan (**tesis**). Paragraf (2): manfaat pertama, buku mudah dijangkau (**argumen**). Paragraf (3): manfaat kedua, melatih tanggung jawab (**argumen**). Paragraf (4): pojok baca jangan dianggap hiasan (**penegasan ulang**).\nLangkah 3: Gagasan yang menaungi semuanya adalah: pojok baca layak dipertahankan karena bermanfaat bagi siswa. Pernyataan ini sesuai dengan kalimat terakhir paragraf (1) dan ditegaskan kembali di paragraf (4).\nLangkah 4: Opsi *melatih tanggung jawab* hanya ide pokok paragraf (3), sehingga **terlalu sempit**. Opsi *perpustakaan yang lebih besar* **bergeser** ke topik lain. Opsi *diganti setiap minggu* mengubah kata *berkala* menjadi *setiap minggu* dan hanya membahas satu rincian.\n**Materi terkait:**\n- Struktur eksposisi: **tesis - argumen - penegasan ulang**. Gagasan utama teks eksposisi biasanya sama dengan tesisnya.\n- Untuk teks panjang, tulis ide pokok tiap paragraf dalam beberapa kata, lalu cari payung yang menaungi semuanya.\nInsight kunci: Jangan tertukar antara ide pokok satu paragraf dan gagasan utama seluruh teks. Opsi yang hanya cocok dengan satu paragraf adalah jebakan paling umum untuk soal gagasan utama.\nKenapa opsi lain salah: tanggung jawab hanya isi paragraf (3); perpustakaan besar tidak dibahas; ganti setiap minggu mengubah kata *berkala* dan terlalu sempit.\nJawaban akhir: **Pojok baca di kelas layak dipertahankan karena bermanfaat bagi siswa.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "hubungan-paragraf"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Banyak sekolah kini menyediakan pojok baca di setiap kelas, yaitu rak kecil berisi buku cerita, majalah, dan buku pengetahuan. Biasanya, buku-buku itu berasal dari sumbangan siswa dan guru. Meskipun sederhana, pojok baca layak dipertahankan karena membawa manfaat nyata bagi siswa.\n\n(2) Pojok baca membuat buku lebih mudah dijangkau. Siswa tidak perlu berjalan ke perpustakaan yang letaknya jauh dari kelas. Saat menunggu guru datang atau selesai mengerjakan tugas lebih cepat, mereka cukup mengambil buku dari rak di belakang kelas. Waktu luang yang singkat pun dapat dipakai untuk membaca.\n\n(3) Selain itu, pojok baca melatih tanggung jawab bersama. Setiap minggu, petugas piket mencatat buku yang dipinjam dan merapikan rak. Jika ada buku yang rusak, seluruh kelas ikut mencari cara untuk memperbaikinya.\n\n(4) Oleh karena itu, pojok baca sebaiknya tidak dianggap sekadar hiasan kelas. Dengan koleksi yang diperbarui secara berkala, rak kecil itu dapat menjadi pintu masuk kebiasaan membaca yang bertahan hingga siswa dewasa.\n\nHubungan paragraf (3) dengan paragraf (2) adalah ...",
+    "options": [
+      "Paragraf (3) memberi contoh dari manfaat yang dijelaskan pada paragraf (2).",
+      "Paragraf (3) menjelaskan penyebab buku sulit dijangkau siswa pada paragraf (2).",
+      "Paragraf (3) menyajikan pendapat yang bertentangan dengan paragraf (2).",
+      "Paragraf (3) menambahkan manfaat lain di samping manfaat pada paragraf (2)."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Beri label ide pokok kedua paragraf. Paragraf (2): pojok baca membuat buku **mudah dijangkau**. Paragraf (3): pojok baca **melatih tanggung jawab bersama**.\nLangkah 2: Cari **penanda hubungan**. Paragraf (3) dibuka dengan *Selain itu*, penanda **penambahan** atau penjelasan lanjut. Artinya, paragraf (3) menambahkan manfaat kedua.\nLangkah 3: Opsi *memberi contoh dari manfaat paragraf (2)* adalah near-miss. Jika paragraf (3) adalah contoh, isinya harus menggambarkan kemudahan menjangkau buku. Padahal, mencatat pinjaman dan memperbaiki buku rusak adalah manfaat yang **berbeda**, yaitu tanggung jawab.\nLangkah 4: Opsi *penyebab buku sulit dijangkau* bertentangan dengan isi paragraf (2), yang justru menyatakan buku mudah dijangkau. Opsi *pendapat bertentangan* salah karena kedua paragraf sama-sama mendukung tesis penulis.\n**Materi terkait:**\n- Penanda penambahan: *selain itu, di samping itu, lebih lanjut*. Penanda contoh: *misalnya, contohnya*. Penanda pertentangan: *namun, sebaliknya*.\n- Dalam eksposisi, paragraf-paragraf argumen biasanya berhubungan **sejajar**: masing-masing menambahkan alasan baru untuk tesis yang sama.\nInsight kunci: Bedakan *menambah gagasan baru* dengan *memberi contoh gagasan yang sama*. Bandingkan isi kedua paragraf: jika isinya berbeda jenis, hubungannya penambahan, bukan contoh.\nKenapa opsi lain salah: isi paragraf (3) bukan contoh kemudahan menjangkau buku; tidak ada penyebab buku sulit dijangkau; tidak ada pendapat yang bertentangan.\nJawaban akhir: **Paragraf (3) menambahkan manfaat lain di samping manfaat pada paragraf (2).**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Antonim kontekstual",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "kemampuan-verbal",
+      "antonim"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Banyak sekolah kini menyediakan pojok baca di setiap kelas, yaitu rak kecil berisi buku cerita, majalah, dan buku pengetahuan. Biasanya, buku-buku itu berasal dari sumbangan siswa dan guru. Meskipun sederhana, pojok baca layak dipertahankan karena membawa manfaat nyata bagi siswa.\n\n(2) Pojok baca membuat buku lebih mudah dijangkau. Siswa tidak perlu berjalan ke perpustakaan yang letaknya jauh dari kelas. Saat menunggu guru datang atau selesai mengerjakan tugas lebih cepat, mereka cukup mengambil buku dari rak di belakang kelas. Waktu luang yang singkat pun dapat dipakai untuk membaca.\n\n(3) Selain itu, pojok baca melatih tanggung jawab bersama. Setiap minggu, petugas piket mencatat buku yang dipinjam dan merapikan rak. Jika ada buku yang rusak, seluruh kelas ikut mencari cara untuk memperbaikinya.\n\n(4) Oleh karena itu, pojok baca sebaiknya tidak dianggap sekadar hiasan kelas. Dengan koleksi yang diperbarui secara berkala, rak kecil itu dapat menjadi pintu masuk kebiasaan membaca yang bertahan hingga siswa dewasa.\n\nLawan kata *dipertahankan* dalam kalimat *Meskipun sederhana, pojok baca layak dipertahankan karena membawa manfaat nyata bagi siswa* adalah ...",
+    "options": [
+      "diperluas",
+      "dipindahkan",
+      "ditiadakan",
+      "diperbaiki"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Pahami makna kata dalam konteks. *Pojok baca layak dipertahankan* berarti pojok baca layak **tetap ada** dan tidak dihilangkan.\nLangkah 2: Lawan dari *tetap ada* adalah **dihilangkan** atau **tidak diadakan lagi**. Kata yang tepat adalah *ditiadakan*.\nLangkah 3: Uji dengan substitusi kalimat berlawanan: *pojok baca layak ditiadakan* bermakna kebalikan dari kalimat asli. Itu ciri antonim yang tepat.\nLangkah 4: *Diperluas* bukan lawan kata. Memperluas justru berarti tetap mempertahankan sambil menambah. *Dipindahkan* hanya mengubah tempat, dan pojok baca tetap ada. *Diperbaiki* juga berarti pojok baca tetap ada, hanya keadaannya dibuat lebih baik.\n**Materi terkait:**\n- **Antonim kontekstual** adalah kata yang maknanya berlawanan dengan makna kata dalam kalimat itu.\n- Cara menguji: ganti kata dengan antonimnya. Jika makna kalimat menjadi kebalikan dari aslinya, antonimnya tepat. Jika makna hanya bergeser sedikit, itu bukan antonim.\nInsight kunci: Opsi yang \"berbeda\" belum tentu \"berlawanan\". Antonim harus membalik makna inti kata, bukan sekadar mengubah cara atau tempat.\nKenapa opsi lain salah: diperluas, dipindahkan, dan diperbaiki semuanya masih berarti pojok baca tetap ada.\nJawaban akhir: **ditiadakan**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ide pokok",
+    "skill_type": "understanding",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "ide-pokok",
+      "induktif"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Pada awal semester, kelas 8C selalu menyisakan banyak sampah plastik setelah jam istirahat. Bungkus makanan berserakan di laci dan lantai, sehingga petugas piket harus menyapu dua kali sehari. Beberapa siswa bahkan menyelipkan bungkus jajanan di bawah meja, dan tempat sampah di sudut kelas cepat penuh sebelum siang.\n\n(2) Pak Dodi, wali kelas mereka, lalu mengajak siswa mencatat jumlah sampah plastik setiap hari selama tiga minggu. Pada minggu pertama, rata-rata ada 40 bungkus per hari. Pada minggu kedua, kelas mulai menyediakan tempat sampah terpilah dan siswa saling mengingatkan; jumlahnya turun menjadi 25 bungkus. Pada minggu ketiga, angkanya tinggal 12 bungkus. Hasil pencatatan itu ditempel di papan kelas agar semua siswa dapat melihatnya.\n\n(3) Lantai kelas kini lebih bersih. Petugas piket cukup menyapu sekali sehari, dan tempat sampah tidak lagi cepat penuh. Beberapa siswa bahkan mulai membawa bekal dalam kotak makan sendiri. Kebiasaan kecil yang dilakukan bersama ternyata mengubah wajah kelas 8C.\n\nIde pokok paragraf (3) adalah ...",
+    "options": [
+      "Kebiasaan kecil yang dilakukan bersama mengubah keadaan kelas 8C.",
+      "Lantai kelas 8C kini menjadi lebih bersih daripada sebelumnya.",
+      "Petugas piket kelas 8C kini cukup menyapu lantai sekali dalam sehari.",
+      "Membawa bekal dalam kotak makan dapat menghemat uang jajan siswa."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Jangan langsung memilih kalimat pertama. Kalimat *Lantai kelas kini lebih bersih* hanya satu perubahan. Jika dijadikan ide pokok, perubahan lain (menyapu sekali sehari, membawa kotak makan) tidak tertaungi.\nLangkah 2: Cari kalimat yang paling umum. Kalimat terakhir, *Kebiasaan kecil yang dilakukan bersama ternyata mengubah wajah kelas 8C*, merangkum semua perubahan sebelumnya. Ini paragraf **induktif**: rincian dulu, kalimat utama di akhir.\nLangkah 3: Pahami ungkapan *mengubah wajah kelas* sebagai **kiasan** yang berarti mengubah keadaan kelas. Opsi yang benar memakai parafrase *mengubah keadaan kelas 8C*.\nLangkah 4: Opsi *lantai lebih bersih* dan *menyapu sekali sehari* masing-masing hanya satu rincian, sehingga **terlalu sempit**. Opsi *menghemat uang jajan* adalah jebakan **benar di dunia nyata**: mungkin benar, tetapi teks tidak membahas uang jajan sama sekali.\n**Materi terkait:**\n- Paragraf **induktif** sering ditutup dengan kalimat simpulan yang diawali *jadi*, *dengan demikian*, atau seperti di sini, ditandai kata *ternyata*.\n- Ungkapan kiasan dalam kalimat utama perlu diterjemahkan ke makna sebenarnya sebelum dicocokkan dengan opsi.\nInsight kunci: Kebiasaan memilih kalimat pertama sebagai ide pokok akan menjebakmu pada paragraf induktif. Selalu cek kalimat terakhir, lalu lakukan tes payung.\nKenapa opsi lain salah: lantai bersih dan menyapu sekali sehari hanya rincian; uang jajan tidak dibahas dalam teks.\nJawaban akhir: **Kebiasaan kecil yang dilakukan bersama mengubah keadaan kelas 8C.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Simpulan",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "simpulan",
+      "data"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Pada awal semester, kelas 8C selalu menyisakan banyak sampah plastik setelah jam istirahat. Bungkus makanan berserakan di laci dan lantai, sehingga petugas piket harus menyapu dua kali sehari. Beberapa siswa bahkan menyelipkan bungkus jajanan di bawah meja, dan tempat sampah di sudut kelas cepat penuh sebelum siang.\n\n(2) Pak Dodi, wali kelas mereka, lalu mengajak siswa mencatat jumlah sampah plastik setiap hari selama tiga minggu. Pada minggu pertama, rata-rata ada 40 bungkus per hari. Pada minggu kedua, kelas mulai menyediakan tempat sampah terpilah dan siswa saling mengingatkan; jumlahnya turun menjadi 25 bungkus. Pada minggu ketiga, angkanya tinggal 12 bungkus. Hasil pencatatan itu ditempel di papan kelas agar semua siswa dapat melihatnya.\n\n(3) Lantai kelas kini lebih bersih. Petugas piket cukup menyapu sekali sehari, dan tempat sampah tidak lagi cepat penuh. Beberapa siswa bahkan mulai membawa bekal dalam kotak makan sendiri. Kebiasaan kecil yang dilakukan bersama ternyata mengubah wajah kelas 8C.\n\nSimpulan yang paling tepat berdasarkan paragraf (2) adalah ...",
+    "options": [
+      "Tempat sampah terpilah merupakan satu-satunya penyebab berkurangnya jumlah sampah plastik di kelas 8C.",
+      "Setelah ada tempat sampah terpilah dan siswa saling mengingatkan, sampah plastik terus menurun.",
+      "Pada minggu ketiga, kelas 8C sudah benar-benar bebas dari sampah plastik setelah jam istirahat.",
+      "Jumlah sampah plastik di kelas 8C paling sedikit terjadi pada minggu pertama pencatatan."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Kumpulkan data paragraf (2). Minggu pertama: rata-rata 40 bungkus per hari. Minggu kedua: kelas menyediakan tempat sampah terpilah dan siswa saling mengingatkan; jumlah turun menjadi 25 bungkus. Minggu ketiga: tinggal 12 bungkus.\nLangkah 2: Baca **pola** datanya: 40 - 25 - 12, terus menurun setelah dua perubahan dimulai pada minggu kedua. Simpulan yang aman menggambarkan pola itu dengan kata **setelah** dan menyebut **kedua** perubahan.\nLangkah 3: Opsi *satu-satunya penyebab* adalah jebakan **sebab-akibat yang berlebihan**. Teks menyebut dua perubahan yang terjadi bersamaan, yaitu tempat sampah terpilah dan saling mengingatkan. Kita tidak bisa memastikan bahwa hanya salah satunya yang berpengaruh.\nLangkah 4: Opsi *benar-benar bebas sampah plastik* bertentangan dengan data karena masih ada 12 bungkus. Opsi *paling sedikit pada minggu pertama* membalik data karena minggu pertama justru paling banyak.\nLangkah 5: Periksa ulang opsi yang benar dengan tangga inferensi. Opsi itu berada di **anak tangga 2**: menggabungkan data dari tiga minggu dan tidak menambah klaim yang tidak didukung.\n**Materi terkait:**\n- Pada teks berisi data, simpulan terbaik menggambarkan **pola** (naik, turun, tetap) dan kondisi saat pola itu terjadi.\n- Kata *satu-satunya*, *pasti*, dan *benar-benar* menuntut bukti yang sangat kuat; tanpa bukti itu, opsi tersebut terlalu jauh.\n- Dua hal yang terjadi berurutan belum tentu berhubungan sebab-akibat secara pasti.\nInsight kunci: Simpulan yang baik setia pada data dan hati-hati dalam menyatakan sebab. Jika teks menyebut beberapa perubahan sekaligus, jangan memilih opsi yang menyalahkan atau memuji hanya satu perubahan.\nKenapa opsi lain salah: satu-satunya penyebab mengabaikan perubahan kedua; bebas sampah bertentangan dengan angka 12; minggu pertama justru paling banyak.\nJawaban akhir: **Setelah ada tempat sampah terpilah dan siswa saling mengingatkan, sampah plastik terus menurun.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ringkasan",
+    "skill_type": "understanding",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "ringkasan"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Pada awal semester, kelas 8C selalu menyisakan banyak sampah plastik setelah jam istirahat. Bungkus makanan berserakan di laci dan lantai, sehingga petugas piket harus menyapu dua kali sehari. Beberapa siswa bahkan menyelipkan bungkus jajanan di bawah meja, dan tempat sampah di sudut kelas cepat penuh sebelum siang.\n\n(2) Pak Dodi, wali kelas mereka, lalu mengajak siswa mencatat jumlah sampah plastik setiap hari selama tiga minggu. Pada minggu pertama, rata-rata ada 40 bungkus per hari. Pada minggu kedua, kelas mulai menyediakan tempat sampah terpilah dan siswa saling mengingatkan; jumlahnya turun menjadi 25 bungkus. Pada minggu ketiga, angkanya tinggal 12 bungkus. Hasil pencatatan itu ditempel di papan kelas agar semua siswa dapat melihatnya.\n\n(3) Lantai kelas kini lebih bersih. Petugas piket cukup menyapu sekali sehari, dan tempat sampah tidak lagi cepat penuh. Beberapa siswa bahkan mulai membawa bekal dalam kotak makan sendiri. Kebiasaan kecil yang dilakukan bersama ternyata mengubah wajah kelas 8C.\n\nRingkasan yang paling tepat untuk seluruh bacaan adalah ...",
+    "options": [
+      "Pak Dodi mengajak siswa kelas 8C mencatat jumlah sampah plastik setiap hari selama tiga minggu berturut-turut di kelas.",
+      "Sampah plastik kelas 8C tercatat 40 bungkus pada minggu pertama, 25 bungkus pada minggu kedua, dan 12 bungkus pada minggu ketiga.",
+      "Setiap kelas di sekolah wajib meniru kelas 8C agar seluruh lingkungan sekolah bebas dari sampah plastik.",
+      "Sampah plastik kelas 8C berkurang lewat pencatatan, tempat sampah terpilah, dan saling mengingatkan sehingga kelas lebih bersih."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Daftar bagian penting dari setiap paragraf. Paragraf (1): **masalah**, banyak sampah plastik. Paragraf (2): **upaya**, pencatatan, tempat sampah terpilah, saling mengingatkan, dan sampah berkurang. Paragraf (3): **hasil**, kelas lebih bersih.\nLangkah 2: Uji tiga syarat ringkasan. Opsi yang benar **lengkap** (masalah, upaya, hasil), **padat** (tanpa angka rinci), dan **setia** (tanpa saran atau opini).\nLangkah 3: Opsi tentang ajakan Pak Dodi hanya memuat sebagian paragraf (2), sehingga tidak lengkap. Opsi berisi angka 40-25-12 hanya menyalin **data rinci** dan tidak menyebut upaya maupun hasil akhirnya.\nLangkah 4: Opsi *setiap kelas wajib meniru* menambah **saran** yang tidak ada di teks. Ringkasan harus setia pada isi teks, bukan menambahkan pendapat.\n**Materi terkait:**\n- Ringkasan yang baik: **lengkap, padat, setia**.\n- Angka rinci, nama tokoh yang tidak penting, dan contoh kecil biasanya dibuang dari ringkasan.\n- Untuk teks naratif, pola **masalah - upaya - hasil** membantu memastikan ringkasan mencakup semua bagian.\nInsight kunci: Ringkasan yang tepat seperti foto dari jauh: semua bagian penting terlihat, tetapi detail kecil tidak tampak. Opsi yang hanya memperbesar satu bagian, atau menambah sesuatu yang tidak ada di foto, bukan ringkasan yang baik.\nKenapa opsi lain salah: ajakan mencatat hanya sebagian isi; deretan angka adalah detail tanpa inti; kewajiban meniru adalah saran tambahan.\nJawaban akhir: **Sampah plastik kelas 8C berkurang lewat pencatatan, tempat sampah terpilah, dan saling mengingatkan sehingga kelas lebih bersih.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "tersurat"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Pada awal semester, kelas 8C selalu menyisakan banyak sampah plastik setelah jam istirahat. Bungkus makanan berserakan di laci dan lantai, sehingga petugas piket harus menyapu dua kali sehari. Beberapa siswa bahkan menyelipkan bungkus jajanan di bawah meja, dan tempat sampah di sudut kelas cepat penuh sebelum siang.\n\n(2) Pak Dodi, wali kelas mereka, lalu mengajak siswa mencatat jumlah sampah plastik setiap hari selama tiga minggu. Pada minggu pertama, rata-rata ada 40 bungkus per hari. Pada minggu kedua, kelas mulai menyediakan tempat sampah terpilah dan siswa saling mengingatkan; jumlahnya turun menjadi 25 bungkus. Pada minggu ketiga, angkanya tinggal 12 bungkus. Hasil pencatatan itu ditempel di papan kelas agar semua siswa dapat melihatnya.\n\n(3) Lantai kelas kini lebih bersih. Petugas piket cukup menyapu sekali sehari, dan tempat sampah tidak lagi cepat penuh. Beberapa siswa bahkan mulai membawa bekal dalam kotak makan sendiri. Kebiasaan kecil yang dilakukan bersama ternyata mengubah wajah kelas 8C.\n\nPernyataan yang **sesuai** dengan isi bacaan adalah ...",
+    "options": [
+      "Sebelum ada perubahan, petugas piket harus menyapu kelas dua kali sehari.",
+      "Pak Dodi membagikan kotak makan kepada setiap siswa kelas 8C.",
+      "Pencatatan jumlah sampah plastik di kelas dilakukan selama tiga bulan penuh.",
+      "Semua siswa kelas 8C kini membawa bekal dalam kotak makan sendiri."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Untuk soal **pernyataan sesuai**, cari bukti untuk setiap bagian opsi di teks.\nLangkah 2: Paragraf (1) menyebut petugas piket *harus menyapu dua kali sehari* pada awal semester, saat sampah masih banyak. Paragraf (3) menyebut sekarang *cukup menyapu sekali sehari*. Jadi, pernyataan bahwa sebelum ada perubahan petugas piket menyapu dua kali sehari **terbukti**.\nLangkah 3: Opsi tentang Pak Dodi membagikan kotak makan **menambah informasi**. Teks hanya menyebut beberapa siswa membawa bekal dalam kotak makan sendiri.\nLangkah 4: Opsi *tiga bulan* mengubah satu kata: pencatatan dilakukan selama tiga **minggu**. Opsi *semua siswa* terlalu luas karena teks menyebut *beberapa siswa*.\n**Materi terkait:**\n- Opsi jebakan sering hanya mengubah satu kata kecil: *minggu* menjadi *bulan*, *beberapa* menjadi *semua*.\n- Opsi yang benar bisa memakai parafrase, misalnya *sebelum ada perubahan* untuk *pada awal semester*.\nInsight kunci: Soal tersurat terlihat mudah, tetapi menuntut ketelitian kata per kata. Satu kata yang berbeda sudah cukup untuk membuat opsi salah.\nKenapa opsi lain salah: Pak Dodi tidak membagikan kotak makan; pencatatan berlangsung tiga minggu, bukan tiga bulan; hanya beberapa siswa yang membawa kotak makan.\nJawaban akhir: **Sebelum ada perubahan, petugas piket harus menyapu kelas dua kali sehari.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Ide pokok",
+    "skill_type": "inferential",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "ide-pokok",
+      "tersirat"
+    ],
+    "is_active": true,
+    "question": "Bacalah paragraf berikut!\n\nHujan baru saja reda. Daun-daun di halaman sekolah masih meneteskan air, dan bau tanah basah tercium di setiap lorong. Di langit barat, pelangi tipis muncul di antara awan yang mulai terbuka. Beberapa siswa berdiri di depan kelas sambil menunjuk ke arahnya.\n\nIde pokok paragraf tersebut adalah ...",
+    "options": [
+      "Pelangi muncul di langit barat setelah hujan.",
+      "Suasana sekolah sesaat setelah hujan reda.",
+      "Siswa senang melihat pelangi dari depan kelas.",
+      "Hujan sering turun di sekolah pada sore hari."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Periksa apakah ada **kalimat utama**. Kalimat pertama hanya menyebut hujan reda, lalu kalimat-kalimat lain merinci daun basah, bau tanah, pelangi, dan siswa yang menunjuk. Tidak ada kalimat yang merangkum semuanya. Ini paragraf deskripsi dengan **ide pokok tersirat**.\nLangkah 2: **Rumuskan sendiri** ide pokoknya. Semua rincian menggambarkan keadaan sekolah tepat setelah hujan berhenti. Jadi, ide pokoknya adalah suasana sekolah sesaat setelah hujan reda.\nLangkah 3: Lakukan **tes payung**. Daun yang meneteskan air, bau tanah basah, pelangi, dan siswa yang menunjuk semuanya tertaungi oleh *suasana sekolah setelah hujan reda*.\nLangkah 4: Opsi *pelangi muncul* hanya satu rincian, sehingga **terlalu sempit**. Opsi *siswa senang melihat pelangi* juga sempit dan menambah kata *senang*, padahal teks hanya menyebut siswa menunjuk. Opsi *hujan sering turun pada sore hari* menambah informasi tentang kebiasaan dan waktu yang tidak disebut.\n**Materi terkait:**\n- Paragraf **deskripsi** sering tidak memiliki kalimat utama; ide pokoknya berupa kesan atau suasana yang ditimbulkan semua rincian.\n- Rincian pancaindra (yang terlihat, tercium, terdengar) adalah petunjuk untuk merumuskan suasana.\nInsight kunci: Jika semua kalimat sama-sama rinci, jangan memaksakan satu kalimat sebagai ide pokok. Tanyakan, \"Semua rincian ini menggambarkan apa?\" lalu pilih opsi yang menjawab pertanyaan itu.\nKenapa opsi lain salah: pelangi hanya satu rincian; perasaan senang tidak disebut; kebiasaan hujan sore hari tidak dibahas.\nJawaban akhir: **Suasana sekolah sesaat setelah hujan reda.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Kohesi & koherensi",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-1-ide-pokok-simpulan",
+      "kebahasaan",
+      "koherensi"
+    ],
+    "is_active": true,
+    "question": "Perhatikan paragraf berikut!\n\n(1) Membuat kompos dari sisa sayuran cukup mudah dilakukan di rumah. (2) Sisa sayuran dipotong kecil-kecil, lalu dimasukkan ke dalam wadah bertutup. (3) Campuran itu diaduk setiap tiga hari agar udara masuk dan proses pembusukan berjalan baik. (4) Sayuran hijau mengandung banyak vitamin yang baik untuk tubuh. (5) Setelah sekitar satu bulan, kompos siap digunakan untuk menyuburkan tanaman.\n\nKalimat yang **tidak padu** dengan ide pokok paragraf tersebut adalah ...",
+    "options": [
+      "kalimat (2)",
+      "kalimat (3)",
+      "kalimat (4)",
+      "kalimat (5)"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Tentukan **ide pokok** paragraf. Kalimat (1), *Membuat kompos dari sisa sayuran cukup mudah dilakukan di rumah*, adalah kalimat utama. Paragraf ini **deduktif** dan membahas cara membuat kompos.\nLangkah 2: Lakukan **tes payung** pada setiap kalimat penjelas. Kalimat (2) adalah langkah memotong dan menyimpan sisa sayuran. Kalimat (3) adalah langkah mengaduk. Kalimat (5) adalah hasil akhir. Ketiganya termasuk dalam cara membuat kompos.\nLangkah 3: Kalimat (4) membahas **kandungan vitamin sayuran untuk tubuh**. Informasinya mungkin benar, tetapi tidak berhubungan dengan cara membuat kompos. Kalimat ini **tidak tertaungi** payung ide pokok, sehingga disebut **kalimat sumbang**.\nLangkah 4: Kalimat (3) mungkin terasa berbeda karena menjelaskan alasan (*agar udara masuk*). Namun, alasan itu tetap bagian dari proses membuat kompos, jadi kalimat (3) tetap padu.\n**Materi terkait:**\n- **Koherensi** berarti setiap kalimat dalam paragraf mendukung satu ide pokok yang sama.\n- **Kalimat sumbang** adalah kalimat yang membahas topik terkait tetapi berbeda, sehingga merusak kepaduan paragraf.\n- Tes payung tidak hanya untuk memilih ide pokok; tes yang sama juga bisa menemukan kalimat yang \"kehujanan\".\nInsight kunci: Kalimat sumbang sering memakai kata yang sama dengan topik paragraf (di sini: *sayuran*), sehingga terlihat cocok. Ujilah dari isi gagasannya, bukan dari kemiripan kata.\nKenapa opsi lain salah: kalimat (2) dan (3) adalah langkah pembuatan kompos, sedangkan kalimat (5) adalah hasilnya. Semuanya mendukung ide pokok.\nJawaban akhir: **kalimat (4)**"
+  }
+]

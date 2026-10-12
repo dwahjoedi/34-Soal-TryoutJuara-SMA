@@ -1,0 +1,232 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "pemahaman-bacaan",
+      "memahami"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-3:\n\n(1) Seminggu sebelum tes PSB, Dimas masih memegang kebiasaan lamanya: mengerjakan soal latihan di kertas sambil berbaring. Ia yakin kemampuan membacanya tidak bergantung pada tempat. Namun, saat mengikuti simulasi daring dari rumah, ia baru sadar bahwa teks panjang terasa jauh lebih melelahkan dibaca di layar laptop. Baru separuh soal, matanya sudah perih, dan beberapa kali ia kehilangan baris yang sedang dibaca.\n\n(2) Malam itu Dimas membuka kembali kartu pesertanya dan membaca aturan tes dengan lebih teliti. Tes dilaksanakan di sekolah pilihan, peserta membawa laptop dan charger sendiri, dan tes hanya diadakan satu kali tanpa susulan. Ia menatap baterai laptopnya yang cepat sekali habis, lalu diam-diam menambahkan satu baris pada daftar belanja ibunya.\n\n(3) Pada hari-hari berikutnya, Dimas mengubah cara berlatih. Setiap pagi ia mengerjakan satu teks langsung di laptop dan mencatat nomor kalimat yang menjadi bukti jawabannya di selembar kertas. Ketika kakaknya bertanya mengapa ia tidak lagi membaca sambil berbaring, Dimas hanya tersenyum. \"Aku tidak mau hari tes menjadi hari pertamaku membaca di layar,\" katanya.\n\nPernyataan yang **sesuai** dengan isi bacaan adalah ...",
+    "options": [
+      "Dimas mengikuti simulasi di sekolah pilihannya seminggu sebelum tes.",
+      "Dimas menyadari sulitnya membaca di layar ketika mengikuti simulasi dari rumah.",
+      "Dimas membaca ulang aturan tes karena kakaknya mengingatkan bahwa tidak ada susulan.",
+      "Dimas berlatih di laptop setiap malam dan mencatat nomor bukti di layar."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Soal **pernyataan sesuai teks** adalah soal tingkat **memahami**: jawabannya harus tertulis di teks, tetapi sering tersebar di beberapa kalimat. Jadi, setiap opsi perlu dicocokkan dengan kalimat aslinya, bukan dengan ingatan kita setelah sekali baca.\nLangkah 2: Paragraf (1) menyebut Dimas mengikuti **simulasi daring dari rumah** dan *baru sadar* bahwa teks panjang lebih melelahkan dibaca di layar. Opsi B menggabungkan dua informasi itu dengan tepat: kesulitan membaca di layar disadari saat simulasi dari rumah.\nLangkah 3: Cek opsi lain kata per kata. Opsi A menukar tempat simulasi: yang di sekolah pilihan adalah **tes**, sedangkan simulasinya dari rumah. Opsi C menambahkan sebab yang tidak ada: teks tidak pernah menyebut kakak mengingatkan soal aturan; kakak baru muncul di paragraf (3) dan hanya bertanya tentang cara Dimas berlatih. Opsi D mengubah dua detail sekaligus: ia berlatih **setiap pagi**, dan nomor bukti dicatat **di selembar kertas**.\nLangkah 4: Hanya opsi B yang setiap bagiannya punya bukti di paragraf (1).\n**Materi terkait:**\n- Jebakan soal tersurat biasanya bukan opsi yang asing, melainkan opsi yang **mencampur** dua informasi benar menjadi satu pernyataan salah (tempat simulasi dan tempat tes).\n- Perhatikan kata keterangan kecil seperti *pagi/malam*, *di kertas/di layar*, *dari rumah/di sekolah*; satu kata yang diganti sudah cukup membuat opsi salah.\nInsight kunci: Pada soal tingkat memahami, setiap bagian opsi harus bisa kamu tunjuk di teks. Kalau satu bagian saja tidak cocok, opsi itu gugur meskipun bagian lainnya benar.\nKenapa opsi lain salah: A menukar simulasi dengan tes; C menambahkan sebab yang tidak tertulis; D mengubah waktu latihan dan tempat mencatat bukti.\nJawaban akhir: **Dimas menyadari sulitnya membaca di layar ketika mengikuti simulasi dari rumah.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "pemahaman-bacaan",
+      "menginterpretasikan"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-3:\n\n(1) Seminggu sebelum tes PSB, Dimas masih memegang kebiasaan lamanya: mengerjakan soal latihan di kertas sambil berbaring. Ia yakin kemampuan membacanya tidak bergantung pada tempat. Namun, saat mengikuti simulasi daring dari rumah, ia baru sadar bahwa teks panjang terasa jauh lebih melelahkan dibaca di layar laptop. Baru separuh soal, matanya sudah perih, dan beberapa kali ia kehilangan baris yang sedang dibaca.\n\n(2) Malam itu Dimas membuka kembali kartu pesertanya dan membaca aturan tes dengan lebih teliti. Tes dilaksanakan di sekolah pilihan, peserta membawa laptop dan charger sendiri, dan tes hanya diadakan satu kali tanpa susulan. Ia menatap baterai laptopnya yang cepat sekali habis, lalu diam-diam menambahkan satu baris pada daftar belanja ibunya.\n\n(3) Pada hari-hari berikutnya, Dimas mengubah cara berlatih. Setiap pagi ia mengerjakan satu teks langsung di laptop dan mencatat nomor kalimat yang menjadi bukti jawabannya di selembar kertas. Ketika kakaknya bertanya mengapa ia tidak lagi membaca sambil berbaring, Dimas hanya tersenyum. \"Aku tidak mau hari tes menjadi hari pertamaku membaca di layar,\" katanya.\n\nTindakan Dimas *diam-diam menambahkan satu baris pada daftar belanja ibunya* paling mungkin menunjukkan bahwa ia ...",
+    "options": [
+      "ingin dibelikan laptop baru agar tidak perlu membaca di layar yang kecil",
+      "menyesal karena tidak pernah membaca kartu peserta sejak awal pendaftaran",
+      "merasa aturan tes terlalu berat bagi peserta yang belum memiliki laptop",
+      "khawatir perangkatnya bermasalah pada tes yang tidak dapat diulang"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Teks tidak menulis isi baris yang ditambahkan Dimas. Ini soal **menginterpretasikan**: kita harus menyimpulkan maksud tindakan dari petunjuk di sekitarnya, bukan menebak bebas.\nLangkah 2: Kumpulkan petunjuk di paragraf (2): peserta **membawa laptop dan charger sendiri**, tes **hanya satu kali tanpa susulan**, dan Dimas *menatap baterai laptopnya yang cepat sekali habis*. Tepat sesudah itu ia menambahkan baris di daftar belanja.\nLangkah 3: Urutan petunjuk itu mengarah ke satu kekhawatiran: kalau baterai habis saat tes, ia tidak mendapat kesempatan kedua. Jadi, tindakannya menunjukkan **kekhawatiran terhadap perangkat** pada tes yang tidak bisa diulang (opsi D).\nLangkah 4: Opsi A tampak masuk akal karena berhubungan dengan laptop, tetapi teks tidak menyebut layar yang kecil atau keinginan mengganti laptop; masalah yang ditatap Dimas adalah **baterai**. Opsi B salah karena kata *membuka kembali* justru menunjukkan ia pernah membaca kartu itu. Opsi C berisi penilaian terhadap aturan, padahal Dimas tidak mengeluh sama sekali.\nLangkah 5: Uji opsi D dengan pertanyaan bukti: \"Kalimat mana yang mendukungnya?\" Ada tiga: aturan membawa charger, tes satu kali tanpa susulan, dan baterai yang cepat habis. Opsi lain tidak lolos uji ini.\n**Materi terkait:**\n- **Inferensi** yang aman disusun dari beberapa petunjuk yang saling menguatkan, bukan dari satu kata.\n- Perhatikan **urutan tindakan** tokoh: apa yang ia lihat atau pikirkan tepat sebelum bertindak sering menjadi kunci maksud tindakannya.\n- Opsi yang terlalu spesifik (misalnya \"laptop baru\") sering gugur karena teks tidak memberi bukti sedetail itu.\nInsight kunci: Saat teks menyembunyikan informasi, carilah rantai petunjuk di sekitarnya. Jawaban yang benar adalah yang paling banyak didukung petunjuk, bukan yang paling dramatis atau paling spesifik.\nKenapa opsi lain salah: A terlalu spesifik dan salah fokus (layar, bukan baterai); B bertentangan dengan kata *membuka kembali*; C menambahkan sikap mengeluh yang tidak ada di teks.\nJawaban akhir: **khawatir perangkatnya bermasalah pada tes yang tidak dapat diulang**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "pemahaman-bacaan",
+      "menganalisis"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-3:\n\n(1) Seminggu sebelum tes PSB, Dimas masih memegang kebiasaan lamanya: mengerjakan soal latihan di kertas sambil berbaring. Ia yakin kemampuan membacanya tidak bergantung pada tempat. Namun, saat mengikuti simulasi daring dari rumah, ia baru sadar bahwa teks panjang terasa jauh lebih melelahkan dibaca di layar laptop. Baru separuh soal, matanya sudah perih, dan beberapa kali ia kehilangan baris yang sedang dibaca.\n\n(2) Malam itu Dimas membuka kembali kartu pesertanya dan membaca aturan tes dengan lebih teliti. Tes dilaksanakan di sekolah pilihan, peserta membawa laptop dan charger sendiri, dan tes hanya diadakan satu kali tanpa susulan. Ia menatap baterai laptopnya yang cepat sekali habis, lalu diam-diam menambahkan satu baris pada daftar belanja ibunya.\n\n(3) Pada hari-hari berikutnya, Dimas mengubah cara berlatih. Setiap pagi ia mengerjakan satu teks langsung di laptop dan mencatat nomor kalimat yang menjadi bukti jawabannya di selembar kertas. Ketika kakaknya bertanya mengapa ia tidak lagi membaca sambil berbaring, Dimas hanya tersenyum. \"Aku tidak mau hari tes menjadi hari pertamaku membaca di layar,\" katanya.\n\nHubungan paragraf (3) dengan paragraf (1) dan (2) adalah ...",
+    "options": [
+      "Paragraf (3) berisi tindakan Dimas untuk menanggapi masalah dan aturan yang ia sadari.",
+      "Paragraf (3) menjelaskan penyebab Dimas merasa lelah saat membaca teks panjang di layar pada paragraf (1).",
+      "Paragraf (3) membantah keyakinan Dimas bahwa tes hanya diadakan satu kali tanpa susulan.",
+      "Paragraf (3) mengulang aturan tes dengan menambahkan pengalaman kakak Dimas sebagai contoh."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Soal hubungan antarparagraf adalah soal tingkat **menganalisis**. Kita perlu menamai **fungsi** tiap paragraf terlebih dahulu sebelum melihat opsi.\nLangkah 2: Paragraf (1) berisi **masalah**: membaca di layar ternyata melelahkan. Paragraf (2) berisi **kesadaran tambahan**: aturan tes mengharuskan laptop sendiri dan tidak ada tes susulan. Paragraf (3) dibuka dengan *Pada hari-hari berikutnya, Dimas mengubah cara berlatih*, lalu menjelaskan latihan barunya di laptop.\nLangkah 3: Jadi, paragraf (3) adalah **tanggapan atau solusi** terhadap masalah dan aturan yang disadari di paragraf (1) dan (2). Kalimat penutup Dimas (*tidak mau hari tes menjadi hari pertamaku membaca di layar*) menegaskan bahwa perubahan itu dilakukan karena kesadaran sebelumnya.\nLangkah 4: Opsi B adalah jebakan arah: penyebab rasa lelah ada di paragraf (1) sendiri (teks panjang di layar), sedangkan paragraf (3) adalah **akibat** atau tindak lanjutnya. Opsi C keliru karena paragraf (3) tidak membantah aturan apa pun. Opsi D keliru karena kakak hanya bertanya, bukan memberi contoh pengalaman.\n**Materi terkait:**\n- Fungsi paragraf yang sering diuji: memberi **contoh**, menjelaskan **sebab**, menunjukkan **akibat/tanggapan**, menyajikan **pertentangan**, atau **menyimpulkan**.\n- Penanda waktu dan perubahan seperti *pada hari-hari berikutnya*, *kemudian*, *akhirnya* sering menandai paragraf yang berisi tindak lanjut.\nInsight kunci: Namai dulu fungsi setiap paragraf dengan satu kata (masalah, aturan, tindakan), baru cocokkan dengan opsi. Cara ini mencegah kamu tertukar antara sebab dan akibat.\nKenapa opsi lain salah: B membalik arah sebab-akibat; C menyebut bantahan yang tidak ada; D salah menafsirkan peran kakak.\nJawaban akhir: **Paragraf (3) berisi tindakan Dimas untuk menanggapi masalah dan aturan yang ia sadari.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Eksposisi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "pemahaman-bacaan",
+      "eksposisi"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 4-6:\n\n(1) Saat menghadapi soal bacaan, banyak siswa tergoda menjawab berdasarkan pengetahuan yang sudah mereka miliki. Kebiasaan ini tampak wajar, tetapi justru sering menjerumuskan siswa dalam tes seperti PSB.\n\n(2) Teks dalam tes Pemahaman Bacaan dapat membahas berbagai topik, mulai dari sains hingga sejarah. Penyusun soal tidak menilai seberapa banyak hal yang kamu ketahui tentang topik itu, tetapi seberapa cermat kamu memahami, menafsirkan, dan menganalisis isi teks. Opsi yang benar menurut pengetahuan umum bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks.\n\n(3) Contohnya, sebuah teks menyebut bahwa sebagian warga desa mulai memilah sampah. Siswa yang pernah membaca berita tentang keberhasilan program serupa di kota lain mungkin memilih opsi \"Program pemilahan sampah di desa itu telah berhasil.\" Padahal, teks sama sekali tidak memuat bukti keberhasilan tersebut.\n\n(4) Oleh sebab itu, sebelum memilih jawaban, biasakan bertanya, \"Kalimat mana yang mendukung opsi ini?\" Pertanyaan sederhana itu menjaga jawabanmu tetap berpijak pada teks.\n\nPendapat utama (tesis) yang dipertahankan penulis dalam bacaan tersebut adalah ...",
+    "options": [
+      "Siswa perlu memperluas pengetahuan umum tentang berbagai topik agar lebih mudah menjawab soal bacaan.",
+      "Teks dalam tes Pemahaman Bacaan lebih sering membahas sains daripada sejarah.",
+      "Jawaban soal bacaan harus didasarkan pada bukti dalam teks, bukan pengetahuan pribadi.",
+      "Program pemilahan sampah di desa belum berhasil karena warga kurang peduli."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Bacaan ini adalah **teks eksposisi**: penulis menyampaikan satu pendapat lalu mendukungnya dengan argumen dan contoh. Tugas kita adalah menemukan **tesis**, yaitu pendapat yang dibela dari awal sampai akhir.\nLangkah 2: Paragraf (1) memperkenalkan masalah: menjawab berdasarkan pengetahuan sendiri *sering menjerumuskan*. Paragraf (2) memberi **argumen**: penyusun soal menilai kecermatan membaca isi teks. Paragraf (3) memberi **contoh** pilihan yang salah karena tidak ada bukti. Paragraf (4) memberi **penegasan ulang** berupa kebiasaan bertanya \"Kalimat mana yang mendukung opsi ini?\"\nLangkah 3: Benang merah keempat paragraf adalah: **jawaban harus berpijak pada bukti teks**. Itulah opsi C.\nLangkah 4: Opsi A adalah near-miss yang berlawanan arah: penulis justru menyatakan pengetahuan umum bisa menyesatkan, sehingga memperluasnya bukan inti saran. Opsi B mengubah frasa *mulai dari sains hingga sejarah* menjadi perbandingan yang tidak pernah dibuat. Opsi D salah mengambil **contoh** sebagai tesis, bahkan menambahkan sebab (*warga kurang peduli*) yang tidak disebut.\n**Materi terkait:**\n- Struktur eksposisi: **tesis** (pendapat) - **argumen** (alasan, data, contoh) - **penegasan ulang**.\n- Contoh dalam eksposisi berfungsi **mendukung** tesis; jangan menjadikan isi contoh sebagai gagasan utama.\n- Cara cepat menguji tesis: apakah opsi itu bisa menjadi \"payung\" untuk semua paragraf?\nInsight kunci: Tesis bukan kalimat paling menarik atau contoh paling konkret, melainkan pendapat yang didukung oleh semua bagian teks. Penegasan ulang di paragraf terakhir sering menjadi petunjuk kuat untuk menemukannya.\nKenapa opsi lain salah: A berlawanan dengan arah argumen; B membuat perbandingan yang tidak ada; D mengangkat contoh menjadi tesis dan menambahkan sebab baru.\nJawaban akhir: **Jawaban soal bacaan harus didasarkan pada bukti dalam teks, bukan pengetahuan pribadi.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Sinonim kontekstual",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "kemampuan-verbal",
+      "sinonim"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 4-6:\n\n(1) Saat menghadapi soal bacaan, banyak siswa tergoda menjawab berdasarkan pengetahuan yang sudah mereka miliki. Kebiasaan ini tampak wajar, tetapi justru sering menjerumuskan siswa dalam tes seperti PSB.\n\n(2) Teks dalam tes Pemahaman Bacaan dapat membahas berbagai topik, mulai dari sains hingga sejarah. Penyusun soal tidak menilai seberapa banyak hal yang kamu ketahui tentang topik itu, tetapi seberapa cermat kamu memahami, menafsirkan, dan menganalisis isi teks. Opsi yang benar menurut pengetahuan umum bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks.\n\n(3) Contohnya, sebuah teks menyebut bahwa sebagian warga desa mulai memilah sampah. Siswa yang pernah membaca berita tentang keberhasilan program serupa di kota lain mungkin memilih opsi \"Program pemilahan sampah di desa itu telah berhasil.\" Padahal, teks sama sekali tidak memuat bukti keberhasilan tersebut.\n\n(4) Oleh sebab itu, sebelum memilih jawaban, biasakan bertanya, \"Kalimat mana yang mendukung opsi ini?\" Pertanyaan sederhana itu menjaga jawabanmu tetap berpijak pada teks.\n\nKata *berpijak* pada paragraf (4) paling tepat digantikan dengan kata ...",
+    "options": [
+      "berdiri",
+      "bertumpu",
+      "bertahan",
+      "berjalan"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Soal **sinonim kontekstual** tidak cukup dijawab dengan arti kamus. Baca kalimatnya utuh: *Pertanyaan sederhana itu menjaga jawabanmu tetap berpijak pada teks.*\nLangkah 2: Secara harfiah (**denotatif**), *berpijak* berarti menginjakkan kaki di suatu tempat. Namun, jawaban tidak punya kaki. Jadi kata itu dipakai secara **kiasan**: jawaban harus **berdasar pada** atau **bersandar pada** teks.\nLangkah 3: Uji setiap opsi dengan menggantinya ke dalam kalimat. *Jawabanmu tetap bertumpu pada teks* bermakna jawaban berdasar pada teks, dan maknanya sama dengan kalimat asli.\nLangkah 4: *Berdiri pada teks* adalah jebakan arti harfiah dan terdengar janggal. *Bertahan pada teks* berarti tidak berpindah atau tidak menyerah, maknanya bergeser. *Berjalan pada teks* tidak bermakna dalam konteks ini.\n**Materi terkait:**\n- Cara menguji sinonim: **substitusi** kata ke dalam kalimat, lalu periksa apakah maknanya tetap sama dan kalimatnya tetap wajar.\n- Kata yang berkaitan dengan tubuh atau gerak (*berpijak, merangkul, menggenggam*) sering dipakai secara kiasan dalam teks eksposisi.\nInsight kunci: Dalam soal sinonim, tentukan dulu apakah kata dipakai secara harfiah atau kiasan. Opsi yang paling dekat dengan arti harfiah sering menjadi jebakan ketika konteksnya kiasan.\nKenapa opsi lain salah: berdiri terjebak arti harfiah; bertahan menggeser makna menjadi tidak menyerah; berjalan tidak sesuai konteks.\nJawaban akhir: **bertumpu**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Bukti pendukung dalam teks",
+    "skill_type": "evaluative",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "pemahaman-bacaan",
+      "bukti"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 4-6:\n\n(1) Saat menghadapi soal bacaan, banyak siswa tergoda menjawab berdasarkan pengetahuan yang sudah mereka miliki. Kebiasaan ini tampak wajar, tetapi justru sering menjerumuskan siswa dalam tes seperti PSB.\n\n(2) Teks dalam tes Pemahaman Bacaan dapat membahas berbagai topik, mulai dari sains hingga sejarah. Penyusun soal tidak menilai seberapa banyak hal yang kamu ketahui tentang topik itu, tetapi seberapa cermat kamu memahami, menafsirkan, dan menganalisis isi teks. Opsi yang benar menurut pengetahuan umum bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks.\n\n(3) Contohnya, sebuah teks menyebut bahwa sebagian warga desa mulai memilah sampah. Siswa yang pernah membaca berita tentang keberhasilan program serupa di kota lain mungkin memilih opsi \"Program pemilahan sampah di desa itu telah berhasil.\" Padahal, teks sama sekali tidak memuat bukti keberhasilan tersebut.\n\n(4) Oleh sebab itu, sebelum memilih jawaban, biasakan bertanya, \"Kalimat mana yang mendukung opsi ini?\" Pertanyaan sederhana itu menjaga jawabanmu tetap berpijak pada teks.\n\nSeorang siswa menyimpulkan, \"Menurut penulis, pengetahuan umum yang benar pun belum tentu menghasilkan jawaban yang benar dalam soal bacaan.\" Kalimat dalam bacaan yang **paling kuat** mendukung simpulan tersebut adalah ...",
+    "options": [
+      "\"Kebiasaan ini tampak wajar, tetapi justru sering menjerumuskan siswa dalam tes seperti PSB.\"",
+      "\"Penyusun soal tidak menilai seberapa banyak hal yang kamu ketahui tentang topik itu, tetapi seberapa cermat kamu memahami, menafsirkan, dan menganalisis isi teks.\"",
+      "\"Pertanyaan sederhana itu menjaga jawabanmu tetap berpijak pada teks.\"",
+      "\"Opsi yang benar menurut pengetahuan umum bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks.\""
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Pecah simpulan siswa menjadi dua bagian penting: (a) pengetahuan umumnya **benar**, tetapi (b) jawabannya **bisa salah** dalam soal bacaan. Bukti terkuat harus mendukung kedua bagian sekaligus.\nLangkah 2: Kalimat pada opsi D menyebut *opsi yang benar menurut pengetahuan umum* (bagian a) dan *bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks* (bagian b). Kedua bagian terpenuhi, sehingga opsi D adalah **bukti langsung**.\nLangkah 3: Opsi A adalah near-miss. Kalimat itu memang menunjukkan bahwa menjawab dari pengetahuan sendiri itu berisiko, tetapi tidak menyatakan bahwa pengetahuan tersebut **benar**. Bukti ini hanya mendukung sebagian simpulan.\nLangkah 4: Opsi B juga menggoda karena membahas apa yang dinilai dalam tes: kecermatan membaca, bukan banyaknya pengetahuan. Namun, kalimat itu tidak menyebut bahwa pengetahuan yang **benar** bisa menghasilkan jawaban **salah**; ia hanya menjelaskan fokus penilaian. Opsi C adalah saran penutup. Keduanya sejalan dengan isi bacaan, tetapi tidak membuktikan bagian (a) dan (b) sekaligus.\n**Materi terkait:**\n- Soal **bukti pendukung** meminta kalimat yang paling **langsung** membuktikan pernyataan, bukan sekadar kalimat yang sejalan atau satu tema.\n- Teknik praktis: pecah pernyataan menjadi beberapa klaim kecil, lalu centang klaim mana yang dibuktikan setiap opsi. Opsi yang mencentang semua klaim adalah yang terkuat.\nInsight kunci: Banyak kalimat dalam teks bisa \"setuju\" dengan sebuah simpulan, tetapi hanya sedikit yang benar-benar membuktikannya. Pilih kalimat yang menutup semua bagian simpulan, bukan hanya satu bagian.\nKenapa opsi lain salah: A hanya mendukung sebagian (tidak menyebut pengetahuan yang benar); B menjelaskan fokus penilaian, bukan akibat memakai pengetahuan yang benar; C adalah saran, bukan bukti.\nJawaban akhir: **\"Opsi yang benar menurut pengetahuan umum bisa saja salah jika tidak dinyatakan atau tidak dapat disimpulkan dari teks.\"**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Analogi verbal",
+    "skill_type": "verbal_reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "kemampuan-verbal",
+      "analogi"
+    ],
+    "is_active": true,
+    "question": "SIMULASI : TES = ...",
+    "options": [
+      "GLADI RESIK : UPACARA",
+      "JADWAL : KEGIATAN",
+      "RAPOR : SEMESTER",
+      "PELUIT : PERTANDINGAN"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Sebelum melihat opsi, buat **kalimat hubungan** untuk pasangan soal. Simulasi PSB adalah percobaan yang dilakukan sebelum tes sebenarnya agar peserta mengenal pelaksanaannya. Kalimat hubungannya: *simulasi adalah latihan atau percobaan sebelum tes yang sebenarnya.*\nLangkah 2: Uji opsi A dengan kalimat yang sama: *gladi resik adalah latihan atau percobaan sebelum upacara yang sebenarnya.* Kalimatnya tetap benar dan wajar, sehingga hubungannya sama.\nLangkah 3: Opsi B adalah near-miss karena jadwal juga dibuat sebelum kegiatan. Namun, jadwal adalah **rencana waktu**, bukan latihan yang meniru kegiatan itu. Kalimat *jadwal adalah latihan sebelum kegiatan* tidak benar.\nLangkah 4: Opsi C menunjukkan hubungan **hasil di akhir periode** (rapor diberikan setelah semester). Opsi D menunjukkan hubungan **alat dalam kegiatan** (peluit dipakai saat pertandingan). Keduanya tidak lolos uji kalimat hubungan.\n**Materi terkait:**\n- Analogi menguji **hubungan**, bukan kesamaan tema. Simulasi dan jadwal sama-sama \"terkait tes\", tetapi hubungannya berbeda.\n- Pola hubungan yang sering muncul: latihan-kegiatan asli, alat-fungsi, bagian-keseluruhan, sebab-akibat, tempat-pelaku, dan tingkatan.\nInsight kunci: Kalimat hubungan yang spesifik adalah senjata utama analogi. Semakin tepat kalimatnya (*latihan yang meniru kegiatan asli*, bukan sekadar *terjadi sebelum*), semakin mudah membuang near-miss.\nKenapa opsi lain salah: B hanya sama-sama terjadi sebelum kegiatan, tetapi bukan latihan; C adalah hasil di akhir; D adalah alat yang dipakai saat kegiatan.\nJawaban akhir: **GLADI RESIK : UPACARA**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Missing word",
+    "skill_type": "verbal_reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "kemampuan-verbal",
+      "missing-word"
+    ],
+    "is_active": true,
+    "question": "Pedoman PSB tidak menyebutkan jumlah soal maupun durasi setiap bagian tes. ..., angka pasti yang beredar di media sosial sebaiknya dianggap sebagai perkiraan, bukan aturan resmi.\n\nKata atau frasa yang paling tepat untuk mengisi bagian rumpang adalah ...",
+    "options": [
+      "Meskipun demikian",
+      "Selain itu",
+      "Dengan demikian",
+      "Sebaliknya"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Untuk soal **missing word**, tentukan dulu **hubungan** antara kalimat sebelum dan sesudah bagian rumpang, baru pilih kata hubungnya.\nLangkah 2: Kalimat pertama menyatakan fakta: pedoman resmi **tidak** menyebut jumlah soal dan durasi. Kalimat kedua menyatakan sikap yang sebaiknya diambil: angka pasti dari media sosial hanya perkiraan. Sikap itu muncul **karena** fakta di kalimat pertama, sehingga hubungannya adalah **sebab-akibat** atau **simpulan**.\nLangkah 3: Penghubung yang menyatakan simpulan atau akibat adalah *Dengan demikian* (opsi C).\nLangkah 4: *Meskipun demikian* adalah near-miss karena terdengar formal dan sering dipakai, tetapi maknanya **pertentangan**, padahal kalimat kedua tidak bertentangan dengan kalimat pertama. *Selain itu* bermakna penambahan informasi sejenis. *Sebaliknya* bermakna kebalikan dari pernyataan sebelumnya.\n**Materi terkait:**\n- Simpulan/akibat: *dengan demikian, oleh karena itu, jadi, akibatnya*.\n- Pertentangan: *meskipun demikian, namun, akan tetapi, sebaliknya*.\n- Penambahan: *selain itu, di samping itu, lagi pula*.\nInsight kunci: Jangan memilih kata hubung karena terdengar paling resmi. Namai dulu hubungan dua kalimatnya (sebab-akibat, pertentangan, atau penambahan), lalu pilih penghubung dari kelompok yang tepat.\nKenapa opsi lain salah: Meskipun demikian dan Sebaliknya menyatakan pertentangan; Selain itu menyatakan penambahan.\nJawaban akhir: **Dengan demikian**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Negasi dalam silogisme",
+    "skill_type": "reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "kemampuan-verbal",
+      "silogisme"
+    ],
+    "is_active": true,
+    "question": "Pernyataan 1: Semua peserta yang tidak hadir pada hari tes dinyatakan gugur.\nPernyataan 2: Raka tidak dinyatakan gugur.\n\nSimpulan yang **pasti benar** adalah ...",
+    "options": [
+      "Raka hadir pada hari tes.",
+      "Raka pasti diterima di SMA Labschool pilihannya.",
+      "Raka tidak hadir, tetapi mengikuti tes susulan.",
+      "Semua peserta yang hadir pada hari tes tidak dinyatakan gugur."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Ubah pernyataan 1 ke pola logika: **jika** seorang peserta tidak hadir, **maka** ia dinyatakan gugur. Pernyataan 2 menyatakan bahwa bagian *maka*-nya tidak terjadi pada Raka: ia **tidak** gugur.\nLangkah 2: Kalau Raka tidak hadir, menurut pernyataan 1 ia **pasti** gugur. Kenyataannya ia tidak gugur. Jadi, kemungkinan \"Raka tidak hadir\" bertentangan dengan premis dan harus dibuang. Satu-satunya kemungkinan yang tersisa: **Raka hadir pada hari tes** (opsi A).\nLangkah 3: Opsi D adalah near-miss paling berbahaya karena memakai kata dari premis. Namun, opsi itu **membalik** premis. Premis hanya berbicara tentang peserta yang tidak hadir; premis tidak menjamin bahwa semua yang hadir aman dari gugur (peserta yang hadir pun bisa gugur karena alasan lain).\nLangkah 4: Opsi B menambahkan informasi baru (*diterima*): kedua pernyataan sama sekali tidak membahas penerimaan, dan tidak gugur belum tentu berarti diterima. Opsi C bertentangan langsung dengan pernyataan 1: jika Raka tidak hadir, ia pasti gugur, padahal pernyataan 2 menyebut ia tidak gugur. Tambahan *tes susulan* juga tidak pernah disebut dalam premis.\nLangkah 5: Periksa ulang dengan pertanyaan kunci silogisme: apakah simpulan ini **pasti** benar hanya dari dua pernyataan itu? Hanya opsi A yang lolos.\n**Materi terkait:**\n- Pola **negasi**: jika A maka B; tidak B; jadi tidak A. Di sini A = tidak hadir dan B = gugur, sehingga tidak A = hadir.\n- Kesalahan umum: **membalik** premis (\"semua yang hadir tidak gugur\") atau **menambah** informasi (\"pasti diterima\").\nInsight kunci: Dalam silogisme, simpulan harus pasti benar berdasarkan premis saja. Kalau sebuah opsi membutuhkan informasi tambahan atau membalik arah premis, opsi itu hanya mungkin benar, bukan pasti benar.\nKenapa opsi lain salah: B menambah informasi baru; C bertentangan dengan premis; D membalik arah premis.\nJawaban akhir: **Raka hadir pada hari tes.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Kalimat efektif",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "bhsind-level-1-format-ujian",
+      "kebahasaan",
+      "kalimat-efektif"
+    ],
+    "is_active": true,
+    "question": "Perhatikan kalimat-kalimat pengumuman berikut. Kalimat yang paling **efektif** adalah ...",
+    "options": [
+      "Bagi para peserta-peserta tes diharapkan membawa laptop dan charger.",
+      "Peserta tes diharapkan membawa laptop beserta charger.",
+      "Peserta tes diharapkan untuk membawa laptop dan juga beserta charger.",
+      "Kepada peserta tes diharapkan membawa laptop dan charger."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: **Kalimat efektif** adalah kalimat yang jelas strukturnya, hemat kata, dan tepat makna. Periksa dua hal utama: apakah **subjeknya** jelas, dan apakah ada kata yang **berlebihan**.\nLangkah 2: Opsi B memiliki subjek yang jelas (*peserta tes*), predikat (*diharapkan membawa*), dan objek (*laptop beserta charger*). Tidak ada kata yang berulang tanpa perlu.\nLangkah 3: Opsi A memiliki dua masalah. Kata *para* sudah menunjukkan jamak, sehingga *peserta-peserta* menjadi **berlebihan**. Selain itu, kata depan *bagi* di awal kalimat membuat subjeknya hilang.\nLangkah 4: Opsi D juga kehilangan subjek karena diawali kata depan *kepada*. Opsi C memiliki subjek, tetapi boros: *untuk* setelah *diharapkan* tidak diperlukan, dan *dan juga beserta* menumpuk tiga penghubung yang maknanya sama.\n**Materi terkait:**\n- Kata depan (*bagi, kepada, dalam, di*) di awal kalimat sering menghilangkan subjek. Contoh: *Kepada peserta diharapkan ...* sebaiknya menjadi *Peserta diharapkan ...*\n- Penanda jamak cukup satu: *para siswa* atau *siswa-siswa*, bukan *para siswa-siswa*.\n- Hindari penghubung bertumpuk seperti *dan juga beserta*; pilih satu saja.\nInsight kunci: Uji kalimat efektif dengan menemukan subjek dan predikatnya terlebih dahulu, lalu coret kata yang bisa dihapus tanpa mengubah makna. Kalimat yang tersisa paling ringkas dan jelas biasanya jawabannya.\nKenapa opsi lain salah: A dan D kehilangan subjek karena kata depan di awal kalimat (A juga boros penanda jamak); C boros karena *untuk* dan *dan juga beserta*.\nJawaban akhir: **Peserta tes diharapkan membawa laptop beserta charger.**"
+  }
+]

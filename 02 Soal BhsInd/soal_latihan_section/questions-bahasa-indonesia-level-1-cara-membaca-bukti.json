@@ -1,0 +1,232 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "tersurat"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Tiga hari sebelum batas pengumpulan, Laras masih menatap kertas karton kosong di meja belajarnya. Karton dan spidol warna-warni itu sudah ia beli sejak minggu lalu. Kelompoknya mendapat tugas membuat majalah dinding bertema hemat energi, tetapi dua anggota lain belum mengirimkan bagian mereka. Laras sudah dua kali mengingatkan di grup kelas, dan dua kali pula pesannya hanya dibaca.\n\n(2) Esok paginya, Bimo datang ke kelas dengan wajah santai. \"Tenang saja, Ras. Masih ada tiga hari, kan?\" katanya sambil meletakkan tas. Beberapa teman yang duduk di dekat mereka berhenti mengobrol. Laras tidak menjawab. Ia menyodorkan buku catatan berisi pembagian tugas, lalu menunjuk nama Bimo yang dilingkari dua kali dengan tinta merah.\n\n(3) Sore itu, ponsel Laras berbunyi. Bimo mengirim foto tulisan tentang cara mematikan peralatan listrik yang tidak dipakai, disusul pesan dari Tika yang berisi gambar poster. Laras membaca keduanya, lalu membalas singkat, \"Terima kasih. Rapi sekali, padahal katanya masih ada tiga hari.\" Malam itu, untuk pertama kalinya dalam seminggu, ia tidur sebelum pukul sembilan.\n\nPernyataan yang **sesuai** dengan isi bacaan adalah ...",
+    "options": [
+      "Laras mengingatkan anggota kelompoknya sebanyak tiga kali melalui grup kelas.",
+      "Bimo dan Tika mengirim bagian tugas pada sore hari setelah Laras menunjukkan catatannya.",
+      "Tika mengirimkan tulisan tentang cara mematikan peralatan listrik yang tidak dipakai.",
+      "Laras memutuskan mengerjakan majalah dinding sendirian karena anggota kelompoknya tidak mau membantu."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Ini soal **pernyataan sesuai teks**. Setiap bagian opsi harus bisa ditunjuk di bacaan; satu bagian saja yang salah membuat seluruh opsi gugur.\nLangkah 2: Opsi yang benar menggabungkan **dua tempat** di teks. Paragraf (2) menceritakan Laras menunjukkan catatan pembagian tugas pada pagi hari. Paragraf (3) dibuka dengan *Sore itu*, lalu menyebut Bimo mengirim foto tulisan dan Tika mengirim gambar poster. Urutan waktunya cocok: pagi ditunjukkan catatan, sore tugas dikirim.\nLangkah 3: Periksa kata kecil pada opsi lain. Teks menyebut Laras mengingatkan **dua kali**, bukan tiga kali. Tulisan tentang mematikan peralatan listrik dikirim oleh **Bimo**, sedangkan Tika mengirim **gambar poster**; opsi itu menukar pelaku.\nLangkah 4: Opsi tentang Laras mengerjakan sendirian adalah jebakan **menambah informasi**. Teks tidak pernah menyebut keputusan itu, dan paragraf (3) justru menunjukkan kedua temannya akhirnya mengirim bagian mereka.\n**Materi terkait:**\n- Jebakan **menukar pelaku** sering dipakai ketika teks menyebut beberapa tokoh dengan tindakan berbeda. Pasangkan setiap tindakan dengan tokohnya.\n- Angka kecil (dua kali, tiga hari) dan penanda waktu (*esok paginya*, *sore itu*) sering diubah sedikit pada opsi jebakan.\nInsight kunci: Soal tersurat tidak selalu bisa dijawab dari satu kalimat. Bisa jadi jawabannya menggabungkan dua paragraf, jadi kamu perlu mencocokkan urutan waktu dan pelaku dengan teliti.\nKenapa opsi lain salah: jumlah peringatan diubah dari dua menjadi tiga; pelaku tulisan ditukar dari Bimo ke Tika; keputusan bekerja sendirian tidak pernah disebut.\nJawaban akhir: **Bimo dan Tika mengirim bagian tugas pada sore hari setelah Laras menunjukkan catatannya.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersirat",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "inferensi-tokoh"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Tiga hari sebelum batas pengumpulan, Laras masih menatap kertas karton kosong di meja belajarnya. Karton dan spidol warna-warni itu sudah ia beli sejak minggu lalu. Kelompoknya mendapat tugas membuat majalah dinding bertema hemat energi, tetapi dua anggota lain belum mengirimkan bagian mereka. Laras sudah dua kali mengingatkan di grup kelas, dan dua kali pula pesannya hanya dibaca.\n\n(2) Esok paginya, Bimo datang ke kelas dengan wajah santai. \"Tenang saja, Ras. Masih ada tiga hari, kan?\" katanya sambil meletakkan tas. Beberapa teman yang duduk di dekat mereka berhenti mengobrol. Laras tidak menjawab. Ia menyodorkan buku catatan berisi pembagian tugas, lalu menunjuk nama Bimo yang dilingkari dua kali dengan tinta merah.\n\n(3) Sore itu, ponsel Laras berbunyi. Bimo mengirim foto tulisan tentang cara mematikan peralatan listrik yang tidak dipakai, disusul pesan dari Tika yang berisi gambar poster. Laras membaca keduanya, lalu membalas singkat, \"Terima kasih. Rapi sekali, padahal katanya masih ada tiga hari.\" Malam itu, untuk pertama kalinya dalam seminggu, ia tidur sebelum pukul sembilan.\n\nSikap Laras ketika menanggapi ucapan Bimo pada paragraf (2) paling tepat digambarkan sebagai ...",
+    "options": [
+      "kesal, tetapi memilih menegur dengan menunjukkan bukti pembagian tugas",
+      "takut sehingga tidak berani berbicara langsung kepada Bimo di depan kelas",
+      "setuju dengan Bimo bahwa waktu pengerjaan masih cukup panjang",
+      "sedih karena merasa tidak dihargai sebagai ketua kelompok oleh teman-temannya"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Teks tidak menulis perasaan Laras secara langsung. Kita perlu **mengumpulkan petunjuk** dari tindakannya, lalu menarik simpulan di anak tangga 2 dari tangga inferensi.\nLangkah 2: Petunjuk dari paragraf (1): Laras sudah **dua kali** mengingatkan, tetapi pesannya hanya dibaca. Petunjuk dari paragraf (2): Laras **tidak menjawab** ucapan santai Bimo, lalu **menyodorkan** catatan dan **menunjuk** nama Bimo yang dilingkari dua kali dengan tinta merah.\nLangkah 3: Lingkaran merah dua kali dan sikap diam setelah peringatan yang diabaikan menunjukkan **kekesalan**. Namun, tindakannya bukan marah-marah. Ia menegur dengan cara menunjukkan bukti. Itulah yang digambarkan opsi yang benar.\nLangkah 4: Jebakan terkuat adalah *takut sehingga tidak berani berbicara*. Opsi ini hanya memakai satu petunjuk (*tidak menjawab*) dan mengabaikan petunjuk lain. Orang yang takut tidak akan menyodorkan catatan sambil menunjuk nama temannya.\nLangkah 5: Opsi *setuju dengan Bimo* bertentangan dengan seluruh tindakan Laras. Opsi *sedih karena tidak dihargai sebagai ketua* menambah informasi: teks tidak pernah menyebut Laras sebagai ketua kelompok.\n**Materi terkait:**\n- Inferensi perasaan harus didukung **beberapa petunjuk yang searah**. Satu petunjuk saja (misalnya *diam*) bisa ditafsirkan banyak cara.\n- Perhatikan **tindakan**, bukan hanya ucapan. Diam yang disertai menunjukkan bukti berbeda maknanya dengan diam karena takut.\nInsight kunci: Jawaban inferensi terbaik adalah yang menjelaskan semua petunjuk sekaligus. Jika sebuah opsi hanya cocok dengan satu petunjuk dan bertentangan dengan petunjuk lain, opsi itu jebakan.\nKenapa opsi lain salah: takut hanya cocok dengan sikap diam; setuju bertentangan dengan tindakan Laras; sedih sebagai ketua menambah informasi yang tidak ada.\nJawaban akhir: **kesal, tetapi memilih menegur dengan menunjukkan bukti pembagian tugas**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Nada & maksud kalimat",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "maksud-kalimat"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Tiga hari sebelum batas pengumpulan, Laras masih menatap kertas karton kosong di meja belajarnya. Karton dan spidol warna-warni itu sudah ia beli sejak minggu lalu. Kelompoknya mendapat tugas membuat majalah dinding bertema hemat energi, tetapi dua anggota lain belum mengirimkan bagian mereka. Laras sudah dua kali mengingatkan di grup kelas, dan dua kali pula pesannya hanya dibaca.\n\n(2) Esok paginya, Bimo datang ke kelas dengan wajah santai. \"Tenang saja, Ras. Masih ada tiga hari, kan?\" katanya sambil meletakkan tas. Beberapa teman yang duduk di dekat mereka berhenti mengobrol. Laras tidak menjawab. Ia menyodorkan buku catatan berisi pembagian tugas, lalu menunjuk nama Bimo yang dilingkari dua kali dengan tinta merah.\n\n(3) Sore itu, ponsel Laras berbunyi. Bimo mengirim foto tulisan tentang cara mematikan peralatan listrik yang tidak dipakai, disusul pesan dari Tika yang berisi gambar poster. Laras membaca keduanya, lalu membalas singkat, \"Terima kasih. Rapi sekali, padahal katanya masih ada tiga hari.\" Malam itu, untuk pertama kalinya dalam seminggu, ia tidur sebelum pukul sembilan.\n\nMaksud balasan Laras, *\"Rapi sekali, padahal katanya masih ada tiga hari\"*, adalah ...",
+    "options": [
+      "memuji kerapian hasil kerja teman-temannya tanpa maksud lain",
+      "menyampaikan kekecewaan karena hasil kerja teman-temannya kurang rapi",
+      "meminta teman-temannya menunggu tiga hari lagi sebelum menempel karya",
+      "menyindir halus bahwa tugas itu ternyata bisa selesai dengan cepat"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Soal **maksud kalimat** tidak bisa dijawab dari arti kata per kata. Kita perlu melihat kalimat itu bersama konteks sebelumnya.\nLangkah 2: Bagian *Rapi sekali* memang pujian. Namun, Laras menambahkan *padahal katanya masih ada tiga hari*. Kata **padahal** menandai pertentangan, dan frasa *katanya masih ada tiga hari* mengutip kembali alasan Bimo di paragraf (2).\nLangkah 3: Hubungkan dengan urutan kejadian. Tugas yang tertunda berhari-hari ternyata selesai pada sore yang sama setelah Laras menunjukkan catatan. Dengan mengulang alasan Bimo, Laras menyindir secara halus: kalau memang bisa secepat ini, mengapa harus ditunda.\nLangkah 4: Opsi *memuji tanpa maksud lain* adalah jebakan arti harfiah; ia mengabaikan kata *padahal*. Opsi *kekecewaan karena kurang rapi* bertentangan dengan kata *rapi sekali*. Opsi *menunggu tiga hari lagi* salah membaca *tiga hari* sebagai permintaan, padahal itu kutipan ucapan Bimo.\n**Materi terkait:**\n- **Sindiran** adalah cara menyampaikan teguran atau kritik secara tidak langsung, misalnya dengan pujian yang disertai pertentangan.\n- Kata penghubung seperti *padahal*, *tetapi*, dan *namun* sering menjadi kunci untuk menangkap maksud yang tersembunyi.\nInsight kunci: Saat sebuah kalimat terdengar memuji, periksa apakah ada kata pertentangan atau kutipan dari situasi sebelumnya. Maksud sebenarnya sering berada di bagian kalimat yang paling mudah terlewat.\nKenapa opsi lain salah: pujian murni mengabaikan *padahal*; kecewa karena tidak rapi bertentangan dengan teks; menunggu tiga hari salah memahami kutipan.\nJawaban akhir: **menyindir halus bahwa tugas itu ternyata bisa selesai dengan cepat**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "hubungan-paragraf"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-4:\n\n(1) Tiga hari sebelum batas pengumpulan, Laras masih menatap kertas karton kosong di meja belajarnya. Karton dan spidol warna-warni itu sudah ia beli sejak minggu lalu. Kelompoknya mendapat tugas membuat majalah dinding bertema hemat energi, tetapi dua anggota lain belum mengirimkan bagian mereka. Laras sudah dua kali mengingatkan di grup kelas, dan dua kali pula pesannya hanya dibaca.\n\n(2) Esok paginya, Bimo datang ke kelas dengan wajah santai. \"Tenang saja, Ras. Masih ada tiga hari, kan?\" katanya sambil meletakkan tas. Beberapa teman yang duduk di dekat mereka berhenti mengobrol. Laras tidak menjawab. Ia menyodorkan buku catatan berisi pembagian tugas, lalu menunjuk nama Bimo yang dilingkari dua kali dengan tinta merah.\n\n(3) Sore itu, ponsel Laras berbunyi. Bimo mengirim foto tulisan tentang cara mematikan peralatan listrik yang tidak dipakai, disusul pesan dari Tika yang berisi gambar poster. Laras membaca keduanya, lalu membalas singkat, \"Terima kasih. Rapi sekali, padahal katanya masih ada tiga hari.\" Malam itu, untuk pertama kalinya dalam seminggu, ia tidur sebelum pukul sembilan.\n\nHubungan isi paragraf (3) dengan paragraf (1) adalah ...",
+    "options": [
+      "Paragraf (3) menjelaskan penyebab teman-teman Laras terlambat mengirimkan bagian tugas mereka.",
+      "Paragraf (3) memperlihatkan masalah baru yang lebih berat daripada masalah di paragraf (1).",
+      "Paragraf (3) menunjukkan penyelesaian masalah pada paragraf (1) beserta dampaknya bagi Laras.",
+      "Paragraf (3) mengulang isi paragraf (1) dari sudut pandang Bimo sebagai anggota kelompok."
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Namai dulu fungsi kedua paragraf. Paragraf (1) berisi **masalah**: tiga hari sebelum batas waktu, karton masih kosong dan dua anggota belum mengirim bagian mereka.\nLangkah 2: Paragraf (3) berisi **penyelesaian**: Bimo dan Tika akhirnya mengirim bagian masing-masing. Kalimat terakhir menambahkan **dampak** pada Laras: untuk pertama kalinya dalam seminggu, ia tidur sebelum pukul sembilan.\nLangkah 3: Kalimat terakhir itu juga mengandung informasi **tersirat**. Jika baru kali ini ia tidur cepat, artinya selama seminggu sebelumnya ia tidur larut, kemungkinan karena memikirkan tugas. Kini beban pikirannya berkurang. Jadi, paragraf (3) menutup masalah dan menunjukkan dampaknya.\nLangkah 4: Opsi tentang **penyebab keterlambatan** adalah jebakan: paragraf (3) tidak menjelaskan mengapa teman-teman terlambat, hanya bahwa mereka akhirnya mengirim. Opsi **masalah baru** bertentangan dengan suasana lega di akhir cerita. Opsi **sudut pandang Bimo** salah karena cerita tetap disampaikan dari sisi Laras.\n**Materi terkait:**\n- Dalam narasi, hubungan antarparagraf sering mengikuti pola **masalah - upaya - penyelesaian - dampak**.\n- Kalimat penutup cerita sering menyimpan informasi tersirat tentang perasaan tokoh.\nInsight kunci: Untuk soal hubungan antarparagraf, beri label satu kata pada setiap paragraf (masalah, upaya, penyelesaian), lalu cocokkan dengan opsi. Cara ini mencegahmu memilih opsi yang menyebut hal yang tidak dibahas, seperti penyebab.\nKenapa opsi lain salah: penyebab keterlambatan tidak dibahas; tidak ada masalah baru; sudut pandang cerita tidak berpindah ke Bimo.\nJawaban akhir: **Paragraf (3) menunjukkan penyelesaian masalah pada paragraf (1) beserta dampaknya bagi Laras.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Analisis Teks",
+    "subtopic": "Pernyataan tidak sesuai",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "tidak-sesuai"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Hampir setiap hari, grup percakapan keluarga atau kelas menerima pesan berantai: kabar tentang sekolah yang diliburkan, obat ajaib, atau bencana yang katanya akan terjadi. Sebelum ikut meneruskannya, kita perlu memeriksa kebenarannya terlebih dahulu.\n\n(2) Alasan pertama, pesan berantai sering tidak mencantumkan sumber yang jelas. Kalimat seperti \"kata teman saya yang bekerja di dinas\" tidak dapat diperiksa siapa pun. Pesan semacam itu juga diteruskan berkali-kali sehingga asal-usulnya makin sulit dilacak. Tanpa sumber, kita tidak tahu apakah informasi itu fakta atau sekadar dugaan.\n\n(3) Alasan kedua, kabar yang salah dapat merugikan orang lain. Misalnya, pengumuman libur palsu bisa membuat sebagian siswa tidak masuk sekolah, padahal kegiatan belajar tetap berjalan. Kabar tentang obat ajaib bahkan dapat membuat orang menunda pergi ke dokter.\n\n(4) Karena itu, biasakan bertanya sebelum meneruskan pesan: siapa sumbernya, kapan pesan itu dibuat, dan apakah lembaga resmi menyampaikan hal yang sama. Kebiasaan kecil ini membuat kita tidak ikut menyebarkan kabar bohong.\n\nPernyataan berikut yang **tidak** sesuai dengan isi bacaan adalah ...",
+    "options": [
+      "Semua pesan berantai di grup percakapan berisi kabar bohong.",
+      "Pesan berantai dapat berisi kabar tentang sekolah yang diliburkan.",
+      "Pengumuman libur palsu dapat membuat sebagian siswa tidak masuk sekolah.",
+      "Penulis menyarankan pembaca memeriksa apakah lembaga resmi menyampaikan hal yang sama."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Tandai arah pertanyaan. Kata **tidak** berarti kita mencari satu opsi yang bertentangan atau tidak didukung teks, sedangkan tiga opsi lain justru benar.\nLangkah 2: Beri tanda bukti pada setiap opsi. Kabar sekolah diliburkan disebut di paragraf (1). Libur palsu yang membuat sebagian siswa tidak masuk disebut di paragraf (3). Saran memeriksa lembaga resmi ada di paragraf (4). Ketiganya **sesuai**.\nLangkah 3: Opsi yang tersisa memakai kata **semua** dan menyimpulkan bahwa pesan berantai pasti bohong. Teks hanya mengatakan pesan berantai **sering** tidak mencantumkan sumber dan **perlu diperiksa**. Kalau semua pesan pasti bohong, tentu tidak perlu diperiksa lagi.\nLangkah 4: Jadi, opsi itu adalah jebakan **terlalu luas atau ekstrem**. Ia melompat dari *sering tanpa sumber* menjadi *semua bohong*.\n**Materi terkait:**\n- Bedakan kata frekuensi dan jumlah: *sering* tidak sama dengan *selalu*, dan *sebagian* tidak sama dengan *semua*.\n- Pada soal *tidak sesuai*, opsi yang benar menurut teks justru harus dicoret satu per satu.\nInsight kunci: Soal *tidak sesuai* menuntut dua kebiasaan: menandai arah pertanyaan sebelum membaca opsi, dan mencari bukti untuk setiap opsi. Opsi yang tidak punya bukti atau melebih-lebihkan isi teks adalah jawabannya.\nKenapa opsi lain salah: tiga opsi lainnya justru sesuai dengan paragraf (1), (3), dan (4), sehingga bukan jawaban untuk pertanyaan *tidak sesuai*.\nJawaban akhir: **Semua pesan berantai di grup percakapan berisi kabar bohong.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Simpulan",
+    "skill_type": "inferential",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "tangga-inferensi"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Hampir setiap hari, grup percakapan keluarga atau kelas menerima pesan berantai: kabar tentang sekolah yang diliburkan, obat ajaib, atau bencana yang katanya akan terjadi. Sebelum ikut meneruskannya, kita perlu memeriksa kebenarannya terlebih dahulu.\n\n(2) Alasan pertama, pesan berantai sering tidak mencantumkan sumber yang jelas. Kalimat seperti \"kata teman saya yang bekerja di dinas\" tidak dapat diperiksa siapa pun. Pesan semacam itu juga diteruskan berkali-kali sehingga asal-usulnya makin sulit dilacak. Tanpa sumber, kita tidak tahu apakah informasi itu fakta atau sekadar dugaan.\n\n(3) Alasan kedua, kabar yang salah dapat merugikan orang lain. Misalnya, pengumuman libur palsu bisa membuat sebagian siswa tidak masuk sekolah, padahal kegiatan belajar tetap berjalan. Kabar tentang obat ajaib bahkan dapat membuat orang menunda pergi ke dokter.\n\n(4) Karena itu, biasakan bertanya sebelum meneruskan pesan: siapa sumbernya, kapan pesan itu dibuat, dan apakah lembaga resmi menyampaikan hal yang sama. Kebiasaan kecil ini membuat kita tidak ikut menyebarkan kabar bohong.\n\nSimpulan yang paling didukung oleh paragraf (2) adalah ...",
+    "options": [
+      "Pesan berantai sengaja dibuat untuk menipu para pembacanya.",
+      "Berita di media sosial lebih sering salah daripada berita yang disiarkan di televisi.",
+      "Pegawai dinas biasanya menyebarkan informasi melalui pesan berantai.",
+      "Informasi tanpa sumber yang jelas belum dapat dipastikan kebenarannya."
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Batasi wilayah bukti. Soal meminta simpulan dari **paragraf (2)** saja, jadi kita fokus pada tiga kalimatnya: pesan berantai sering tanpa sumber jelas; sumber seperti *teman saya yang bekerja di dinas* tidak bisa diperiksa; tanpa sumber, kita tidak tahu apakah informasinya fakta atau dugaan.\nLangkah 2: Tarik simpulan di **anak tangga 2**: informasi tanpa sumber jelas belum bisa dipastikan benar atau salah. Simpulan ini hampir merupakan parafrase kalimat terakhir paragraf (2).\nLangkah 3: Uji opsi yang lebih \"berani\". Opsi *sengaja dibuat untuk menipu* berada di **anak tangga 3**: teks tidak membahas niat pembuat pesan, dan informasi yang belum pasti belum tentu bohong.\nLangkah 4: Opsi tentang media sosial dan televisi adalah jebakan **benar di dunia nyata**. Mungkin ada orang yang setuju dengannya, tetapi teks sama sekali tidak membandingkan media sosial dengan televisi.\nLangkah 5: Opsi tentang pegawai dinas salah membaca contoh. Frasa *kata teman saya yang bekerja di dinas* adalah contoh sumber yang tidak bisa diperiksa, bukan pernyataan tentang kebiasaan pegawai dinas.\n**Materi terkait:**\n- **Tangga inferensi**: petunjuk - simpulan aman - simpulan terlalu jauh. Jawaban biasanya berada di simpulan aman.\n- Contoh atau kutipan di dalam teks berfungsi menjelaskan gagasan; jangan menjadikannya pernyataan umum.\nInsight kunci: Simpulan yang benar tidak harus terdengar mengejutkan. Pilih simpulan yang paling dekat dengan bukti dan paling sedikit menambahkan, lalu curigai opsi yang menyebut niat, perbandingan, atau kebiasaan yang tidak dibahas teks.\nKenapa opsi lain salah: niat menipu terlalu jauh dari bukti; perbandingan dengan televisi tidak ada di teks; contoh tentang dinas disalahartikan sebagai kebiasaan umum.\nJawaban akhir: **Informasi tanpa sumber yang jelas belum dapat dipastikan kebenarannya.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Eksposisi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "struktur-teks",
+      "eksposisi"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Hampir setiap hari, grup percakapan keluarga atau kelas menerima pesan berantai: kabar tentang sekolah yang diliburkan, obat ajaib, atau bencana yang katanya akan terjadi. Sebelum ikut meneruskannya, kita perlu memeriksa kebenarannya terlebih dahulu.\n\n(2) Alasan pertama, pesan berantai sering tidak mencantumkan sumber yang jelas. Kalimat seperti \"kata teman saya yang bekerja di dinas\" tidak dapat diperiksa siapa pun. Pesan semacam itu juga diteruskan berkali-kali sehingga asal-usulnya makin sulit dilacak. Tanpa sumber, kita tidak tahu apakah informasi itu fakta atau sekadar dugaan.\n\n(3) Alasan kedua, kabar yang salah dapat merugikan orang lain. Misalnya, pengumuman libur palsu bisa membuat sebagian siswa tidak masuk sekolah, padahal kegiatan belajar tetap berjalan. Kabar tentang obat ajaib bahkan dapat membuat orang menunda pergi ke dokter.\n\n(4) Karena itu, biasakan bertanya sebelum meneruskan pesan: siapa sumbernya, kapan pesan itu dibuat, dan apakah lembaga resmi menyampaikan hal yang sama. Kebiasaan kecil ini membuat kita tidak ikut menyebarkan kabar bohong.\n\nStruktur bacaan tersebut yang tepat adalah ...",
+    "options": [
+      "orientasi (1) - komplikasi (2) dan (3) - resolusi (4)",
+      "tesis (1) - argumen (2) dan (3) - penegasan ulang (4)",
+      "tesis (1) - argumen (2) - penegasan ulang (3) dan (4)",
+      "pernyataan umum (1) - deretan penjelas (2) dan (3) - interpretasi (4)"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Tentukan dulu jenis teksnya. Penulis menyampaikan pendapat (*kita perlu memeriksa kebenarannya terlebih dahulu*), lalu memberi alasan. Ini ciri **teks eksposisi**, bukan narasi atau eksplanasi.\nLangkah 2: Paragraf (1) berisi **tesis**, yaitu pendapat utama penulis. Paragraf (2) dibuka dengan *Alasan pertama* dan paragraf (3) dengan *Alasan kedua*. Keduanya adalah **argumen**.\nLangkah 3: Paragraf (4) dibuka dengan *Karena itu* dan mengulang saran utama dalam bentuk kebiasaan yang bisa dilakukan. Ini adalah **penegasan ulang**.\nLangkah 4: Opsi yang menempatkan paragraf (3) sebagai penegasan ulang adalah near-miss. Penanda *Alasan kedua* jelas menunjukkan bahwa paragraf (3) masih argumen. Opsi orientasi-komplikasi-resolusi adalah struktur **narasi**, sedangkan pernyataan umum-deretan penjelas-interpretasi adalah struktur **eksplanasi**.\n**Materi terkait:**\n- Struktur eksposisi: **tesis - argumen - penegasan ulang**.\n- Penanda argumen: *alasan pertama*, *selain itu*, *misalnya*, *data menunjukkan*. Penanda penegasan ulang: *karena itu*, *dengan demikian*, *jadi*.\n- Jangan tertukar dengan struktur narasi (orientasi-komplikasi-resolusi) atau eksplanasi (pernyataan umum-deretan penjelas-interpretasi).\nInsight kunci: Penanda kata di awal paragraf adalah petunjuk struktur yang paling cepat. Gunakan penanda itu sebagai bukti, bukan menebak dari panjang paragraf.\nKenapa opsi lain salah: orientasi-komplikasi-resolusi adalah struktur narasi; paragraf (3) masih argumen, bukan penegasan ulang; pernyataan umum-penjelas-interpretasi adalah struktur eksplanasi.\nJawaban akhir: **tesis (1) - argumen (2) dan (3) - penegasan ulang (4)**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Sinonim kontekstual",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "kemampuan-verbal",
+      "sinonim"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 5-8:\n\n(1) Hampir setiap hari, grup percakapan keluarga atau kelas menerima pesan berantai: kabar tentang sekolah yang diliburkan, obat ajaib, atau bencana yang katanya akan terjadi. Sebelum ikut meneruskannya, kita perlu memeriksa kebenarannya terlebih dahulu.\n\n(2) Alasan pertama, pesan berantai sering tidak mencantumkan sumber yang jelas. Kalimat seperti \"kata teman saya yang bekerja di dinas\" tidak dapat diperiksa siapa pun. Pesan semacam itu juga diteruskan berkali-kali sehingga asal-usulnya makin sulit dilacak. Tanpa sumber, kita tidak tahu apakah informasi itu fakta atau sekadar dugaan.\n\n(3) Alasan kedua, kabar yang salah dapat merugikan orang lain. Misalnya, pengumuman libur palsu bisa membuat sebagian siswa tidak masuk sekolah, padahal kegiatan belajar tetap berjalan. Kabar tentang obat ajaib bahkan dapat membuat orang menunda pergi ke dokter.\n\n(4) Karena itu, biasakan bertanya sebelum meneruskan pesan: siapa sumbernya, kapan pesan itu dibuat, dan apakah lembaga resmi menyampaikan hal yang sama. Kebiasaan kecil ini membuat kita tidak ikut menyebarkan kabar bohong.\n\nKata *meneruskan* dalam kalimat *Sebelum ikut meneruskannya, kita perlu memeriksa kebenarannya terlebih dahulu* paling tepat digantikan dengan kata ...",
+    "options": [
+      "menyebarkan",
+      "melanjutkan",
+      "menyimpan",
+      "membalas"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Baca kata dalam konteksnya. Yang *diteruskan* adalah **pesan berantai** di grup percakapan, yaitu pesan yang dikirim kembali kepada orang lain.\nLangkah 2: Uji dengan **substitusi**. *Sebelum ikut menyebarkannya, kita perlu memeriksa kebenarannya terlebih dahulu.* Kalimatnya tetap wajar dan maknanya sama. Paragraf (4) bahkan memakai kata *menyebarkan kabar bohong* untuk hal yang sama, sehingga teks sendiri menjadi buktinya.\nLangkah 3: *Melanjutkan* adalah jebakan arti umum. Dalam banyak kalimat, *meneruskan* memang berarti melanjutkan (misalnya meneruskan sekolah), tetapi *melanjutkan pesan berantai* tidak bermakna mengirimkannya ke orang lain.\nLangkah 4: *Menyimpan* dan *membalas* mengubah tindakan. Menyimpan berarti tidak mengirim ke mana pun, sedangkan membalas berarti menjawab pengirim, bukan meneruskan kepada orang lain.\n**Materi terkait:**\n- Satu kata bisa punya beberapa arti. **Sinonim kontekstual** dipilih berdasarkan arti yang dipakai di kalimat itu, bukan arti yang paling umum.\n- Cari kata lain di teks yang membahas hal yang sama; penulis sering memakai variasi kata untuk satu gagasan.\nInsight kunci: Selalu uji sinonim dengan menggantikannya ke dalam kalimat asli. Jika kalimat tetap wajar dan maknanya tidak bergeser, kamu menemukan sinonim yang tepat.\nKenapa opsi lain salah: melanjutkan memakai arti lain dari *meneruskan*; menyimpan dan membalas mengubah tindakan yang dimaksud.\nJawaban akhir: **menyebarkan**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Inferensi",
+    "skill_type": "reasoning",
+    "question_type": "functional_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "pemahaman-bacaan",
+      "inferensi-syarat"
+    ],
+    "is_active": true,
+    "question": "Bacalah pengumuman berikut!\n\n> **Kolam Renang Tirta Kota**\n> Buka setiap hari pukul 08.00-17.00, kecuali Senin (kolam dibersihkan).\n> Anak di bawah 12 tahun hanya boleh berenang jika didampingi orang dewasa.\n\nNadia yang berusia 10 tahun datang sendirian pada hari Rabu pukul 10.00. Berdasarkan pengumuman tersebut, pernyataan yang **pasti benar** adalah ...",
+    "options": [
+      "Nadia boleh berenang karena ia datang pada jam buka kolam.",
+      "Nadia belum boleh berenang sebelum ada orang dewasa yang mendampinginya.",
+      "Nadia tidak boleh berenang karena kolam sedang dibersihkan pada hari itu.",
+      "Nadia boleh berenang sendirian asalkan hanya berada di kolam anak-anak."
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Ini soal **inferensi dari syarat**. Pengumuman tidak menyebut nama Nadia, jadi kita harus menerapkan aturannya pada situasi Nadia dan mencari simpulan yang **pasti** benar.\nLangkah 2: Periksa syarat pertama: waktu. Rabu pukul 10.00 termasuk jam buka, dan hari pembersihan adalah **Senin**, bukan Rabu. Jadi, kolam sedang buka.\nLangkah 3: Periksa syarat kedua: usia. Nadia berusia 10 tahun, berarti di bawah 12 tahun. Frasa **hanya boleh ... jika didampingi orang dewasa** berarti tanpa pendamping ia tidak boleh berenang. Ia datang **sendirian**, jadi ia belum boleh berenang sampai ada orang dewasa yang mendampingi.\nLangkah 4: Opsi *boleh karena datang pada jam buka* adalah near-miss: hanya memeriksa satu syarat dan melupakan syarat usia. Opsi *kolam dibersihkan* salah membaca hari. Opsi *kolam anak-anak* menambah informasi; pengumuman tidak menyebut kolam anak-anak atau pengecualian semacam itu.\n**Materi terkait:**\n- Kata **hanya ... jika** dan **kecuali** adalah penanda syarat. Semua syarat harus terpenuhi agar sesuatu diperbolehkan.\n- Dalam teks fungsional seperti pengumuman, jawaban yang pasti benar biasanya diperoleh dengan memeriksa **setiap syarat** satu per satu.\nInsight kunci: Sebuah inferensi boleh menjadi jawaban jika ia pasti benar berdasarkan teks. Periksa semua syarat, bukan hanya syarat yang pertama terlihat, lalu tolak opsi yang menambahkan pengecualian sendiri.\nKenapa opsi lain salah: jam buka saja belum cukup karena syarat usia belum terpenuhi; hari pembersihan adalah Senin; kolam anak-anak tidak disebut dalam pengumuman.\nJawaban akhir: **Nadia belum boleh berenang sebelum ada orang dewasa yang mendampinginya.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Fakta & opini",
+    "skill_type": "understanding",
+    "question_type": "short_text",
+    "tags": [
+      "bhsind-level-1-cara-membaca-bukti",
+      "kebahasaan",
+      "fakta-opini"
+    ],
+    "is_active": true,
+    "question": "Perhatikan paragraf berikut!\n\n(1) Lomba cerdas cermat tingkat SMP se-kecamatan diikuti oleh 24 sekolah. (2) Babak final berlangsung di aula kecamatan pada Sabtu pagi dan disaksikan sekitar 300 penonton. (3) Penampilan tim SMP Harapan di babak final sangat memukau dan pantas ditiru sekolah lain. (4) Tim tersebut meraih juara pertama dengan nilai 350.\n\nKalimat yang berisi **opini** adalah ...",
+    "options": [
+      "kalimat (1)",
+      "kalimat (2)",
+      "kalimat (3)",
+      "kalimat (4)"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: **Fakta** adalah informasi yang dapat dibuktikan atau diukur, misalnya jumlah, tempat, waktu, dan hasil. **Opini** adalah pendapat atau penilaian yang bisa berbeda dari satu orang ke orang lain.\nLangkah 2: Periksa kalimat (1), (2), dan (4). Jumlah sekolah (24), tempat dan waktu final, jumlah penonton (sekitar 300), serta nilai juara (350) semuanya bisa dicek kebenarannya. Ketiganya adalah fakta.\nLangkah 3: Kalimat (3) memakai kata penilaian **sangat memukau** dan **pantas ditiru**. Penonton yang berbeda bisa saja menilai berbeda, dan tidak ada ukuran pasti untuk *memukau*. Jadi, kalimat (3) adalah opini.\nLangkah 4: Kalimat (4) mungkin terasa seperti pujian karena menyebut juara pertama, tetapi isinya adalah hasil yang tercatat, bukan penilaian. Inilah near-miss pada soal ini.\n**Materi terkait:**\n- Penanda opini: kata sifat penilaian (*bagus, memukau, menarik*), kata *sebaiknya*, *pantas*, *seharusnya*, *menurut saya*.\n- Penanda fakta: angka, nama tempat, waktu, hasil yang tercatat, dan peristiwa yang bisa diperiksa.\n- Hubungan dengan membaca berbasis bukti: fakta bisa dibuktikan, sedangkan opini perlu dibaca sebagai pandangan penulis, bukan bukti.\nInsight kunci: Untuk membedakan fakta dan opini, tanyakan apakah pernyataan itu bisa diperiksa dan hasilnya akan sama bagi semua orang. Jika jawabannya tergantung penilaian orang, itu opini.\nKenapa opsi lain salah: kalimat (1), (2), dan (4) memuat data yang dapat dibuktikan, sehingga semuanya fakta.\nJawaban akhir: **kalimat (3)**"
+  }
+]

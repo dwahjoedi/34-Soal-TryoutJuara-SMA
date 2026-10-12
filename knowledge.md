@@ -21,7 +21,7 @@ Local research (2026-05) records the selection instruments as Kuantitatif, Pemah
 |---|---|
 | `00 Custom Instructions/` | Five subject authoring standards (matematika 38 KB, bahasa indonesia 32 KB, ipa 30 KB, bahasa inggris 29 KB, ips 25 KB), all dated 2026-05-15 |
 | `01 Soal Math/` | 22 JSON sets: 10 speed a-j (20), `Math-Speed-C.json` (5, early pilot), practice-set-1..6 (30/25/21/20/20/20), psb-sma-set-1, 2, 2-smp3, 4, 5 (15 each); five `*-image-prompts.md`; empty `output/` |
-| `02 Soal BhsInd/` | 8 sets: speed c, d, e (20, files named `question-bank-bahasa-indonesia-level-2-speed-<x>-20-soal.json`; no speed a/b) and exam-set-1..5 (10) |
+| `02 Soal BhsInd/` | 12 sets: speed c, d, e (20, files named `question-bank-bahasa-indonesia-level-2-speed-<x>-20-soal.json`; no speed a/b), exam-set-1..5 (10), and study-guide section practice in `soal_latihan_section/`: `...-level-1-format-ujian.json` (section 1, added 2026-10-10), `...-level-1-cara-membaca-bukti.json` (section 2), `...-level-1-ide-pokok-simpulan.json` (section 3) and `...-level-1-kosakata-verbal.json` (section 4; sections 2-4 added 2026-10-11), 10 items each |
 | `03 Soal IPA/` | 21 sets: speed a-j (20), exam-set-1..5 (20), practice-set-1..6 (15); five image-prompt files |
 | `04 Soal IPS/` | 15 sets: speed a-j (20), exam-set-1..5 (20); image prompts for exam sets 1, 2, 4, 5 |
 | `05 Soal English/` | 15 sets: speed a-j (20), exam-set-1..5 (10) |
@@ -46,7 +46,7 @@ Sibling folders under `C:\UnCloud\` include `34 Soal TryoutJuara` (an older or p
 | Subject | Speed | Exam | Practice / other |
 |---|---|---|---|
 | Matematika | `questions-math-level-2-speed-k.json` | - | `questions-math-psb-sma-practice-set-7.json`; `psb-sma-set-6` (set-3 is missing; `set-2-smp3` carries the tag `math-psb-sma-set-3`) |
-| Bahasa Indonesia | `-speed-f` (a/b never existed; prefer the `questions-bahasa-indonesia-level-2-speed-f.json` pattern used by other subjects) | `exam-set-6` | - |
+| Bahasa Indonesia | `-speed-f` (a/b never existed; prefer the `questions-bahasa-indonesia-level-2-speed-f.json` pattern used by other subjects) | `exam-set-6` | Study-guide section practice: `soal_latihan_section/questions-bahasa-indonesia-level-1-<section-slug>.json` |
 | IPA | `speed-k` | `exam-set-6` | `practice-set-7` |
 | IPS | `speed-k` | `exam-set-6` | - |
 | English | `speed-k` | `exam-set-6` | - |
@@ -127,6 +127,7 @@ Section counts on 2026-10-10: Matematika 13, IPA 11, IPS 11, Bahasa Inggris 11, 
 
 - `07 Materi Zenius/riset-materi-psb-sma-labschool.md`: audit and deep-research update dated 2026-05-16, character-guide update 2026-05-17; links official PSB guidance and CP Fase D references.
 - `08 Ref Soal/Research/SOURCES.md`: checks dated 2026-06-16. Snapshots are public previews (Scribd/PDFCoffee) because originals were blocked or login-gated; they may be partial and are not authenticated papers. The register separates official pedoman/SOP documents from question documents and lists failed downloads.
+- 2026-10-10 check of the official Pedoman PSB Jalur Tes 2026 PDF (`psb.labschool-unj.sch.id/wp-content/uploads/2025/12/Pedoman-PSB-Jalur-Tes-2026.pdf`, 33 MB, 18 pages; too large for WebFetch, download and use `pdftotext`) and FAQ: TP 2026/2027; computer-based test at the chosen Labschool; CAT with questions at different difficulty levels; mandatory online simulation (SMA 24 Jan 2026); SMA test Sunday 1 Feb 2026, 08.00-12.00 WIB; own laptop/tablet, phones not recommended, scrap paper provided; one sitting, no make-up test; auto-save when time ends; results by ranking. Official instrument wording: Pemahaman Bacaan = "memahami, menginterpretasikan, dan menganalisa teks atau bacaan mengenai berbagai macam topik"; Kemampuan Verbal = kata beda, kosakata, sinonim, analogi verbal, klasifikasi kata, wacana (logika verbal), missing word. No question counts, per-section durations or weights are published. The PSB site still showed TP 2026/2027 on that date; no 2027 guideline yet.
 - Official references recorded locally: PSB Jalur Tes 2026 guidance, PSB FAQ, Labschool Jakarta admissions page, 2024 SOP (Tahap 1 Kuantitatif, 45 minutes). Recheck for the requested campus and cycle before giving current advice.
 - `question-bank-metadata-reference.md` describes SD/Fase B-C frameworks; its labels remain canonical, but the SMP/Fase D target from the subject instructions governs scope.
 

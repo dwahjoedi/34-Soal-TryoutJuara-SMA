@@ -1,0 +1,232 @@
+[
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Sinonim kontekstual",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "sinonim"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nKata *menimbang* dalam kalimat *Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar* paling tepat diganti dengan kata ...",
+    "options": [
+      "mengukur berat",
+      "mempertimbangkan",
+      "menyeimbangkan",
+      "menghitung jumlah"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Tentukan **arti kata dalam kalimat**. Kata *kebiasaan menimbang seperti ini* merujuk ke kalimat sebelumnya: menahan diri dari membeli barang yang tidak terlalu penting. Jadi, *menimbang* di sini berarti **memikirkan baik-buruknya sebelum memutuskan**.\nLangkah 2: Lakukan **substitusi**. *Kebiasaan mempertimbangkan seperti ini akan berguna ketika kelak kita mengelola uang* tetap wajar dan maknanya sama.\nLangkah 3: *Mengukur berat* adalah jebakan **arti harfiah**. Menimbang memang bisa berarti mengukur berat, misalnya menimbang beras, tetapi tidak ada benda yang ditimbang beratnya dalam konteks ini.\nLangkah 4: *Menyeimbangkan* terdengar mirip, tetapi maknanya membuat sesuatu seimbang, bukan memutuskan. *Menghitung jumlah* juga bergeser karena paragraf membahas memilih, bukan menghitung.\n**Materi terkait:**\n- Satu kata bisa punya beberapa arti (**polisemi**). Sinonim kontekstual dipilih dari arti yang dipakai dalam kalimat.\n- Frasa penunjuk seperti *seperti ini* atau *hal tersebut* menyuruhmu melihat kalimat sebelumnya untuk menemukan maknanya.\nInsight kunci: Opsi yang memakai arti paling umum sebuah kata sering menjadi jebakan. Selalu tanyakan, \"Dalam kalimat ini, kata itu sedang berarti apa?\" sebelum memilih sinonim.\nKenapa opsi lain salah: mengukur berat adalah arti harfiah; menyeimbangkan dan menghitung jumlah menggeser makna dari *memutuskan dengan hati-hati*.\nJawaban akhir: **mempertimbangkan**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Antonim kontekstual",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "antonim"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nLawan kata *remeh* dalam kalimat *Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit* adalah ...",
+    "options": [
+      "sepele",
+      "sederhana",
+      "sedikit",
+      "berarti"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Tentukan **arti kata dalam kalimat**. *Tabungan yang tampak remeh* berarti tabungan yang terlihat **tidak penting** atau tidak ada artinya karena jumlahnya kecil.\nLangkah 2: Cari lawannya. Lawan dari *tidak penting* adalah **berarti** atau penting. Uji dengan membalik kalimat: *tabungan yang awalnya tampak berarti* bermakna kebalikan dari kalimat asli.\nLangkah 3: *Sepele* adalah jebakan paling kuat karena ia **sinonim** dari *remeh*, bukan antonimnya. Soal seperti ini menguji ketelitianmu membaca kata *lawan kata* pada perintah.\nLangkah 4: *Sederhana* dan *sedikit* juga searah dengan *remeh*, tidak berlawanan. Keduanya menggambarkan sesuatu yang kecil atau tidak rumit.\n**Materi terkait:**\n- **Antonim kontekstual**: tentukan dulu arti kata dalam kalimat, baru cari lawannya.\n- Daftar opsi soal antonim sering diisi sinonim untuk menjebak siswa yang terburu-buru. Tandai kata *lawan kata* atau *antonim* sebelum membaca opsi.\nInsight kunci: Antonim yang tepat membalik makna inti kalimat. Jika sebuah opsi justru membuat makna kalimat tetap sama, opsi itu sinonim, bukan antonim.\nKenapa opsi lain salah: sepele adalah sinonim *remeh*; sederhana dan sedikit searah maknanya dengan *remeh*.\nJawaban akhir: **berarti**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Denotasi, konotasi & kiasan",
+    "skill_type": "contextual_vocabulary",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "kiasan"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nMakna frasa *akan menjadi bukit* pada paragraf (4) adalah ...",
+    "options": [
+      "akan bertambah menjadi jumlah yang besar",
+      "akan menjadi tumpukan uang logam yang tinggi",
+      "akan menjadi beban yang terasa berat",
+      "akan disimpan di tempat tinggi agar aman"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Kenali bahwa frasa ini adalah **kiasan**. Frasa tersebut berasal dari peribahasa *sedikit demi sedikit, lama-lama menjadi bukit*. Penulis bahkan sudah menyebut *sedikit demi sedikit* di kalimat sebelumnya.\nLangkah 2: Tentukan maknanya. *Bukit* dipakai untuk menggambarkan sesuatu yang **besar**. Jadi, tabungan kecil yang dikumpulkan secara teratur akan bertambah menjadi jumlah yang besar.\nLangkah 3: Opsi *tumpukan uang logam yang tinggi* adalah jebakan **arti harfiah**. Penulis tidak membicarakan bentuk fisik tabungan, melainkan jumlahnya.\nLangkah 4: Opsi *beban yang terasa berat* adalah jebakan **konotasi**. Bukit memang besar dan berat, tetapi di sini maknanya positif: hasil yang besar, bukan beban. Konteks paragraf yang mendorong pembaca menabung menunjukkan rasa yang positif.\nLangkah 5: Opsi *disimpan di tempat tinggi* menambah informasi tentang tempat penyimpanan yang tidak dibahas sama sekali.\n**Materi terkait:**\n- **Kiasan** memakai benda atau gambaran untuk menyampaikan makna lain. **Peribahasa** adalah kiasan yang sudah tetap bentuknya.\n- Untuk menentukan rasa (konotasi) sebuah kiasan, lihat sikap penulis di sekitarnya: apakah ia mendorong, memperingatkan, atau mengeluh?\nInsight kunci: Saat bertemu kiasan, tanyakan dua hal: apa sifat utama benda yang dipakai (bukit = besar), dan apakah rasa kalimatnya positif atau negatif. Gabungan keduanya biasanya menunjukkan makna yang tepat.\nKenapa opsi lain salah: tumpukan uang logam adalah arti harfiah; beban berat salah membaca rasa kalimat; tempat penyimpanan tidak dibahas.\nJawaban akhir: **akan bertambah menjadi jumlah yang besar**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Hubungan antar paragraf",
+    "skill_type": "reasoning",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "logika-wacana",
+      "kata-hubung"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nFrasa *Selain itu* di awal paragraf (3) menunjukkan bahwa paragraf (3) ...",
+    "options": [
+      "memberi contoh dari isi paragraf (2)",
+      "menyatakan akibat dari isi paragraf (2)",
+      "menambahkan manfaat lain dari menabung",
+      "membantah pendapat pada paragraf (2)"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Beri label isi kedua paragraf. Paragraf (2) berisi **manfaat pertama** menabung: melatih membedakan kebutuhan dan keinginan. Paragraf (3) berisi **manfaat lain**: memberi rasa aman saat ada kebutuhan mendadak.\nLangkah 2: Frasa *Selain itu* adalah penanda **penambahan**. Penanda ini menunjukkan bahwa paragraf (3) menambahkan gagasan baru yang sejajar dengan paragraf (2), yaitu manfaat kedua.\nLangkah 3: *Memberi contoh* adalah near-miss karena paragraf (3) memang memuat contoh (buku hilang, sepatu rusak). Namun, contoh itu menjelaskan **kebutuhan mendadak** di paragraf (3) sendiri, bukan contoh dari membedakan kebutuhan dan keinginan di paragraf (2). Penanda contoh adalah *misalnya*, dan kata itu muncul di dalam paragraf (3), bukan di awalnya.\nLangkah 4: *Akibat* salah karena rasa aman bukan akibat dari kemampuan membedakan kebutuhan dan keinginan; keduanya manfaat yang berdiri sendiri. *Membantah* salah karena kedua paragraf sama-sama mendukung pendapat penulis.\n**Materi terkait:**\n- Penanda penambahan: *selain itu, di samping itu, lebih lanjut*. Penanda contoh: *misalnya, contohnya*. Penanda akibat: *akibatnya, oleh karena itu*. Penanda pertentangan: *namun, sebaliknya*.\n- Dalam teks eksposisi, paragraf-paragraf argumen sering dihubungkan dengan penanda penambahan.\nInsight kunci: Kata hubung di awal paragraf adalah petunjuk tercepat untuk membaca hubungan antarparagraf. Pastikan juga isinya cocok: penambahan berarti gagasan baru yang sejajar, sedangkan contoh berarti rincian dari gagasan yang sama.\nKenapa opsi lain salah: contoh di paragraf (3) menjelaskan kebutuhan mendadak, bukan isi paragraf (2); rasa aman bukan akibat paragraf (2); tidak ada bantahan.\nJawaban akhir: **menambahkan manfaat lain dari menabung**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Struktur Teks",
+    "subtopic": "Eksposisi",
+    "skill_type": "understanding",
+    "question_type": "text_analysis",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "eksposisi",
+      "logika-wacana"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nKata *Jadi* pada kalimat terakhir paragraf (4) menandai bahwa kalimat tersebut berfungsi sebagai ...",
+    "options": [
+      "argumen baru yang mendukung pendapat penulis",
+      "penegasan ulang pendapat penulis",
+      "contoh dari kebiasaan menabung secara teratur",
+      "bantahan terhadap anggapan pada paragraf (1)"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Ingat struktur **teks eksposisi**: **tesis** (pendapat), **argumen** (alasan), dan **penegasan ulang** (pendapat diulang di akhir).\nLangkah 2: Tesis penulis ada di paragraf (1): kebiasaan menabung paling mudah dibangun sejak usia sekolah. Kalimat terakhir, *Jadi, jangan menunggu dewasa untuk mulai menabung*, mengulang pendapat itu dalam bentuk ajakan.\nLangkah 3: Kata **jadi** adalah penanda simpulan atau penegasan. Karena kalimat itu tidak menambah alasan baru, fungsinya adalah **penegasan ulang**.\nLangkah 4: *Argumen baru* salah karena kalimat itu tidak memberi alasan tambahan. *Contoh* salah karena contoh kebiasaan teratur sudah ada pada frasa *misalnya setiap hari Senin*. *Bantahan terhadap paragraf (1)* adalah near-miss: bantahan terhadap anggapan *menabung hanya untuk orang dewasa* sudah diberikan di paragraf (1) dengan kata *Padahal*, sedangkan kalimat terakhir menegaskan ulang kesimpulan penulis.\n**Materi terkait:**\n- Penanda penegasan ulang: *jadi, dengan demikian, oleh karena itu, karena itu*.\n- Penegasan ulang sering berbentuk ajakan atau saran yang sejalan dengan tesis.\nInsight kunci: Kata hubung tidak hanya menghubungkan kalimat, tetapi juga menunjukkan **fungsi** kalimat dalam struktur teks. Mengenali penanda seperti *jadi* membantu menjawab soal struktur dengan cepat.\nKenapa opsi lain salah: tidak ada alasan baru; contoh sudah diberikan sebelumnya; bantahan ada di paragraf (1), bukan di kalimat terakhir.\nJawaban akhir: **penegasan ulang pendapat penulis**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Membaca Pemahaman",
+    "subtopic": "Informasi tersurat",
+    "skill_type": "literal",
+    "question_type": "long_text",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "tersurat",
+      "padahal"
+    ],
+    "is_active": true,
+    "question": "Bacaan untuk soal 1-6:\n\n(1) Banyak orang mengira menabung hanya cocok bagi orang dewasa yang sudah bekerja. Padahal, kebiasaan ini justru paling mudah dibangun sejak usia sekolah, ketika kebutuhan kita masih sederhana. Uang jajan yang kita terima, walaupun tidak banyak, sudah cukup untuk memulainya.\n\n(2) Menabung melatih kita membedakan kebutuhan dan keinginan. Saat uang jajan disisihkan, kita belajar menahan diri dari membeli barang yang sebenarnya tidak terlalu penting. Kita juga belajar bahwa tidak semua keinginan harus dipenuhi saat itu juga. Kebiasaan menimbang seperti ini akan berguna ketika kelak kita mengelola uang yang jauh lebih besar.\n\n(3) Selain itu, tabungan memberi rasa aman. Ketika muncul kebutuhan mendadak, misalnya buku pelajaran yang hilang atau sepatu yang rusak, kita tidak perlu panik atau langsung meminta uang kepada orang tua.\n\n(4) Tentu saja, menabung tidak harus dalam jumlah besar. Sisihkan sedikit demi sedikit, tetapi lakukan secara teratur, misalnya setiap hari Senin. Lama-kelamaan, tabungan yang awalnya tampak remeh akan menjadi bukit. Jadi, jangan menunggu dewasa untuk mulai menabung.\n\nPernyataan yang **sesuai** dengan pendapat penulis adalah ...",
+    "options": [
+      "Tabungan membantu kita menghadapi kebutuhan mendadak tanpa langsung meminta uang kepada orang tua.",
+      "Menabung hanya cocok dilakukan oleh orang dewasa yang sudah bekerja dan memiliki penghasilan sendiri.",
+      "Menabung sebaiknya dilakukan dalam jumlah besar agar hasilnya cepat terasa manfaatnya.",
+      "Sepatu yang rusak merupakan alasan utama siswa perlu mulai menabung sejak usia sekolah."
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Perhatikan kata **pendapat penulis** dalam pertanyaan. Kita harus membedakan pendapat penulis dari anggapan orang lain yang disebut dalam teks.\nLangkah 2: Paragraf (3) menyatakan bahwa saat ada kebutuhan mendadak, *kita tidak perlu panik atau langsung meminta uang kepada orang tua*. Opsi yang benar adalah **parafrase** kalimat ini.\nLangkah 3: Opsi *menabung hanya cocok bagi orang dewasa* adalah jebakan terkuat karena kalimatnya memang ada di teks. Namun, kalimat itu adalah **anggapan banyak orang** yang kemudian dibantah penulis dengan kata **Padahal**. Jadi, itu bukan pendapat penulis.\nLangkah 4: Opsi *dalam jumlah besar* bertentangan dengan paragraf (4): *menabung tidak harus dalam jumlah besar*. Opsi *sepatu rusak adalah alasan utama* menjadikan **contoh** sebagai alasan utama, padahal sepatu hanya salah satu contoh kebutuhan mendadak.\n**Materi terkait:**\n- Kata **padahal**, **namun**, dan **sebenarnya** setelah sebuah anggapan biasanya menandai bahwa penulis tidak setuju dengan anggapan itu.\n- Contoh dalam teks (sepatu, buku hilang) mendukung gagasan, tetapi bukan gagasan utamanya.\nInsight kunci: Tidak semua kalimat yang ada di teks mewakili pendapat penulis. Perhatikan kata hubung di sekitarnya untuk mengetahui apakah penulis menyetujui atau membantah sebuah pernyataan.\nKenapa opsi lain salah: anggapan orang dewasa dibantah penulis; jumlah besar bertentangan dengan paragraf (4); sepatu rusak hanya contoh.\nJawaban akhir: **Tabungan membantu kita menghadapi kebutuhan mendadak tanpa langsung meminta uang kepada orang tua.**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Klasifikasi kata",
+    "skill_type": "verbal_reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "klasifikasi"
+    ],
+    "is_active": true,
+    "question": "pena - pensil - kapur\n\nKata yang paling tepat masuk ke dalam kelompok kata di atas adalah ...",
+    "options": [
+      "penghapus",
+      "penggaris",
+      "kertas",
+      "spidol"
+    ],
+    "answer": 3,
+    "rationale": "Langkah 1: Cari **ciri bersama yang paling khusus**. Pena, pensil, dan kapur sama-sama **alat untuk menulis atau membuat tulisan**.\nLangkah 2: Uji setiap opsi. Spidol juga dipakai untuk menulis, misalnya di papan tulis putih. Spidol memiliki ciri yang sama.\nLangkah 3: *Penghapus* adalah near-miss. Penghapus memang alat tulis-menulis, tetapi fungsinya **menghapus** tulisan, bukan membuat tulisan. Ciri \"alat tulis-menulis\" terlalu umum dan membuat tiga opsi terlihat benar.\nLangkah 4: *Penggaris* adalah alat untuk mengukur atau membuat garis lurus, dan *kertas* adalah media tempat menulis, bukan alat untuk menulis.\n**Materi terkait:**\n- Ciri kelompok bisa berlapis: alat sekolah, lalu alat tulis-menulis, lalu alat untuk membuat tulisan. Pilih lapisan yang paling khusus yang dimiliki semua kata.\n- Bedakan **alat**, **bahan/media**, dan **fungsi**. Kertas adalah media, sedangkan pena adalah alat.\nInsight kunci: Jika lebih dari satu opsi tampak cocok, ciri yang kamu pakai masih terlalu umum. Pertajam cirinya sampai hanya satu opsi yang benar-benar sama.\nKenapa opsi lain salah: penghapus untuk menghapus; penggaris untuk mengukur dan menggaris; kertas adalah media menulis.\nJawaban akhir: **spidol**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "hard",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Kata beda",
+    "skill_type": "verbal_reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "kata-beda"
+    ],
+    "is_active": true,
+    "question": "Pilih kata yang **tidak** termasuk kelompoknya!",
+    "options": [
+      "mengunyah",
+      "menelan",
+      "menghirup",
+      "mencerna"
+    ],
+    "answer": 2,
+    "rationale": "Langkah 1: Cari ciri bersama. Keempatnya adalah kata kerja yang berhubungan dengan tubuh, jadi ciri itu terlalu umum karena tidak ada yang berbeda.\nLangkah 2: Pertajam ciri dengan melihat **sistem tubuh** yang terlibat. Mengunyah, menelan, dan mencerna adalah tahap dalam **pencernaan makanan**. Menghirup adalah bagian dari **pernapasan**.\nLangkah 3: Pastikan hanya satu yang berbeda. Dengan ciri \"proses pencernaan\", hanya *menghirup* yang keluar dari kelompok.\nLangkah 4: *Mencerna* adalah near-miss. Kata ini berbeda karena tidak dilakukan oleh mulut, sedangkan mengunyah dan menelan dilakukan di mulut dan kerongkongan. Namun, ciri \"dilakukan di mulut\" tidak membuat hanya satu kata berbeda, karena menghirup juga bisa lewat mulut dan hidung. Ciri yang paling rapi adalah sistem pencernaan.\n**Materi terkait:**\n- Soal kata beda bisa memakai pengetahuan mata pelajaran lain (di sini IPA), tetapi cara berpikirnya tetap sama: cari ciri bersama yang paling khusus.\n- Jika ada dua kata yang tampak berbeda, coba ciri lain sampai tepat satu kata yang keluar dari pola.\nInsight kunci: Kata beda yang sulit biasanya punya near-miss yang berbeda dalam satu hal kecil. Pilih ciri yang membagi kelompok dengan paling jelas: tiga kata di dalam, satu kata di luar.\nKenapa opsi lain salah: mengunyah, menelan, dan mencerna sama-sama tahap pencernaan makanan, sehingga ketiganya termasuk kelompok.\nJawaban akhir: **menghirup**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "medium",
+    "topic": "Kemampuan Verbal",
+    "subtopic": "Analogi verbal",
+    "skill_type": "verbal_reasoning",
+    "question_type": "verbal_reasoning",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kemampuan-verbal",
+      "analogi"
+    ],
+    "is_active": true,
+    "question": "PETANI : SAWAH = ...",
+    "options": [
+      "NELAYAN : LAUT",
+      "PADI : PETANI",
+      "KOKI : PISAU",
+      "PENJAHIT : BAJU"
+    ],
+    "answer": 0,
+    "rationale": "Langkah 1: Buat **kalimat hubungan** sebelum melihat opsi: *Petani bekerja di sawah.* Polanya adalah **pelaku - tempat bekerja**.\nLangkah 2: Uji opsi dengan kalimat yang sama. *Nelayan bekerja di laut* sesuai dengan pola.\nLangkah 3: *PADI : PETANI* adalah jebakan **urutan terbalik** sekaligus hubungan berbeda: padi adalah hasil kerja petani, dan disebut lebih dulu daripada pelakunya.\nLangkah 4: *KOKI : PISAU* adalah pelaku dan **alat**, bukan tempat kerja. *PENJAHIT : BAJU* adalah pelaku dan **hasil karya**. Keduanya terasa wajar karena sama-sama membahas pekerjaan, tetapi hubungannya berbeda.\n**Materi terkait:**\n- Pola yang sering tertukar dalam analogi pekerjaan: pelaku - tempat kerja, pelaku - alat, dan pelaku - hasil karya.\n- Kalimat hubungan yang spesifik (*bekerja di*) lebih berguna daripada kalimat yang longgar (*berhubungan dengan*).\nInsight kunci: Analogi bukan soal tema yang sama, melainkan hubungan yang sama. Semua opsi di sini bertema pekerjaan, tetapi hanya satu yang memiliki hubungan pelaku - tempat kerja.\nKenapa opsi lain salah: PADI : PETANI terbalik dan berupa hasil; KOKI : PISAU berupa alat; PENJAHIT : BAJU berupa hasil karya.\nJawaban akhir: **NELAYAN : LAUT**"
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "difficulty": "easy",
+    "topic": "Kebahasaan",
+    "subtopic": "Kata hubung",
+    "skill_type": "understanding",
+    "question_type": "direct",
+    "tags": [
+      "bhsind-level-1-kosakata-verbal",
+      "kebahasaan",
+      "kata-hubung"
+    ],
+    "is_active": true,
+    "question": "Kamu boleh meminjam buku perpustakaan ... sudah memiliki kartu anggota.\n\nKata hubung yang tepat untuk melengkapi kalimat tersebut adalah ...",
+    "options": [
+      "sehingga",
+      "asalkan",
+      "agar",
+      "bahkan"
+    ],
+    "answer": 1,
+    "rationale": "Langkah 1: Tentukan **hubungan** antara dua bagian kalimat. Bagian pertama berisi izin (*boleh meminjam buku*), bagian kedua berisi hal yang harus dipenuhi (*sudah memiliki kartu anggota*). Hubungannya adalah **syarat**.\nLangkah 2: Kata hubung syarat adalah *asalkan*, *jika*, atau *apabila*. Di antara opsi, yang tepat adalah *asalkan*.\nLangkah 3: *Sehingga* menandai akibat, padahal memiliki kartu bukan akibat dari meminjam buku. *Agar* menandai tujuan, sehingga kalimat *meminjam buku agar sudah memiliki kartu* tidak logis.\nLangkah 4: *Bahkan* menandai penguatan, dan tidak cocok untuk menghubungkan izin dengan syaratnya.\n**Materi terkait:**\n- Syarat: *asalkan, jika, apabila, kalau*. Tujuan: *agar, supaya*. Akibat: *sehingga, akibatnya*. Penguatan: *bahkan*.\n- Cara cepat: baca bagian sebelum dan sesudah rumpang, namai hubungannya, lalu pilih kata dari kelompok yang tepat.\nInsight kunci: Kata hubung yang salah sering membuat kalimat tetap terdengar lancar jika dibaca cepat. Bacalah ulang kalimat lengkap dengan kata pilihanmu untuk memastikan logikanya masuk akal.\nKenapa opsi lain salah: sehingga menandai akibat; agar menandai tujuan; bahkan menandai penguatan.\nJawaban akhir: **asalkan**"
+  }
+]

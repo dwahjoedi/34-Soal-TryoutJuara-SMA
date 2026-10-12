@@ -36,6 +36,7 @@ The TryoutJuara application, importer, database, and renderer are not in this re
 |---|---|---|---|
 | Level 2 speed set (original, 20 items, balanced key) | `0N Soal <Subj>/questions-<slug>-level-2-speed-<letter>.json`; first tag `<slug>-level-2-speed-<letter>` | `00 Custom Instructions/custom-instruction-<subject>-tryout-juara.md` | `scripts/validate_content.py` |
 | PSB-style exam or practice set | `0N Soal <Subj>/questions-<slug>-psb-sma-{exam-set,practice-set,set}-<n>.json`; companion `...-image-prompts.md` when figures exist | same subject instructions | `scripts/validate_content.py` |
+| Study-guide section practice set (questions on one guide section) | `0N Soal <Subj>/soal_latihan_section/questions-<slug>-level-1-<section-slug>.json`; first tag `<slug>-level-1-<section-slug>` | same subject instructions | `scripts/validate_content.py` |
 | Foundation Micro pack | `03 Foundation Micro/<math|ipa|english>/section-<n>/<kebab-slug>/foundation-micro-authoring-pack.json` | `03 Foundation Micro/foundation-micro-authoring-instructions.md` + `foundation-micro-authoring-template.json` | `scripts/validate_content.py`; math packs also `audit_*.py` |
 | Level 1 study guide | `03 Kurikulum/Study_Guide_Level_1_<Subject>.md` | `03 Kurikulum/custom_instruction_study_guide.md` | manual checklist in skills.md section 6 |
 
